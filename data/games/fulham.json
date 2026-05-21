@@ -1,0 +1,2716 @@
+{
+  "id": "fulham",
+  "slug": "fulham",
+  "title": "Fulham Timeline",
+  "shortTitle": "Fulham",
+  "description": "Place Fulham signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/fulham",
+  "theme": {
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "background": "#F8F8F8",
+    "text": "#101820"
+  },
+  "share": {
+    "title": "Fulham Timeline",
+    "description": "How far can you build the Fulham signing timeline?",
+    "hashtags": [
+      "Fulham",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Fulham Timeline Quiz - Fulham Signings Game",
+    "description": "Play a Fulham timeline quiz. Guess whether famous Fulham players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Fulham quiz",
+      "Fulham signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "alan-gough-1992",
+      "label": "Alan Gough",
+      "year": 1992,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "lee-harrison-1992",
+      "label": "Lee Harrison",
+      "year": 1992,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "lee-tierling-1992",
+      "label": "Lee Tierling",
+      "year": 1992,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "mark-cooper-1992",
+      "label": "Mark Cooper",
+      "year": 1992,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "paul-kelly-1992",
+      "label": "Paul Kelly",
+      "year": 1992,
+      "subtitle": "Maidenhead United",
+      "description": "Signed from Maidenhead United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "peter-baah-1992",
+      "label": "Peter Baah",
+      "year": 1992,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "steve-archibald-1992",
+      "label": "Steve Archibald",
+      "year": 1992,
+      "subtitle": "Ayr United FC",
+      "description": "Signed from Ayr United FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "robbie-herrera-1993",
+      "label": "Robbie Herrera",
+      "year": 1993,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "terry-angus-1993",
+      "label": "Terry Angus",
+      "year": 1993,
+      "subtitle": "Northampton Town",
+      "description": "Signed from Northampton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "alan-cork-1994",
+      "label": "Alan Cork",
+      "year": 1994,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kevin-moore-1994",
+      "label": "Kevin Moore",
+      "year": 1994,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "mark-blake-1994",
+      "label": "Mark Blake",
+      "year": 1994,
+      "subtitle": "Shrewsbury Town",
+      "description": "Signed from Shrewsbury Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "martin-thomas-1994",
+      "label": "Martin Thomas",
+      "year": 1994,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "micky-adams-1994",
+      "label": "Micky Adams",
+      "year": 1994,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "nick-cusack-1994",
+      "label": "Nick Cusack",
+      "year": 1994,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "terry-hurlock-1994",
+      "label": "Terry Hurlock",
+      "year": 1994,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "tony-finnigan-1994",
+      "label": "Tony Finnigan",
+      "year": 1994,
+      "subtitle": "Enfield FC",
+      "description": "Signed from Enfield FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "gary-simpson-1995",
+      "label": "Gary Simpson",
+      "year": 1995,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "lea-barkus-1995",
+      "label": "Lea Barkus",
+      "year": 1995,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "mark-taylor-1995",
+      "label": "Mark Taylor",
+      "year": 1995,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "mike-conroy-1995",
+      "label": "Mike Conroy",
+      "year": 1995,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "rodney-mcaree-1995",
+      "label": "Rodney McAree",
+      "year": 1995,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "tony-lange-1995",
+      "label": "Tony Lange",
+      "year": 1995,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "danny-cullip-1996",
+      "label": "Danny Cullip",
+      "year": 1996,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "darren-beckford-1996",
+      "label": "Darren Beckford",
+      "year": 1996,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "darren-freeman-1996",
+      "label": "Darren Freeman",
+      "year": 1996,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "glenn-cockerill-1996",
+      "label": "Glenn Cockerill",
+      "year": 1996,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jason-soloman-1996",
+      "label": "Jason Soloman",
+      "year": 1996,
+      "subtitle": "Wrexham AFC",
+      "description": "Signed from Wrexham AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "matt-lawrence-1996",
+      "label": "Matt Lawrence",
+      "year": 1996,
+      "subtitle": "Wycombe Wanderers",
+      "description": "Signed from Wycombe Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "paul-parker-1996",
+      "label": "Paul Parker",
+      "year": 1996,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "paul-watson-1996",
+      "label": "Paul Watson",
+      "year": 1996,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "richard-carpenter-1996",
+      "label": "Richard Carpenter",
+      "year": 1996,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "simon-stewart-1996",
+      "label": "Simon Stewart",
+      "year": 1996,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "aidan-newhouse-1997",
+      "label": "Aidan Newhouse",
+      "year": 1997,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "alan-neilson-1997",
+      "label": "Alan Neilson",
+      "year": 1997,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "andre-arendse-1997",
+      "label": "André Arendse",
+      "year": 1997,
+      "subtitle": "Cape Town Spurs",
+      "description": "Signed from Cape Town Spurs",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "andy-arnott-1997",
+      "label": "Andy Arnott",
+      "year": 1997,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "chris-coleman-1997",
+      "label": "Chris Coleman",
+      "year": 1997,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ian-mcguckin-1997",
+      "label": "Ian McGuckin",
+      "year": 1997,
+      "subtitle": "Hartlepool United",
+      "description": "Signed from Hartlepool United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ian-selley-1997",
+      "label": "Ian Selley",
+      "year": 1997,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "maik-taylor-1997",
+      "label": "Maik Taylor",
+      "year": 1997,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "matt-brazier-1997",
+      "label": "Matt Brazier",
+      "year": 1997,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "neil-smith-1997",
+      "label": "Neil Smith",
+      "year": 1997,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "paul-bracewell-1997",
+      "label": "Paul Bracewell",
+      "year": 1997,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "paul-moody-1997",
+      "label": "Paul Moody",
+      "year": 1997,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "paul-peschisolido-1997",
+      "label": "Paul Peschisolido",
+      "year": 1997,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "paul-trollope-1997",
+      "label": "Paul Trollope",
+      "year": 1997,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "rufus-brevett-1997",
+      "label": "Rufus Brevett",
+      "year": 1997,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "shaun-maher-1997",
+      "label": "Shaun Maher",
+      "year": 1997,
+      "subtitle": "Bohemian Football Club",
+      "description": "Signed from Bohemian Football Club",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "steve-hayward-1997",
+      "label": "Steve Hayward",
+      "year": 1997,
+      "subtitle": "Carlisle United",
+      "description": "Signed from Carlisle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "steve-mcanespie-1997",
+      "label": "Steve McAnespie",
+      "year": 1997,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "tony-thorpe-1997",
+      "label": "Tony Thorpe",
+      "year": 1997,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "wayne-collins-1997",
+      "label": "Wayne Collins",
+      "year": 1997,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "barry-hayles-1998",
+      "label": "Barry Hayles",
+      "year": 1998,
+      "subtitle": "Bristol Rovers",
+      "description": "Signed from Bristol Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "dirk-lehmann-1998",
+      "label": "Dirk Lehmann",
+      "year": 1998,
+      "subtitle": "FC Energie Cottbus",
+      "description": "Signed from FC Energie Cottbus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "francois-keller-1998",
+      "label": "François Keller",
+      "year": 1998,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "geoff-horsfield-1998",
+      "label": "Geoff Horsfield",
+      "year": 1998,
+      "subtitle": "Halifax Town (- 2008)",
+      "description": "Signed from Halifax Town (- 2008)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "guus-uhlenbeek-1998",
+      "label": "Guus Uhlenbeek",
+      "year": 1998,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "john-salako-1998",
+      "label": "John Salako",
+      "year": 1998,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kevin-betsy-1998",
+      "label": "Kevin Betsy",
+      "year": 1998,
+      "subtitle": "Woking FC",
+      "description": "Signed from Woking FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kit-symons-1998",
+      "label": "Kit Symons",
+      "year": 1998,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "marcus-hahnemann-1998",
+      "label": "Marcus Hahnemann",
+      "year": 1998,
+      "subtitle": "Colorado Rapids",
+      "description": "Signed from Colorado Rapids",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "peter-beardsley-1998",
+      "label": "Peter Beardsley",
+      "year": 1998,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "steve-finnan-1998",
+      "label": "Steve Finnan",
+      "year": 1998,
+      "subtitle": "Notts County",
+      "description": "Signed from Notts County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "andy-melville-1999",
+      "label": "Andy Melville",
+      "year": 1999,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "bjarne-goldbaek-1999",
+      "label": "Bjarne Goldbaek",
+      "year": 1999,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "eddie-lewis-1999",
+      "label": "Eddie Lewis",
+      "year": 1999,
+      "subtitle": "San Jose Earthquakes",
+      "description": "Signed from San Jose Earthquakes",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "glyn-thompson-1999",
+      "label": "Glyn Thompson",
+      "year": 1999,
+      "subtitle": "Shrewsbury Town",
+      "description": "Signed from Shrewsbury Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "karl-heinz-riedle-1999",
+      "label": "Karl-Heinz Riedle",
+      "year": 1999,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kevin-ball-1999",
+      "label": "Kevin Ball",
+      "year": 1999,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "lee-clark-1999",
+      "label": "Lee Clark",
+      "year": 1999,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "terry-phelan-1999",
+      "label": "Terry Phelan",
+      "year": 1999,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "alain-goma-2000",
+      "label": "Alain Goma",
+      "year": 2000,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "andrejs-stolcers-2000",
+      "label": "Andrejs Stolcers",
+      "year": 2000,
+      "subtitle": "Shakhtar Donetsk",
+      "description": "Signed from Shakhtar Donetsk",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "john-collins-2000",
+      "label": "John Collins",
+      "year": 2000,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kieran-mcanespie-2000",
+      "label": "Kieran McAnespie",
+      "year": 2000,
+      "subtitle": "St. Johnstone FC",
+      "description": "Signed from St. Johnstone FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "louis-saha-2000",
+      "label": "Louis Saha",
+      "year": 2000,
+      "subtitle": "FC Metz",
+      "description": "Signed from FC Metz",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "abdeslam-ouaddou-2001",
+      "label": "Abdeslam Ouaddou",
+      "year": 2001,
+      "subtitle": "AS Nancy-Lorraine",
+      "description": "Signed from AS Nancy-Lorraine",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "edwin-van-der-sar-2001",
+      "label": "Edwin van der Sar",
+      "year": 2001,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jon-harley-2001",
+      "label": "Jon Harley",
+      "year": 2001,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "luis-boa-morte-2001",
+      "label": "Luís Boa Morte",
+      "year": 2001,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "steed-malbranque-2001",
+      "label": "Steed Malbranque",
+      "year": 2001,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "steve-marlet-2001",
+      "label": "Steve Marlet",
+      "year": 2001,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "sylvain-legwinski-2001",
+      "label": "Sylvain Legwinski",
+      "year": 2001,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "facundo-sava-2002",
+      "label": "Facundo Sava",
+      "year": 2002,
+      "subtitle": "Club de Gimnasia y Esgrima La Plata",
+      "description": "Signed from Club de Gimnasia y Esgrima La Plata",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "martin-herrera-2002",
+      "label": "Martín Herrera",
+      "year": 2002,
+      "subtitle": "Deportivo Alavés",
+      "description": "Signed from Deportivo Alavés",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "brian-mcbride-2003",
+      "label": "Brian McBride",
+      "year": 2003,
+      "subtitle": "Columbus Crew",
+      "description": "Signed from Columbus Crew",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "carlos-bocanegra-2003",
+      "label": "Carlos Bocanegra",
+      "year": 2003,
+      "subtitle": "Chicago Fire",
+      "description": "Signed from Chicago Fire",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "collins-john-2003",
+      "label": "Collins John",
+      "year": 2003,
+      "subtitle": "FC Twente Enschede",
+      "description": "Signed from FC Twente Enschede",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "dave-beasant-2003",
+      "label": "Dave Beasant",
+      "year": 2003,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ian-pearce-2003",
+      "label": "Ian Pearce",
+      "year": 2003,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jerome-bonnissel-2003",
+      "label": "Jérôme Bonnissel",
+      "year": 2003,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "liam-rosenior-2003",
+      "label": "Liam Rosenior",
+      "year": 2003,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "mark-crossley-2003",
+      "label": "Mark Crossley",
+      "year": 2003,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "mark-pembridge-2003",
+      "label": "Mark Pembridge",
+      "year": 2003,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "moritz-volz-2003",
+      "label": "Moritz Volz",
+      "year": 2003,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "andy-cole-2004",
+      "label": "Andy Cole",
+      "year": 2004,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "billy-mckinlay-2004",
+      "label": "Billy McKinlay",
+      "year": 2004,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "claus-jensen-2004",
+      "label": "Claus Jensen",
+      "year": 2004,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "papa-bouba-diop-2004",
+      "label": "Papa Bouba Diop",
+      "year": 2004,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "tomasz-radzinski-2004",
+      "label": "Tomasz Radzinski",
+      "year": 2004,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ahmad-elrich-2005",
+      "label": "Ahmad Elrich",
+      "year": 2005,
+      "subtitle": "Busan I'Park",
+      "description": "Signed from Busan I'Park",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "antti-niemi-2005",
+      "label": "Antti Niemi",
+      "year": 2005,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "heidar-helguson-2005",
+      "label": "Heidar Helguson",
+      "year": 2005,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jaroslav-drobny-2005",
+      "label": "Jaroslav Drobný",
+      "year": 2005,
+      "subtitle": "Panionios FC",
+      "description": "Signed from Panionios FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "michael-brown-2005",
+      "label": "Michael Brown",
+      "year": 2005,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "niclas-jensen-2005",
+      "label": "Niclas Jensen",
+      "year": 2005,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "philippe-christanval-2005",
+      "label": "Philippe Christanval",
+      "year": 2005,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "simon-elliott-2005",
+      "label": "Simon Elliott",
+      "year": 2005,
+      "subtitle": "Columbus Crew",
+      "description": "Signed from Columbus Crew",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "tony-warner-2005",
+      "label": "Tony Warner",
+      "year": 2005,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "aleksey-smertin-2006",
+      "label": "Aleksey Smertin",
+      "year": 2006,
+      "subtitle": "Dinamo Moscow",
+      "description": "Signed from Dinamo Moscow",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "bjorn-runstrom-2006",
+      "label": "Björn Runström",
+      "year": 2006,
+      "subtitle": "Hammarby IF",
+      "description": "Signed from Hammarby IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "clint-dempsey-2006",
+      "label": "Clint Dempsey",
+      "year": 2006,
+      "subtitle": "New England Revolution",
+      "description": "Signed from New England Revolution",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "franck-queudrue-2006",
+      "label": "Franck Queudrue",
+      "year": 2006,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "gabriel-zakuani-2006",
+      "label": "Gabriel Zakuani",
+      "year": 2006,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jimmy-bullard-2006",
+      "label": "Jimmy Bullard",
+      "year": 2006,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "simon-davies-2006",
+      "label": "Simon Davies",
+      "year": 2006,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "aaron-hughes-2007",
+      "label": "Aaron Hughes",
+      "year": 2007,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "adrian-leijer-2007",
+      "label": "Adrian Leijer",
+      "year": 2007,
+      "subtitle": "Melbourne Victory",
+      "description": "Signed from Melbourne Victory",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "brede-hangeland-2007",
+      "label": "Brede Hangeland",
+      "year": 2007,
+      "subtitle": "FC Copenhagen",
+      "description": "Signed from FC Copenhagen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "chris-baird-2007",
+      "label": "Chris Baird",
+      "year": 2007,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "danny-murphy-2007",
+      "label": "Danny Murphy",
+      "year": 2007,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "david-healy-2007",
+      "label": "David Healy",
+      "year": 2007,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "dejan-stefanovic-2007",
+      "label": "Dejan Stefanovic",
+      "year": 2007,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "diomansy-kamara-2007",
+      "label": "Diomansy Kamara",
+      "year": 2007,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "eddie-johnson-2007",
+      "label": "Eddie Johnson",
+      "year": 2007,
+      "subtitle": "Kansas City Wizards",
+      "description": "Signed from Kansas City Wizards",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "erik-nevland-2007",
+      "label": "Erik Nevland",
+      "year": 2007,
+      "subtitle": "FC Groningen",
+      "description": "Signed from FC Groningen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "hamer-bouazza-2007",
+      "label": "Hamer Bouazza",
+      "year": 2007,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jari-litmanen-2007",
+      "label": "Jari Litmanen",
+      "year": 2007,
+      "subtitle": "Malmö FF",
+      "description": "Signed from Malmö FF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kasey-keller-2007",
+      "label": "Kasey Keller",
+      "year": 2007,
+      "subtitle": "Borussia Mönchengladbach",
+      "description": "Signed from Borussia Mönchengladbach",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ki-hyeon-seol-2007",
+      "label": "Ki-hyeon Seol",
+      "year": 2007,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "lee-cook-2007",
+      "label": "Lee Cook",
+      "year": 2007,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "leon-andreasen-2007",
+      "label": "Leon Andreasen",
+      "year": 2007,
+      "subtitle": "SV Werder Bremen",
+      "description": "Signed from SV Werder Bremen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "nathan-ashton-2007",
+      "label": "Nathan Ashton",
+      "year": 2007,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "paul-konchesky-2007",
+      "label": "Paul Konchesky",
+      "year": 2007,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "steven-davis-2007",
+      "label": "Steven Davis",
+      "year": 2007,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "toni-kallio-2007",
+      "label": "Toni Kallio",
+      "year": 2007,
+      "subtitle": "BSC Young Boys",
+      "description": "Signed from BSC Young Boys",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "andranik-teymourian-2008",
+      "label": "Andranik Teymourian",
+      "year": 2008,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "andy-johnson-2008",
+      "label": "Andy Johnson",
+      "year": 2008,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "bobby-zamora-2008",
+      "label": "Bobby Zamora",
+      "year": 2008,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "chris-smalling-2008",
+      "label": "Chris Smalling",
+      "year": 2008,
+      "subtitle": "Maidstone United",
+      "description": "Signed from Maidstone United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "david-stockdale-2008",
+      "label": "David Stockdale",
+      "year": 2008,
+      "subtitle": "Darlington FC (- 2012)",
+      "description": "Signed from Darlington FC (- 2012)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "dickson-etuhu-2008",
+      "label": "Dickson Etuhu",
+      "year": 2008,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "fredrik-stoor-siekkinen-2008",
+      "label": "Fredrik Stoor Siekkinen",
+      "year": 2008,
+      "subtitle": "Rosenborg BK",
+      "description": "Signed from Rosenborg BK",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "john-paintsil-2008",
+      "label": "John Paintsil",
+      "year": 2008,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "julian-gray-2008",
+      "label": "Julian Gray",
+      "year": 2008,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "mark-schwarzer-2008",
+      "label": "Mark Schwarzer",
+      "year": 2008,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "pascal-zuberbuhler-2008",
+      "label": "Pascal Zuberbühler",
+      "year": 2008,
+      "subtitle": "Neuchâtel Xamax",
+      "description": "Signed from Neuchâtel Xamax",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "zoltan-gera-2008",
+      "label": "Zoltán Gera",
+      "year": 2008,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "bj-rn-helge-riise-2009",
+      "label": "Bjørn Helge Riise",
+      "year": 2009,
+      "subtitle": "Lillestrøm SK",
+      "description": "Signed from Lillestrøm SK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "damien-duff-2009",
+      "label": "Damien Duff",
+      "year": 2009,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "david-elm-2009",
+      "label": "David Elm",
+      "year": 2009,
+      "subtitle": "Kalmar FF",
+      "description": "Signed from Kalmar FF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kagisho-dikgacoi-2009",
+      "label": "Kagisho Dikgacoi",
+      "year": 2009,
+      "subtitle": "Lamontville Golden Arrows",
+      "description": "Signed from Lamontville Golden Arrows",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "matthew-saunders-2009",
+      "label": "Matthew Saunders",
+      "year": 2009,
+      "subtitle": "Lincoln City",
+      "description": "Signed from Lincoln City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "stefan-payne-2009",
+      "label": "Stefan Payne",
+      "year": 2009,
+      "subtitle": "Sutton United",
+      "description": "Signed from Sutton United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "stephen-kelly-2009",
+      "label": "Stephen Kelly",
+      "year": 2009,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "carlos-salcido-2010",
+      "label": "Carlos Salcido",
+      "year": 2010,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jonathan-greening-2010",
+      "label": "Jonathan Greening",
+      "year": 2010,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "mousa-dembele-2010",
+      "label": "Mousa Dembélé",
+      "year": 2010,
+      "subtitle": "AZ Alkmaar",
+      "description": "Signed from AZ Alkmaar",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "philippe-senderos-2010",
+      "label": "Philippe Senderos",
+      "year": 2010,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "rafik-halliche-2010",
+      "label": "Rafik Halliche",
+      "year": 2010,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "steve-sidwell-2010",
+      "label": "Steve Sidwell",
+      "year": 2010,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "bryan-ruiz-2011",
+      "label": "Bryan Ruiz",
+      "year": 2011,
+      "subtitle": "FC Twente Enschede",
+      "description": "Signed from FC Twente Enschede",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "csaba-somogyi-2011",
+      "label": "Csaba Somogyi",
+      "year": 2011,
+      "subtitle": "Rákospalotai EAC",
+      "description": "Signed from Rákospalotai EAC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "dan-burn-2011",
+      "label": "Dan Burn",
+      "year": 2011,
+      "subtitle": "Darlington FC (- 2012)",
+      "description": "Signed from Darlington FC (- 2012)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "john-arne-riise-2011",
+      "label": "John Arne Riise",
+      "year": 2011,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "marcel-gecov-2011",
+      "label": "Marcel Gecov",
+      "year": 2011,
+      "subtitle": "FC Slovan Liberec",
+      "description": "Signed from FC Slovan Liberec",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "orlando-sa-2011",
+      "label": "Orlando Sá",
+      "year": 2011,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "pajtim-kasami-2011",
+      "label": "Pajtim Kasami",
+      "year": 2011,
+      "subtitle": "US Palermo",
+      "description": "Signed from US Palermo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "pavel-pogrebnyak-2011",
+      "label": "Pavel Pogrebnyak",
+      "year": 2011,
+      "subtitle": "VfB Stuttgart",
+      "description": "Signed from VfB Stuttgart",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ryan-williams-2011",
+      "label": "Ryan Williams",
+      "year": 2011,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "zdenek-grygera-2011",
+      "label": "Zdenek Grygera",
+      "year": 2011,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ashkan-dejagah-2012",
+      "label": "Ashkan Dejagah",
+      "year": 2012,
+      "subtitle": "VfL Wolfsburg",
+      "description": "Signed from VfL Wolfsburg",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "dimitar-berbatov-2012",
+      "label": "Dimitar Berbatov",
+      "year": 2012,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "georgios-karagounis-2012",
+      "label": "Georgios Karagounis",
+      "year": 2012,
+      "subtitle": "Panathinaikos",
+      "description": "Signed from Panathinaikos",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "hugo-rodallega-2012",
+      "label": "Hugo Rodallega",
+      "year": 2012,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kieran-richardson-2012",
+      "label": "Kieran Richardson",
+      "year": 2012,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "mladen-petric-2012",
+      "label": "Mladen Petric",
+      "year": 2012,
+      "subtitle": "Hamburger SV",
+      "description": "Signed from Hamburger SV",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ange-freddy-plumain-2013",
+      "label": "Ange-Freddy Plumain",
+      "year": 2013,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "derek-boateng-2013",
+      "label": "Derek Boateng",
+      "year": 2013,
+      "subtitle": "Dnipro Dnipropetrovsk (- 2020)",
+      "description": "Signed from Dnipro Dnipropetrovsk (- 2020)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "elsad-zverotic-2013",
+      "label": "Elsad Zverotic",
+      "year": 2013,
+      "subtitle": "BSC Young Boys",
+      "description": "Signed from BSC Young Boys",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "fernando-amorebieta-2013",
+      "label": "Fernando Amorebieta",
+      "year": 2013,
+      "subtitle": "Athletic Bilbao",
+      "description": "Signed from Athletic Bilbao",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "john-heitinga-2013",
+      "label": "John Heitinga",
+      "year": 2013,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "konstantinos-mitroglou-2013",
+      "label": "Konstantinos Mitroglou",
+      "year": 2013,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "maarten-stekelenburg-2013",
+      "label": "Maarten Stekelenburg",
+      "year": 2013,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "sascha-riether-2013",
+      "label": "Sascha Riether",
+      "year": 2013,
+      "subtitle": "1.FC Köln",
+      "description": "Signed from 1.FC Köln",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "scott-parker-2013",
+      "label": "Scott Parker",
+      "year": 2013,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "adam-taggart-2014",
+      "label": "Adam Taggart",
+      "year": 2014,
+      "subtitle": "Newcastle United Jets",
+      "description": "Signed from Newcastle United Jets",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "adil-chihi-2014",
+      "label": "Adil Chihi",
+      "year": 2014,
+      "subtitle": "1.FC Köln",
+      "description": "Signed from 1.FC Köln",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "gabor-kiraly-2014",
+      "label": "Gábor Király",
+      "year": 2014,
+      "subtitle": "TSV 1860 Munich",
+      "description": "Signed from TSV 1860 Munich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kay-voser-2014",
+      "label": "Kay Voser",
+      "year": 2014,
+      "subtitle": "FC Basel 1893",
+      "description": "Signed from FC Basel 1893",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "mark-fotheringham-2014",
+      "label": "Mark Fotheringham",
+      "year": 2014,
+      "subtitle": "Notts County",
+      "description": "Signed from Notts County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "matt-smith-2014",
+      "label": "Matt Smith",
+      "year": 2014,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "nikolay-bodurov-2014",
+      "label": "Nikolay Bodurov",
+      "year": 2014,
+      "subtitle": "Litex Lovech",
+      "description": "Signed from Litex Lovech",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ross-mccormack-2014",
+      "label": "Ross McCormack",
+      "year": 2014,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "shaun-hutchinson-2014",
+      "label": "Shaun Hutchinson",
+      "year": 2014,
+      "subtitle": "Motherwell FC",
+      "description": "Signed from Motherwell FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "thomas-eisfeld-2014",
+      "label": "Thomas Eisfeld",
+      "year": 2014,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "tiago-casasola-2014",
+      "label": "Tiago Casasola",
+      "year": 2014,
+      "subtitle": "CA Boca Juniors U20",
+      "description": "Signed from CA Boca Juniors U20",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "tim-hoogland-2014",
+      "label": "Tim Hoogland",
+      "year": 2014,
+      "subtitle": "FC Schalke 04",
+      "description": "Signed from FC Schalke 04",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "andy-lonergan-2015",
+      "label": "Andy Lonergan",
+      "year": 2015,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ben-pringle-2015",
+      "label": "Ben Pringle",
+      "year": 2015,
+      "subtitle": "Rotherham United",
+      "description": "Signed from Rotherham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jamie-o-hara-2015",
+      "label": "Jamie O'Hara",
+      "year": 2015,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jazz-richards-2015",
+      "label": "Jazz Richards",
+      "year": 2015,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "richard-stearman-2015",
+      "label": "Richard Stearman",
+      "year": 2015,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ryan-fredericks-2015",
+      "label": "Ryan Fredericks",
+      "year": 2015,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "sakari-mattila-2015",
+      "label": "Sakari Mattila",
+      "year": 2015,
+      "subtitle": "Aalesunds FK",
+      "description": "Signed from Aalesunds FK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "tim-ream-2015",
+      "label": "Tim Ream",
+      "year": 2015,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "tom-cairney-2015",
+      "label": "Tom Cairney",
+      "year": 2015,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "david-button-2016",
+      "label": "David Button",
+      "year": 2016,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "denis-odoi-2016",
+      "label": "Denis Odoi",
+      "year": 2016,
+      "subtitle": "KSC Lokeren (-2020)",
+      "description": "Signed from KSC Lokeren (-2020)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "floyd-ayite-2016",
+      "label": "Floyd Ayité",
+      "year": 2016,
+      "subtitle": "SC Bastia",
+      "description": "Signed from SC Bastia",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jozabed-sanchez-2016",
+      "label": "Jozabed Sánchez",
+      "year": 2016,
+      "subtitle": "Rayo Vallecano",
+      "description": "Signed from Rayo Vallecano",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kevin-mcdonald-2016",
+      "label": "Kevin McDonald",
+      "year": 2016,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "michael-madl-2016",
+      "label": "Michael Madl",
+      "year": 2016,
+      "subtitle": "SK Sturm Graz",
+      "description": "Signed from SK Sturm Graz",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "neeskens-kebano-2016",
+      "label": "Neeskens Kebano",
+      "year": 2016,
+      "subtitle": "KRC Genk",
+      "description": "Signed from KRC Genk",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ragnar-sigurdsson-2016",
+      "label": "Ragnar Sigurdsson",
+      "year": 2016,
+      "subtitle": "FC Krasnodar",
+      "description": "Signed from FC Krasnodar",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "scott-malone-2016",
+      "label": "Scott Malone",
+      "year": 2016,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "sone-aluko-2016",
+      "label": "Sone Aluko",
+      "year": 2016,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "stefan-johansen-2016",
+      "label": "Stefan Johansen",
+      "year": 2016,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "aboubakar-kamara-2017",
+      "label": "Aboubakar Kamara",
+      "year": 2017,
+      "subtitle": "Amiens SC",
+      "description": "Signed from Amiens SC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "cyrus-christie-2017",
+      "label": "Cyrus Christie",
+      "year": 2017,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ibrahima-cisse-2017",
+      "label": "Ibrahima Cissé",
+      "year": 2017,
+      "subtitle": "Standard Liège",
+      "description": "Signed from Standard Liège",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "marcelo-djalo-2017",
+      "label": "Marcelo Djaló",
+      "year": 2017,
+      "subtitle": "CD Lugo",
+      "description": "Signed from CD Lugo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "rui-fonte-2017",
+      "label": "Rui Fonte",
+      "year": 2017,
+      "subtitle": "SC Braga",
+      "description": "Signed from SC Braga",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "yohan-mollo-2017",
+      "label": "Yohan Mollo",
+      "year": 2017,
+      "subtitle": "Zenit St. Petersburg",
+      "description": "Signed from Zenit St. Petersburg",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "aleksandar-mitrovic-2018",
+      "label": "Aleksandar Mitrović",
+      "year": 2018,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "alfie-mawson-2018",
+      "label": "Alfie Mawson",
+      "year": 2018,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "fabri-2018",
+      "label": "Fabri",
+      "year": 2018,
+      "subtitle": "Besiktas JK",
+      "description": "Signed from Besiktas JK",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "frank-anguissa-2018",
+      "label": "Frank Anguissa",
+      "year": 2018,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jean-michael-seri-2018",
+      "label": "Jean Michaël Seri",
+      "year": 2018,
+      "subtitle": "OGC Nice",
+      "description": "Signed from OGC Nice",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "joe-bryan-2018",
+      "label": "Joe Bryan",
+      "year": 2018,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "lazar-markovic-2018",
+      "label": "Lazar Markovic",
+      "year": 2018,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "maxime-le-marchand-2018",
+      "label": "Maxime Le Marchand",
+      "year": 2018,
+      "subtitle": "OGC Nice",
+      "description": "Signed from OGC Nice",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ryan-babel-2018",
+      "label": "Ryan Babel",
+      "year": 2018,
+      "subtitle": "Besiktas JK",
+      "description": "Signed from Besiktas JK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "bobby-de-cordova-reid-2019",
+      "label": "Bobby De Cordova-Reid",
+      "year": 2019,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ivan-cavaleiro-2019",
+      "label": "Ivan Cavaleiro",
+      "year": 2019,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jordan-archer-2019",
+      "label": "Jordan Archer",
+      "year": 2019,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "josh-onomah-2019",
+      "label": "Josh Onomah",
+      "year": 2019,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "michael-hector-2019",
+      "label": "Michael Hector",
+      "year": 2019,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "anthony-knockaert-2020",
+      "label": "Anthony Knockaert",
+      "year": 2020,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "antonee-robinson-2020",
+      "label": "Antonee Robinson",
+      "year": 2020,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "harrison-reed-2020",
+      "label": "Harrison Reed",
+      "year": 2020,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kenny-tete-2020",
+      "label": "Kenny Tete",
+      "year": 2020,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "terence-kongolo-2020",
+      "label": "Terence Kongolo",
+      "year": 2020,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "harry-wilson-2021",
+      "label": "Harry Wilson",
+      "year": 2021,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "nathaniel-chalobah-2021",
+      "label": "Nathaniel Chalobah",
+      "year": 2021,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "paulo-gazzaniga-2021",
+      "label": "Paulo Gazzaniga",
+      "year": 2021,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "rodrigo-muniz-2021",
+      "label": "Rodrigo Muniz",
+      "year": 2021,
+      "subtitle": "CR Flamengo",
+      "description": "Signed from CR Flamengo",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "andreas-pereira-2022",
+      "label": "Andreas Pereira",
+      "year": 2022,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "bernd-leno-2022",
+      "label": "Bernd Leno",
+      "year": 2022,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "carlos-vinicius-2022",
+      "label": "Carlos Vinícius",
+      "year": 2022,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "issa-diop-2022",
+      "label": "Issa Diop",
+      "year": 2022,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "joao-palhinha-2022",
+      "label": "João Palhinha",
+      "year": 2022,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "kevin-mbabu-2022",
+      "label": "Kevin Mbabu",
+      "year": 2022,
+      "subtitle": "VfL Wolfsburg",
+      "description": "Signed from VfL Wolfsburg",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "sasa-lukic-2022",
+      "label": "Saša Lukić",
+      "year": 2022,
+      "subtitle": "Torino FC",
+      "description": "Signed from Torino FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "shane-duffy-2022",
+      "label": "Shane Duffy",
+      "year": 2022,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "willian-2022",
+      "label": "Willian",
+      "year": 2022,
+      "subtitle": "Sport Club Corinthians Paulista",
+      "description": "Signed from Sport Club Corinthians Paulista",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "adama-traore-2023",
+      "label": "Adama Traoré",
+      "year": 2023,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "alex-iwobi-2023",
+      "label": "Alex Iwobi",
+      "year": 2023,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "calvin-bassey-2023",
+      "label": "Calvin Bassey",
+      "year": 2023,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "raul-jimenez-2023",
+      "label": "Raúl Jiménez",
+      "year": 2023,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "steven-benda-2023",
+      "label": "Steven Benda",
+      "year": 2023,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "timothy-castagne-2023",
+      "label": "Timothy Castagne",
+      "year": 2023,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "emile-smith-rowe-2024",
+      "label": "Emile Smith Rowe",
+      "year": 2024,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "joachim-andersen-2024",
+      "label": "Joachim Andersen",
+      "year": 2024,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "jorge-cuenca-2024",
+      "label": "Jorge Cuenca",
+      "year": 2024,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "ryan-sessegnon-2024",
+      "label": "Ryan Sessegnon",
+      "year": 2024,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    },
+    {
+      "id": "sander-berge-2024",
+      "label": "Sander Berge",
+      "year": 2024,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-fulham/alletransfers/verein/931"
+    }
+  ]
+}

@@ -1,0 +1,2536 @@
+{
+  "id": "brighton",
+  "slug": "brighton",
+  "title": "Brighton Timeline",
+  "shortTitle": "Brighton",
+  "description": "Place Brighton & Hove Albion signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/brighton",
+  "theme": {
+    "primary": "#0057B8",
+    "secondary": "#FFFFFF",
+    "background": "#F1F7FF",
+    "text": "#001A4E"
+  },
+  "share": {
+    "title": "Brighton Timeline",
+    "description": "How far can you build the Brighton & Hove Albion signing timeline?",
+    "hashtags": [
+      "Brighton",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Brighton Timeline Quiz - Brighton & Hove Albion Signings Game",
+    "description": "Play a Brighton & Hove Albion timeline quiz. Guess whether famous Brighton & Hove Albion players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Brighton & Hove Albion quiz",
+      "Brighton & Hove Albion signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "darron-wilkinson-1992",
+      "label": "Darron Wilkinson",
+      "year": 1992,
+      "subtitle": "Wokingham Town FC",
+      "description": "Signed from Wokingham Town FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "kurt-nogan-1992",
+      "label": "Kurt Nogan",
+      "year": 1992,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "matthew-edwards-1992",
+      "label": "Matthew Edwards",
+      "year": 1992,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "steve-foster-1992",
+      "label": "Steve Foster",
+      "year": 1992,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "colin-pates-1993",
+      "label": "Colin Pates",
+      "year": 1993,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jimmy-case-1993",
+      "label": "Jimmy Case",
+      "year": 1993,
+      "subtitle": "Sittingbourne FC",
+      "description": "Signed from Sittingbourne FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "steve-book-1993",
+      "label": "Steve Book",
+      "year": 1993,
+      "subtitle": "Bath City",
+      "description": "Signed from Bath City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "frank-stapleton-1994",
+      "label": "Frank Stapleton",
+      "year": 1994,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jeff-minton-1994",
+      "label": "Jeff Minton",
+      "year": 1994,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "john-byrne-1994",
+      "label": "John Byrne",
+      "year": 1994,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "mark-chamberlain-1994",
+      "label": "Mark Chamberlain",
+      "year": 1994,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "stuart-storer-1994",
+      "label": "Stuart Storer",
+      "year": 1994,
+      "subtitle": "Exeter City",
+      "description": "Signed from Exeter City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "craig-maskell-1995",
+      "label": "Craig Maskell",
+      "year": 1995,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "george-parris-1995",
+      "label": "George Parris",
+      "year": 1995,
+      "subtitle": "IFK Norrköping",
+      "description": "Signed from IFK Norrköping",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "paul-mcdonald-1995",
+      "label": "Paul McDonald",
+      "year": 1995,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "russell-osman-1995",
+      "label": "Russell Osman",
+      "year": 1995,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "david-adekola-1996",
+      "label": "David Adekola",
+      "year": 1996,
+      "subtitle": "FC Viktoria Köln",
+      "description": "Signed from FC Viktoria Köln",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "derek-allan-1996",
+      "label": "Derek Allan",
+      "year": 1996,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "ian-baird-1996",
+      "label": "Ian Baird",
+      "year": 1996,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jason-peake-1996",
+      "label": "Jason Peake",
+      "year": 1996,
+      "subtitle": "Rochdale AFC",
+      "description": "Signed from Rochdale AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "john-humphrey-1996",
+      "label": "John Humphrey",
+      "year": 1996,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "mark-morris-1996",
+      "label": "Mark Morris",
+      "year": 1996,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "damien-hilton-1997",
+      "label": "Damien Hilton",
+      "year": 1997,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jamie-howell-1997",
+      "label": "Jamie Howell",
+      "year": 1997,
+      "subtitle": "Torquay United",
+      "description": "Signed from Torquay United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "andy-arnott-1998",
+      "label": "Andy Arnott",
+      "year": 1998,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "gary-hart-1998",
+      "label": "Gary Hart",
+      "year": 1998,
+      "subtitle": "Stansted FC",
+      "description": "Signed from Stansted FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "glen-thomas-1998",
+      "label": "Glen Thomas",
+      "year": 1998,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jamie-moralee-1998",
+      "label": "Jamie Moralee",
+      "year": 1998,
+      "subtitle": "Crewe Alexandra",
+      "description": "Signed from Crewe Alexandra",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "lawrence-davies-1998",
+      "label": "Lawrence Davies",
+      "year": 1998,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "mark-walton-1998",
+      "label": "Mark Walton",
+      "year": 1998,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "mickey-bennett-1998",
+      "label": "Mickey Bennett",
+      "year": 1998,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "paul-holsgrove-1998",
+      "label": "Paul Holsgrove",
+      "year": 1998,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "paul-sturgess-1998",
+      "label": "Paul Sturgess",
+      "year": 1998,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "phil-king-1998",
+      "label": "Phil King",
+      "year": 1998,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "richie-barker-1998",
+      "label": "Richie Barker",
+      "year": 1998,
+      "subtitle": "Linfield FC",
+      "description": "Signed from Linfield FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "simon-wormull-1998",
+      "label": "Simon Wormull",
+      "year": 1998,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "aidan-newhouse-1999",
+      "label": "Aidan Newhouse",
+      "year": 1999,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "andy-crosby-1999",
+      "label": "Andy Crosby",
+      "year": 1999,
+      "subtitle": "Chester City (- 2010)",
+      "description": "Signed from Chester City (- 2010)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "chris-wilder-1999",
+      "label": "Chris Wilder",
+      "year": 1999,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "danny-cullip-1999",
+      "label": "Danny Cullip",
+      "year": 1999,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "darren-carr-1999",
+      "label": "Darren Carr",
+      "year": 1999,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "darren-freeman-1999",
+      "label": "Darren Freeman",
+      "year": 1999,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "dave-cameron-1999",
+      "label": "Dave Cameron",
+      "year": 1999,
+      "subtitle": "St. Mirren FC",
+      "description": "Signed from St. Mirren FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jamie-campbell-1999",
+      "label": "Jamie Campbell",
+      "year": 1999,
+      "subtitle": "Cambridge United",
+      "description": "Signed from Cambridge United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "keith-mcpherson-1999",
+      "label": "Keith McPherson",
+      "year": 1999,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "martin-ling-1999",
+      "label": "Martin Ling",
+      "year": 1999,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "paul-rogers-1999",
+      "label": "Paul Rogers",
+      "year": 1999,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "paul-watson-1999",
+      "label": "Paul Watson",
+      "year": 1999,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "warren-aspinall-1999",
+      "label": "Warren Aspinall",
+      "year": 1999,
+      "subtitle": "Colchester United",
+      "description": "Signed from Colchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "chris-allen-2000",
+      "label": "Chris Allen",
+      "year": 2000,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "lee-johnson-2000",
+      "label": "Lee Johnson",
+      "year": 2000,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "lee-steele-2000",
+      "label": "Lee Steele",
+      "year": 2000,
+      "subtitle": "Shrewsbury Town",
+      "description": "Signed from Shrewsbury Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "michel-kuipers-2000",
+      "label": "Michel Kuipers",
+      "year": 2000,
+      "subtitle": "Bristol Rovers",
+      "description": "Signed from Bristol Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "nathan-jones-2000",
+      "label": "Nathan Jones",
+      "year": 2000,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "paul-brooker-2000",
+      "label": "Paul Brooker",
+      "year": 2000,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "phil-stant-2000",
+      "label": "Phil Stant",
+      "year": 2000,
+      "subtitle": "Lincoln City",
+      "description": "Signed from Lincoln City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "richard-carpenter-2000",
+      "label": "Richard Carpenter",
+      "year": 2000,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "steve-melton-2000",
+      "label": "Steve Melton",
+      "year": 2000,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "david-lee-2001",
+      "label": "David Lee",
+      "year": 2001,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "dirk-lehmann-2001",
+      "label": "Dirk Lehmann",
+      "year": 2001,
+      "subtitle": "Hibernian FC",
+      "description": "Signed from Hibernian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "geoff-pitcher-2001",
+      "label": "Geoff Pitcher",
+      "year": 2001,
+      "subtitle": "Kingstonian FC",
+      "description": "Signed from Kingstonian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "phil-hadland-2001",
+      "label": "Phil Hadland",
+      "year": 2001,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "robbie-pethick-2001",
+      "label": "Robbie Pethick",
+      "year": 2001,
+      "subtitle": "Bristol Rovers",
+      "description": "Signed from Bristol Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "simon-morgan-2001",
+      "label": "Simon Morgan",
+      "year": 2001,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "andy-petterson-2002",
+      "label": "Andy Petterson",
+      "year": 2002,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "dave-beasant-2002",
+      "label": "Dave Beasant",
+      "year": 2002,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "dean-blackwell-2002",
+      "label": "Dean Blackwell",
+      "year": 2002,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "guy-butters-2002",
+      "label": "Guy Butters",
+      "year": 2002,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "john-piercy-2002",
+      "label": "John Piercy",
+      "year": 2002,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "paul-kitson-2002",
+      "label": "Paul Kitson",
+      "year": 2002,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "simon-rodger-2002",
+      "label": "Simon Rodger",
+      "year": 2002,
+      "subtitle": "Woking FC",
+      "description": "Signed from Woking FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "ben-roberts-2003",
+      "label": "Ben Roberts",
+      "year": 2003,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "leon-knight-2003",
+      "label": "Leon Knight",
+      "year": 2003,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "paul-reid-2003",
+      "label": "Paul Reid",
+      "year": 2003,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "albert-jarrett-2004",
+      "label": "Albert Jarrett",
+      "year": 2004,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "alexis-nicolas-2004",
+      "label": "Alexis Nicolas",
+      "year": 2004,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "darren-currie-2004",
+      "label": "Darren Currie",
+      "year": 2004,
+      "subtitle": "Wycombe Wanderers",
+      "description": "Signed from Wycombe Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "maheta-molango-2004",
+      "label": "Maheta Molango",
+      "year": 2004,
+      "subtitle": "SV Wacker Burghausen",
+      "description": "Signed from SV Wacker Burghausen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "mark-mccammon-2004",
+      "label": "Mark McCammon",
+      "year": 2004,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "steve-claridge-2004",
+      "label": "Steve Claridge",
+      "year": 2004,
+      "subtitle": "Weymouth FC",
+      "description": "Signed from Weymouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "alexandre-frutos-2005",
+      "label": "Alexandre Frutos",
+      "year": 2005,
+      "subtitle": "FC Metz",
+      "description": "Signed from FC Metz",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "colin-kaz-m-richards-2005",
+      "label": "Colin Kazım-Richards",
+      "year": 2005,
+      "subtitle": "Bury FC",
+      "description": "Signed from Bury FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "doug-loft-2005",
+      "label": "Doug Loft",
+      "year": 2005,
+      "subtitle": "Hastings United",
+      "description": "Signed from Hastings United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "federico-turienzo-2005",
+      "label": "Federico Turienzo",
+      "year": 2005,
+      "subtitle": "SSC Venezia",
+      "description": "Signed from SSC Venezia",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jason-dodd-2005",
+      "label": "Jason Dodd",
+      "year": 2005,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "wayne-henderson-2005",
+      "label": "Wayne Henderson",
+      "year": 2005,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "alex-revell-2006",
+      "label": "Alex Revell",
+      "year": 2006,
+      "subtitle": "Braintree Town",
+      "description": "Signed from Braintree Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "alexis-bertin-2006",
+      "label": "Alexis Bertin",
+      "year": 2006,
+      "subtitle": "Le Havre AC",
+      "description": "Signed from Le Havre AC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "bas-savage-2006",
+      "label": "Bas Savage",
+      "year": 2006,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "georges-santos-2006",
+      "label": "Georges Santos",
+      "year": 2006,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "nathan-elder-2006",
+      "label": "Nathan Elder",
+      "year": 2006,
+      "subtitle": "Billericay Town",
+      "description": "Signed from Billericay Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "andy-whing-2007",
+      "label": "Andy Whing",
+      "year": 2007,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jonny-dixon-2007",
+      "label": "Jonny Dixon",
+      "year": 2007,
+      "subtitle": "Aldershot Town",
+      "description": "Signed from Aldershot Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "nicky-forster-2007",
+      "label": "Nicky Forster",
+      "year": 2007,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "shane-mcfaul-2007",
+      "label": "Shane McFaul",
+      "year": 2007,
+      "subtitle": "University College Dublin",
+      "description": "Signed from University College Dublin",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "steven-thomson-2007",
+      "label": "Steven Thomson",
+      "year": 2007,
+      "subtitle": "Falkirk FC",
+      "description": "Signed from Falkirk FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "adam-virgo-2008",
+      "label": "Adam Virgo",
+      "year": 2008,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "chris-birchall-2008",
+      "label": "Chris Birchall",
+      "year": 2008,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "colin-hawkins-2008",
+      "label": "Colin Hawkins",
+      "year": 2008,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "craig-davies-2008",
+      "label": "Craig Davies",
+      "year": 2008,
+      "subtitle": "Oldham Athletic",
+      "description": "Signed from Oldham Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "david-livermore-2008",
+      "label": "David Livermore",
+      "year": 2008,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "gary-dicker-2008",
+      "label": "Gary Dicker",
+      "year": 2008,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jason-jarrett-2008",
+      "label": "Jason Jarrett",
+      "year": 2008,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jim-mcnulty-2008",
+      "label": "Jim McNulty",
+      "year": 2008,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "kevin-mcleod-2008",
+      "label": "Kevin McLeod",
+      "year": 2008,
+      "subtitle": "Colchester United",
+      "description": "Signed from Colchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "alan-navarro-2009",
+      "label": "Alan Navarro",
+      "year": 2009,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "chris-holroyd-2009",
+      "label": "Chris Holroyd",
+      "year": 2009,
+      "subtitle": "Cambridge United",
+      "description": "Signed from Cambridge United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "elliott-bennett-2009",
+      "label": "Elliott Bennett",
+      "year": 2009,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "graeme-smith-2009",
+      "label": "Graeme Smith",
+      "year": 2009,
+      "subtitle": "Motherwell FC",
+      "description": "Signed from Motherwell FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "grant-hall-2009",
+      "label": "Grant Hall",
+      "year": 2009,
+      "subtitle": "Lewes FC",
+      "description": "Signed from Lewes FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "inigo-calderon-2009",
+      "label": "Iñigo Calderón",
+      "year": 2009,
+      "subtitle": "Deportivo Alavés",
+      "description": "Signed from Deportivo Alavés",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jake-wright-2009",
+      "label": "Jake Wright",
+      "year": 2009,
+      "subtitle": "Crawley Town",
+      "description": "Signed from Crawley Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "james-tunnicliffe-2009",
+      "label": "James Tunnicliffe",
+      "year": 2009,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jamie-smith-2009",
+      "label": "Jamie Smith",
+      "year": 2009,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "liam-dickinson-2009",
+      "label": "Liam Dickinson",
+      "year": 2009,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "mark-wright-2009",
+      "label": "Mark Wright",
+      "year": 2009,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "peter-brezovan-2009",
+      "label": "Peter Brezovan",
+      "year": 2009,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "ashley-barnes-2010",
+      "label": "Ashley Barnes",
+      "year": 2010,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "casper-ankergren-2010",
+      "label": "Casper Ankergren",
+      "year": 2010,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "craig-noone-2010",
+      "label": "Craig Noone",
+      "year": 2010,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "cristian-baz-2010",
+      "label": "Cristian Baz",
+      "year": 2010,
+      "subtitle": "Club Comunicaciones",
+      "description": "Signed from Club Comunicaciones",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "fran-sandaza-2010",
+      "label": "Fran Sandaza",
+      "year": 2010,
+      "subtitle": "Dundee United FC",
+      "description": "Signed from Dundee United FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "gordon-greer-2010",
+      "label": "Gordon Greer",
+      "year": 2010,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "luc-matutu-2010",
+      "label": "Luc Matutu",
+      "year": 2010,
+      "subtitle": "FC Nantes B",
+      "description": "Signed from FC Nantes B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "marcos-painter-2010",
+      "label": "Marcos Painter",
+      "year": 2010,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "matt-sparrow-2010",
+      "label": "Matt Sparrow",
+      "year": 2010,
+      "subtitle": "Scunthorpe United",
+      "description": "Signed from Scunthorpe United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "mauricio-taricco-2010",
+      "label": "Mauricio Taricco",
+      "year": 2010,
+      "subtitle": "ASD Villasimius",
+      "description": "Signed from ASD Villasimius",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "michael-poke-2010",
+      "label": "Michael Poke",
+      "year": 2010,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "radostin-kishishev-2010",
+      "label": "Radostin Kishishev",
+      "year": 2010,
+      "subtitle": "Litex Lovech",
+      "description": "Signed from Litex Lovech",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "torbj-rn-agdestein-2010",
+      "label": "Torbjørn Agdestein",
+      "year": 2010,
+      "subtitle": "Stord Fotball",
+      "description": "Signed from Stord Fotball",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "brennan-dickenson-2011",
+      "label": "Brennan Dickenson",
+      "year": 2011,
+      "subtitle": "Dorchester Town",
+      "description": "Signed from Dorchester Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "craig-mackail-smith-2011",
+      "label": "Craig Mackail-Smith",
+      "year": 2011,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "david-gonzalez-2011",
+      "label": "David González",
+      "year": 2011,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "kazenga-lualua-2011",
+      "label": "Kazenga LuaLua",
+      "year": 2011,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "raphael-rossi-2011",
+      "label": "Raphael Rossi",
+      "year": 2011,
+      "subtitle": "Porto Alegre FC (RS) (- 2012)",
+      "description": "Signed from Porto Alegre FC (RS) (- 2012)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "roland-bergkamp-2011",
+      "label": "Roland Bergkamp",
+      "year": 2011,
+      "subtitle": "SBV Excelsior",
+      "description": "Signed from SBV Excelsior",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "romain-vincelot-2011",
+      "label": "Romain Vincelot",
+      "year": 2011,
+      "subtitle": "Dagenham & Redbridge FC",
+      "description": "Signed from Dagenham & Redbridge FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "ryan-harley-2011",
+      "label": "Ryan Harley",
+      "year": 2011,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "will-buckley-2011",
+      "label": "Will Buckley",
+      "year": 2011,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "will-hoskins-2011",
+      "label": "Will Hoskins",
+      "year": 2011,
+      "subtitle": "Bristol Rovers",
+      "description": "Signed from Bristol Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "andrea-orlandi-2012",
+      "label": "Andrea Orlandi",
+      "year": 2012,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "bruno-saltor-2012",
+      "label": "Bruno Saltor",
+      "year": 2012,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "david-lopez-2012",
+      "label": "David López",
+      "year": 2012,
+      "subtitle": "Athletic Bilbao",
+      "description": "Signed from Athletic Bilbao",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "leonardo-ulloa-2012",
+      "label": "Leonardo Ulloa",
+      "year": 2012,
+      "subtitle": "UD Almería",
+      "description": "Signed from UD Almería",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "stephen-dobbie-2012",
+      "label": "Stephen Dobbie",
+      "year": 2012,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "tomasz-kuszczak-2012",
+      "label": "Tomasz Kuszczak",
+      "year": 2012,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "vitalijs-maksimenko-2012",
+      "label": "Vitalijs Maksimenko",
+      "year": 2012,
+      "subtitle": "Skonto Riga (- 2016)",
+      "description": "Signed from Skonto Riga (- 2016)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "adam-chicksen-2013",
+      "label": "Adam Chicksen",
+      "year": 2013,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "dale-stephens-2013",
+      "label": "Dale Stephens",
+      "year": 2013,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "david-rodriguez-2013",
+      "label": "David Rodríguez",
+      "year": 2013,
+      "subtitle": "Celta de Vigo",
+      "description": "Signed from Celta de Vigo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jeffrey-monakana-2013",
+      "label": "Jeffrey Monakana",
+      "year": 2013,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "kemy-agustien-2013",
+      "label": "Kemy Agustien",
+      "year": 2013,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "matthew-upson-2013",
+      "label": "Matthew Upson",
+      "year": 2013,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "aaron-hughes-2014",
+      "label": "Aaron Hughes",
+      "year": 2014,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "adrian-colunga-2014",
+      "label": "Adrián Colunga",
+      "year": 2014,
+      "subtitle": "Getafe CF",
+      "description": "Signed from Getafe CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "beram-kayal-2014",
+      "label": "Beram Kayal",
+      "year": 2014,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "chris-o-grady-2014",
+      "label": "Chris O'Grady",
+      "year": 2014,
+      "subtitle": "Barnsley FC",
+      "description": "Signed from Barnsley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "danny-holla-2014",
+      "label": "Danny Holla",
+      "year": 2014,
+      "subtitle": "ADO Den Haag",
+      "description": "Signed from ADO Den Haag",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "david-stockdale-2014",
+      "label": "David Stockdale",
+      "year": 2014,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "nzuzi-toko-2014",
+      "label": "Nzuzi Toko",
+      "year": 2014,
+      "subtitle": "Grasshopper Club Zurich",
+      "description": "Signed from Grasshopper Club Zurich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "paddy-mccourt-2014",
+      "label": "Paddy McCourt",
+      "year": 2014,
+      "subtitle": "Barnsley FC",
+      "description": "Signed from Barnsley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "sam-baldock-2014",
+      "label": "Sam Baldock",
+      "year": 2014,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "anthony-knockaert-2015",
+      "label": "Anthony Knockaert",
+      "year": 2015,
+      "subtitle": "Standard Liège",
+      "description": "Signed from Standard Liège",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "connor-goldson-2015",
+      "label": "Connor Goldson",
+      "year": 2015,
+      "subtitle": "Shrewsbury Town",
+      "description": "Signed from Shrewsbury Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "elvis-manu-2015",
+      "label": "Elvis Manu",
+      "year": 2015,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "gaetan-bong-2015",
+      "label": "Gaëtan Bong",
+      "year": 2015,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jamie-murphy-2015",
+      "label": "Jamie Murphy",
+      "year": 2015,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jiri-skalak-2015",
+      "label": "Jiri Skalak",
+      "year": 2015,
+      "subtitle": "FK Mlada Boleslav",
+      "description": "Signed from FK Mlada Boleslav",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "joe-ward-2015",
+      "label": "Joe Ward",
+      "year": 2015,
+      "subtitle": "Chelmsford City",
+      "description": "Signed from Chelmsford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "liam-rosenior-2015",
+      "label": "Liam Rosenior",
+      "year": 2015,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "niki-maenpaa-2015",
+      "label": "Niki Mäenpää",
+      "year": 2015,
+      "subtitle": "VVV-Venlo",
+      "description": "Signed from VVV-Venlo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "richie-towell-2015",
+      "label": "Richie Towell",
+      "year": 2015,
+      "subtitle": "Dundalk FC",
+      "description": "Signed from Dundalk FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "tomer-hemed-2015",
+      "label": "Tomer Hemed",
+      "year": 2015,
+      "subtitle": "UD Almería",
+      "description": "Signed from UD Almería",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "uwe-hunemeier-2015",
+      "label": "Uwe Hünemeier",
+      "year": 2015,
+      "subtitle": "SC Paderborn 07",
+      "description": "Signed from SC Paderborn 07",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "oliver-norwood-2016",
+      "label": "Oliver Norwood",
+      "year": 2016,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "shane-duffy-2016",
+      "label": "Shane Duffy",
+      "year": 2016,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "steve-sidwell-2016",
+      "label": "Steve Sidwell",
+      "year": 2016,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "tyler-hornby-forbes-2016",
+      "label": "Tyler Hornby-Forbes",
+      "year": 2016,
+      "subtitle": "Fleetwood Town",
+      "description": "Signed from Fleetwood Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "ales-mateju-2017",
+      "label": "Ales Mateju",
+      "year": 2017,
+      "subtitle": "FC Viktoria Plzen",
+      "description": "Signed from FC Viktoria Plzen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "davy-propper-2017",
+      "label": "Davy Pröpper",
+      "year": 2017,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "ezequiel-schelotto-2017",
+      "label": "Ezequiel Schelotto",
+      "year": 2017,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jose-izquierdo-2017",
+      "label": "José Izquierdo",
+      "year": 2017,
+      "subtitle": "Club Brugge KV",
+      "description": "Signed from Club Brugge KV",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jurgen-locadia-2017",
+      "label": "Jürgen Locadia",
+      "year": 2017,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "markus-suttner-2017",
+      "label": "Markus Suttner",
+      "year": 2017,
+      "subtitle": "FC Ingolstadt 04",
+      "description": "Signed from FC Ingolstadt 04",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "mathew-ryan-2017",
+      "label": "Mathew Ryan",
+      "year": 2017,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "mathias-normann-2017",
+      "label": "Mathias Normann",
+      "year": 2017,
+      "subtitle": "FK Bodø/Glimt",
+      "description": "Signed from FK Bodø/Glimt",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "pascal-gro-2017",
+      "label": "Pascal Groß",
+      "year": 2017,
+      "subtitle": "FC Ingolstadt 04",
+      "description": "Signed from FC Ingolstadt 04",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "soufyan-ahannach-2017",
+      "label": "Soufyan Ahannach",
+      "year": 2017,
+      "subtitle": "Almere City FC",
+      "description": "Signed from Almere City FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "tim-krul-2017",
+      "label": "Tim Krul",
+      "year": 2017,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "viktor-gyokeres-2017",
+      "label": "Viktor Gyökeres",
+      "year": 2017,
+      "subtitle": "IF Brommapojkarna",
+      "description": "Signed from IF Brommapojkarna",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "alexis-mac-allister-2018",
+      "label": "Alexis Mac Allister",
+      "year": 2018,
+      "subtitle": "AA Argentinos Juniors",
+      "description": "Signed from AA Argentinos Juniors",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "alireza-jahanbakhsh-2018",
+      "label": "Alireza Jahanbakhsh",
+      "year": 2018,
+      "subtitle": "AZ Alkmaar",
+      "description": "Signed from AZ Alkmaar",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "anders-dreyer-2018",
+      "label": "Anders Dreyer",
+      "year": 2018,
+      "subtitle": "Esbjerg fB",
+      "description": "Signed from Esbjerg fB",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "bernardo-2018",
+      "label": "Bernardo",
+      "year": 2018,
+      "subtitle": "RB Leipzig",
+      "description": "Signed from RB Leipzig",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "billy-arce-2018",
+      "label": "Billy Arce",
+      "year": 2018,
+      "subtitle": "Independiente del Valle",
+      "description": "Signed from Independiente del Valle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "dan-burn-2018",
+      "label": "Dan Burn",
+      "year": 2018,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "david-button-2018",
+      "label": "David Button",
+      "year": 2018,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "florin-andone-2018",
+      "label": "Florin Andone",
+      "year": 2018,
+      "subtitle": "Deportivo de La Coruña",
+      "description": "Signed from Deportivo de La Coruña",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jan-mlakar-2018",
+      "label": "Jan Mlakar",
+      "year": 2018,
+      "subtitle": "NK Maribor",
+      "description": "Signed from NK Maribor",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jason-steele-2018",
+      "label": "Jason Steele",
+      "year": 2018,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "leo-stigard-2018",
+      "label": "Leo Østigård",
+      "year": 2018,
+      "subtitle": "Molde FK",
+      "description": "Signed from Molde FK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "leon-balogun-2018",
+      "label": "Leon Balogun",
+      "year": 2018,
+      "subtitle": "1.FSV Mainz 05",
+      "description": "Signed from 1.FSV Mainz 05",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "martin-montoya-2018",
+      "label": "Martín Montoya",
+      "year": 2018,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "percy-tau-2018",
+      "label": "Percy Tau",
+      "year": 2018,
+      "subtitle": "Mamelodi Sundowns FC",
+      "description": "Signed from Mamelodi Sundowns FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "tudor-baluta-2018",
+      "label": "Tudor Băluță",
+      "year": 2018,
+      "subtitle": "FC Viitorul Constanta",
+      "description": "Signed from FC Viitorul Constanta",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "yves-bissouma-2018",
+      "label": "Yves Bissouma",
+      "year": 2018,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "aaron-mooy-2019",
+      "label": "Aaron Mooy",
+      "year": 2019,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "adam-webster-2019",
+      "label": "Adam Webster",
+      "year": 2019,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "leandro-trossard-2019",
+      "label": "Leandro Trossard",
+      "year": 2019,
+      "subtitle": "KRC Genk",
+      "description": "Signed from KRC Genk",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "matt-clarke-2019",
+      "label": "Matt Clarke",
+      "year": 2019,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "neal-maupay-2019",
+      "label": "Neal Maupay",
+      "year": 2019,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "adam-lallana-2020",
+      "label": "Adam Lallana",
+      "year": 2020,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "andi-zeqiri-2020",
+      "label": "Andi Zeqiri",
+      "year": 2020,
+      "subtitle": "FC Lausanne-Sport",
+      "description": "Signed from FC Lausanne-Sport",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "danny-welbeck-2020",
+      "label": "Danny Welbeck",
+      "year": 2020,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jakub-moder-2020",
+      "label": "Jakub Moder",
+      "year": 2020,
+      "subtitle": "Lech Poznan",
+      "description": "Signed from Lech Poznan",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "jan-paul-van-hecke-2020",
+      "label": "Jan Paul van Hecke",
+      "year": 2020,
+      "subtitle": "NAC Breda",
+      "description": "Signed from NAC Breda",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "joel-veltman-2020",
+      "label": "Joël Veltman",
+      "year": 2020,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "michal-karbownik-2020",
+      "label": "Michal Karbownik",
+      "year": 2020,
+      "subtitle": "Legia Warszawa",
+      "description": "Signed from Legia Warszawa",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "moises-caicedo-2020",
+      "label": "Moisés Caicedo",
+      "year": 2020,
+      "subtitle": "Independiente del Valle",
+      "description": "Signed from Independiente del Valle",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "abdallah-sima-2021",
+      "label": "Abdallah Sima",
+      "year": 2021,
+      "subtitle": "SK Slavia Prague",
+      "description": "Signed from SK Slavia Prague",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "deniz-undav-2021",
+      "label": "Deniz Undav",
+      "year": 2021,
+      "subtitle": "Union Saint-Gilloise",
+      "description": "Signed from Union Saint-Gilloise",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "enock-mwepu-2021",
+      "label": "Enock Mwepu",
+      "year": 2021,
+      "subtitle": "Red Bull Salzburg",
+      "description": "Signed from Red Bull Salzburg",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "kacper-kozlowski-2021",
+      "label": "Kacper Kozlowski",
+      "year": 2021,
+      "subtitle": "Pogon Szczecin",
+      "description": "Signed from Pogon Szczecin",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "kaoru-mitoma-2021",
+      "label": "Kaoru Mitoma",
+      "year": 2021,
+      "subtitle": "Kawasaki Frontale",
+      "description": "Signed from Kawasaki Frontale",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "kjell-scherpen-2021",
+      "label": "Kjell Scherpen",
+      "year": 2021,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "marc-cucurella-2021",
+      "label": "Marc Cucurella",
+      "year": 2021,
+      "subtitle": "Getafe CF",
+      "description": "Signed from Getafe CF",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "billy-gilmour-2022",
+      "label": "Billy Gilmour",
+      "year": 2022,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "facundo-buonanotte-2022",
+      "label": "Facundo Buonanotte",
+      "year": 2022,
+      "subtitle": "CA Rosario Central",
+      "description": "Signed from CA Rosario Central",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "julio-enciso-2022",
+      "label": "Julio Enciso",
+      "year": 2022,
+      "subtitle": "Club Libertad Asunción",
+      "description": "Signed from Club Libertad Asunción",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "pervis-estupinan-2022",
+      "label": "Pervis Estupiñán",
+      "year": 2022,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "simon-adingra-2022",
+      "label": "Simon Adingra",
+      "year": 2022,
+      "subtitle": "FC Nordsjaelland",
+      "description": "Signed from FC Nordsjaelland",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "yasin-ayari-2022",
+      "label": "Yasin Ayari",
+      "year": 2022,
+      "subtitle": "AIK",
+      "description": "Signed from AIK",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "bart-verbruggen-2023",
+      "label": "Bart Verbruggen",
+      "year": 2023,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "carlos-baleba-2023",
+      "label": "Carlos Baleba",
+      "year": 2023,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "igor-julio-2023",
+      "label": "Igor Julio",
+      "year": 2023,
+      "subtitle": "ACF Fiorentina",
+      "description": "Signed from ACF Fiorentina",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "james-milner-2023",
+      "label": "James Milner",
+      "year": 2023,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "joao-pedro-2023",
+      "label": "João Pedro",
+      "year": 2023,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "mahmoud-dahoud-2023",
+      "label": "Mahmoud Dahoud",
+      "year": 2023,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "valentin-barco-2023",
+      "label": "Valentín Barco",
+      "year": 2023,
+      "subtitle": "CA Boca Juniors",
+      "description": "Signed from CA Boca Juniors",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "brajan-gruda-2024",
+      "label": "Brajan Gruda",
+      "year": 2024,
+      "subtitle": "1.FSV Mainz 05",
+      "description": "Signed from 1.FSV Mainz 05",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "diego-gomez-2024",
+      "label": "Diego Gómez",
+      "year": 2024,
+      "subtitle": "Inter Miami CF",
+      "description": "Signed from Inter Miami CF",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "eiran-cashin-2024",
+      "label": "Eiran Cashin",
+      "year": 2024,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "ferdi-kad-oglu-2024",
+      "label": "Ferdi Kadıoğlu",
+      "year": 2024,
+      "subtitle": "Fenerbahce",
+      "description": "Signed from Fenerbahce",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "georginio-rutter-2024",
+      "label": "Georginio Rutter",
+      "year": 2024,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "ibrahim-osman-2024",
+      "label": "Ibrahim Osman",
+      "year": 2024,
+      "subtitle": "FC Nordsjaelland",
+      "description": "Signed from FC Nordsjaelland",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "malick-yalcouye-2024",
+      "label": "Malick Yalcouyé",
+      "year": 2024,
+      "subtitle": "IFK Göteborg",
+      "description": "Signed from IFK Göteborg",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "mats-wieffer-2024",
+      "label": "Mats Wieffer",
+      "year": 2024,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "matt-o-riley-2024",
+      "label": "Matt O'Riley",
+      "year": 2024,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "stefanos-tzimas-2024",
+      "label": "Stefanos Tzimas",
+      "year": 2024,
+      "subtitle": "1.FC Nuremberg",
+      "description": "Signed from 1.FC Nuremberg",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    },
+    {
+      "id": "yankuba-minteh-2024",
+      "label": "Yankuba Minteh",
+      "year": 2024,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/brighton-amp-hove-albion/alletransfers/verein/1237"
+    }
+  ]
+}

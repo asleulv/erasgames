@@ -1,0 +1,2466 @@
+{
+  "id": "chelsea",
+  "slug": "chelsea",
+  "title": "Chelsea Timeline",
+  "shortTitle": "Chelsea",
+  "description": "Place Chelsea signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/chelsea",
+  "theme": {
+    "primary": "#034694",
+    "secondary": "#FFFFFF",
+    "background": "#F1F6FF",
+    "text": "#001435"
+  },
+  "share": {
+    "title": "Chelsea Timeline",
+    "description": "How far can you build the Chelsea signing timeline?",
+    "hashtags": [
+      "Chelsea",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Chelsea Timeline Quiz - Chelsea Signings Game",
+    "description": "Play a Chelsea timeline quiz. Guess whether famous Chelsea players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Chelsea quiz",
+      "Chelsea signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "anthony-barness-1992",
+      "label": "Anthony Barness",
+      "year": 1992,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "david-hopkin-1992",
+      "label": "David Hopkin",
+      "year": 1992,
+      "subtitle": "Morton FC",
+      "description": "Signed from Morton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "dmitriy-kharin-1992",
+      "label": "Dmitriy Kharin",
+      "year": 1992,
+      "subtitle": "CSKA Moscow",
+      "description": "Signed from CSKA Moscow",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "john-spencer-1992",
+      "label": "John Spencer",
+      "year": 1992,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mal-donaghy-1992",
+      "label": "Mal Donaghy",
+      "year": 1992,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mick-harford-1992",
+      "label": "Mick Harford",
+      "year": 1992,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "nick-colgan-1992",
+      "label": "Nick Colgan",
+      "year": 1992,
+      "subtitle": "Drogheda United FC",
+      "description": "Signed from Drogheda United FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "nigel-spackman-1992",
+      "label": "Nigel Spackman",
+      "year": 1992,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "robert-fleck-1992",
+      "label": "Robert Fleck",
+      "year": 1992,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "steve-livingstone-1992",
+      "label": "Steve Livingstone",
+      "year": 1992,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "andy-dow-1993",
+      "label": "Andy Dow",
+      "year": 1993,
+      "subtitle": "Dundee FC",
+      "description": "Signed from Dundee FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "gavin-peacock-1993",
+      "label": "Gavin Peacock",
+      "year": 1993,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "glenn-hoddle-1993",
+      "label": "Glenn Hoddle",
+      "year": 1993,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "jakob-kjeldbjerg-1993",
+      "label": "Jakob Kjeldbjerg",
+      "year": 1993,
+      "subtitle": "Silkeborg IF",
+      "description": "Signed from Silkeborg IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mark-stein-1993",
+      "label": "Mark Stein",
+      "year": 1993,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "alan-judge-1994",
+      "label": "Alan Judge",
+      "year": 1994,
+      "subtitle": "Hereford United (- 2014)",
+      "description": "Signed from Hereford United (- 2014)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "david-rocastle-1994",
+      "label": "David Rocastle",
+      "year": 1994,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "paul-furlong-1994",
+      "label": "Paul Furlong",
+      "year": 1994,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "scott-minto-1994",
+      "label": "Scott Minto",
+      "year": 1994,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "dan-petrescu-1995",
+      "label": "Dan Petrescu",
+      "year": 1995,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mark-hughes-1995",
+      "label": "Mark Hughes",
+      "year": 1995,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "ruud-gullit-1995",
+      "label": "Ruud Gullit",
+      "year": 1995,
+      "subtitle": "UC Sampdoria",
+      "description": "Signed from UC Sampdoria",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "steve-reeves-1995",
+      "label": "Steve Reeves",
+      "year": 1995,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "terry-phelan-1995",
+      "label": "Terry Phelan",
+      "year": 1995,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "chris-zoricich-1996",
+      "label": "Chris Zoricich",
+      "year": 1996,
+      "subtitle": "Welling United",
+      "description": "Signed from Welling United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "danny-granville-1996",
+      "label": "Danny Granville",
+      "year": 1996,
+      "subtitle": "Cambridge United",
+      "description": "Signed from Cambridge United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "ed-de-goey-1996",
+      "label": "Ed de Goey",
+      "year": 1996,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "frank-leboeuf-1996",
+      "label": "Frank Leboeuf",
+      "year": 1996,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "frode-grodas-1996",
+      "label": "Frode Grodås",
+      "year": 1996,
+      "subtitle": "Lillestrøm SK",
+      "description": "Signed from Lillestrøm SK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "gianfranco-zola-1996",
+      "label": "Gianfranco Zola",
+      "year": 1996,
+      "subtitle": "AC Parma",
+      "description": "Signed from AC Parma",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "gianluca-vialli-1996",
+      "label": "Gianluca Vialli",
+      "year": 1996,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "paul-parker-1996",
+      "label": "Paul Parker",
+      "year": 1996,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "roberto-di-matteo-1996",
+      "label": "Roberto Di Matteo",
+      "year": 1996,
+      "subtitle": "SS Lazio",
+      "description": "Signed from SS Lazio",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "roger-joseph-1996",
+      "label": "Roger Joseph",
+      "year": 1996,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "bernard-lambourde-1997",
+      "label": "Bernard Lambourde",
+      "year": 1997,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "celestine-babayaro-1997",
+      "label": "Celestine Babayaro",
+      "year": 1997,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "graeme-le-saux-1997",
+      "label": "Graeme Le Saux",
+      "year": 1997,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "gustavo-poyet-1997",
+      "label": "Gustavo Poyet",
+      "year": 1997,
+      "subtitle": "Real Zaragoza",
+      "description": "Signed from Real Zaragoza",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "tore-andre-flo-1997",
+      "label": "Tore André Flo",
+      "year": 1997,
+      "subtitle": "SK Brann",
+      "description": "Signed from SK Brann",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "albert-ferrer-1998",
+      "label": "Albert Ferrer",
+      "year": 1998,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "bjarne-goldbaek-1998",
+      "label": "Bjarne Goldbaek",
+      "year": 1998,
+      "subtitle": "FC Copenhagen",
+      "description": "Signed from FC Copenhagen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "brian-laudrup-1998",
+      "label": "Brian Laudrup",
+      "year": 1998,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "laurent-charvet-1998",
+      "label": "Laurent Charvet",
+      "year": 1998,
+      "subtitle": "AS Cannes",
+      "description": "Signed from AS Cannes",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "marcel-desailly-1998",
+      "label": "Marcel Desailly",
+      "year": 1998,
+      "subtitle": "AC Milan",
+      "description": "Signed from AC Milan",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mikael-forssell-1998",
+      "label": "Mikael Forssell",
+      "year": 1998,
+      "subtitle": "HJK Helsinki",
+      "description": "Signed from HJK Helsinki",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "nick-crittenden-1998",
+      "label": "Nick Crittenden",
+      "year": 1998,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "pierluigi-casiraghi-1998",
+      "label": "Pierluigi Casiraghi",
+      "year": 1998,
+      "subtitle": "SS Lazio",
+      "description": "Signed from SS Lazio",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "chris-sutton-1999",
+      "label": "Chris Sutton",
+      "year": 1999,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "didier-deschamps-1999",
+      "label": "Didier Deschamps",
+      "year": 1999,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "emerson-thome-1999",
+      "label": "Émerson Thome",
+      "year": 1999,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "gabriele-ambrosetti-1999",
+      "label": "Gabriele Ambrosetti",
+      "year": 1999,
+      "subtitle": "Vicenza Calcio",
+      "description": "Signed from Vicenza Calcio",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "jes-h-gh-1999",
+      "label": "Jes Høgh",
+      "year": 1999,
+      "subtitle": "Fenerbahce",
+      "description": "Signed from Fenerbahce",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mario-melchiot-1999",
+      "label": "Mario Melchiot",
+      "year": 1999,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "rati-aleksidze-1999",
+      "label": "Rati Aleksidze",
+      "year": 1999,
+      "subtitle": "Dinamo Tbilisi",
+      "description": "Signed from Dinamo Tbilisi",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "stuart-reddington-1999",
+      "label": "Stuart Reddington",
+      "year": 1999,
+      "subtitle": "Lincoln United",
+      "description": "Signed from Lincoln United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "carlo-cudicini-2000",
+      "label": "Carlo Cudicini",
+      "year": 2000,
+      "subtitle": "ASD Castel di Sangro",
+      "description": "Signed from ASD Castel di Sangro",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "eidur-gudjohnsen-2000",
+      "label": "Eidur Gudjohnsen",
+      "year": 2000,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "jesper-gr-nkj-r-2000",
+      "label": "Jesper Grønkjær",
+      "year": 2000,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "jimmy-floyd-hasselbaink-2000",
+      "label": "Jimmy Floyd Hasselbaink",
+      "year": 2000,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "jon-harley-2000",
+      "label": "Jon Harley",
+      "year": 2000,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mario-stanic-2000",
+      "label": "Mario Stanic",
+      "year": 2000,
+      "subtitle": "AC Parma",
+      "description": "Signed from AC Parma",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mark-bosnich-2000",
+      "label": "Mark Bosnich",
+      "year": 2000,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "slavisa-jokanovic-2000",
+      "label": "Slavisa Jokanovic",
+      "year": 2000,
+      "subtitle": "Deportivo de La Coruña",
+      "description": "Signed from Deportivo de La Coruña",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "winston-bogarde-2000",
+      "label": "Winston Bogarde",
+      "year": 2000,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "boudewijn-zenden-2001",
+      "label": "Boudewijn Zenden",
+      "year": 2001,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "emmanuel-petit-2001",
+      "label": "Emmanuel Petit",
+      "year": 2001,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "frank-lampard-2001",
+      "label": "Frank Lampard",
+      "year": 2001,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "william-gallas-2001",
+      "label": "William Gallas",
+      "year": 2001,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "boy-boy-mosia-2002",
+      "label": "Boy-Boy Mosia",
+      "year": 2002,
+      "subtitle": "Transnet School of Excellence",
+      "description": "Signed from Transnet School of Excellence",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "jean-yves-anis-2002",
+      "label": "Jean-Yves Anis",
+      "year": 2002,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "quique-de-lucas-2002",
+      "label": "Quique de Lucas",
+      "year": 2002,
+      "subtitle": "RCD Espanyol Barcelona",
+      "description": "Signed from RCD Espanyol Barcelona",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "adrian-mutu-2003",
+      "label": "Adrian Mutu",
+      "year": 2003,
+      "subtitle": "AC Parma",
+      "description": "Signed from AC Parma",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "aleksey-smertin-2003",
+      "label": "Aleksey Smertin",
+      "year": 2003,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "claude-makelele-2003",
+      "label": "Claude Makélélé",
+      "year": 2003,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "craig-rocastle-2003",
+      "label": "Craig Rocastle",
+      "year": 2003,
+      "subtitle": "Kingstonian FC",
+      "description": "Signed from Kingstonian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "damien-duff-2003",
+      "label": "Damien Duff",
+      "year": 2003,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "glen-johnson-2003",
+      "label": "Glen Johnson",
+      "year": 2003,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "hernan-crespo-2003",
+      "label": "Hernán Crespo",
+      "year": 2003,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "joe-cole-2003",
+      "label": "Joe Cole",
+      "year": 2003,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "juan-sebastian-veron-2003",
+      "label": "Juan Sebastián Verón",
+      "year": 2003,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "jurgen-macho-2003",
+      "label": "Jürgen Macho",
+      "year": 2003,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "marco-ambrosio-2003",
+      "label": "Marco Ambrosio",
+      "year": 2003,
+      "subtitle": "Chievo Verona",
+      "description": "Signed from Chievo Verona",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "neil-sullivan-2003",
+      "label": "Neil Sullivan",
+      "year": 2003,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "njitap-geremi-2003",
+      "label": "Njitap Geremi",
+      "year": 2003,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "scott-parker-2003",
+      "label": "Scott Parker",
+      "year": 2003,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "wayne-bridge-2003",
+      "label": "Wayne Bridge",
+      "year": 2003,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "alcides-2004",
+      "label": "Alcides",
+      "year": 2004,
+      "subtitle": "Esporte Clube Vitória",
+      "description": "Signed from Esporte Clube Vitória",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "alex-2004",
+      "label": "Alex",
+      "year": 2004,
+      "subtitle": "Santos FC",
+      "description": "Signed from Santos FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "arjen-robben-2004",
+      "label": "Arjen Robben",
+      "year": 2004,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "jiri-jarosik-2004",
+      "label": "Jiri Jarosik",
+      "year": 2004,
+      "subtitle": "CSKA Moscow",
+      "description": "Signed from CSKA Moscow",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mateja-kezman-2004",
+      "label": "Mateja Kežman",
+      "year": 2004,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "nuno-morais-2004",
+      "label": "Nuno Morais",
+      "year": 2004,
+      "subtitle": "FC Penafiel",
+      "description": "Signed from FC Penafiel",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "paulo-ferreira-2004",
+      "label": "Paulo Ferreira",
+      "year": 2004,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "petr-cech-2004",
+      "label": "Petr Cech",
+      "year": 2004,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "ricardo-carvalho-2004",
+      "label": "Ricardo Carvalho",
+      "year": 2004,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "tiago-mendes-2004",
+      "label": "Tiago Mendes",
+      "year": 2004,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "asier-del-horno-2005",
+      "label": "Asier del Horno",
+      "year": 2005,
+      "subtitle": "Athletic Bilbao",
+      "description": "Signed from Athletic Bilbao",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "lassana-diarra-2005",
+      "label": "Lassana Diarra",
+      "year": 2005,
+      "subtitle": "Le Havre AC",
+      "description": "Signed from Le Havre AC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "michael-essien-2005",
+      "label": "Michael Essien",
+      "year": 2005,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "shaun-wright-phillips-2005",
+      "label": "Shaun Wright-Phillips",
+      "year": 2005,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "slobodan-rajkovic-2005",
+      "label": "Slobodan Rajković",
+      "year": 2005,
+      "subtitle": "OFK Beograd",
+      "description": "Signed from OFK Beograd",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "andriy-shevchenko-2006",
+      "label": "Andriy Shevchenko",
+      "year": 2006,
+      "subtitle": "AC Milan",
+      "description": "Signed from AC Milan",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "ashley-cole-2006",
+      "label": "Ashley Cole",
+      "year": 2006,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "hilario-2006",
+      "label": "Hilário",
+      "year": 2006,
+      "subtitle": "CD Nacional",
+      "description": "Signed from CD Nacional",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "john-obi-mikel-2006",
+      "label": "John Obi Mikel",
+      "year": 2006,
+      "subtitle": "Lyn 1896 FK",
+      "description": "Signed from Lyn 1896 FK",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "khalid-boulahrouz-2006",
+      "label": "Khalid Boulahrouz",
+      "year": 2006,
+      "subtitle": "Hamburger SV",
+      "description": "Signed from Hamburger SV",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "michael-ballack-2006",
+      "label": "Michael Ballack",
+      "year": 2006,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "salomon-kalou-2006",
+      "label": "Salomon Kalou",
+      "year": 2006,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "branislav-ivanovic-2007",
+      "label": "Branislav Ivanovic",
+      "year": 2007,
+      "subtitle": "Lokomotiv Moskau",
+      "description": "Signed from Lokomotiv Moskau",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "claudio-pizarro-2007",
+      "label": "Claudio Pizarro",
+      "year": 2007,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "florent-malouda-2007",
+      "label": "Florent Malouda",
+      "year": 2007,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "franco-di-santo-2007",
+      "label": "Franco Di Santo",
+      "year": 2007,
+      "subtitle": "Audax Italiano",
+      "description": "Signed from Audax Italiano",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "juliano-belletti-2007",
+      "label": "Juliano Belletti",
+      "year": 2007,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "nicolas-anelka-2007",
+      "label": "Nicolas Anelka",
+      "year": 2007,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "steve-sidwell-2007",
+      "label": "Steve Sidwell",
+      "year": 2007,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "tal-ben-haim-2007",
+      "label": "Tal Ben Haim",
+      "year": 2007,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "bosingwa-2008",
+      "label": "Bosingwa",
+      "year": 2008,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "deco-2008",
+      "label": "Deco",
+      "year": 2008,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "daniel-sturridge-2009",
+      "label": "Daniel Sturridge",
+      "year": 2009,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "ross-turnbull-2009",
+      "label": "Ross Turnbull",
+      "year": 2009,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "yuriy-zhirkov-2009",
+      "label": "Yuriy Zhirkov",
+      "year": 2009,
+      "subtitle": "CSKA Moscow",
+      "description": "Signed from CSKA Moscow",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "fernando-torres-2010",
+      "label": "Fernando Torres",
+      "year": 2010,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "matej-delac-2010",
+      "label": "Matej Delac",
+      "year": 2010,
+      "subtitle": "NK Inter Zapresic",
+      "description": "Signed from NK Inter Zapresic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "ramires-2010",
+      "label": "Ramires",
+      "year": 2010,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "tomas-kalas-2010",
+      "label": "Tomas Kalas",
+      "year": 2010,
+      "subtitle": "SK Sigma Olomouc",
+      "description": "Signed from SK Sigma Olomouc",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "yossi-benayoun-2010",
+      "label": "Yossi Benayoun",
+      "year": 2010,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "gary-cahill-2011",
+      "label": "Gary Cahill",
+      "year": 2011,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "juan-mata-2011",
+      "label": "Juan Mata",
+      "year": 2011,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "kevin-de-bruyne-2011",
+      "label": "Kevin De Bruyne",
+      "year": 2011,
+      "subtitle": "KRC Genk",
+      "description": "Signed from KRC Genk",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "lucas-piazon-2011",
+      "label": "Lucas Piazón",
+      "year": 2011,
+      "subtitle": "São Paulo Futebol Clube",
+      "description": "Signed from São Paulo Futebol Clube",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "oriol-romeu-2011",
+      "label": "Oriol Romeu",
+      "year": 2011,
+      "subtitle": "FC Barcelona B",
+      "description": "Signed from FC Barcelona B",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "patrick-bamford-2011",
+      "label": "Patrick Bamford",
+      "year": 2011,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "raul-meireles-2011",
+      "label": "Raúl Meireles",
+      "year": 2011,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "thibaut-courtois-2011",
+      "label": "Thibaut Courtois",
+      "year": 2011,
+      "subtitle": "KRC Genk",
+      "description": "Signed from KRC Genk",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "ulises-davila-2011",
+      "label": "Ulises Dávila",
+      "year": 2011,
+      "subtitle": "Deportivo Guadalajara U20",
+      "description": "Signed from Deportivo Guadalajara U20",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "cesar-azpilicueta-2012",
+      "label": "César Azpilicueta",
+      "year": 2012,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "demba-ba-2012",
+      "label": "Demba Ba",
+      "year": 2012,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "eden-hazard-2012",
+      "label": "Eden Hazard",
+      "year": 2012,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "lamisha-musonda-2012",
+      "label": "Lamisha Musonda",
+      "year": 2012,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "marko-marin-2012",
+      "label": "Marko Marin",
+      "year": 2012,
+      "subtitle": "SV Werder Bremen",
+      "description": "Signed from SV Werder Bremen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "oscar-2012",
+      "label": "Oscar",
+      "year": 2012,
+      "subtitle": "Sport Club Internacional",
+      "description": "Signed from Sport Club Internacional",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "thorgan-hazard-2012",
+      "label": "Thorgan Hazard",
+      "year": 2012,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "victor-moses-2012",
+      "label": "Victor Moses",
+      "year": 2012,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "wallace-oliveira-2012",
+      "label": "Wallace Oliveira",
+      "year": 2012,
+      "subtitle": "Fluminense Football Club",
+      "description": "Signed from Fluminense Football Club",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "andre-schurrle-2013",
+      "label": "André Schürrle",
+      "year": 2013,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "christian-atsu-2013",
+      "label": "Christian Atsu",
+      "year": 2013,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "cristian-cuevas-2013",
+      "label": "Cristian Cuevas",
+      "year": 2013,
+      "subtitle": "CD O'Higgins",
+      "description": "Signed from CD O'Higgins",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "kurt-zouma-2013",
+      "label": "Kurt Zouma",
+      "year": 2013,
+      "subtitle": "AS Saint-Étienne",
+      "description": "Signed from AS Saint-Étienne",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "marco-van-ginkel-2013",
+      "label": "Marco van Ginkel",
+      "year": 2013,
+      "subtitle": "Vitesse Arnhem",
+      "description": "Signed from Vitesse Arnhem",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mark-schwarzer-2013",
+      "label": "Mark Schwarzer",
+      "year": 2013,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mohamed-salah-2013",
+      "label": "Mohamed Salah",
+      "year": 2013,
+      "subtitle": "FC Basel 1893",
+      "description": "Signed from FC Basel 1893",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "samuel-eto-o-2013",
+      "label": "Samuel Eto'o",
+      "year": 2013,
+      "subtitle": "Anzhi Makhachkala",
+      "description": "Signed from Anzhi Makhachkala",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "stipe-perica-2013",
+      "label": "Stipe Perica",
+      "year": 2013,
+      "subtitle": "NK Zadar",
+      "description": "Signed from NK Zadar",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "willian-2013",
+      "label": "Willian",
+      "year": 2013,
+      "subtitle": "Anzhi Makhachkala",
+      "description": "Signed from Anzhi Makhachkala",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "cesc-fabregas-2014",
+      "label": "Cesc Fàbregas",
+      "year": 2014,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "diego-costa-2014",
+      "label": "Diego Costa",
+      "year": 2014,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "filipe-luis-2014",
+      "label": "Filipe Luís",
+      "year": 2014,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "juan-cuadrado-2014",
+      "label": "Juan Cuadrado",
+      "year": 2014,
+      "subtitle": "ACF Fiorentina",
+      "description": "Signed from ACF Fiorentina",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "loic-remy-2014",
+      "label": "Loïc Rémy",
+      "year": 2014,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mario-pasalic-2014",
+      "label": "Mario Pašalić",
+      "year": 2014,
+      "subtitle": "HNK Hajduk Split",
+      "description": "Signed from HNK Hajduk Split",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "abdul-rahman-baba-2015",
+      "label": "Abdul Rahman Baba",
+      "year": 2015,
+      "subtitle": "FC Augsburg",
+      "description": "Signed from FC Augsburg",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "asmir-begovic-2015",
+      "label": "Asmir Begovic",
+      "year": 2015,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "danilo-pantic-2015",
+      "label": "Danilo Pantic",
+      "year": 2015,
+      "subtitle": "FK Partizan Belgrade",
+      "description": "Signed from FK Partizan Belgrade",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "kenedy-2015",
+      "label": "Kenedy",
+      "year": 2015,
+      "subtitle": "Fluminense Football Club",
+      "description": "Signed from Fluminense Football Club",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "matt-miazga-2015",
+      "label": "Matt Miazga",
+      "year": 2015,
+      "subtitle": "New York Red Bulls",
+      "description": "Signed from New York Red Bulls",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "michael-hector-2015",
+      "label": "Michael Hector",
+      "year": 2015,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "nathan-2015",
+      "label": "Nathan",
+      "year": 2015,
+      "subtitle": "Atlético Paranaense",
+      "description": "Signed from Atlético Paranaense",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "papy-djilobodji-2015",
+      "label": "Papy Djilobodji",
+      "year": 2015,
+      "subtitle": "FC Nantes",
+      "description": "Signed from FC Nantes",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "pedro-2015",
+      "label": "Pedro",
+      "year": 2015,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "eduardo-2016",
+      "label": "Eduardo",
+      "year": 2016,
+      "subtitle": "GNK Dinamo Zagreb",
+      "description": "Signed from GNK Dinamo Zagreb",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "marcos-alonso-2016",
+      "label": "Marcos Alonso",
+      "year": 2016,
+      "subtitle": "ACF Fiorentina",
+      "description": "Signed from ACF Fiorentina",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "michy-batshuayi-2016",
+      "label": "Michy Batshuayi",
+      "year": 2016,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "n-golo-kante-2016",
+      "label": "N'Golo Kanté",
+      "year": 2016,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "alvaro-morata-2017",
+      "label": "Álvaro Morata",
+      "year": 2017,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "antonio-rudiger-2017",
+      "label": "Antonio Rüdiger",
+      "year": 2017,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "danny-drinkwater-2017",
+      "label": "Danny Drinkwater",
+      "year": 2017,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "davide-zappacosta-2017",
+      "label": "Davide Zappacosta",
+      "year": 2017,
+      "subtitle": "Torino FC",
+      "description": "Signed from Torino FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "emerson-2017",
+      "label": "Emerson",
+      "year": 2017,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "ethan-ampadu-2017",
+      "label": "Ethan Ampadu",
+      "year": 2017,
+      "subtitle": "Exeter City",
+      "description": "Signed from Exeter City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "olivier-giroud-2017",
+      "label": "Olivier Giroud",
+      "year": 2017,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "ross-barkley-2017",
+      "label": "Ross Barkley",
+      "year": 2017,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "tiemoue-bakayoko-2017",
+      "label": "Tiemoué Bakayoko",
+      "year": 2017,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "willy-caballero-2017",
+      "label": "Willy Caballero",
+      "year": 2017,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "christian-pulisic-2018",
+      "label": "Christian Pulisic",
+      "year": 2018,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "jorginho-2018",
+      "label": "Jorginho",
+      "year": 2018,
+      "subtitle": "SSC Napoli",
+      "description": "Signed from SSC Napoli",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "kepa-arrizabalaga-2018",
+      "label": "Kepa Arrizabalaga",
+      "year": 2018,
+      "subtitle": "Athletic Bilbao",
+      "description": "Signed from Athletic Bilbao",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "rob-green-2018",
+      "label": "Rob Green",
+      "year": 2018,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mateo-kovacic-2019",
+      "label": "Mateo Kovacic",
+      "year": 2019,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "ben-chilwell-2020",
+      "label": "Ben Chilwell",
+      "year": 2020,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "edouard-mendy-2020",
+      "label": "Edouard Mendy",
+      "year": 2020,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "hakim-ziyech-2020",
+      "label": "Hakim Ziyech",
+      "year": 2020,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "kai-havertz-2020",
+      "label": "Kai Havertz",
+      "year": 2020,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "malang-sarr-2020",
+      "label": "Malang Sarr",
+      "year": 2020,
+      "subtitle": "OGC Nice",
+      "description": "Signed from OGC Nice",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "thiago-silva-2020",
+      "label": "Thiago Silva",
+      "year": 2020,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "timo-werner-2020",
+      "label": "Timo Werner",
+      "year": 2020,
+      "subtitle": "RB Leipzig",
+      "description": "Signed from RB Leipzig",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "marcus-bettinelli-2021",
+      "label": "Marcus Bettinelli",
+      "year": 2021,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "andrey-santos-2022",
+      "label": "Andrey Santos",
+      "year": 2022,
+      "subtitle": "Clube de Regatas Vasco da Gama",
+      "description": "Signed from Clube de Regatas Vasco da Gama",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "benoit-badiashile-2022",
+      "label": "Benoît Badiashile",
+      "year": 2022,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "carney-chukwuemeka-2022",
+      "label": "Carney Chukwuemeka",
+      "year": 2022,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "cesare-casadei-2022",
+      "label": "Cesare Casadei",
+      "year": 2022,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "david-datro-fofana-2022",
+      "label": "David Datro Fofana",
+      "year": 2022,
+      "subtitle": "Molde FK",
+      "description": "Signed from Molde FK",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "enzo-fernandez-2022",
+      "label": "Enzo Fernández",
+      "year": 2022,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "gabriel-slonina-2022",
+      "label": "Gabriel Slonina",
+      "year": 2022,
+      "subtitle": "Chicago Fire FC",
+      "description": "Signed from Chicago Fire FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "kalidou-koulibaly-2022",
+      "label": "Kalidou Koulibaly",
+      "year": 2022,
+      "subtitle": "SSC Napoli",
+      "description": "Signed from SSC Napoli",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "malo-gusto-2022",
+      "label": "Malo Gusto",
+      "year": 2022,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "marc-cucurella-2022",
+      "label": "Marc Cucurella",
+      "year": 2022,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mykhaylo-mudryk-2022",
+      "label": "Mykhaylo Mudryk",
+      "year": 2022,
+      "subtitle": "Shakhtar Donetsk",
+      "description": "Signed from Shakhtar Donetsk",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "noni-madueke-2022",
+      "label": "Noni Madueke",
+      "year": 2022,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "pierre-emerick-aubameyang-2022",
+      "label": "Pierre-Emerick Aubameyang",
+      "year": 2022,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "raheem-sterling-2022",
+      "label": "Raheem Sterling",
+      "year": 2022,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "wesley-fofana-2022",
+      "label": "Wesley Fofana",
+      "year": 2022,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "angelo-2023",
+      "label": "Ângelo",
+      "year": 2023,
+      "subtitle": "Santos FC",
+      "description": "Signed from Santos FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "axel-disasi-2023",
+      "label": "Axel Disasi",
+      "year": 2023,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "christopher-nkunku-2023",
+      "label": "Christopher Nkunku",
+      "year": 2023,
+      "subtitle": "RB Leipzig",
+      "description": "Signed from RB Leipzig",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "cole-palmer-2023",
+      "label": "Cole Palmer",
+      "year": 2023,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "diego-moreira-2023",
+      "label": "Diego Moreira",
+      "year": 2023,
+      "subtitle": "SL Benfica B",
+      "description": "Signed from SL Benfica B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "djordje-petrovic-2023",
+      "label": "Djordje Petrovic",
+      "year": 2023,
+      "subtitle": "New England Revolution",
+      "description": "Signed from New England Revolution",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "lesley-ugochukwu-2023",
+      "label": "Lesley Ugochukwu",
+      "year": 2023,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "moises-caicedo-2023",
+      "label": "Moisés Caicedo",
+      "year": 2023,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "nicolas-jackson-2023",
+      "label": "Nicolas Jackson",
+      "year": 2023,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "robert-sanchez-2023",
+      "label": "Robert Sánchez",
+      "year": 2023,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "romeo-lavia-2023",
+      "label": "Roméo Lavia",
+      "year": 2023,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "aaron-anselmino-2024",
+      "label": "Aarón Anselmino",
+      "year": 2024,
+      "subtitle": "CA Boca Juniors",
+      "description": "Signed from CA Boca Juniors",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "caleb-wiley-2024",
+      "label": "Caleb Wiley",
+      "year": 2024,
+      "subtitle": "Atlanta United FC",
+      "description": "Signed from Atlanta United FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "filip-j-rgensen-2024",
+      "label": "Filip Jørgensen",
+      "year": 2024,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "joao-felix-2024",
+      "label": "João Félix",
+      "year": 2024,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "kiernan-dewsbury-hall-2024",
+      "label": "Kiernan Dewsbury-Hall",
+      "year": 2024,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "marc-guiu-2024",
+      "label": "Marc Guiu",
+      "year": 2024,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mathis-amougou-2024",
+      "label": "Mathis Amougou",
+      "year": 2024,
+      "subtitle": "AS Saint-Étienne",
+      "description": "Signed from AS Saint-Étienne",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mike-penders-2024",
+      "label": "Mike Penders",
+      "year": 2024,
+      "subtitle": "KRC Genk",
+      "description": "Signed from KRC Genk",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "pedro-neto-2024",
+      "label": "Pedro Neto",
+      "year": 2024,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "renato-veiga-2024",
+      "label": "Renato Veiga",
+      "year": 2024,
+      "subtitle": "FC Basel 1893",
+      "description": "Signed from FC Basel 1893",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "tosin-adarabioyo-2024",
+      "label": "Tosin Adarabioyo",
+      "year": 2024,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "alejandro-garnacho-2025",
+      "label": "Alejandro Garnacho",
+      "year": 2025,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "dario-essugo-2025",
+      "label": "Dário Essugo",
+      "year": 2025,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "estevao-2025",
+      "label": "Estêvão",
+      "year": 2025,
+      "subtitle": "Sociedade Esportiva Palmeiras",
+      "description": "Signed from Sociedade Esportiva Palmeiras",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "james-hillson-2025",
+      "label": "James Hillson",
+      "year": 2025,
+      "subtitle": "Wealdstone FC",
+      "description": "Signed from Wealdstone FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "jamie-gittens-2025",
+      "label": "Jamie Gittens",
+      "year": 2025,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "joao-pedro-2025",
+      "label": "João Pedro",
+      "year": 2025,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "jorrel-hato-2025",
+      "label": "Jorrel Hato",
+      "year": 2025,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "kendry-paez-2025",
+      "label": "Kendry Páez",
+      "year": 2025,
+      "subtitle": "Independiente del Valle",
+      "description": "Signed from Independiente del Valle",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "liam-delap-2025",
+      "label": "Liam Delap",
+      "year": 2025,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    },
+    {
+      "id": "mamadou-sarr-2025",
+      "label": "Mamadou Sarr",
+      "year": 2025,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-chelsea/alletransfers/verein/631"
+    }
+  ]
+}

@@ -1,0 +1,2466 @@
+{
+  "id": "burnley",
+  "slug": "burnley",
+  "title": "Burnley Timeline",
+  "shortTitle": "Burnley",
+  "description": "Place Burnley signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/burnley",
+  "theme": {
+    "primary": "#6C1D45",
+    "secondary": "#99D6EA",
+    "background": "#FFF3F8",
+    "text": "#1A0510"
+  },
+  "share": {
+    "title": "Burnley Timeline",
+    "description": "How far can you build the Burnley signing timeline?",
+    "hashtags": [
+      "Burnley",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Burnley Timeline Quiz - Burnley Signings Game",
+    "description": "Play a Burnley timeline quiz. Guess whether famous Burnley players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Burnley quiz",
+      "Burnley signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "john-clayton-1992",
+      "label": "John Clayton",
+      "year": 1992,
+      "subtitle": "FC Volendam",
+      "description": "Signed from FC Volendam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "steve-penney-1992",
+      "label": "Steve Penney",
+      "year": 1992,
+      "subtitle": "Heart of Midlothian FC",
+      "description": "Signed from Heart of Midlothian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "chris-vinnicombe-1993",
+      "label": "Chris Vinnicombe",
+      "year": 1993,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "david-eyres-1993",
+      "label": "David Eyres",
+      "year": 1993,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "kevin-russell-1993",
+      "label": "Kevin Russell",
+      "year": 1993,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "nathan-peel-1993",
+      "label": "Nathan Peel",
+      "year": 1993,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "nick-pickering-1993",
+      "label": "Nick Pickering",
+      "year": 1993,
+      "subtitle": "Darlington FC (- 2012)",
+      "description": "Signed from Darlington FC (- 2012)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ted-mcminn-1993",
+      "label": "Ted McMinn",
+      "year": 1993,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "tony-philliskirk-1993",
+      "label": "Tony Philliskirk",
+      "year": 1993,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "warren-joyce-1993",
+      "label": "Warren Joyce",
+      "year": 1993,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "wayne-russell-1993",
+      "label": "Wayne Russell",
+      "year": 1993,
+      "subtitle": "Ebbw Vale",
+      "description": "Signed from Ebbw Vale",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "alan-harper-1994",
+      "label": "Alan Harper",
+      "year": 1994,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "derek-adams-1994",
+      "label": "Derek Adams",
+      "year": 1994,
+      "subtitle": "Aberdeen FC",
+      "description": "Signed from Aberdeen FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "gary-parkinson-1994",
+      "label": "Gary Parkinson",
+      "year": 1994,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "gerry-harrison-1994",
+      "label": "Gerry Harrison",
+      "year": 1994,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jamie-hoyland-1994",
+      "label": "Jamie Hoyland",
+      "year": 1994,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "john-gayle-1994",
+      "label": "John Gayle",
+      "year": 1994,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "kurt-nogan-1994",
+      "label": "Kurt Nogan",
+      "year": 1994,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "liam-robinson-1994",
+      "label": "Liam Robinson",
+      "year": 1994,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "mark-winstanley-1994",
+      "label": "Mark Winstanley",
+      "year": 1994,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "steve-thompson-1994",
+      "label": "Steve Thompson",
+      "year": 1994,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "andrew-cooke-1995",
+      "label": "Andrew Cooke",
+      "year": 1995,
+      "subtitle": "Newtown AFC",
+      "description": "Signed from Newtown AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "dino-maamria-1995",
+      "label": "Dino Maamria",
+      "year": 1995,
+      "subtitle": "Club Olympique de Transports",
+      "description": "Signed from Club Olympique de Transports",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "damian-matthew-1996",
+      "label": "Damian Matthew",
+      "year": 1996,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "doug-hodgson-1996",
+      "label": "Doug Hodgson",
+      "year": 1996,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "glen-little-1996",
+      "label": "Glen Little",
+      "year": 1996,
+      "subtitle": "Glentoran FC",
+      "description": "Signed from Glentoran FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "nigel-gleghorn-1996",
+      "label": "Nigel Gleghorn",
+      "year": 1996,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "paul-barnes-1996",
+      "label": "Paul Barnes",
+      "year": 1996,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "richard-huxford-1996",
+      "label": "Richard Huxford",
+      "year": 1996,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "vince-overson-1996",
+      "label": "Vince Overson",
+      "year": 1996,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "andy-payton-1997",
+      "label": "Andy Payton",
+      "year": 1997,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "chris-waddle-1997",
+      "label": "Chris Waddle",
+      "year": 1997,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "chris-woods-1997",
+      "label": "Chris Woods",
+      "year": 1997,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "gordon-cowans-1997",
+      "label": "Gordon Cowans",
+      "year": 1997,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "kevin-henderson-1997",
+      "label": "Kevin Henderson",
+      "year": 1997,
+      "subtitle": "Morpeth Town AFC",
+      "description": "Signed from Morpeth Town AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "lee-howey-1997",
+      "label": "Lee Howey",
+      "year": 1997,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "marco-gentile-1997",
+      "label": "Marco Gentile",
+      "year": 1997,
+      "subtitle": "MVV Maastricht",
+      "description": "Signed from MVV Maastricht",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "mark-ford-1997",
+      "label": "Mark Ford",
+      "year": 1997,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "mark-robertson-1997",
+      "label": "Mark Robertson",
+      "year": 1997,
+      "subtitle": "Marconi Stallions FC",
+      "description": "Signed from Marconi Stallions FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "mike-williams-1997",
+      "label": "Mike Williams",
+      "year": 1997,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "neil-moore-1997",
+      "label": "Neil Moore",
+      "year": 1997,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "noel-frankum-1997",
+      "label": "Noel Frankum",
+      "year": 1997,
+      "subtitle": "Tooting & Mitcham FC",
+      "description": "Signed from Tooting & Mitcham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "steve-blatherwick-1997",
+      "label": "Steve Blatherwick",
+      "year": 1997,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "tony-parks-1997",
+      "label": "Tony Parks",
+      "year": 1997,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ally-pickering-1998",
+      "label": "Ally Pickering",
+      "year": 1998,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "brian-reid-1998",
+      "label": "Brian Reid",
+      "year": 1998,
+      "subtitle": "Greenock Morton FC",
+      "description": "Signed from Greenock Morton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "gordon-armstrong-1998",
+      "label": "Gordon Armstrong",
+      "year": 1998,
+      "subtitle": "Bury FC",
+      "description": "Signed from Bury FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "graham-branch-1998",
+      "label": "Graham Branch",
+      "year": 1998,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "micky-mellon-1998",
+      "label": "Micky Mellon",
+      "year": 1998,
+      "subtitle": "Tranmere Rovers",
+      "description": "Signed from Tranmere Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "paul-crichton-1998",
+      "label": "Paul Crichton",
+      "year": 1998,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ronnie-jepson-1998",
+      "label": "Ronnie Jepson",
+      "year": 1998,
+      "subtitle": "Oldham Athletic",
+      "description": "Signed from Oldham Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "rune-andre-vindheim-1998",
+      "label": "Rune André Vindheim",
+      "year": 1998,
+      "subtitle": "Fana Fotball",
+      "description": "Signed from Fana Fotball",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "steve-davis-1998",
+      "label": "Steve Davis",
+      "year": 1998,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "steve-morgan-1998",
+      "label": "Steve Morgan",
+      "year": 1998,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "tom-cowan-1998",
+      "label": "Tom Cowan",
+      "year": 1998,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "alan-lee-1999",
+      "label": "Alan Lee",
+      "year": 1999,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "dean-west-1999",
+      "label": "Dean West",
+      "year": 1999,
+      "subtitle": "Bury FC",
+      "description": "Signed from Bury FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ian-cox-1999",
+      "label": "Ian Cox",
+      "year": 1999,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ian-wright-1999",
+      "label": "Ian Wright",
+      "year": 1999,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "john-mullin-1999",
+      "label": "John Mullin",
+      "year": 1999,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "mitchell-thomas-1999",
+      "label": "Mitchell Thomas",
+      "year": 1999,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "paul-cook-1999",
+      "label": "Paul Cook",
+      "year": 1999,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "stephen-grant-1999",
+      "label": "Stephen Grant",
+      "year": 1999,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "danny-pitham-2000",
+      "label": "Danny Pitham",
+      "year": 2000,
+      "subtitle": "Bedworth United",
+      "description": "Signed from Bedworth United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "gareth-taylor-2000",
+      "label": "Gareth Taylor",
+      "year": 2000,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ian-thomas-moore-2000",
+      "label": "Ian Thomas-Moore",
+      "year": 2000,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "kevin-ball-2000",
+      "label": "Kevin Ball",
+      "year": 2000,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "lee-briscoe-2000",
+      "label": "Lee Briscoe",
+      "year": 2000,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "nikolaos-michopoulos-2000",
+      "label": "Nikolaos Michopoulos",
+      "year": 2000,
+      "subtitle": "PAOK Thessaloniki",
+      "description": "Signed from PAOK Thessaloniki",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "phil-gray-2000",
+      "label": "Phil Gray",
+      "year": 2000,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "scott-oakes-2000",
+      "label": "Scott Oakes",
+      "year": 2000,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "alan-moore-2001",
+      "label": "Alan Moore",
+      "year": 2001,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "arthur-gnohere-2001",
+      "label": "Arthur Gnohéré",
+      "year": 2001,
+      "subtitle": "SM Caen",
+      "description": "Signed from SM Caen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "dimitrios-papadopoulos-2001",
+      "label": "Dimitrios Papadopoulos",
+      "year": 2001,
+      "subtitle": "Akratitos Ano Liosion",
+      "description": "Signed from Akratitos Ano Liosion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "luigi-cennamo-2001",
+      "label": "Luigi Cennamo",
+      "year": 2001,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "mark-mcgregor-2001",
+      "label": "Mark McGregor",
+      "year": 2001,
+      "subtitle": "Wrexham AFC",
+      "description": "Signed from Wrexham AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "paul-gascoigne-2001",
+      "label": "Paul Gascoigne",
+      "year": 2001,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "tony-ellis-2001",
+      "label": "Tony Ellis",
+      "year": 2001,
+      "subtitle": "Rochdale AFC",
+      "description": "Signed from Rochdale AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "tony-grant-2001",
+      "label": "Tony Grant",
+      "year": 2001,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "drissa-diallo-2002",
+      "label": "Drissa Diallo",
+      "year": 2002,
+      "subtitle": "KV Mechelen",
+      "description": "Signed from KV Mechelen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "brian-jensen-2003",
+      "label": "Brian Jensen",
+      "year": 2003,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "david-may-2003",
+      "label": "David May",
+      "year": 2003,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "lee-roche-2003",
+      "label": "Lee Roche",
+      "year": 2003,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "mohamed-camara-2003",
+      "label": "Mohamed Camara",
+      "year": 2003,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "nathan-abbey-2003",
+      "label": "Nathan Abbey",
+      "year": 2003,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "amadou-sanokho-2004",
+      "label": "Amadou Sanokho",
+      "year": 2004,
+      "subtitle": "AC Sangiustese",
+      "description": "Signed from AC Sangiustese",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "danny-coyne-2004",
+      "label": "Danny Coyne",
+      "year": 2004,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "frank-sinclair-2004",
+      "label": "Frank Sinclair",
+      "year": 2004,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "james-o-connor-2004",
+      "label": "James O'Connor",
+      "year": 2004,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jean-louis-valois-2004",
+      "label": "Jean-Louis Valois",
+      "year": 2004,
+      "subtitle": "Clyde FC",
+      "description": "Signed from Clyde FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "john-mcgreal-2004",
+      "label": "John McGreal",
+      "year": 2004,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "john-oster-2004",
+      "label": "John Oster",
+      "year": 2004,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "mark-yates-2004",
+      "label": "Mark Yates",
+      "year": 2004,
+      "subtitle": "Cheltenham Town",
+      "description": "Signed from Cheltenham Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "micah-hyde-2004",
+      "label": "Micah Hyde",
+      "year": 2004,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "michael-duff-2004",
+      "label": "Michael Duff",
+      "year": 2004,
+      "subtitle": "Cheltenham Town",
+      "description": "Signed from Cheltenham Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "alan-mahon-2005",
+      "label": "Alan Mahon",
+      "year": 2005,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "andy-gray-2005",
+      "label": "Andy Gray",
+      "year": 2005,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "daniel-karbassiyoon-2005",
+      "label": "Daniel Karbassiyoon",
+      "year": 2005,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "duane-courtney-2005",
+      "label": "Duane Courtney",
+      "year": 2005,
+      "subtitle": "AFC Telford United",
+      "description": "Signed from AFC Telford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "garreth-o-connor-2005",
+      "label": "Garreth O'Connor",
+      "year": 2005,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "gifton-noel-williams-2005",
+      "label": "Gifton Noel-Williams",
+      "year": 2005,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "john-spicer-2005",
+      "label": "John Spicer",
+      "year": 2005,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jon-harley-2005",
+      "label": "Jon Harley",
+      "year": 2005,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "wade-elliott-2005",
+      "label": "Wade Elliott",
+      "year": 2005,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "wayne-thomas-2005",
+      "label": "Wayne Thomas",
+      "year": 2005,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "joey-gudjonsson-2006",
+      "label": "Joey Gudjónsson",
+      "year": 2006,
+      "subtitle": "AZ Alkmaar",
+      "description": "Signed from AZ Alkmaar",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "stephen-foster-2006",
+      "label": "Stephen Foster",
+      "year": 2006,
+      "subtitle": "Crewe Alexandra",
+      "description": "Signed from Crewe Alexandra",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "steve-jones-2006",
+      "label": "Steve Jones",
+      "year": 2006,
+      "subtitle": "Crewe Alexandra",
+      "description": "Signed from Crewe Alexandra",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "steven-caldwell-2006",
+      "label": "Steven Caldwell",
+      "year": 2006,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "besart-berisha-2007",
+      "label": "Besart Berisha",
+      "year": 2007,
+      "subtitle": "Hamburger SV",
+      "description": "Signed from Hamburger SV",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "clarke-carlisle-2007",
+      "label": "Clarke Carlisle",
+      "year": 2007,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "david-unsworth-2007",
+      "label": "David Unsworth",
+      "year": 2007,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "gabor-kiraly-2007",
+      "label": "Gábor Király",
+      "year": 2007,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "graham-alexander-2007",
+      "label": "Graham Alexander",
+      "year": 2007,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "stephen-jordan-2007",
+      "label": "Stephen Jordan",
+      "year": 2007,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "chris-eagles-2008",
+      "label": "Chris Eagles",
+      "year": 2008,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "christian-kalvenes-2008",
+      "label": "Christian Kalvenes",
+      "year": 2008,
+      "subtitle": "Dundee United FC",
+      "description": "Signed from Dundee United FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "diego-penny-2008",
+      "label": "Diego Penny",
+      "year": 2008,
+      "subtitle": "Coronel Bolognesi",
+      "description": "Signed from Coronel Bolognesi",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "kevin-mcdonald-2008",
+      "label": "Kevin McDonald",
+      "year": 2008,
+      "subtitle": "Dundee FC",
+      "description": "Signed from Dundee FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "martin-paterson-2008",
+      "label": "Martin Paterson",
+      "year": 2008,
+      "subtitle": "Scunthorpe United",
+      "description": "Signed from Scunthorpe United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "remco-van-der-schaaf-2008",
+      "label": "Remco van der Schaaf",
+      "year": 2008,
+      "subtitle": "Vitesse Arnhem",
+      "description": "Signed from Vitesse Arnhem",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "steven-thompson-2008",
+      "label": "Steven Thompson",
+      "year": 2008,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "andre-bikey-2009",
+      "label": "André Bikey",
+      "year": 2009,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "brian-easton-2009",
+      "label": "Brian Easton",
+      "year": 2009,
+      "subtitle": "Hamilton Academical FC",
+      "description": "Signed from Hamilton Academical FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "danny-fox-2009",
+      "label": "Danny Fox",
+      "year": 2009,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "david-edgar-2009",
+      "label": "David Edgar",
+      "year": 2009,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jonathan-lund-2009",
+      "label": "Jonathan Lund",
+      "year": 2009,
+      "subtitle": "Grimsby Town",
+      "description": "Signed from Grimsby Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "kevin-long-2009",
+      "label": "Kevin Long",
+      "year": 2009,
+      "subtitle": "Cork City FC",
+      "description": "Signed from Cork City FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "leon-cort-2009",
+      "label": "Leon Cort",
+      "year": 2009,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "martin-fearon-2009",
+      "label": "Martin Fearon",
+      "year": 2009,
+      "subtitle": "Accrington Stanley",
+      "description": "Signed from Accrington Stanley",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "nicky-weaver-2009",
+      "label": "Nicky Weaver",
+      "year": 2009,
+      "subtitle": "Dundee United FC",
+      "description": "Signed from Dundee United FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "steven-fletcher-2009",
+      "label": "Steven Fletcher",
+      "year": 2009,
+      "subtitle": "Hibernian FC",
+      "description": "Signed from Hibernian FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "tyrone-mears-2009",
+      "label": "Tyrone Mears",
+      "year": 2009,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "charlie-austin-2010",
+      "label": "Charlie Austin",
+      "year": 2010,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "chris-iwelumo-2010",
+      "label": "Chris Iwelumo",
+      "year": 2010,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "dean-marney-2010",
+      "label": "Dean Marney",
+      "year": 2010,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "lee-grant-2010",
+      "label": "Lee Grant",
+      "year": 2010,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "marvin-bartley-2010",
+      "label": "Marvin Bartley",
+      "year": 2010,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ross-wallace-2010",
+      "label": "Ross Wallace",
+      "year": 2010,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ben-mee-2011",
+      "label": "Ben Mee",
+      "year": 2011,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "danny-ings-2011",
+      "label": "Danny Ings",
+      "year": 2011,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "danny-lafferty-2011",
+      "label": "Danny Lafferty",
+      "year": 2011,
+      "subtitle": "Derry City",
+      "description": "Signed from Derry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jon-stewart-2011",
+      "label": "Jon Stewart",
+      "year": 2011,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "junior-stanislas-2011",
+      "label": "Junior Stanislas",
+      "year": 2011,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "keith-treacy-2011",
+      "label": "Keith Treacy",
+      "year": 2011,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "zavon-hines-2011",
+      "label": "Zavon Hines",
+      "year": 2011,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "brian-stock-2012",
+      "label": "Brian Stock",
+      "year": 2012,
+      "subtitle": "Doncaster Rovers",
+      "description": "Signed from Doncaster Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "dane-richards-2012",
+      "label": "Dane Richards",
+      "year": 2012,
+      "subtitle": "Vancouver Whitecaps FC",
+      "description": "Signed from Vancouver Whitecaps FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "george-porter-2012",
+      "label": "George Porter",
+      "year": 2012,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jason-shackell-2012",
+      "label": "Jason Shackell",
+      "year": 2012,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "luke-o-neill-2012",
+      "label": "Luke O'Neill",
+      "year": 2012,
+      "subtitle": "Mansfield Town",
+      "description": "Signed from Mansfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "sam-vokes-2012",
+      "label": "Sam Vokes",
+      "year": 2012,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "alex-cisak-2013",
+      "label": "Alex Cisak",
+      "year": 2013,
+      "subtitle": "Oldham Athletic",
+      "description": "Signed from Oldham Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "david-jones-2013",
+      "label": "David Jones",
+      "year": 2013,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "joseph-mills-2013",
+      "label": "Joseph Mills",
+      "year": 2013,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "kyle-brownhill-2013",
+      "label": "Kyle Brownhill",
+      "year": 2013,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "nick-liversedge-2013",
+      "label": "Nick Liversedge",
+      "year": 2013,
+      "subtitle": "Whitby Town",
+      "description": "Signed from Whitby Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ryan-noble-2013",
+      "label": "Ryan Noble",
+      "year": 2013,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "scott-arfield-2013",
+      "label": "Scott Arfield",
+      "year": 2013,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "tom-heaton-2013",
+      "label": "Tom Heaton",
+      "year": 2013,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "george-boyd-2014",
+      "label": "George Boyd",
+      "year": 2014,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "lukas-jutkiewicz-2014",
+      "label": "Lukas Jutkiewicz",
+      "year": 2014,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "marvin-sordell-2014",
+      "label": "Marvin Sordell",
+      "year": 2014,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "matt-gilks-2014",
+      "label": "Matt Gilks",
+      "year": 2014,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "matthew-taylor-2014",
+      "label": "Matthew Taylor",
+      "year": 2014,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "michael-kightly-2014",
+      "label": "Michael Kightly",
+      "year": 2014,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "stephen-ward-2014",
+      "label": "Stephen Ward",
+      "year": 2014,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "steven-reid-2014",
+      "label": "Steven Reid",
+      "year": 2014,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "andre-gray-2015",
+      "label": "Andre Gray",
+      "year": 2015,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "george-green-2015",
+      "label": "George Green",
+      "year": 2015,
+      "subtitle": "Ossett Albion (- 2018)",
+      "description": "Signed from Ossett Albion (- 2018)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "james-tarkowski-2015",
+      "label": "James Tarkowski",
+      "year": 2015,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jelle-vossen-2015",
+      "label": "Jelle Vossen",
+      "year": 2015,
+      "subtitle": "KRC Genk",
+      "description": "Signed from KRC Genk",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "joey-barton-2015",
+      "label": "Joey Barton",
+      "year": 2015,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "matthew-lowton-2015",
+      "label": "Matthew Lowton",
+      "year": 2015,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "rouwen-hennings-2015",
+      "label": "Rouwen Hennings",
+      "year": 2015,
+      "subtitle": "Karlsruher SC",
+      "description": "Signed from Karlsruher SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "tendayi-darikwa-2015",
+      "label": "Tendayi Darikwa",
+      "year": 2015,
+      "subtitle": "Chesterfield FC",
+      "description": "Signed from Chesterfield FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ashley-westwood-2016",
+      "label": "Ashley Westwood",
+      "year": 2016,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "harry-flowers-2016",
+      "label": "Harry Flowers",
+      "year": 2016,
+      "subtitle": "Brocton FC",
+      "description": "Signed from Brocton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jeff-hendrick-2016",
+      "label": "Jeff Hendrick",
+      "year": 2016,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "johann-berg-gudmundsson-2016",
+      "label": "Jóhann Berg Gudmundsson",
+      "year": 2016,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "nick-pope-2016",
+      "label": "Nick Pope",
+      "year": 2016,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "robbie-brady-2016",
+      "label": "Robbie Brady",
+      "year": 2016,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "steven-defour-2016",
+      "label": "Steven Defour",
+      "year": 2016,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "adam-legzdins-2017",
+      "label": "Adam Legzdins",
+      "year": 2017,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "charlie-taylor-2017",
+      "label": "Charlie Taylor",
+      "year": 2017,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "chris-wood-2017",
+      "label": "Chris Wood",
+      "year": 2017,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jack-cork-2017",
+      "label": "Jack Cork",
+      "year": 2017,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jonathan-walters-2017",
+      "label": "Jonathan Walters",
+      "year": 2017,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "nahki-wells-2017",
+      "label": "Nahki Wells",
+      "year": 2017,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "phil-bardsley-2017",
+      "label": "Phil Bardsley",
+      "year": 2017,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ben-gibson-2018",
+      "label": "Ben Gibson",
+      "year": 2018,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "joe-hart-2018",
+      "label": "Joe Hart",
+      "year": 2018,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "matej-vydra-2018",
+      "label": "Matej Vydra",
+      "year": 2018,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "peter-crouch-2018",
+      "label": "Peter Crouch",
+      "year": 2018,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "bailey-peacock-farrell-2019",
+      "label": "Bailey Peacock-Farrell",
+      "year": 2019,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "erik-pieters-2019",
+      "label": "Erik Pieters",
+      "year": 2019,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jay-rodriguez-2019",
+      "label": "Jay Rodríguez",
+      "year": 2019,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "josh-brownhill-2019",
+      "label": "Josh Brownhill",
+      "year": 2019,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "dale-stephens-2020",
+      "label": "Dale Stephens",
+      "year": 2020,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "will-norris-2020",
+      "label": "Will Norris",
+      "year": 2020,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "connor-roberts-2021",
+      "label": "Connor Roberts",
+      "year": 2021,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "maxwel-cornet-2021",
+      "label": "Maxwel Cornet",
+      "year": 2021,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "nathan-collins-2021",
+      "label": "Nathan Collins",
+      "year": 2021,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "wayne-hennessey-2021",
+      "label": "Wayne Hennessey",
+      "year": 2021,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "wout-weghorst-2021",
+      "label": "Wout Weghorst",
+      "year": 2021,
+      "subtitle": "VfL Wolfsburg",
+      "description": "Signed from VfL Wolfsburg",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "ameen-al-dakhil-2022",
+      "label": "Ameen Al-Dakhil",
+      "year": 2022,
+      "subtitle": "Sint-Truidense VV",
+      "description": "Signed from Sint-Truidense VV",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "anass-zaroury-2022",
+      "label": "Anass Zaroury",
+      "year": 2022,
+      "subtitle": "Royal Charleroi SC",
+      "description": "Signed from Royal Charleroi SC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "arijanet-muric-2022",
+      "label": "Arijanet Murić",
+      "year": 2022,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "darko-churlinov-2022",
+      "label": "Darko Churlinov",
+      "year": 2022,
+      "subtitle": "VfB Stuttgart",
+      "description": "Signed from VfB Stuttgart",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "denis-franchi-2022",
+      "label": "Denis Franchi",
+      "year": 2022,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "hjalmar-ekdal-2022",
+      "label": "Hjalmar Ekdal",
+      "year": 2022,
+      "subtitle": "Djurgårdens IF",
+      "description": "Signed from Djurgårdens IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "josh-cullen-2022",
+      "label": "Josh Cullen",
+      "year": 2022,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "luke-mcnally-2022",
+      "label": "Luke McNally",
+      "year": 2022,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "lyle-foster-2022",
+      "label": "Lyle Foster",
+      "year": 2022,
+      "subtitle": "KVC Westerlo",
+      "description": "Signed from KVC Westerlo",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "manuel-benson-2022",
+      "label": "Manuel Benson",
+      "year": 2022,
+      "subtitle": "Royal Antwerp FC",
+      "description": "Signed from Royal Antwerp FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "samuel-bastien-2022",
+      "label": "Samuel Bastien",
+      "year": 2022,
+      "subtitle": "Standard Liège",
+      "description": "Signed from Standard Liège",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "scott-twine-2022",
+      "label": "Scott Twine",
+      "year": 2022,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "vitinho-2022",
+      "label": "Vitinho",
+      "year": 2022,
+      "subtitle": "Cercle Brugge",
+      "description": "Signed from Cercle Brugge",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "dara-o-shea-2023",
+      "label": "Dara O'Shea",
+      "year": 2023,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "han-noah-massengo-2023",
+      "label": "Han-Noah Massengo",
+      "year": 2023,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "hannes-delcroix-2023",
+      "label": "Hannes Delcroix",
+      "year": 2023,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "james-trafford-2023",
+      "label": "James Trafford",
+      "year": 2023,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jordan-beyer-2023",
+      "label": "Jordan Beyer",
+      "year": 2023,
+      "subtitle": "Borussia Mönchengladbach",
+      "description": "Signed from Borussia Mönchengladbach",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "lawrence-vigouroux-2023",
+      "label": "Lawrence Vigouroux",
+      "year": 2023,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "luca-koleosho-2023",
+      "label": "Luca Koleosho",
+      "year": 2023,
+      "subtitle": "RCD Espanyol B",
+      "description": "Signed from RCD Espanyol B",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "michael-obafemi-2023",
+      "label": "Michael Obafemi",
+      "year": 2023,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "nathan-redmond-2023",
+      "label": "Nathan Redmond",
+      "year": 2023,
+      "subtitle": "Besiktas JK",
+      "description": "Signed from Besiktas JK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "sander-berge-2023",
+      "label": "Sander Berge",
+      "year": 2023,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "wilson-odobert-2023",
+      "label": "Wilson Odobert",
+      "year": 2023,
+      "subtitle": "ESTAC Troyes",
+      "description": "Signed from ESTAC Troyes",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "zeki-amdouni-2023",
+      "label": "Zeki Amdouni",
+      "year": 2023,
+      "subtitle": "FC Basel 1893",
+      "description": "Signed from FC Basel 1893",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "andreas-hountondji-2024",
+      "label": "Andréas Hountondji",
+      "year": 2024,
+      "subtitle": "SM Caen",
+      "description": "Signed from SM Caen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "etienne-green-2024",
+      "label": "Etienne Green",
+      "year": 2024,
+      "subtitle": "AS Saint-Étienne",
+      "description": "Signed from AS Saint-Étienne",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "hannibal-2024",
+      "label": "Hannibal",
+      "year": 2024,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "joe-worrall-2024",
+      "label": "Joe Worrall",
+      "year": 2024,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "jonjo-shelvey-2024",
+      "label": "Jonjo Shelvey",
+      "year": 2024,
+      "subtitle": "Eyüpspor",
+      "description": "Signed from Eyüpspor",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "josh-laurent-2024",
+      "label": "Josh Laurent",
+      "year": 2024,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "lucas-pires-2024",
+      "label": "Lucas Pires",
+      "year": 2024,
+      "subtitle": "Santos FC",
+      "description": "Signed from Santos FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "maxime-esteve-2024",
+      "label": "Maxime Estève",
+      "year": 2024,
+      "subtitle": "Montpellier HSC",
+      "description": "Signed from Montpellier HSC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "mike-tresor-2024",
+      "label": "Mike Tresor",
+      "year": 2024,
+      "subtitle": "KRC Genk",
+      "description": "Signed from KRC Genk",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "oliver-sonne-2024",
+      "label": "Oliver Sonne",
+      "year": 2024,
+      "subtitle": "Silkeborg IF",
+      "description": "Signed from Silkeborg IF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "oluwaseun-adewumi-2024",
+      "label": "Oluwaseun Adewumi",
+      "year": 2024,
+      "subtitle": "Floridsdorfer AC",
+      "description": "Signed from Floridsdorfer AC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "shurandy-sambo-2024",
+      "label": "Shurandy Sambo",
+      "year": 2024,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    },
+    {
+      "id": "vaclav-hladky-2024",
+      "label": "Václav Hladký",
+      "year": 2024,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-burnley/alletransfers/verein/1132"
+    }
+  ]
+}

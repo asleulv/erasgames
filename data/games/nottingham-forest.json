@@ -1,0 +1,2826 @@
+{
+  "id": "nottingham-forest",
+  "slug": "nottingham-forest",
+  "title": "Forest Timeline",
+  "shortTitle": "Forest",
+  "description": "Place Nottingham Forest signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/nottingham-forest",
+  "theme": {
+    "primary": "#DD0000",
+    "secondary": "#FFFFFF",
+    "background": "#FFF4F4",
+    "text": "#3E0000"
+  },
+  "share": {
+    "title": "Forest Timeline",
+    "description": "How far can you build the Nottingham Forest signing timeline?",
+    "hashtags": [
+      "Forest",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Forest Timeline Quiz - Nottingham Forest Signings Game",
+    "description": "Play a Nottingham Forest timeline quiz. Guess whether famous Nottingham Forest players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Nottingham Forest quiz",
+      "Nottingham Forest signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "gary-bannister-1992",
+      "label": "Gary Bannister",
+      "year": 1992,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "neil-webb-1992",
+      "label": "Neil Webb",
+      "year": 1992,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "ray-mckinnon-1992",
+      "label": "Ray McKinnon",
+      "year": 1992,
+      "subtitle": "Dundee United FC",
+      "description": "Signed from Dundee United FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "robert-rosario-1992",
+      "label": "Robert Rosario",
+      "year": 1992,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "steve-blatherwick-1992",
+      "label": "Steve Blatherwick",
+      "year": 1992,
+      "subtitle": "Notts County",
+      "description": "Signed from Notts County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "alf-inge-haaland-1993",
+      "label": "Alf-Inge Haaland",
+      "year": 1993,
+      "subtitle": "Bryne FK",
+      "description": "Signed from Bryne FK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "colin-cooper-1993",
+      "label": "Colin Cooper",
+      "year": 1993,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "david-phillips-1993",
+      "label": "David Phillips",
+      "year": 1993,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "des-lyttle-1993",
+      "label": "Des Lyttle",
+      "year": 1993,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "gary-bull-1993",
+      "label": "Gary Bull",
+      "year": 1993,
+      "subtitle": "Barnet FC",
+      "description": "Signed from Barnet FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jason-lee-1993",
+      "label": "Jason Lee",
+      "year": 1993,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "lars-bohinen-1993",
+      "label": "Lars Bohinen",
+      "year": 1993,
+      "subtitle": "BSC Young Boys",
+      "description": "Signed from BSC Young Boys",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "lee-harvey-1993",
+      "label": "Lee Harvey",
+      "year": 1993,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "stan-collymore-1993",
+      "label": "Stan Collymore",
+      "year": 1993,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "tommy-wright-1993",
+      "label": "Tommy Wright",
+      "year": 1993,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "bryan-roy-1994",
+      "label": "Bryan Roy",
+      "year": 1994,
+      "subtitle": "Foggia Calcio",
+      "description": "Signed from Foggia Calcio",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "malcolm-rigby-1994",
+      "label": "Malcolm Rigby",
+      "year": 1994,
+      "subtitle": "Notts County",
+      "description": "Signed from Notts County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "alan-fettis-1995",
+      "label": "Alan Fettis",
+      "year": 1995,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "andrea-silenzi-1995",
+      "label": "Andrea Silenzi",
+      "year": 1995,
+      "subtitle": "Torino Calcio",
+      "description": "Signed from Torino Calcio",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "chris-bart-williams-1995",
+      "label": "Chris Bart-Williams",
+      "year": 1995,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "kevin-campbell-1995",
+      "label": "Kevin Campbell",
+      "year": 1995,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "lutz-pfannenstiel-1995",
+      "label": "Lutz Pfannenstiel",
+      "year": 1995,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "richard-irving-1995",
+      "label": "Richard Irving",
+      "year": 1995,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "chris-allen-1996",
+      "label": "Chris Allen",
+      "year": 1996,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "dean-saunders-1996",
+      "label": "Dean Saunders",
+      "year": 1996,
+      "subtitle": "Galatasaray",
+      "description": "Signed from Galatasaray",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "ian-thomas-moore-1996",
+      "label": "Ian Thomas-Moore",
+      "year": 1996,
+      "subtitle": "Tranmere Rovers",
+      "description": "Signed from Tranmere Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nikola-jerkan-1996",
+      "label": "Nikola Jerkan",
+      "year": 1996,
+      "subtitle": "Real Oviedo",
+      "description": "Signed from Real Oviedo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "pierre-van-hooijdonk-1996",
+      "label": "Pierre van Hooijdonk",
+      "year": 1996,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "alan-rogers-1997",
+      "label": "Alan Rogers",
+      "year": 1997,
+      "subtitle": "Tranmere Rovers",
+      "description": "Signed from Tranmere Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "andy-johnson-1997",
+      "label": "Andy Johnson",
+      "year": 1997,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "chris-doig-1997",
+      "label": "Chris Doig",
+      "year": 1997,
+      "subtitle": "Queen of the South FC",
+      "description": "Signed from Queen of the South FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "christian-edwards-1997",
+      "label": "Christian Edwards",
+      "year": 1997,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "dave-beasant-1997",
+      "label": "Dave Beasant",
+      "year": 1997,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "geoff-thomas-1997",
+      "label": "Geoff Thomas",
+      "year": 1997,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "glyn-hodges-1997",
+      "label": "Glyn Hodges",
+      "year": 1997,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "marco-pascolo-1997",
+      "label": "Marco Pascolo",
+      "year": 1997,
+      "subtitle": "Cagliari Calcio",
+      "description": "Signed from Cagliari Calcio",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "thierry-bonalair-1997",
+      "label": "Thierry Bonalair",
+      "year": 1997,
+      "subtitle": "Neuchâtel Xamax",
+      "description": "Signed from Neuchâtel Xamax",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "andy-gray-1998",
+      "label": "Andy Gray",
+      "year": 1998,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "bernard-allou-1998",
+      "label": "Bernard Allou",
+      "year": 1998,
+      "subtitle": "Nagoya Grampus",
+      "description": "Signed from Nagoya Grampus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "carlton-palmer-1998",
+      "label": "Carlton Palmer",
+      "year": 1998,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "dougie-freedman-1998",
+      "label": "Dougie Freedman",
+      "year": 1998,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jesper-mattsson-1998",
+      "label": "Jesper Mattsson",
+      "year": 1998,
+      "subtitle": "Halmstads BK",
+      "description": "Signed from Halmstads BK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "neil-shipperley-1998",
+      "label": "Neil Shipperley",
+      "year": 1998,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nigel-quashie-1998",
+      "label": "Nigel Quashie",
+      "year": 1998,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "colin-calderwood-1999",
+      "label": "Colin Calderwood",
+      "year": 1999,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "gianluca-petrachi-1999",
+      "label": "Gianluca Petrachi",
+      "year": 1999,
+      "subtitle": "AC Perugia",
+      "description": "Signed from AC Perugia",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jim-brennan-1999",
+      "label": "Jim Brennan",
+      "year": 1999,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "mathieu-louis-jean-1999",
+      "label": "Mathieu Louis-Jean",
+      "year": 1999,
+      "subtitle": "Le Havre AC",
+      "description": "Signed from Le Havre AC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "moreno-mannini-1999",
+      "label": "Moreno Mannini",
+      "year": 1999,
+      "subtitle": "UC Sampdoria",
+      "description": "Signed from UC Sampdoria",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "riccardo-scimeca-1999",
+      "label": "Riccardo Scimeca",
+      "year": 1999,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "salvatore-matrecano-1999",
+      "label": "Salvatore Matrecano",
+      "year": 1999,
+      "subtitle": "AC Perugia",
+      "description": "Signed from AC Perugia",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "stern-john-1999",
+      "label": "Stern John",
+      "year": 1999,
+      "subtitle": "Columbus Crew",
+      "description": "Signed from Columbus Crew",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "tony-vaughan-1999",
+      "label": "Tony Vaughan",
+      "year": 1999,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "david-johnson-2000",
+      "label": "David Johnson",
+      "year": 2000,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "gary-jones-2000",
+      "label": "Gary Jones",
+      "year": 2000,
+      "subtitle": "Tranmere Rovers",
+      "description": "Signed from Tranmere Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "steve-collis-2000",
+      "label": "Steve Collis",
+      "year": 2000,
+      "subtitle": "Barnet FC",
+      "description": "Signed from Barnet FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "damien-lynch-2001",
+      "label": "Damien Lynch",
+      "year": 2001,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "darren-ward-2001",
+      "label": "Darren Ward",
+      "year": 2001,
+      "subtitle": "Notts County",
+      "description": "Signed from Notts County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nicky-summerbee-2001",
+      "label": "Nicky Summerbee",
+      "year": 2001,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "davy-oyen-2002",
+      "label": "Davy Oyen",
+      "year": 2002,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "des-walker-2002",
+      "label": "Des Walker",
+      "year": 2002,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "eoin-jess-2002",
+      "label": "Eoin Jess",
+      "year": 2002,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "marcus-hall-2002",
+      "label": "Marcus Hall",
+      "year": 2002,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "mickael-antoine-curier-2002",
+      "label": "Mickaël Antoine-Curier",
+      "year": 2002,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "scott-tynan-2002",
+      "label": "Scott Tynan",
+      "year": 2002,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "brynjar-gunnarsson-2003",
+      "label": "Brynjar Gunnarsson",
+      "year": 2003,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "danny-sonner-2003",
+      "label": "Danny Sonner",
+      "year": 2003,
+      "subtitle": "Walsall FC",
+      "description": "Signed from Walsall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "david-tarka-2003",
+      "label": "David Tarka",
+      "year": 2003,
+      "subtitle": "Perth Glory",
+      "description": "Signed from Perth Glory",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "gareth-taylor-2003",
+      "label": "Gareth Taylor",
+      "year": 2003,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "marlon-king-2003",
+      "label": "Marlon King",
+      "year": 2003,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "paul-evans-2003",
+      "label": "Paul Evans",
+      "year": 2003,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "adam-nowland-2004",
+      "label": "Adam Nowland",
+      "year": 2004,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "andy-impey-2004",
+      "label": "Andy Impey",
+      "year": 2004,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "darryl-powell-2004",
+      "label": "Darryl Powell",
+      "year": 2004,
+      "subtitle": "Colorado Rapids",
+      "description": "Signed from Colorado Rapids",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "david-friio-2004",
+      "label": "David Friio",
+      "year": 2004,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "john-curtis-2004",
+      "label": "John Curtis",
+      "year": 2004,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "kevin-james-2004",
+      "label": "Kevin James",
+      "year": 2004,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "kris-commons-2004",
+      "label": "Kris Commons",
+      "year": 2004,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "neil-harris-2004",
+      "label": "Neil Harris",
+      "year": 2004,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "paul-gerrard-2004",
+      "label": "Paul Gerrard",
+      "year": 2004,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "danny-cullip-2005",
+      "label": "Danny Cullip",
+      "year": 2005,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "eugene-dadi-2005",
+      "label": "Eugène Dadi",
+      "year": 2005,
+      "subtitle": "Tranmere Rovers",
+      "description": "Signed from Tranmere Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "gary-holt-2005",
+      "label": "Gary Holt",
+      "year": 2005,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "gino-padula-2005",
+      "label": "Gino Padula",
+      "year": 2005,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "grant-holt-2005",
+      "label": "Grant Holt",
+      "year": 2005,
+      "subtitle": "Rochdale AFC",
+      "description": "Signed from Rochdale AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "ian-breckin-2005",
+      "label": "Ian Breckin",
+      "year": 2005,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "julian-bennett-2005",
+      "label": "Julian Bennett",
+      "year": 2005,
+      "subtitle": "Walsall FC",
+      "description": "Signed from Walsall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nathan-tyson-2005",
+      "label": "Nathan Tyson",
+      "year": 2005,
+      "subtitle": "Wycombe Wanderers",
+      "description": "Signed from Wycombe Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nicky-eaden-2005",
+      "label": "Nicky Eaden",
+      "year": 2005,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nicky-southall-2005",
+      "label": "Nicky Southall",
+      "year": 2005,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "rune-pedersen-2005",
+      "label": "Rune Pedersen",
+      "year": 2005,
+      "subtitle": "Aarhus GF",
+      "description": "Signed from Aarhus GF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "sammy-clingan-2005",
+      "label": "Sammy Clingan",
+      "year": 2005,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "scott-dobie-2005",
+      "label": "Scott Dobie",
+      "year": 2005,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "alan-power-2006",
+      "label": "Alan Power",
+      "year": 2006,
+      "subtitle": "Belvedere FC",
+      "description": "Signed from Belvedere FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "junior-agogo-2006",
+      "label": "Junior Agogo",
+      "year": 2006,
+      "subtitle": "Bristol Rovers",
+      "description": "Signed from Bristol Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "luke-chambers-2006",
+      "label": "Luke Chambers",
+      "year": 2006,
+      "subtitle": "Northampton Town",
+      "description": "Signed from Northampton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "arron-davies-2007",
+      "label": "Arron Davies",
+      "year": 2007,
+      "subtitle": "Yeovil Town",
+      "description": "Signed from Yeovil Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "barry-richardson-2007",
+      "label": "Barry Richardson",
+      "year": 2007,
+      "subtitle": "Doncaster Rovers",
+      "description": "Signed from Doncaster Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "chris-cohen-2007",
+      "label": "Chris Cohen",
+      "year": 2007,
+      "subtitle": "Yeovil Town",
+      "description": "Signed from Yeovil Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "garath-mccleary-2007",
+      "label": "Garath McCleary",
+      "year": 2007,
+      "subtitle": "Bromley FC",
+      "description": "Signed from Bromley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "matt-lockwood-2007",
+      "label": "Matt Lockwood",
+      "year": 2007,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "neil-lennon-2007",
+      "label": "Neil Lennon",
+      "year": 2007,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "richard-tait-2007",
+      "label": "Richard Tait",
+      "year": 2007,
+      "subtitle": "Curzon Ashton",
+      "description": "Signed from Curzon Ashton",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "andy-cole-2008",
+      "label": "Andy Cole",
+      "year": 2008,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "florin-purece-2008",
+      "label": "Florin Purece",
+      "year": 2008,
+      "subtitle": "CS Atletico Arad",
+      "description": "Signed from CS Atletico Arad",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "guy-moussi-2008",
+      "label": "Guy Moussi",
+      "year": 2008,
+      "subtitle": "Angers SCO",
+      "description": "Signed from Angers SCO",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "joe-garner-2008",
+      "label": "Joe Garner",
+      "year": 2008,
+      "subtitle": "Carlisle United",
+      "description": "Signed from Carlisle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "joel-lynch-2008",
+      "label": "Joel Lynch",
+      "year": 2008,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nialle-rodney-2008",
+      "label": "Nialle Rodney",
+      "year": 2008,
+      "subtitle": "Ilkeston FC (- 2017)",
+      "description": "Signed from Ilkeston FC (- 2017)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "robert-earnshaw-2008",
+      "label": "Robert Earnshaw",
+      "year": 2008,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "chris-gunter-2009",
+      "label": "Chris Gunter",
+      "year": 2009,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "david-mcgoldrick-2009",
+      "label": "David McGoldrick",
+      "year": 2009,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "dele-adebola-2009",
+      "label": "Dele Adebola",
+      "year": 2009,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "dexter-blackstock-2009",
+      "label": "Dexter Blackstock",
+      "year": 2009,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "lee-camp-2009",
+      "label": "Lee Camp",
+      "year": 2009,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "paul-mckenna-2009",
+      "label": "Paul McKenna",
+      "year": 2009,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "marcus-tudgay-2010",
+      "label": "Marcus Tudgay",
+      "year": 2010,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "rados-aw-majewski-2010",
+      "label": "Radosław Majewski",
+      "year": 2010,
+      "subtitle": "Polonia Warsaw",
+      "description": "Signed from Polonia Warsaw",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "robbie-findley-2010",
+      "label": "Robbie Findley",
+      "year": 2010,
+      "subtitle": "Real Salt Lake City",
+      "description": "Signed from Real Salt Lake City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "andy-reid-2011",
+      "label": "Andy Reid",
+      "year": 2011,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "dimitar-evtimov-2011",
+      "label": "Dimitar Evtimov",
+      "year": 2011,
+      "subtitle": "Chavdar Etropole",
+      "description": "Signed from Chavdar Etropole",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "george-boateng-2011",
+      "label": "George Boateng",
+      "year": 2011,
+      "subtitle": "Skoda Xanthi",
+      "description": "Signed from Skoda Xanthi",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "ishmael-miller-2011",
+      "label": "Ishmael Miller",
+      "year": 2011,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jonathan-greening-2011",
+      "label": "Jonathan Greening",
+      "year": 2011,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "marlon-harewood-2011",
+      "label": "Marlon Harewood",
+      "year": 2011,
+      "subtitle": "Guangzhou R&F",
+      "description": "Signed from Guangzhou R&F",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "matt-derbyshire-2011",
+      "label": "Matt Derbyshire",
+      "year": 2011,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "dan-harding-2012",
+      "label": "Dan Harding",
+      "year": 2012,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "danny-collins-2012",
+      "label": "Danny Collins",
+      "year": 2012,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "darius-henderson-2012",
+      "label": "Darius Henderson",
+      "year": 2012,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "greg-halford-2012",
+      "label": "Greg Halford",
+      "year": 2012,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "henri-lansbury-2012",
+      "label": "Henri Lansbury",
+      "year": 2012,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "khaled-al-rashidi-2012",
+      "label": "Khaled Al-Rashidi",
+      "year": 2012,
+      "subtitle": "Al-Arabi SC (Kuwait)",
+      "description": "Signed from Al-Arabi SC (Kuwait)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "simon-cox-2012",
+      "label": "Simon Cox",
+      "year": 2012,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "simon-gillett-2012",
+      "label": "Simon Gillett",
+      "year": 2012,
+      "subtitle": "Doncaster Rovers",
+      "description": "Signed from Doncaster Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "stephen-mclaughlin-2012",
+      "label": "Stephen McLaughlin",
+      "year": 2012,
+      "subtitle": "Derry City",
+      "description": "Signed from Derry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "djamel-abdoun-2013",
+      "label": "Djamel Abdoun",
+      "year": 2013,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "dorus-de-vries-2013",
+      "label": "Dorus de Vries",
+      "year": 2013,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "eric-lichaj-2013",
+      "label": "Eric Lichaj",
+      "year": 2013,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "gonzalo-jara-2013",
+      "label": "Gonzalo Jara",
+      "year": 2013,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jack-hobbs-2013",
+      "label": "Jack Hobbs",
+      "year": 2013,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jake-wholey-2013",
+      "label": "Jake Wholey",
+      "year": 2013,
+      "subtitle": "Ånge IF",
+      "description": "Signed from Ånge IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jamie-mackie-2013",
+      "label": "Jamie Mackie",
+      "year": 2013,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jamie-paterson-2013",
+      "label": "Jamie Paterson",
+      "year": 2013,
+      "subtitle": "Walsall FC",
+      "description": "Signed from Walsall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "rafik-djebbour-2013",
+      "label": "Rafik Djebbour",
+      "year": 2013,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "britt-assombalonga-2014",
+      "label": "Britt Assombalonga",
+      "year": 2014,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "chris-burke-2014",
+      "label": "Chris Burke",
+      "year": 2014,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "danny-fox-2014",
+      "label": "Danny Fox",
+      "year": 2014,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "david-vaughan-2014",
+      "label": "David Vaughan",
+      "year": 2014,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "josh-macdonald-2014",
+      "label": "Josh MacDonald",
+      "year": 2014,
+      "subtitle": "Sydney FC II",
+      "description": "Signed from Sydney FC II",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "lars-veldwijk-2014",
+      "label": "Lars Veldwijk",
+      "year": 2014,
+      "subtitle": "SBV Excelsior",
+      "description": "Signed from SBV Excelsior",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "louis-laing-2014",
+      "label": "Louis Laing",
+      "year": 2014,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "matty-fryatt-2014",
+      "label": "Matty Fryatt",
+      "year": 2014,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "michael-mancienne-2014",
+      "label": "Michael Mancienne",
+      "year": 2014,
+      "subtitle": "Hamburger SV",
+      "description": "Signed from Hamburger SV",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "michail-antonio-2014",
+      "label": "Michail Antonio",
+      "year": 2014,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "robert-tesche-2014",
+      "label": "Robert Tesche",
+      "year": 2014,
+      "subtitle": "Hamburger SV",
+      "description": "Signed from Hamburger SV",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "dani-pinillos-2015",
+      "label": "Dani Pinillos",
+      "year": 2015,
+      "subtitle": "Córdoba CF",
+      "description": "Signed from Córdoba CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "james-thorne-2015",
+      "label": "James Thorne",
+      "year": 2015,
+      "subtitle": "Macclesfield Town FC",
+      "description": "Signed from Macclesfield Town FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jamie-ward-2015",
+      "label": "Jamie Ward",
+      "year": 2015,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "matt-mills-2015",
+      "label": "Matt Mills",
+      "year": 2015,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "apostolos-vellios-2016",
+      "label": "Apostolos Vellios",
+      "year": 2016,
+      "subtitle": "Iraklis Thessaloniki",
+      "description": "Signed from Iraklis Thessaloniki",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "armand-traore-2016",
+      "label": "Armand Traoré",
+      "year": 2016,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "damien-perquis-2016",
+      "label": "Damien Perquis",
+      "year": 2016,
+      "subtitle": "Toronto FC",
+      "description": "Signed from Toronto FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "gboly-ariyibi-2016",
+      "label": "Gboly Ariyibi",
+      "year": 2016,
+      "subtitle": "Chesterfield FC",
+      "description": "Signed from Chesterfield FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "lica-2016",
+      "label": "Licá",
+      "year": 2016,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "mustapha-carayol-2016",
+      "label": "Mustapha Carayol",
+      "year": 2016,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "stephen-henderson-2016",
+      "label": "Stephen Henderson",
+      "year": 2016,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "thomas-lam-2016",
+      "label": "Thomas Lam",
+      "year": 2016,
+      "subtitle": "PEC Zwolle",
+      "description": "Signed from PEC Zwolle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "vladimir-stojkovic-2016",
+      "label": "Vladimir Stojkovic",
+      "year": 2016,
+      "subtitle": "Maccabi Haifa",
+      "description": "Signed from Maccabi Haifa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "zach-clough-2016",
+      "label": "Zach Clough",
+      "year": 2016,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "andreas-bouchalakis-2017",
+      "label": "Andreas Bouchalakis",
+      "year": 2017,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "barrie-mckay-2017",
+      "label": "Barrie McKay",
+      "year": 2017,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "ben-watson-2017",
+      "label": "Ben Watson",
+      "year": 2017,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "daryl-murphy-2017",
+      "label": "Daryl Murphy",
+      "year": 2017,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jason-cummings-2017",
+      "label": "Jason Cummings",
+      "year": 2017,
+      "subtitle": "Hibernian FC",
+      "description": "Signed from Hibernian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "joe-lolley-2017",
+      "label": "Joe Lolley",
+      "year": 2017,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "liam-bossin-2017",
+      "label": "Liam Bossin",
+      "year": 2017,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "liam-bridcutt-2017",
+      "label": "Liam Bridcutt",
+      "year": 2017,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "stefanos-kapino-2017",
+      "label": "Stefanos Kapino",
+      "year": 2017,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "tendayi-darikwa-2017",
+      "label": "Tendayi Darikwa",
+      "year": 2017,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "alexander-milosevic-2018",
+      "label": "Alexander Milosevic",
+      "year": 2018,
+      "subtitle": "AIK",
+      "description": "Signed from AIK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "costel-pantilimon-2018",
+      "label": "Costel Pantilimon",
+      "year": 2018,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "el-arbi-hillel-soudani-2018",
+      "label": "El Arbi Hillel Soudani",
+      "year": 2018,
+      "subtitle": "GNK Dinamo Zagreb",
+      "description": "Signed from GNK Dinamo Zagreb",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jack-robinson-2018",
+      "label": "Jack Robinson",
+      "year": 2018,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "joao-carvalho-2018",
+      "label": "João Carvalho",
+      "year": 2018,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "lewis-grabban-2018",
+      "label": "Lewis Grabban",
+      "year": 2018,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "luke-steele-2018",
+      "label": "Luke Steele",
+      "year": 2018,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "michael-dawson-2018",
+      "label": "Michael Dawson",
+      "year": 2018,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "michael-hefele-2018",
+      "label": "Michael Hefele",
+      "year": 2018,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "panagiotis-tachtsidis-2018",
+      "label": "Panagiotis Tachtsidis",
+      "year": 2018,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "tobias-figueiredo-2018",
+      "label": "Tobias Figueiredo",
+      "year": 2018,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "yohan-benalouane-2018",
+      "label": "Yohan Benalouane",
+      "year": 2018,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "albert-adomah-2019",
+      "label": "Albert Adomah",
+      "year": 2019,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "brice-samba-2019",
+      "label": "Brice Samba",
+      "year": 2019,
+      "subtitle": "SM Caen",
+      "description": "Signed from SM Caen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "carl-jenkinson-2019",
+      "label": "Carl Jenkinson",
+      "year": 2019,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "chema-rodriguez-2019",
+      "label": "Chema Rodríguez",
+      "year": 2019,
+      "subtitle": "Levante UD",
+      "description": "Signed from Levante UD",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "gaetan-bong-2019",
+      "label": "Gaëtan Bong",
+      "year": 2019,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nuno-da-costa-2019",
+      "label": "Nuno Da Costa",
+      "year": 2019,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "samba-sow-2019",
+      "label": "Samba Sow",
+      "year": 2019,
+      "subtitle": "Dinamo Moscow",
+      "description": "Signed from Dinamo Moscow",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "sammy-ameobi-2019",
+      "label": "Sammy Ameobi",
+      "year": 2019,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "tiago-silva-2019",
+      "label": "Tiago Silva",
+      "year": 2019,
+      "subtitle": "CD Feirense",
+      "description": "Signed from CD Feirense",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "yuri-ribeiro-2019",
+      "label": "Yuri Ribeiro",
+      "year": 2019,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "cafu-2020",
+      "label": "Cafú",
+      "year": 2020,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "fouad-bachirou-2020",
+      "label": "Fouad Bachirou",
+      "year": 2020,
+      "subtitle": "Malmö FF",
+      "description": "Signed from Malmö FF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "glenn-murray-2020",
+      "label": "Glenn Murray",
+      "year": 2020,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "harry-arter-2020",
+      "label": "Harry Arter",
+      "year": 2020,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jack-colback-2020",
+      "label": "Jack Colback",
+      "year": 2020,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "loic-mbe-soh-2020",
+      "label": "Loïc Mbe Soh",
+      "year": 2020,
+      "subtitle": "Paris Saint-Germain B",
+      "description": "Signed from Paris Saint-Germain B",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "lyle-taylor-2020",
+      "label": "Lyle Taylor",
+      "year": 2020,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "miguel-angel-guerrero-2020",
+      "label": "Miguel Ángel Guerrero",
+      "year": 2020,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nikolas-ioannou-2020",
+      "label": "Nikolas Ioannou",
+      "year": 2020,
+      "subtitle": "APOEL Nicosia",
+      "description": "Signed from APOEL Nicosia",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "scott-mckenna-2020",
+      "label": "Scott McKenna",
+      "year": 2020,
+      "subtitle": "Aberdeen FC",
+      "description": "Signed from Aberdeen FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "tyler-blackett-2020",
+      "label": "Tyler Blackett",
+      "year": 2020,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "braian-ojeda-2021",
+      "label": "Braian Ojeda",
+      "year": 2021,
+      "subtitle": "Olimpia Asunción",
+      "description": "Signed from Olimpia Asunción",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "ethan-horvath-2021",
+      "label": "Ethan Horvath",
+      "year": 2021,
+      "subtitle": "Club Brugge KV",
+      "description": "Signed from Club Brugge KV",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jonathan-panzo-2021",
+      "label": "Jonathan Panzo",
+      "year": 2021,
+      "subtitle": "Dijon FCO",
+      "description": "Signed from Dijon FCO",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "mohamed-drager-2021",
+      "label": "Mohamed Dräger",
+      "year": 2021,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "richie-laryea-2021",
+      "label": "Richie Laryea",
+      "year": 2021,
+      "subtitle": "Toronto FC",
+      "description": "Signed from Toronto FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "rodrigo-ely-2021",
+      "label": "Rodrigo Ely",
+      "year": 2021,
+      "subtitle": "Deportivo Alavés",
+      "description": "Signed from Deportivo Alavés",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "sam-surridge-2021",
+      "label": "Sam Surridge",
+      "year": 2021,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "steve-cook-2021",
+      "label": "Steve Cook",
+      "year": 2021,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "xande-silva-2021",
+      "label": "Xande Silva",
+      "year": 2021,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "adnan-kanuric-2022",
+      "label": "Adnan Kanuric",
+      "year": 2022,
+      "subtitle": "FK Sarajevo",
+      "description": "Signed from FK Sarajevo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "andre-ayew-2022",
+      "label": "André Ayew",
+      "year": 2022,
+      "subtitle": "Al-Sadd SC",
+      "description": "Signed from Al-Sadd SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "brandon-aguilera-2022",
+      "label": "Brandon Aguilera",
+      "year": 2022,
+      "subtitle": "LD Alajuelense",
+      "description": "Signed from LD Alajuelense",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "cheikhou-kouyate-2022",
+      "label": "Cheikhou Kouyaté",
+      "year": 2022,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "danilo-2022",
+      "label": "Danilo",
+      "year": 2022,
+      "subtitle": "Sociedade Esportiva Palmeiras",
+      "description": "Signed from Sociedade Esportiva Palmeiras",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "emmanuel-dennis-2022",
+      "label": "Emmanuel Dennis",
+      "year": 2022,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "felipe-2022",
+      "label": "Felipe",
+      "year": 2022,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "giulian-biancone-2022",
+      "label": "Giulian Biancone",
+      "year": 2022,
+      "subtitle": "ESTAC Troyes",
+      "description": "Signed from ESTAC Troyes",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "gustavo-scarpa-2022",
+      "label": "Gustavo Scarpa",
+      "year": 2022,
+      "subtitle": "Sociedade Esportiva Palmeiras",
+      "description": "Signed from Sociedade Esportiva Palmeiras",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "harry-toffolo-2022",
+      "label": "Harry Toffolo",
+      "year": 2022,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jesse-lingard-2022",
+      "label": "Jesse Lingard",
+      "year": 2022,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jonjo-shelvey-2022",
+      "label": "Jonjo Shelvey",
+      "year": 2022,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "josh-bowler-2022",
+      "label": "Josh Bowler",
+      "year": 2022,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "lewis-o-brien-2022",
+      "label": "Lewis O'Brien",
+      "year": 2022,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "morgan-gibbs-white-2022",
+      "label": "Morgan Gibbs-White",
+      "year": 2022,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "moussa-niakhate-2022",
+      "label": "Moussa Niakhaté",
+      "year": 2022,
+      "subtitle": "1.FSV Mainz 05",
+      "description": "Signed from 1.FSV Mainz 05",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "neco-williams-2022",
+      "label": "Neco Williams",
+      "year": 2022,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "omar-richards-2022",
+      "label": "Omar Richards",
+      "year": 2022,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "orel-mangala-2022",
+      "label": "Orel Mangala",
+      "year": 2022,
+      "subtitle": "VfB Stuttgart",
+      "description": "Signed from VfB Stuttgart",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "remo-freuler-2022",
+      "label": "Remo Freuler",
+      "year": 2022,
+      "subtitle": "Atalanta BC",
+      "description": "Signed from Atalanta BC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "taiwo-awoniyi-2022",
+      "label": "Taiwo Awoniyi",
+      "year": 2022,
+      "subtitle": "1.FC Union Berlin",
+      "description": "Signed from 1.FC Union Berlin",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "ui-jo-hwang-2022",
+      "label": "Ui-jo Hwang",
+      "year": 2022,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "wayne-hennessey-2022",
+      "label": "Wayne Hennessey",
+      "year": 2022,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "willy-boly-2022",
+      "label": "Willy Boly",
+      "year": 2022,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "andrew-omobamidele-2023",
+      "label": "Andrew Omobamidele",
+      "year": 2023,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "anthony-elanga-2023",
+      "label": "Anthony Elanga",
+      "year": 2023,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "callum-hudson-odoi-2023",
+      "label": "Callum Hudson-Odoi",
+      "year": 2023,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "chris-wood-2023",
+      "label": "Chris Wood",
+      "year": 2023,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "ibrahim-sangare-2023",
+      "label": "Ibrahim Sangaré",
+      "year": 2023,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "matt-turner-2023",
+      "label": "Matt Turner",
+      "year": 2023,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "matz-sels-2023",
+      "label": "Matz Sels",
+      "year": 2023,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "murillo-2023",
+      "label": "Murillo",
+      "year": 2023,
+      "subtitle": "Sport Club Corinthians Paulista",
+      "description": "Signed from Sport Club Corinthians Paulista",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nicolas-dominguez-2023",
+      "label": "Nicolás Domínguez",
+      "year": 2023,
+      "subtitle": "Bologna FC 1909",
+      "description": "Signed from Bologna FC 1909",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "odysseas-vlachodimos-2023",
+      "label": "Odysseas Vlachodimos",
+      "year": 2023,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "ola-aina-2023",
+      "label": "Ola Aina",
+      "year": 2023,
+      "subtitle": "Torino FC",
+      "description": "Signed from Torino FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "carlos-miguel-2024",
+      "label": "Carlos Miguel",
+      "year": 2024,
+      "subtitle": "Sport Club Corinthians Paulista",
+      "description": "Signed from Sport Club Corinthians Paulista",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "david-carmo-2024",
+      "label": "David Carmo",
+      "year": 2024,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "elliot-anderson-2024",
+      "label": "Elliot Anderson",
+      "year": 2024,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "eric-da-silva-moreira-2024",
+      "label": "Eric da Silva Moreira",
+      "year": 2024,
+      "subtitle": "FC St. Pauli",
+      "description": "Signed from FC St. Pauli",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jota-silva-2024",
+      "label": "Jota Silva",
+      "year": 2024,
+      "subtitle": "Vitória Guimarães SC",
+      "description": "Signed from Vitória Guimarães SC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "marko-stamenic-2024",
+      "label": "Marko Stamenić",
+      "year": 2024,
+      "subtitle": "Red Star Belgrade",
+      "description": "Signed from Red Star Belgrade",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "morato-2024",
+      "label": "Morato",
+      "year": 2024,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nikola-milenkovic-2024",
+      "label": "Nikola Milenković",
+      "year": 2024,
+      "subtitle": "ACF Fiorentina",
+      "description": "Signed from ACF Fiorentina",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "ramon-sosa-2024",
+      "label": "Ramón Sosa",
+      "year": 2024,
+      "subtitle": "CA Talleres",
+      "description": "Signed from CA Talleres",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "tyler-bindon-2024",
+      "label": "Tyler Bindon",
+      "year": 2024,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "angus-gunn-2025",
+      "label": "Angus Gunn",
+      "year": 2025,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "arnaud-kalimuendo-2025",
+      "label": "Arnaud Kalimuendo",
+      "year": 2025,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "cuiabano-2025",
+      "label": "Cuiabano",
+      "year": 2025,
+      "subtitle": "Botafogo de Futebol e Regatas",
+      "description": "Signed from Botafogo de Futebol e Regatas",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "dan-ndoye-2025",
+      "label": "Dan Ndoye",
+      "year": 2025,
+      "subtitle": "Bologna FC 1909",
+      "description": "Signed from Bologna FC 1909",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "dilane-bakwa-2025",
+      "label": "Dilane Bakwa",
+      "year": 2025,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "igor-jesus-2025",
+      "label": "Igor Jesus",
+      "year": 2025,
+      "subtitle": "Botafogo de Futebol e Regatas",
+      "description": "Signed from Botafogo de Futebol e Regatas",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "jair-cunha-2025",
+      "label": "Jair Cunha",
+      "year": 2025,
+      "subtitle": "Botafogo de Futebol e Regatas",
+      "description": "Signed from Botafogo de Futebol e Regatas",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "james-mcatee-2025",
+      "label": "James McAtee",
+      "year": 2025,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "john-victor-2025",
+      "label": "John Victor",
+      "year": 2025,
+      "subtitle": "Botafogo de Futebol e Regatas",
+      "description": "Signed from Botafogo de Futebol e Regatas",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "luca-netz-2025",
+      "label": "Luca Netz",
+      "year": 2025,
+      "subtitle": "Borussia Mönchengladbach",
+      "description": "Signed from Borussia Mönchengladbach",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "nicolo-savona-2025",
+      "label": "Nicolò Savona",
+      "year": 2025,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "omari-hutchinson-2025",
+      "label": "Omari Hutchinson",
+      "year": 2025,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    },
+    {
+      "id": "stefan-ortega-2025",
+      "label": "Stefan Ortega",
+      "year": 2025,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/nottingham-forest/alletransfers/verein/703"
+    }
+  ]
+}

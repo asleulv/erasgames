@@ -1,0 +1,2986 @@
+{
+  "id": "sunderland",
+  "slug": "sunderland",
+  "title": "Sunderland Timeline",
+  "shortTitle": "Sunderland",
+  "description": "Place Sunderland signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/sunderland",
+  "theme": {
+    "primary": "#EB172B",
+    "secondary": "#FFFFFF",
+    "background": "#FFF4F5",
+    "text": "#111111"
+  },
+  "share": {
+    "title": "Sunderland Timeline",
+    "description": "How far can you build the Sunderland signing timeline?",
+    "hashtags": [
+      "Sunderland",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Sunderland Timeline Quiz - Sunderland Signings Game",
+    "description": "Play a Sunderland timeline quiz. Guess whether famous Sunderland players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Sunderland quiz",
+      "Sunderland signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "john-colquhoun-1992",
+      "label": "John Colquhoun",
+      "year": 1992,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "lee-howey-1992",
+      "label": "Lee Howey",
+      "year": 1992,
+      "subtitle": "Bishop Auckland FC",
+      "description": "Signed from Bishop Auckland FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "mick-harford-1992",
+      "label": "Mick Harford",
+      "year": 1992,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "shaun-cunnington-1992",
+      "label": "Shaun Cunnington",
+      "year": 1992,
+      "subtitle": "Grimsby Town",
+      "description": "Signed from Grimsby Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "alec-chamberlain-1993",
+      "label": "Alec Chamberlain",
+      "year": 1993,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "andy-melville-1993",
+      "label": "Andy Melville",
+      "year": 1993,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "derek-ferguson-1993",
+      "label": "Derek Ferguson",
+      "year": 1993,
+      "subtitle": "Heart of Midlothian FC",
+      "description": "Signed from Heart of Midlothian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "ian-rodgerson-1993",
+      "label": "Ian Rodgerson",
+      "year": 1993,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jamie-lawrence-1993",
+      "label": "Jamie Lawrence",
+      "year": 1993,
+      "subtitle": "Cowes Sports",
+      "description": "Signed from Cowes Sports",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "mark-angel-1993",
+      "label": "Mark Angel",
+      "year": 1993,
+      "subtitle": "Walker Central FC",
+      "description": "Signed from Walker Central FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "phil-gray-1993",
+      "label": "Phil Gray",
+      "year": 1993,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "brett-angell-1994",
+      "label": "Brett Angell",
+      "year": 1994,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "dariusz-kubicki-1994",
+      "label": "Dariusz Kubicki",
+      "year": 1994,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "martin-scott-1994",
+      "label": "Martin Scott",
+      "year": 1994,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "steve-agnew-1994",
+      "label": "Steve Agnew",
+      "year": 1994,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "david-kelly-1995",
+      "label": "David Kelly",
+      "year": 1995,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "gareth-hall-1995",
+      "label": "Gareth Hall",
+      "year": 1995,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "john-mullin-1995",
+      "label": "John Mullin",
+      "year": 1995,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "paul-bracewell-1995",
+      "label": "Paul Bracewell",
+      "year": 1995,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "paul-stewart-1995",
+      "label": "Paul Stewart",
+      "year": 1995,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "alex-rae-1996",
+      "label": "Alex Rae",
+      "year": 1996,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "allan-johnston-1996",
+      "label": "Allan Johnston",
+      "year": 1996,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "chris-tate-1996",
+      "label": "Chris Tate",
+      "year": 1996,
+      "subtitle": "York City",
+      "description": "Signed from York City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "chris-waddle-1996",
+      "label": "Chris Waddle",
+      "year": 1996,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "chris-woods-1996",
+      "label": "Chris Woods",
+      "year": 1996,
+      "subtitle": "Colorado Rapids",
+      "description": "Signed from Colorado Rapids",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "darren-williams-1996",
+      "label": "Darren Williams",
+      "year": 1996,
+      "subtitle": "York City",
+      "description": "Signed from York City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jan-eriksson-1996",
+      "label": "Jan Eriksson",
+      "year": 1996,
+      "subtitle": "Helsingborgs IF",
+      "description": "Signed from Helsingborgs IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "lee-clark-1996",
+      "label": "Lee Clark",
+      "year": 1996,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "lionel-perez-1996",
+      "label": "Lionel Perez",
+      "year": 1996,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "niall-quinn-1996",
+      "label": "Niall Quinn",
+      "year": 1996,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "tony-coton-1996",
+      "label": "Tony Coton",
+      "year": 1996,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "chris-makin-1997",
+      "label": "Chris Makin",
+      "year": 1997,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "danny-dichio-1997",
+      "label": "Danny Dichio",
+      "year": 1997,
+      "subtitle": "UC Sampdoria",
+      "description": "Signed from UC Sampdoria",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "edwin-zoetebier-1997",
+      "label": "Edwin Zoetebier",
+      "year": 1997,
+      "subtitle": "FC Volendam",
+      "description": "Signed from FC Volendam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jody-craddock-1997",
+      "label": "Jody Craddock",
+      "year": 1997,
+      "subtitle": "Cambridge United",
+      "description": "Signed from Cambridge United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "kevin-phillips-1997",
+      "label": "Kevin Phillips",
+      "year": 1997,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "kim-heiselberg-1997",
+      "label": "Kim Heiselberg",
+      "year": 1997,
+      "subtitle": "Esbjerg fB",
+      "description": "Signed from Esbjerg fB",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "mike-pollitt-1997",
+      "label": "Mike Pollitt",
+      "year": 1997,
+      "subtitle": "Notts County",
+      "description": "Signed from Notts County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "nicky-summerbee-1997",
+      "label": "Nicky Summerbee",
+      "year": 1997,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "stefano-santini-1997",
+      "label": "Stefano Santini",
+      "year": 1997,
+      "subtitle": "Fiorentina Primavera",
+      "description": "Signed from Fiorentina Primavera",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "andy-marriott-1998",
+      "label": "Andy Marriott",
+      "year": 1998,
+      "subtitle": "Wrexham AFC",
+      "description": "Signed from Wrexham AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "gavin-mccann-1998",
+      "label": "Gavin McCann",
+      "year": 1998,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "gerry-harrison-1998",
+      "label": "Gerry Harrison",
+      "year": 1998,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "neil-wainwright-1998",
+      "label": "Neil Wainwright",
+      "year": 1998,
+      "subtitle": "Wrexham AFC",
+      "description": "Signed from Wrexham AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "paul-butler-1998",
+      "label": "Paul Butler",
+      "year": 1998,
+      "subtitle": "Bury FC",
+      "description": "Signed from Bury FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "thomas-sorensen-1998",
+      "label": "Thomas Sörensen",
+      "year": 1998,
+      "subtitle": "Odense Boldklub",
+      "description": "Signed from Odense Boldklub",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "bica-1999",
+      "label": "Bica",
+      "year": 1999,
+      "subtitle": "Sport Boys Association",
+      "description": "Signed from Sport Boys Association",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "carsten-fredgaard-1999",
+      "label": "Carsten Fredgaard",
+      "year": 1999,
+      "subtitle": "Lyngby Boldklub",
+      "description": "Signed from Lyngby Boldklub",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "eric-roy-1999",
+      "label": "Éric Roy",
+      "year": 1999,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "esteban-lopez-1999",
+      "label": "Esteban Lopez",
+      "year": 1999,
+      "subtitle": "Albacete Balompié",
+      "description": "Signed from Albacete Balompié",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "john-oster-1999",
+      "label": "John Oster",
+      "year": 1999,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "kevin-kilbane-1999",
+      "label": "Kevin Kilbane",
+      "year": 1999,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "michael-ingham-1999",
+      "label": "Michael Ingham",
+      "year": 1999,
+      "subtitle": "Cliftonville FC",
+      "description": "Signed from Cliftonville FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "michael-reddy-1999",
+      "label": "Michael Reddy",
+      "year": 1999,
+      "subtitle": "Kilkenny City (- 2007)",
+      "description": "Signed from Kilkenny City (- 2007)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "milton-nunez-1999",
+      "label": "Milton Núñez",
+      "year": 1999,
+      "subtitle": "PAOK Thessaloniki",
+      "description": "Signed from PAOK Thessaloniki",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "stefan-schwarz-1999",
+      "label": "Stefan Schwarz",
+      "year": 1999,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "steve-bould-1999",
+      "label": "Steve Bould",
+      "year": 1999,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "thomas-helmer-1999",
+      "label": "Thomas Helmer",
+      "year": 1999,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "dene-shields-2000",
+      "label": "Dene Shields",
+      "year": 2000,
+      "subtitle": "Raith Rovers FC",
+      "description": "Signed from Raith Rovers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "don-hutchison-2000",
+      "label": "Don Hutchison",
+      "year": 2000,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "emerson-thome-2000",
+      "label": "Émerson Thome",
+      "year": 2000,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jason-bent-2000",
+      "label": "Jason Bent",
+      "year": 2000,
+      "subtitle": "Colorado Rapids",
+      "description": "Signed from Colorado Rapids",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "julio-arca-2000",
+      "label": "Julio Arca",
+      "year": 2000,
+      "subtitle": "AA Argentinos Juniors",
+      "description": "Signed from AA Argentinos Juniors",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jurgen-macho-2000",
+      "label": "Jürgen Macho",
+      "year": 2000,
+      "subtitle": "First Vienna FC",
+      "description": "Signed from First Vienna FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "tom-peeters-2000",
+      "label": "Tom Peeters",
+      "year": 2000,
+      "subtitle": "KV Mechelen",
+      "description": "Signed from KV Mechelen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "bernt-haas-2001",
+      "label": "Bernt Haas",
+      "year": 2001,
+      "subtitle": "Grasshopper Club Zurich",
+      "description": "Signed from Grasshopper Club Zurich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "claudio-reyna-2001",
+      "label": "Claudio Reyna",
+      "year": 2001,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "david-bellion-2001",
+      "label": "David Bellion",
+      "year": 2001,
+      "subtitle": "AS Cannes",
+      "description": "Signed from AS Cannes",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jason-mcateer-2001",
+      "label": "Jason McAteer",
+      "year": 2001,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "joachim-bjorklund-2001",
+      "label": "Joachim Björklund",
+      "year": 2001,
+      "subtitle": "AC Venezia 1907",
+      "description": "Signed from AC Venezia 1907",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "lilian-laslandes-2001",
+      "label": "Lilian Laslandes",
+      "year": 2001,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "nicolas-medina-2001",
+      "label": "Nicolás Medina",
+      "year": 2001,
+      "subtitle": "AA Argentinos Juniors",
+      "description": "Signed from AA Argentinos Juniors",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "patrick-mboma-2001",
+      "label": "Patrick Mboma",
+      "year": 2001,
+      "subtitle": "AC Parma",
+      "description": "Signed from AC Parma",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "euan-mclean-2002",
+      "label": "Euan McLean",
+      "year": 2002,
+      "subtitle": "Kilmarnock FC",
+      "description": "Signed from Kilmarnock FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "marcus-stewart-2002",
+      "label": "Marcus Stewart",
+      "year": 2002,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "mart-poom-2002",
+      "label": "Mart Poom",
+      "year": 2002,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "matt-piper-2002",
+      "label": "Matt Piper",
+      "year": 2002,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "phil-babb-2002",
+      "label": "Phil Babb",
+      "year": 2002,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "sean-thornton-2002",
+      "label": "Sean Thornton",
+      "year": 2002,
+      "subtitle": "Tranmere Rovers",
+      "description": "Signed from Tranmere Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "stephen-wright-2002",
+      "label": "Stephen Wright",
+      "year": 2002,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "thomas-myhre-2002",
+      "label": "Thomas Myhre",
+      "year": 2002,
+      "subtitle": "Besiktas JK",
+      "description": "Signed from Besiktas JK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "tore-andre-flo-2002",
+      "label": "Tore André Flo",
+      "year": 2002,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "carl-robinson-2003",
+      "label": "Carl Robinson",
+      "year": 2003,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "colin-healy-2003",
+      "label": "Colin Healy",
+      "year": 2003,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "darren-byfield-2003",
+      "label": "Darren Byfield",
+      "year": 2003,
+      "subtitle": "Rotherham United",
+      "description": "Signed from Rotherham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "gary-breen-2003",
+      "label": "Gary Breen",
+      "year": 2003,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jeff-whitley-2003",
+      "label": "Jeff Whitley",
+      "year": 2003,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "tommy-smith-2003",
+      "label": "Tommy Smith",
+      "year": 2003,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "andy-welsh-2004",
+      "label": "Andy Welsh",
+      "year": 2004,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "brian-deane-2004",
+      "label": "Brian Deane",
+      "year": 2004,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "danny-collins-2004",
+      "label": "Danny Collins",
+      "year": 2004,
+      "subtitle": "Chester City (- 2010)",
+      "description": "Signed from Chester City (- 2010)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "dean-whitehead-2004",
+      "label": "Dean Whitehead",
+      "year": 2004,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "liam-lawrence-2004",
+      "label": "Liam Lawrence",
+      "year": 2004,
+      "subtitle": "Mansfield Town",
+      "description": "Signed from Mansfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "mark-lynch-2004",
+      "label": "Mark Lynch",
+      "year": 2004,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "michael-bridges-2004",
+      "label": "Michael Bridges",
+      "year": 2004,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "neill-collins-2004",
+      "label": "Neill Collins",
+      "year": 2004,
+      "subtitle": "Dumbarton FC",
+      "description": "Signed from Dumbarton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "steven-caldwell-2004",
+      "label": "Steven Caldwell",
+      "year": 2004,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "alan-stubbs-2005",
+      "label": "Alan Stubbs",
+      "year": 2005,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "andy-gray-2005",
+      "label": "Andy Gray",
+      "year": 2005,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "christian-bassila-2005",
+      "label": "Christian Bassila",
+      "year": 2005,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "daryl-murphy-2005",
+      "label": "Daryl Murphy",
+      "year": 2005,
+      "subtitle": "Waterford United",
+      "description": "Signed from Waterford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "joe-murphy-2005",
+      "label": "Joe Murphy",
+      "year": 2005,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jon-stead-2005",
+      "label": "Jon Stead",
+      "year": 2005,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "kelvin-davis-2005",
+      "label": "Kelvin Davis",
+      "year": 2005,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "kevin-smith-2005",
+      "label": "Kevin Smith",
+      "year": 2005,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "martin-woods-2005",
+      "label": "Martin Woods",
+      "year": 2005,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "nyron-nosworthy-2005",
+      "label": "Nyron Nosworthy",
+      "year": 2005,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "rory-delap-2005",
+      "label": "Rory Delap",
+      "year": 2005,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "tommy-miller-2005",
+      "label": "Tommy Miller",
+      "year": 2005,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "arnau-riera-2006",
+      "label": "Arnau Riera",
+      "year": 2006,
+      "subtitle": "FC Barcelona B",
+      "description": "Signed from FC Barcelona B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "carlos-edwards-2006",
+      "label": "Carlos Edwards",
+      "year": 2006,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "clive-clarke-2006",
+      "label": "Clive Clarke",
+      "year": 2006,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "darren-ward-2006",
+      "label": "Darren Ward",
+      "year": 2006,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "david-connolly-2006",
+      "label": "David Connolly",
+      "year": 2006,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "dwight-yorke-2006",
+      "label": "Dwight Yorke",
+      "year": 2006,
+      "subtitle": "Sydney FC",
+      "description": "Signed from Sydney FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "graham-kavanagh-2006",
+      "label": "Graham Kavanagh",
+      "year": 2006,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "kenny-cunningham-2006",
+      "label": "Kenny Cunningham",
+      "year": 2006,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "liam-miller-2006",
+      "label": "Liam Miller",
+      "year": 2006,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "marton-fulop-2006",
+      "label": "Márton Fülöp",
+      "year": 2006,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "robbie-elliott-2006",
+      "label": "Robbie Elliott",
+      "year": 2006,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "ross-wallace-2006",
+      "label": "Ross Wallace",
+      "year": 2006,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "stern-john-2006",
+      "label": "Stern John",
+      "year": 2006,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "tobias-hysen-2006",
+      "label": "Tobias Hysén",
+      "year": 2006,
+      "subtitle": "Djurgårdens IF",
+      "description": "Signed from Djurgårdens IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "william-mocquet-2006",
+      "label": "William Mocquet",
+      "year": 2006,
+      "subtitle": "Le Havre AC",
+      "description": "Signed from Le Havre AC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "andy-cole-2007",
+      "label": "Andy Cole",
+      "year": 2007,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "andy-reid-2007",
+      "label": "Andy Reid",
+      "year": 2007,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "craig-gordon-2007",
+      "label": "Craig Gordon",
+      "year": 2007,
+      "subtitle": "Heart of Midlothian FC",
+      "description": "Signed from Heart of Midlothian FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "danny-higginbotham-2007",
+      "label": "Danny Higginbotham",
+      "year": 2007,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "dickson-etuhu-2007",
+      "label": "Dickson Etuhu",
+      "year": 2007,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "greg-halford-2007",
+      "label": "Greg Halford",
+      "year": 2007,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "ian-harte-2007",
+      "label": "Ian Harte",
+      "year": 2007,
+      "subtitle": "Levante UD",
+      "description": "Signed from Levante UD",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jean-yves-m-voto-2007",
+      "label": "Jean-Yves M'voto",
+      "year": 2007,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "kenwyne-jones-2007",
+      "label": "Kenwyne Jones",
+      "year": 2007,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "kieran-richardson-2007",
+      "label": "Kieran Richardson",
+      "year": 2007,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "michael-chopra-2007",
+      "label": "Michael Chopra",
+      "year": 2007,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "paul-mcshane-2007",
+      "label": "Paul McShane",
+      "year": 2007,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "phil-bardsley-2007",
+      "label": "Phil Bardsley",
+      "year": 2007,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "rade-prica-2007",
+      "label": "Rade Prica",
+      "year": 2007,
+      "subtitle": "Aalborg BK",
+      "description": "Signed from Aalborg BK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "roy-o-donovan-2007",
+      "label": "Roy O'Donovan",
+      "year": 2007,
+      "subtitle": "Cork City FC",
+      "description": "Signed from Cork City FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "russell-anderson-2007",
+      "label": "Russell Anderson",
+      "year": 2007,
+      "subtitle": "Aberdeen FC",
+      "description": "Signed from Aberdeen FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "anton-ferdinand-2008",
+      "label": "Anton Ferdinand",
+      "year": 2008,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "david-healy-2008",
+      "label": "David Healy",
+      "year": 2008,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "david-meyler-2008",
+      "label": "David Meyler",
+      "year": 2008,
+      "subtitle": "Cork City FC",
+      "description": "Signed from Cork City FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "el-hadji-diouf-2008",
+      "label": "El-Hadji Diouf",
+      "year": 2008,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "george-mccartney-2008",
+      "label": "George McCartney",
+      "year": 2008,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "nick-colgan-2008",
+      "label": "Nick Colgan",
+      "year": 2008,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "pascal-chimbonda-2008",
+      "label": "Pascal Chimbonda",
+      "year": 2008,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "steed-malbranque-2008",
+      "label": "Steed Malbranque",
+      "year": 2008,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "teemu-tainio-2008",
+      "label": "Teemu Tainio",
+      "year": 2008,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "darren-bent-2009",
+      "label": "Darren Bent",
+      "year": 2009,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "fraizer-campbell-2009",
+      "label": "Fraizer Campbell",
+      "year": 2009,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "lee-cattermole-2009",
+      "label": "Lee Cattermole",
+      "year": 2009,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "lorik-cana-2009",
+      "label": "Lorik Cana",
+      "year": 2009,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "matthew-kilgallon-2009",
+      "label": "Matthew Kilgallon",
+      "year": 2009,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "michael-turner-2009",
+      "label": "Michael Turner",
+      "year": 2009,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "oumare-tounkara-2009",
+      "label": "Oumare Tounkara",
+      "year": 2009,
+      "subtitle": "CS Sedan-Ardennes B",
+      "description": "Signed from CS Sedan-Ardennes B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "paulo-da-silva-2009",
+      "label": "Paulo da Silva",
+      "year": 2009,
+      "subtitle": "Deportivo Toluca",
+      "description": "Signed from Deportivo Toluca",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "asamoah-gyan-2010",
+      "label": "Asamoah Gyan",
+      "year": 2010,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "cristian-riveros-2010",
+      "label": "Cristian Riveros",
+      "year": 2010,
+      "subtitle": "CD Cruz Azul",
+      "description": "Signed from CD Cruz Azul",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "marcos-angeleri-2010",
+      "label": "Marcos Angeleri",
+      "year": 2010,
+      "subtitle": "Club Estudiantes de La Plata",
+      "description": "Signed from Club Estudiantes de La Plata",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "simon-mignolet-2010",
+      "label": "Simon Mignolet",
+      "year": 2010,
+      "subtitle": "Sint-Truidense VV",
+      "description": "Signed from Sint-Truidense VV",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "stephane-sessegnon-2010",
+      "label": "Stéphane Sessègnon",
+      "year": 2010,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "titus-bramble-2010",
+      "label": "Titus Bramble",
+      "year": 2010,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "ahmed-el-mohamady-2011",
+      "label": "Ahmed El Mohamady",
+      "year": 2011,
+      "subtitle": "Enppi SC",
+      "description": "Signed from Enppi SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "connor-wickham-2011",
+      "label": "Connor Wickham",
+      "year": 2011,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "craig-gardner-2011",
+      "label": "Craig Gardner",
+      "year": 2011,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "david-vaughan-2011",
+      "label": "David Vaughan",
+      "year": 2011,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "dong-won-ji-2011",
+      "label": "Dong-won Ji",
+      "year": 2011,
+      "subtitle": "Chunnam Dragons",
+      "description": "Signed from Chunnam Dragons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "james-mcclean-2011",
+      "label": "James McClean",
+      "year": 2011,
+      "subtitle": "Derry City",
+      "description": "Signed from Derry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "john-o-shea-2011",
+      "label": "John O'Shea",
+      "year": 2011,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "keiren-westwood-2011",
+      "label": "Keiren Westwood",
+      "year": 2011,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "sebastian-larsson-2011",
+      "label": "Sebastian Larsson",
+      "year": 2011,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "wes-brown-2011",
+      "label": "Wes Brown",
+      "year": 2011,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "adam-johnson-2012",
+      "label": "Adam Johnson",
+      "year": 2012,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "alfred-n-diaye-2012",
+      "label": "Alfred N'Diaye",
+      "year": 2012,
+      "subtitle": "Bursaspor",
+      "description": "Signed from Bursaspor",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "carlos-cuellar-2012",
+      "label": "Carlos Cuéllar",
+      "year": 2012,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "louis-saha-2012",
+      "label": "Louis Saha",
+      "year": 2012,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "steven-fletcher-2012",
+      "label": "Steven Fletcher",
+      "year": 2012,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "andrea-dossena-2013",
+      "label": "Andrea Dossena",
+      "year": 2013,
+      "subtitle": "SSC Napoli",
+      "description": "Signed from SSC Napoli",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "cabral-2013",
+      "label": "Cabral",
+      "year": 2013,
+      "subtitle": "FC Basel 1893",
+      "description": "Signed from FC Basel 1893",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "charalampos-mavrias-2013",
+      "label": "Charalampos Mavrias",
+      "year": 2013,
+      "subtitle": "Panathinaikos",
+      "description": "Signed from Panathinaikos",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "david-moberg-karlsson-2013",
+      "label": "David Moberg Karlsson",
+      "year": 2013,
+      "subtitle": "IFK Göteborg",
+      "description": "Signed from IFK Göteborg",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "el-hadji-ba-2013",
+      "label": "El-Hadji Ba",
+      "year": 2013,
+      "subtitle": "AC Le Havre B",
+      "description": "Signed from AC Le Havre B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "emanuele-giaccherini-2013",
+      "label": "Emanuele Giaccherini",
+      "year": 2013,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "ignacio-scocco-2013",
+      "label": "Ignacio Scocco",
+      "year": 2013,
+      "subtitle": "Sport Club Internacional",
+      "description": "Signed from Sport Club Internacional",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jozy-altidore-2013",
+      "label": "Jozy Altidore",
+      "year": 2013,
+      "subtitle": "AZ Alkmaar",
+      "description": "Signed from AZ Alkmaar",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "liam-bridcutt-2013",
+      "label": "Liam Bridcutt",
+      "year": 2013,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "modibo-diakite-2013",
+      "label": "Modibo Diakité",
+      "year": 2013,
+      "subtitle": "SS Lazio",
+      "description": "Signed from SS Lazio",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "oscar-ustari-2013",
+      "label": "Óscar Ustari",
+      "year": 2013,
+      "subtitle": "UD Almería",
+      "description": "Signed from UD Almería",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "valentin-roberge-2013",
+      "label": "Valentin Roberge",
+      "year": 2013,
+      "subtitle": "CS Marítimo",
+      "description": "Signed from CS Marítimo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "vito-mannone-2013",
+      "label": "Vito Mannone",
+      "year": 2013,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "billy-jones-2014",
+      "label": "Billy Jones",
+      "year": 2014,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "costel-pantilimon-2014",
+      "label": "Costel Pantilimon",
+      "year": 2014,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jack-rodwell-2014",
+      "label": "Jack Rodwell",
+      "year": 2014,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jordi-gomez-2014",
+      "label": "Jordi Gómez",
+      "year": 2014,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "patrick-van-aanholt-2014",
+      "label": "Patrick van Aanholt",
+      "year": 2014,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "will-buckley-2014",
+      "label": "Will Buckley",
+      "year": 2014,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "adam-matthews-2015",
+      "label": "Adam Matthews",
+      "year": 2015,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "fabio-borini-2015",
+      "label": "Fabio Borini",
+      "year": 2015,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jan-kirchhoff-2015",
+      "label": "Jan Kirchhoff",
+      "year": 2015,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jeremain-lens-2015",
+      "label": "Jeremain Lens",
+      "year": 2015,
+      "subtitle": "Dynamo Kyiv",
+      "description": "Signed from Dynamo Kyiv",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "lamine-kone-2015",
+      "label": "Lamine Koné",
+      "year": 2015,
+      "subtitle": "FC Lorient",
+      "description": "Signed from FC Lorient",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "ricardo-alvarez-2015",
+      "label": "Ricardo Álvarez",
+      "year": 2015,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "santiago-vergini-2015",
+      "label": "Santiago Vergini",
+      "year": 2015,
+      "subtitle": "Club Estudiantes de La Plata",
+      "description": "Signed from Club Estudiantes de La Plata",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "sebastian-coates-2015",
+      "label": "Sebastián Coates",
+      "year": 2015,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "wahbi-khazri-2015",
+      "label": "Wahbi Khazri",
+      "year": 2015,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "younes-kaboul-2015",
+      "label": "Younès Kaboul",
+      "year": 2015,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "bryan-oviedo-2016",
+      "label": "Bryan Oviedo",
+      "year": 2016,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "darron-gibson-2016",
+      "label": "Darron Gibson",
+      "year": 2016,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "didier-ndong-2016",
+      "label": "Didier Ndong",
+      "year": 2016,
+      "subtitle": "FC Lorient",
+      "description": "Signed from FC Lorient",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "mika-2016",
+      "label": "Mika",
+      "year": 2016,
+      "subtitle": "Boavista FC",
+      "description": "Signed from Boavista FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "paddy-mcnair-2016",
+      "label": "Paddy McNair",
+      "year": 2016,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "papy-djilobodji-2016",
+      "label": "Papy Djilobodji",
+      "year": 2016,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "sam-brotherton-2016",
+      "label": "Sam Brotherton",
+      "year": 2016,
+      "subtitle": "Wisconsin Badgers (University of Wisconsin)",
+      "description": "Signed from Wisconsin Badgers (University of Wisconsin)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "steven-pienaar-2016",
+      "label": "Steven Pienaar",
+      "year": 2016,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "aiden-mcgeady-2017",
+      "label": "Aiden McGeady",
+      "year": 2017,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "callum-mcmanaman-2017",
+      "label": "Callum McManaman",
+      "year": 2017,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "connor-shields-2017",
+      "label": "Connor Shields",
+      "year": 2017,
+      "subtitle": "Albion Rovers FC",
+      "description": "Signed from Albion Rovers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "james-vaughan-2017",
+      "label": "James Vaughan",
+      "year": 2017,
+      "subtitle": "Bury FC",
+      "description": "Signed from Bury FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jason-steele-2017",
+      "label": "Jason Steele",
+      "year": 2017,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "kazenga-lualua-2017",
+      "label": "Kazenga LuaLua",
+      "year": 2017,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "marc-wilson-2017",
+      "label": "Marc Wilson",
+      "year": 2017,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "robbin-ruiter-2017",
+      "label": "Robbin Ruiter",
+      "year": 2017,
+      "subtitle": "FC Utrecht",
+      "description": "Signed from FC Utrecht",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "alim-ozturk-2018",
+      "label": "Alim Öztürk",
+      "year": 2018,
+      "subtitle": "Boluspor",
+      "description": "Signed from Boluspor",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "charlie-wyke-2018",
+      "label": "Charlie Wyke",
+      "year": 2018,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "chris-maguire-2018",
+      "label": "Chris Maguire",
+      "year": 2018,
+      "subtitle": "Bury FC",
+      "description": "Signed from Bury FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "dylan-mcgeouch-2018",
+      "label": "Dylan McGeouch",
+      "year": 2018,
+      "subtitle": "Hibernian FC",
+      "description": "Signed from Hibernian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "glenn-loovens-2018",
+      "label": "Glenn Loovens",
+      "year": 2018,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "grant-leadbitter-2018",
+      "label": "Grant Leadbitter",
+      "year": 2018,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jack-baldwin-2018",
+      "label": "Jack Baldwin",
+      "year": 2018,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jon-mclaughlin-2018",
+      "label": "Jon McLaughlin",
+      "year": 2018,
+      "subtitle": "Heart of Midlothian FC",
+      "description": "Signed from Heart of Midlothian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "luke-o-nien-2018",
+      "label": "Luke O'Nien",
+      "year": 2018,
+      "subtitle": "Wycombe Wanderers",
+      "description": "Signed from Wycombe Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "max-power-2018",
+      "label": "Max Power",
+      "year": 2018,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "reece-james-2018",
+      "label": "Reece James",
+      "year": 2018,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "tom-flanagan-2018",
+      "label": "Tom Flanagan",
+      "year": 2018,
+      "subtitle": "Burton Albion",
+      "description": "Signed from Burton Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "will-grigg-2018",
+      "label": "Will Grigg",
+      "year": 2018,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "conor-mclaughlin-2019",
+      "label": "Conor McLaughlin",
+      "year": 2019,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "george-dobson-2019",
+      "label": "George Dobson",
+      "year": 2019,
+      "subtitle": "Walsall FC",
+      "description": "Signed from Walsall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "joel-lynch-2019",
+      "label": "Joel Lynch",
+      "year": 2019,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jordan-willis-2019",
+      "label": "Jordan Willis",
+      "year": 2019,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "josh-scowen-2019",
+      "label": "Josh Scowen",
+      "year": 2019,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "kyle-lafferty-2019",
+      "label": "Kyle Lafferty",
+      "year": 2019,
+      "subtitle": "Sarpsborg 08 FF",
+      "description": "Signed from Sarpsborg 08 FF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "lee-burge-2019",
+      "label": "Lee Burge",
+      "year": 2019,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "aiden-o-brien-2020",
+      "label": "Aiden O'Brien",
+      "year": 2020,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "arbenit-xhemajli-2020",
+      "label": "Arbenit Xhemajli",
+      "year": 2020,
+      "subtitle": "Neuchâtel Xamax FCS",
+      "description": "Signed from Neuchâtel Xamax FCS",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "bailey-wright-2020",
+      "label": "Bailey Wright",
+      "year": 2020,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "carl-winchester-2020",
+      "label": "Carl Winchester",
+      "year": 2020,
+      "subtitle": "Forest Green Rovers",
+      "description": "Signed from Forest Green Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "josh-hawkes-2020",
+      "label": "Josh Hawkes",
+      "year": 2020,
+      "subtitle": "Hartlepool United",
+      "description": "Signed from Hartlepool United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "remi-matthews-2020",
+      "label": "Remi Matthews",
+      "year": 2020,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "ross-stewart-2020",
+      "label": "Ross Stewart",
+      "year": 2020,
+      "subtitle": "Ross County FC",
+      "description": "Signed from Ross County FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "alex-pritchard-2021",
+      "label": "Alex Pritchard",
+      "year": 2021,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "corry-evans-2021",
+      "label": "Corry Evans",
+      "year": 2021,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "danny-batth-2021",
+      "label": "Danny Batth",
+      "year": 2021,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jay-matete-2021",
+      "label": "Jay Matete",
+      "year": 2021,
+      "subtitle": "Fleetwood Town",
+      "description": "Signed from Fleetwood Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "patrick-roberts-2021",
+      "label": "Patrick Roberts",
+      "year": 2021,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "trai-hume-2021",
+      "label": "Trai Hume",
+      "year": 2021,
+      "subtitle": "Linfield FC",
+      "description": "Signed from Linfield FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "abdoullah-ba-2022",
+      "label": "Abdoullah Ba",
+      "year": 2022,
+      "subtitle": "Le Havre AC",
+      "description": "Signed from Le Havre AC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "alex-bass-2022",
+      "label": "Alex Bass",
+      "year": 2022,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "isaac-lihadji-2022",
+      "label": "Isaac Lihadji",
+      "year": 2022,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jack-clarke-2022",
+      "label": "Jack Clarke",
+      "year": 2022,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jewison-bennette-2022",
+      "label": "Jewison Bennette",
+      "year": 2022,
+      "subtitle": "CS Herediano",
+      "description": "Signed from CS Herediano",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "leon-dajaku-2022",
+      "label": "Leon Dajaku",
+      "year": 2022,
+      "subtitle": "1.FC Union Berlin",
+      "description": "Signed from 1.FC Union Berlin",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "adil-aouchiche-2023",
+      "label": "Adil Aouchiche",
+      "year": 2023,
+      "subtitle": "FC Lorient",
+      "description": "Signed from FC Lorient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "bradley-dack-2023",
+      "label": "Bradley Dack",
+      "year": 2023,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "eliezer-mayenda-2023",
+      "label": "Eliezer Mayenda",
+      "year": 2023,
+      "subtitle": "FC Sochaux-Montbéliard",
+      "description": "Signed from FC Sochaux-Montbéliard",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jobe-bellingham-2023",
+      "label": "Jobe Bellingham",
+      "year": 2023,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "leo-hjelde-2023",
+      "label": "Leo Hjelde",
+      "year": 2023,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "luis-semedo-2023",
+      "label": "Luís Semedo",
+      "year": 2023,
+      "subtitle": "SL Benfica B",
+      "description": "Signed from SL Benfica B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "nazariy-rusyn-2023",
+      "label": "Nazariy Rusyn",
+      "year": 2023,
+      "subtitle": "Zorya Lugansk",
+      "description": "Signed from Zorya Lugansk",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "nectarios-triantis-2023",
+      "label": "Nectarios Triantis",
+      "year": 2023,
+      "subtitle": "Central Coast Mariners",
+      "description": "Signed from Central Coast Mariners",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "romaine-mundle-2023",
+      "label": "Romaine Mundle",
+      "year": 2023,
+      "subtitle": "Standard Liège",
+      "description": "Signed from Standard Liège",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "timothee-pembele-2023",
+      "label": "Timothée Pembélé",
+      "year": 2023,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "ahmed-abdullahi-2024",
+      "label": "Ahmed Abdullahi",
+      "year": 2024,
+      "subtitle": "Jong KAA Gent",
+      "description": "Signed from Jong KAA Gent",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "alan-browne-2024",
+      "label": "Alan Browne",
+      "year": 2024,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "blondy-nna-noukeu-2024",
+      "label": "Blondy Nna Noukeu",
+      "year": 2024,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "ian-poveda-2024",
+      "label": "Ian Poveda",
+      "year": 2024,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "milan-aleksic-2024",
+      "label": "Milan Aleksic",
+      "year": 2024,
+      "subtitle": "FK Radnicki 1923 Kragujevac",
+      "description": "Signed from FK Radnicki 1923 Kragujevac",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "simon-moore-2024",
+      "label": "Simon Moore",
+      "year": 2024,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "wilson-isidor-2024",
+      "label": "Wilson Isidor",
+      "year": 2024,
+      "subtitle": "Zenit St. Petersburg",
+      "description": "Signed from Zenit St. Petersburg",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "arthur-masuaku-2025",
+      "label": "Arthur Masuaku",
+      "year": 2025,
+      "subtitle": "Besiktas JK",
+      "description": "Signed from Besiktas JK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "bertrand-traore-2025",
+      "label": "Bertrand Traoré",
+      "year": 2025,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "brian-brobbey-2025",
+      "label": "Brian Brobbey",
+      "year": 2025,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "chemsdine-talbi-2025",
+      "label": "Chemsdine Talbi",
+      "year": 2025,
+      "subtitle": "Club Brugge KV",
+      "description": "Signed from Club Brugge KV",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "enzo-le-fee-2025",
+      "label": "Enzo Le Fée",
+      "year": 2025,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "granit-xhaka-2025",
+      "label": "Granit Xhaka",
+      "year": 2025,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "habib-diarra-2025",
+      "label": "Habib Diarra",
+      "year": 2025,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "jocelin-ta-bi-2025",
+      "label": "Jocelin Ta Bi",
+      "year": 2025,
+      "subtitle": "Maccabi Netanya",
+      "description": "Signed from Maccabi Netanya",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "melker-ellborg-2025",
+      "label": "Melker Ellborg",
+      "year": 2025,
+      "subtitle": "Malmö FF",
+      "description": "Signed from Malmö FF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "nilson-angulo-2025",
+      "label": "Nilson Angulo",
+      "year": 2025,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "noah-sadiki-2025",
+      "label": "Noah Sadiki",
+      "year": 2025,
+      "subtitle": "Union Saint-Gilloise",
+      "description": "Signed from Union Saint-Gilloise",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "nordi-mukiele-2025",
+      "label": "Nordi Mukiele",
+      "year": 2025,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "omar-alderete-2025",
+      "label": "Omar Alderete",
+      "year": 2025,
+      "subtitle": "Getafe CF",
+      "description": "Signed from Getafe CF",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "reinildo-mandava-2025",
+      "label": "Reinildo Mandava",
+      "year": 2025,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "robin-roefs-2025",
+      "label": "Robin Roefs",
+      "year": 2025,
+      "subtitle": "NEC Nijmegen",
+      "description": "Signed from NEC Nijmegen",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    },
+    {
+      "id": "simon-adingra-2025",
+      "label": "Simon Adingra",
+      "year": 2025,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-sunderland/alletransfers/verein/289"
+    }
+  ]
+}

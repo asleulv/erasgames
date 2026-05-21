@@ -1,0 +1,2616 @@
+{
+  "id": "man-city",
+  "slug": "man-city",
+  "title": "Man City Timeline",
+  "shortTitle": "Man City",
+  "description": "Place Manchester City signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/man-city",
+  "theme": {
+    "primary": "#6CABDD",
+    "secondary": "#FFFFFF",
+    "background": "#F1F9FF",
+    "text": "#1C2C5B"
+  },
+  "share": {
+    "title": "Man City Timeline",
+    "description": "How far can you build the Manchester City signing timeline?",
+    "hashtags": [
+      "ManCity",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Man City Timeline Quiz - Manchester City Signings Game",
+    "description": "Play a Manchester City timeline quiz. Guess whether famous Manchester City players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Manchester City quiz",
+      "Manchester City signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "kare-ingebrigtsen-1992",
+      "label": "Kåre Ingebrigtsen",
+      "year": 1992,
+      "subtitle": "Rosenborg BK",
+      "description": "Signed from Rosenborg BK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ray-ranson-1992",
+      "label": "Ray Ranson",
+      "year": 1992,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "rick-holden-1992",
+      "label": "Rick Holden",
+      "year": 1992,
+      "subtitle": "Oldham Athletic",
+      "description": "Signed from Oldham Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "steve-finney-1992",
+      "label": "Steve Finney",
+      "year": 1992,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "terry-phelan-1992",
+      "label": "Terry Phelan",
+      "year": 1992,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "alan-kernaghan-1993",
+      "label": "Alan Kernaghan",
+      "year": 1993,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "alfons-groenendijk-1993",
+      "label": "Alfons Groenendijk",
+      "year": 1993,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "carl-griffiths-1993",
+      "label": "Carl Griffiths",
+      "year": 1993,
+      "subtitle": "Shrewsbury Town",
+      "description": "Signed from Shrewsbury Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "david-rocastle-1993",
+      "label": "David Rocastle",
+      "year": 1993,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "paul-walsh-1993",
+      "label": "Paul Walsh",
+      "year": 1993,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "peter-beagrie-1993",
+      "label": "Peter Beagrie",
+      "year": 1993,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "uwe-rosler-1993",
+      "label": "Uwe Rösler",
+      "year": 1993,
+      "subtitle": "1.FC Nuremberg",
+      "description": "Signed from 1.FC Nuremberg",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "john-burridge-1994",
+      "label": "John Burridge",
+      "year": 1994,
+      "subtitle": "Falkirk FC",
+      "description": "Signed from Falkirk FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "nicky-summerbee-1994",
+      "label": "Nicky Summerbee",
+      "year": 1994,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ray-kelly-1994",
+      "label": "Ray Kelly",
+      "year": 1994,
+      "subtitle": "Athlone Town AFC",
+      "description": "Signed from Athlone Town AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "eduard-abazaj-1995",
+      "label": "Eduard Abazaj",
+      "year": 1995,
+      "subtitle": "Boavista FC",
+      "description": "Signed from Boavista FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "eike-immel-1995",
+      "label": "Eike Immel",
+      "year": 1995,
+      "subtitle": "VfB Stuttgart",
+      "description": "Signed from VfB Stuttgart",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "gerry-creaney-1995",
+      "label": "Gerry Creaney",
+      "year": 1995,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "giorgi-kinkladze-1995",
+      "label": "Giorgi Kinkladze",
+      "year": 1995,
+      "subtitle": "Dinamo Tbilisi",
+      "description": "Signed from Dinamo Tbilisi",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "kit-symons-1995",
+      "label": "Kit Symons",
+      "year": 1995,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "martin-phillips-1995",
+      "label": "Martin Phillips",
+      "year": 1995,
+      "subtitle": "Exeter City",
+      "description": "Signed from Exeter City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "michael-frontzeck-1995",
+      "label": "Michael Frontzeck",
+      "year": 1995,
+      "subtitle": "Borussia Mönchengladbach",
+      "description": "Signed from Borussia Mönchengladbach",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "mikheil-kavelashvili-1995",
+      "label": "Mikheil Kavelashvili",
+      "year": 1995,
+      "subtitle": "Dinamo Tbilisi",
+      "description": "Signed from Dinamo Tbilisi",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "nigel-clough-1995",
+      "label": "Nigel Clough",
+      "year": 1995,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "scott-hiley-1995",
+      "label": "Scott Hiley",
+      "year": 1995,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "eddie-mcgoldrick-1996",
+      "label": "Eddie McGoldrick",
+      "year": 1996,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ged-brannan-1996",
+      "label": "Ged Brannan",
+      "year": 1996,
+      "subtitle": "Tranmere Rovers",
+      "description": "Signed from Tranmere Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "neil-heaney-1996",
+      "label": "Neil Heaney",
+      "year": 1996,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "paul-beesley-1996",
+      "label": "Paul Beesley",
+      "year": 1996,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "tommy-wright-1996",
+      "label": "Tommy Wright",
+      "year": 1996,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "barry-conlon-1997",
+      "label": "Barry Conlon",
+      "year": 1997,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "craig-russell-1997",
+      "label": "Craig Russell",
+      "year": 1997,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "gerard-wiekens-1997",
+      "label": "Gerard Wiekens",
+      "year": 1997,
+      "subtitle": "BV Veendam",
+      "description": "Signed from BV Veendam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ian-bishop-1997",
+      "label": "Ian Bishop",
+      "year": 1997,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "jamie-pollock-1997",
+      "label": "Jamie Pollock",
+      "year": 1997,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "jason-van-blerk-1997",
+      "label": "Jason van Blerk",
+      "year": 1997,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "kakhaber-tskhadadze-1997",
+      "label": "Kakhaber Tskhadadze",
+      "year": 1997,
+      "subtitle": "Spartak Vladikavkaz",
+      "description": "Signed from Spartak Vladikavkaz",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "kevin-horlock-1997",
+      "label": "Kevin Horlock",
+      "year": 1997,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "lee-bradbury-1997",
+      "label": "Lee Bradbury",
+      "year": 1997,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "murtaz-shelia-1997",
+      "label": "Murtaz Shelia",
+      "year": 1997,
+      "subtitle": "Spartak Vladikavkaz",
+      "description": "Signed from Spartak Vladikavkaz",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "nicky-weaver-1997",
+      "label": "Nicky Weaver",
+      "year": 1997,
+      "subtitle": "Mansfield Town",
+      "description": "Signed from Mansfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "richard-jobson-1997",
+      "label": "Richard Jobson",
+      "year": 1997,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "shaun-goater-1997",
+      "label": "Shaun Goater",
+      "year": 1997,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "tony-scully-1997",
+      "label": "Tony Scully",
+      "year": 1997,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "tony-vaughan-1997",
+      "label": "Tony Vaughan",
+      "year": 1997,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "andy-morrison-1998",
+      "label": "Andy Morrison",
+      "year": 1998,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "danny-allsopp-1998",
+      "label": "Danny Allsopp",
+      "year": 1998,
+      "subtitle": "Carlton SC",
+      "description": "Signed from Carlton SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "danny-tiatto-1998",
+      "label": "Danny Tiatto",
+      "year": 1998,
+      "subtitle": "FC Baden 1897",
+      "description": "Signed from FC Baden 1897",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "gareth-taylor-1998",
+      "label": "Gareth Taylor",
+      "year": 1998,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "alf-inge-haaland-1999",
+      "label": "Alf-Inge Haaland",
+      "year": 1999,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "danny-granville-1999",
+      "label": "Danny Granville",
+      "year": 1999,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "lee-peacock-1999",
+      "label": "Lee Peacock",
+      "year": 1999,
+      "subtitle": "Mansfield Town",
+      "description": "Signed from Mansfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "mark-kennedy-1999",
+      "label": "Mark Kennedy",
+      "year": 1999,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "richard-mckinney-1999",
+      "label": "Richard McKinney",
+      "year": 1999,
+      "subtitle": "Ballymena United FC",
+      "description": "Signed from Ballymena United FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "robert-taylor-1999",
+      "label": "Robert Taylor",
+      "year": 1999,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "spencer-prior-1999",
+      "label": "Spencer Prior",
+      "year": 1999,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "steve-howey-1999",
+      "label": "Steve Howey",
+      "year": 1999,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "tony-grant-1999",
+      "label": "Tony Grant",
+      "year": 1999,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "carlo-nash-2000",
+      "label": "Carlo Nash",
+      "year": 2000,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "darren-huckerby-2000",
+      "label": "Darren Huckerby",
+      "year": 2000,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "dino-toppmoller-2000",
+      "label": "Dino Toppmöller",
+      "year": 2000,
+      "subtitle": "1.FC Saarbrücken",
+      "description": "Signed from 1.FC Saarbrücken",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "george-weah-2000",
+      "label": "George Weah",
+      "year": 2000,
+      "subtitle": "AC Milan",
+      "description": "Signed from AC Milan",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "laurent-charvet-2000",
+      "label": "Laurent Charvet",
+      "year": 2000,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "paulo-wanchope-2000",
+      "label": "Paulo Wanchope",
+      "year": 2000,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "richard-dunne-2000",
+      "label": "Richard Dunne",
+      "year": 2000,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ali-benarbia-2001",
+      "label": "Ali Benarbia",
+      "year": 2001,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "alioune-toure-2001",
+      "label": "Alioune Touré",
+      "year": 2001,
+      "subtitle": "FC Nantes",
+      "description": "Signed from FC Nantes",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "christian-negouai-2001",
+      "label": "Christian Negouai",
+      "year": 2001,
+      "subtitle": "Royal Charleroi SC",
+      "description": "Signed from Royal Charleroi SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "eyal-berkovic-2001",
+      "label": "Eyal Berkovic",
+      "year": 2001,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "jihai-sun-2001",
+      "label": "Jihai Sun",
+      "year": 2001,
+      "subtitle": "Dalian Shide",
+      "description": "Signed from Dalian Shide",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "jon-macken-2001",
+      "label": "Jon Macken",
+      "year": 2001,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "kevin-stuhr-ellegaard-2001",
+      "label": "Kevin Stuhr-Ellegaard",
+      "year": 2001,
+      "subtitle": "Farum Boldklub",
+      "description": "Signed from Farum Boldklub",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "lucien-mettomo-2001",
+      "label": "Lucién Mettomo",
+      "year": 2001,
+      "subtitle": "AS Saint-Étienne",
+      "description": "Signed from AS Saint-Étienne",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "mikkel-bischoff-2001",
+      "label": "Mikkel Bischoff",
+      "year": 2001,
+      "subtitle": "Akademisk Boldklub",
+      "description": "Signed from Akademisk Boldklub",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "niclas-jensen-2001",
+      "label": "Niclas Jensen",
+      "year": 2001,
+      "subtitle": "FC Copenhagen",
+      "description": "Signed from FC Copenhagen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "nicolas-anelka-2001",
+      "label": "Nicolas Anelka",
+      "year": 2001,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "paul-ritchie-2001",
+      "label": "Paul Ritchie",
+      "year": 2001,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "simon-colosimo-2001",
+      "label": "Simon Colosimo",
+      "year": 2001,
+      "subtitle": "South Melbourne FC",
+      "description": "Signed from South Melbourne FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "stuart-pearce-2001",
+      "label": "Stuart Pearce",
+      "year": 2001,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "sylvain-distin-2001",
+      "label": "Sylvain Distin",
+      "year": 2001,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "terry-cooke-2001",
+      "label": "Terry Cooke",
+      "year": 2001,
+      "subtitle": "Grimsby Town",
+      "description": "Signed from Grimsby Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "david-sommeil-2002",
+      "label": "David Sommeil",
+      "year": 2002,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "karim-kerkar-2002",
+      "label": "Karim Kerkar",
+      "year": 2002,
+      "subtitle": "Le Havre AC",
+      "description": "Signed from Le Havre AC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "matias-vuoso-2002",
+      "label": "Matías Vuoso",
+      "year": 2002,
+      "subtitle": "CA Independiente",
+      "description": "Signed from CA Independiente",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "peter-schmeichel-2002",
+      "label": "Peter Schmeichel",
+      "year": 2002,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "robbie-fowler-2002",
+      "label": "Robbie Fowler",
+      "year": 2002,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "tyrone-loran-2002",
+      "label": "Tyrone Loran",
+      "year": 2002,
+      "subtitle": "FC Volendam",
+      "description": "Signed from FC Volendam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "antoine-sibierski-2003",
+      "label": "Antoine Sibierski",
+      "year": 2003,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "arni-arason-2003",
+      "label": "Árni Arason",
+      "year": 2003,
+      "subtitle": "Rosenborg BK",
+      "description": "Signed from Rosenborg BK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "claudio-reyna-2003",
+      "label": "Claudio Reyna",
+      "year": 2003,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "david-james-2003",
+      "label": "David James",
+      "year": 2003,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "david-seaman-2003",
+      "label": "David Seaman",
+      "year": 2003,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "mark-redshaw-2003",
+      "label": "Mark Redshaw",
+      "year": 2003,
+      "subtitle": "Wrexham AFC",
+      "description": "Signed from Wrexham AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "michael-tarnat-2003",
+      "label": "Michael Tarnat",
+      "year": 2003,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "paul-bosvelt-2003",
+      "label": "Paul Bosvelt",
+      "year": 2003,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "steve-mcmanaman-2003",
+      "label": "Steve McManaman",
+      "year": 2003,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "trevor-sinclair-2003",
+      "label": "Trevor Sinclair",
+      "year": 2003,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "andy-cole-2004",
+      "label": "Andy Cole",
+      "year": 2004,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ben-thatcher-2004",
+      "label": "Ben Thatcher",
+      "year": 2004,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "danny-mills-2004",
+      "label": "Danny Mills",
+      "year": 2004,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "geert-de-vlieger-2004",
+      "label": "Geert De Vlieger",
+      "year": 2004,
+      "subtitle": "Willem II Tilburg",
+      "description": "Signed from Willem II Tilburg",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ronald-waterreus-2004",
+      "label": "Ronald Waterreus",
+      "year": 2004,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "darius-vassell-2005",
+      "label": "Darius Vassell",
+      "year": 2005,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "georgios-samaras-2005",
+      "label": "Georgios Samaras",
+      "year": 2005,
+      "subtitle": "SC Heerenveen",
+      "description": "Signed from SC Heerenveen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "hussein-yasser-2005",
+      "label": "Hussein Yasser",
+      "year": 2005,
+      "subtitle": "Al-Sadd SC",
+      "description": "Signed from Al-Sadd SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "matt-mills-2005",
+      "label": "Matt Mills",
+      "year": 2005,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "tuomas-haapala-2005",
+      "label": "Tuomas Haapala",
+      "year": 2005,
+      "subtitle": "Myllykosken Pallo -47",
+      "description": "Signed from Myllykosken Pallo -47",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "andreas-isaksson-2006",
+      "label": "Andreas Isaksson",
+      "year": 2006,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "bernardo-corradi-2006",
+      "label": "Bernardo Corradi",
+      "year": 2006,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "dietmar-hamann-2006",
+      "label": "Dietmar Hamann",
+      "year": 2006,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "emile-mpenza-2006",
+      "label": "Emile Mpenza",
+      "year": 2006,
+      "subtitle": "Al-Rayyan SC",
+      "description": "Signed from Al-Rayyan SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "hatem-trabelsi-2006",
+      "label": "Hatem Trabelsi",
+      "year": 2006,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "joe-hart-2006",
+      "label": "Joe Hart",
+      "year": 2006,
+      "subtitle": "Shrewsbury Town",
+      "description": "Signed from Shrewsbury Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "michael-ball-2006",
+      "label": "Michael Ball",
+      "year": 2006,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ousmane-dabo-2006",
+      "label": "Ousmane Dabo",
+      "year": 2006,
+      "subtitle": "SS Lazio",
+      "description": "Signed from SS Lazio",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "benjani-2007",
+      "label": "Benjani",
+      "year": 2007,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "elano-2007",
+      "label": "Elano",
+      "year": 2007,
+      "subtitle": "Shakhtar Donetsk",
+      "description": "Signed from Shakhtar Donetsk",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "felipe-caicedo-2007",
+      "label": "Felipe Caicedo",
+      "year": 2007,
+      "subtitle": "FC Basel 1893",
+      "description": "Signed from FC Basel 1893",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "gelson-fernandes-2007",
+      "label": "Gelson Fernandes",
+      "year": 2007,
+      "subtitle": "FC Sion",
+      "description": "Signed from FC Sion",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "geovanni-2007",
+      "label": "Geovanni",
+      "year": 2007,
+      "subtitle": "Cruzeiro Esporte Clube",
+      "description": "Signed from Cruzeiro Esporte Clube",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "javier-garrido-2007",
+      "label": "Javier Garrido",
+      "year": 2007,
+      "subtitle": "Real Sociedad",
+      "description": "Signed from Real Sociedad",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "martin-petrov-2007",
+      "label": "Martin Petrov",
+      "year": 2007,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "richard-martin-2007",
+      "label": "Richard Martin",
+      "year": 2007,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "rolando-bianchi-2007",
+      "label": "Rolando Bianchi",
+      "year": 2007,
+      "subtitle": "Reggina Calcio",
+      "description": "Signed from Reggina Calcio",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "valeri-bozhinov-2007",
+      "label": "Valeri Bozhinov",
+      "year": 2007,
+      "subtitle": "ACF Fiorentina",
+      "description": "Signed from ACF Fiorentina",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "vedran-corluka-2007",
+      "label": "Vedran Corluka",
+      "year": 2007,
+      "subtitle": "GNK Dinamo Zagreb",
+      "description": "Signed from GNK Dinamo Zagreb",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "craig-bellamy-2008",
+      "label": "Craig Bellamy",
+      "year": 2008,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "glauber-2008",
+      "label": "Gláuber",
+      "year": 2008,
+      "subtitle": "1.FC Nuremberg",
+      "description": "Signed from 1.FC Nuremberg",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "gunnar-nielsen-2008",
+      "label": "Gunnar Nielsen",
+      "year": 2008,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "jo-2008",
+      "label": "Jô",
+      "year": 2008,
+      "subtitle": "CSKA Moscow",
+      "description": "Signed from CSKA Moscow",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "nigel-de-jong-2008",
+      "label": "Nigel de Jong",
+      "year": 2008,
+      "subtitle": "Hamburger SV",
+      "description": "Signed from Hamburger SV",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "pablo-zabaleta-2008",
+      "label": "Pablo Zabaleta",
+      "year": 2008,
+      "subtitle": "RCD Espanyol Barcelona",
+      "description": "Signed from RCD Espanyol Barcelona",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "robinho-2008",
+      "label": "Robinho",
+      "year": 2008,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "shaun-wright-phillips-2008",
+      "label": "Shaun Wright-Phillips",
+      "year": 2008,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "shay-given-2008",
+      "label": "Shay Given",
+      "year": 2008,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "tal-ben-haim-2008",
+      "label": "Tal Ben Haim",
+      "year": 2008,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "vincent-kompany-2008",
+      "label": "Vincent Kompany",
+      "year": 2008,
+      "subtitle": "Hamburger SV",
+      "description": "Signed from Hamburger SV",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "wayne-bridge-2008",
+      "label": "Wayne Bridge",
+      "year": 2008,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "adam-johnson-2009",
+      "label": "Adam Johnson",
+      "year": 2009,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "carlos-tevez-2009",
+      "label": "Carlos Tévez",
+      "year": 2009,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "emmanuel-adebayor-2009",
+      "label": "Emmanuel Adebayor",
+      "year": 2009,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "gareth-barry-2009",
+      "label": "Gareth Barry",
+      "year": 2009,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "joleon-lescott-2009",
+      "label": "Joleon Lescott",
+      "year": 2009,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "kolo-toure-2009",
+      "label": "Kolo Touré",
+      "year": 2009,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "patrick-vieira-2009",
+      "label": "Patrick Vieira",
+      "year": 2009,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "roque-santa-cruz-2009",
+      "label": "Roque Santa Cruz",
+      "year": 2009,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "stuart-taylor-2009",
+      "label": "Stuart Taylor",
+      "year": 2009,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "sylvinho-2009",
+      "label": "Sylvinho",
+      "year": 2009,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "aleksandar-kolarov-2010",
+      "label": "Aleksandar Kolarov",
+      "year": 2010,
+      "subtitle": "SS Lazio",
+      "description": "Signed from SS Lazio",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "david-silva-2010",
+      "label": "David Silva",
+      "year": 2010,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "edin-dzeko-2010",
+      "label": "Edin Dzeko",
+      "year": 2010,
+      "subtitle": "VfL Wolfsburg",
+      "description": "Signed from VfL Wolfsburg",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "james-milner-2010",
+      "label": "James Milner",
+      "year": 2010,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "jerome-boateng-2010",
+      "label": "Jérôme Boateng",
+      "year": 2010,
+      "subtitle": "Hamburger SV",
+      "description": "Signed from Hamburger SV",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "mario-balotelli-2010",
+      "label": "Mario Balotelli",
+      "year": 2010,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "mohammed-abu-2010",
+      "label": "Mohammed Abu",
+      "year": 2010,
+      "subtitle": "Sporting Club Accra",
+      "description": "Signed from Sporting Club Accra",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "yaya-toure-2010",
+      "label": "Yaya Touré",
+      "year": 2010,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "costel-pantilimon-2011",
+      "label": "Costel Pantilimon",
+      "year": 2011,
+      "subtitle": "Politehnica Timisoara (- 2012)",
+      "description": "Signed from Politehnica Timisoara (- 2012)",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "gael-clichy-2011",
+      "label": "Gaël Clichy",
+      "year": 2011,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "owen-hargreaves-2011",
+      "label": "Owen Hargreaves",
+      "year": 2011,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "samir-nasri-2011",
+      "label": "Samir Nasri",
+      "year": 2011,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "sergio-aguero-2011",
+      "label": "Sergio Agüero",
+      "year": 2011,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "stefan-savic-2011",
+      "label": "Stefan Savic",
+      "year": 2011,
+      "subtitle": "FK Partizan Belgrade",
+      "description": "Signed from FK Partizan Belgrade",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "jack-rodwell-2012",
+      "label": "Jack Rodwell",
+      "year": 2012,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "javi-garcia-2012",
+      "label": "Javi García",
+      "year": 2012,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "maicon-2012",
+      "label": "Maicon",
+      "year": 2012,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "matija-nastasic-2012",
+      "label": "Matija Nastasić",
+      "year": 2012,
+      "subtitle": "ACF Fiorentina",
+      "description": "Signed from ACF Fiorentina",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "richard-wright-2012",
+      "label": "Richard Wright",
+      "year": 2012,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "scott-sinclair-2012",
+      "label": "Scott Sinclair",
+      "year": 2012,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "alvaro-negredo-2013",
+      "label": "Álvaro Negredo",
+      "year": 2013,
+      "subtitle": "Sevilla FC",
+      "description": "Signed from Sevilla FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "fernandinho-2013",
+      "label": "Fernandinho",
+      "year": 2013,
+      "subtitle": "Shakhtar Donetsk",
+      "description": "Signed from Shakhtar Donetsk",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "jesus-navas-2013",
+      "label": "Jesús Navas",
+      "year": 2013,
+      "subtitle": "Sevilla FC",
+      "description": "Signed from Sevilla FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "martin-demichelis-2013",
+      "label": "Martín Demichelis",
+      "year": 2013,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "stevan-jovetic-2013",
+      "label": "Stevan Jovetić",
+      "year": 2013,
+      "subtitle": "ACF Fiorentina",
+      "description": "Signed from ACF Fiorentina",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "bacary-sagna-2014",
+      "label": "Bacary Sagna",
+      "year": 2014,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "bruno-zuculini-2014",
+      "label": "Bruno Zuculini",
+      "year": 2014,
+      "subtitle": "Racing Club",
+      "description": "Signed from Racing Club",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "eliaquim-mangala-2014",
+      "label": "Eliaquim Mangala",
+      "year": 2014,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "fernando-2014",
+      "label": "Fernando",
+      "year": 2014,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "wilfried-bony-2014",
+      "label": "Wilfried Bony",
+      "year": 2014,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "willy-caballero-2014",
+      "label": "Willy Caballero",
+      "year": 2014,
+      "subtitle": "Málaga CF",
+      "description": "Signed from Málaga CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "anthony-caceres-2015",
+      "label": "Anthony Cáceres",
+      "year": 2015,
+      "subtitle": "Central Coast Mariners",
+      "description": "Signed from Central Coast Mariners",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "enes-unal-2015",
+      "label": "Enes Ünal",
+      "year": 2015,
+      "subtitle": "Bursaspor",
+      "description": "Signed from Bursaspor",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "fabian-delph-2015",
+      "label": "Fabian Delph",
+      "year": 2015,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "florian-lejeune-2015",
+      "label": "Florian Lejeune",
+      "year": 2015,
+      "subtitle": "Girona FC",
+      "description": "Signed from Girona FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "kevin-de-bruyne-2015",
+      "label": "Kevin De Bruyne",
+      "year": 2015,
+      "subtitle": "VfL Wolfsburg",
+      "description": "Signed from VfL Wolfsburg",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "luke-brattan-2015",
+      "label": "Luke Brattan",
+      "year": 2015,
+      "subtitle": "Brisbane Roar",
+      "description": "Signed from Brisbane Roar",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "nicolas-otamendi-2015",
+      "label": "Nicolás Otamendi",
+      "year": 2015,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "patrick-roberts-2015",
+      "label": "Patrick Roberts",
+      "year": 2015,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "raheem-sterling-2015",
+      "label": "Raheem Sterling",
+      "year": 2015,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ruben-sobrino-2015",
+      "label": "Rubén Sobrino",
+      "year": 2015,
+      "subtitle": "SD Ponferradina",
+      "description": "Signed from SD Ponferradina",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "aaron-mooy-2016",
+      "label": "Aaron Mooy",
+      "year": 2016,
+      "subtitle": "Melbourne City FC",
+      "description": "Signed from Melbourne City FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "claudio-bravo-2016",
+      "label": "Claudio Bravo",
+      "year": 2016,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "gabriel-jesus-2016",
+      "label": "Gabriel Jesus",
+      "year": 2016,
+      "subtitle": "Sociedade Esportiva Palmeiras",
+      "description": "Signed from Sociedade Esportiva Palmeiras",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "geronimo-rulli-2016",
+      "label": "Gerónimo Rulli",
+      "year": 2016,
+      "subtitle": "Club Deportivo Maldonado",
+      "description": "Signed from Club Deportivo Maldonado",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "john-stones-2016",
+      "label": "John Stones",
+      "year": 2016,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "leroy-sane-2016",
+      "label": "Leroy Sané",
+      "year": 2016,
+      "subtitle": "FC Schalke 04",
+      "description": "Signed from FC Schalke 04",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "marlos-moreno-2016",
+      "label": "Marlos Moreno",
+      "year": 2016,
+      "subtitle": "Atlético Nacional",
+      "description": "Signed from Atlético Nacional",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "nolito-2016",
+      "label": "Nolito",
+      "year": 2016,
+      "subtitle": "Celta de Vigo",
+      "description": "Signed from Celta de Vigo",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "oleksandr-zinchenko-2016",
+      "label": "Oleksandr Zinchenko",
+      "year": 2016,
+      "subtitle": "FC Ufa",
+      "description": "Signed from FC Ufa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "pablo-mari-2016",
+      "label": "Pablo Marí",
+      "year": 2016,
+      "subtitle": "Gimnàstic de Tarragona",
+      "description": "Signed from Gimnàstic de Tarragona",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "yangel-herrera-2016",
+      "label": "Yangel Herrera",
+      "year": 2016,
+      "subtitle": "Atlético Venezuela",
+      "description": "Signed from Atlético Venezuela",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "aymeric-laporte-2017",
+      "label": "Aymeric Laporte",
+      "year": 2017,
+      "subtitle": "Athletic Bilbao",
+      "description": "Signed from Athletic Bilbao",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "benjamin-mendy-2017",
+      "label": "Benjamin Mendy",
+      "year": 2017,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "bernardo-silva-2017",
+      "label": "Bernardo Silva",
+      "year": 2017,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "danilo-2017",
+      "label": "Danilo",
+      "year": 2017,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "douglas-luiz-2017",
+      "label": "Douglas Luiz",
+      "year": 2017,
+      "subtitle": "Clube de Regatas Vasco da Gama",
+      "description": "Signed from Clube de Regatas Vasco da Gama",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ederson-2017",
+      "label": "Ederson",
+      "year": 2017,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "jack-harrison-2017",
+      "label": "Jack Harrison",
+      "year": 2017,
+      "subtitle": "New York City FC",
+      "description": "Signed from New York City FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "kyle-walker-2017",
+      "label": "Kyle Walker",
+      "year": 2017,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "luka-ilic-2017",
+      "label": "Luka Ilic",
+      "year": 2017,
+      "subtitle": "Red Star Belgrade",
+      "description": "Signed from Red Star Belgrade",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "olarenwaju-kayode-2017",
+      "label": "Olarenwaju Kayode",
+      "year": 2017,
+      "subtitle": "Austria Vienna",
+      "description": "Signed from Austria Vienna",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ante-palaversa-2018",
+      "label": "Ante Palaversa",
+      "year": 2018,
+      "subtitle": "HNK Hajduk Split",
+      "description": "Signed from HNK Hajduk Split",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "daniel-arzani-2018",
+      "label": "Daniel Arzani",
+      "year": 2018,
+      "subtitle": "Melbourne City FC",
+      "description": "Signed from Melbourne City FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ko-itakura-2018",
+      "label": "Ko Itakura",
+      "year": 2018,
+      "subtitle": "Kawasaki Frontale",
+      "description": "Signed from Kawasaki Frontale",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "philippe-sandler-2018",
+      "label": "Philippe Sandler",
+      "year": 2018,
+      "subtitle": "PEC Zwolle",
+      "description": "Signed from PEC Zwolle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "riyad-mahrez-2018",
+      "label": "Riyad Mahrez",
+      "year": 2018,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "angelino-2019",
+      "label": "Angeliño",
+      "year": 2019,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "joao-cancelo-2019",
+      "label": "João Cancelo",
+      "year": 2019,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "pedro-porro-2019",
+      "label": "Pedro Porro",
+      "year": 2019,
+      "subtitle": "Girona FC",
+      "description": "Signed from Girona FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "rodri-2019",
+      "label": "Rodri",
+      "year": 2019,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ryotaro-meshino-2019",
+      "label": "Ryotaro Meshino",
+      "year": 2019,
+      "subtitle": "Gamba Osaka",
+      "description": "Signed from Gamba Osaka",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "slobodan-tedic-2019",
+      "label": "Slobodan Tedic",
+      "year": 2019,
+      "subtitle": "FK Cukaricki",
+      "description": "Signed from FK Cukaricki",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "zack-steffen-2019",
+      "label": "Zack Steffen",
+      "year": 2019,
+      "subtitle": "Columbus Crew SC",
+      "description": "Signed from Columbus Crew SC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "diego-rosa-2020",
+      "label": "Diego Rosa",
+      "year": 2020,
+      "subtitle": "Grêmio FBPA U20",
+      "description": "Signed from Grêmio FBPA U20",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ferran-torres-2020",
+      "label": "Ferran Torres",
+      "year": 2020,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "issa-kabore-2020",
+      "label": "Issa Kaboré",
+      "year": 2020,
+      "subtitle": "KV Mechelen",
+      "description": "Signed from KV Mechelen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "nahuel-bustos-2020",
+      "label": "Nahuel Bustos",
+      "year": 2020,
+      "subtitle": "CA Talleres",
+      "description": "Signed from CA Talleres",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "nathan-ake-2020",
+      "label": "Nathan Aké",
+      "year": 2020,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "ruben-dias-2020",
+      "label": "Rúben Dias",
+      "year": 2020,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "yan-couto-2020",
+      "label": "Yan Couto",
+      "year": 2020,
+      "subtitle": "Coritiba Foot Ball Club",
+      "description": "Signed from Coritiba Foot Ball Club",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "jack-grealish-2021",
+      "label": "Jack Grealish",
+      "year": 2021,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "julian-alvarez-2021",
+      "label": "Julián Alvarez",
+      "year": 2021,
+      "subtitle": "CA River Plate",
+      "description": "Signed from CA River Plate",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "scott-carson-2021",
+      "label": "Scott Carson",
+      "year": 2021,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "erling-haaland-2022",
+      "label": "Erling Haaland",
+      "year": 2022,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "kalvin-phillips-2022",
+      "label": "Kalvin Phillips",
+      "year": 2022,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "manuel-akanji-2022",
+      "label": "Manuel Akanji",
+      "year": 2022,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "maximo-perrone-2022",
+      "label": "Máximo Perrone",
+      "year": 2022,
+      "subtitle": "CA Vélez Sarsfield",
+      "description": "Signed from CA Vélez Sarsfield",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "sergio-gomez-2022",
+      "label": "Sergio Gómez",
+      "year": 2022,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "stefan-ortega-2022",
+      "label": "Stefan Ortega",
+      "year": 2022,
+      "subtitle": "Arminia Bielefeld",
+      "description": "Signed from Arminia Bielefeld",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "claudio-echeverri-2023",
+      "label": "Claudio Echeverri",
+      "year": 2023,
+      "subtitle": "CA River Plate",
+      "description": "Signed from CA River Plate",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "jeremy-doku-2023",
+      "label": "Jérémy Doku",
+      "year": 2023,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "josko-gvardiol-2023",
+      "label": "Josko Gvardiol",
+      "year": 2023,
+      "subtitle": "RB Leipzig",
+      "description": "Signed from RB Leipzig",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "mateo-kovacic-2023",
+      "label": "Mateo Kovacic",
+      "year": 2023,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "matheus-nunes-2023",
+      "label": "Matheus Nunes",
+      "year": 2023,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "abdukodir-khusanov-2024",
+      "label": "Abdukodir Khusanov",
+      "year": 2024,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "juma-bah-2024",
+      "label": "Juma Bah",
+      "year": 2024,
+      "subtitle": "Real Valladolid CF",
+      "description": "Signed from Real Valladolid CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "nico-gonzalez-2024",
+      "label": "Nico González",
+      "year": 2024,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "omar-marmoush-2024",
+      "label": "Omar Marmoush",
+      "year": 2024,
+      "subtitle": "Eintracht Frankfurt",
+      "description": "Signed from Eintracht Frankfurt",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "savinho-2024",
+      "label": "Savinho",
+      "year": 2024,
+      "subtitle": "ESTAC Troyes",
+      "description": "Signed from ESTAC Troyes",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "vitor-reis-2024",
+      "label": "Vitor Reis",
+      "year": 2024,
+      "subtitle": "Sociedade Esportiva Palmeiras",
+      "description": "Signed from Sociedade Esportiva Palmeiras",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "antoine-semenyo-2025",
+      "label": "Antoine Semenyo",
+      "year": 2025,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "gianluigi-donnarumma-2025",
+      "label": "Gianluigi Donnarumma",
+      "year": 2025,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "james-trafford-2025",
+      "label": "James Trafford",
+      "year": 2025,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "marc-guehi-2025",
+      "label": "Marc Guéhi",
+      "year": 2025,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "marcus-bettinelli-2025",
+      "label": "Marcus Bettinelli",
+      "year": 2025,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "rayan-ait-nouri-2025",
+      "label": "Rayan Aït-Nouri",
+      "year": 2025,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "rayan-cherki-2025",
+      "label": "Rayan Cherki",
+      "year": 2025,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "sverre-nypan-2025",
+      "label": "Sverre Nypan",
+      "year": 2025,
+      "subtitle": "Rosenborg BK",
+      "description": "Signed from Rosenborg BK",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    },
+    {
+      "id": "tijjani-reijnders-2025",
+      "label": "Tijjani Reijnders",
+      "year": 2025,
+      "subtitle": "AC Milan",
+      "description": "Signed from AC Milan",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/manchester-city/alletransfers/verein/281"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "wolves": {
+    "daily": {
+      "2026-05-21": [
+        {
+          "username": "Asle",
+          "score": 3,
+          "timestamp": "2026-05-21T09:37:37.080Z"
+        }
+      ]
+    },
+    "allTime": [
+      {
+        "username": "Asle",
+        "score": 3,
+        "timestamp": "2026-05-21T09:37:37.080Z",
+        "date": "2026-05-21"
+      }
+    ]
+  }
+}

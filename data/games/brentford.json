@@ -1,0 +1,2656 @@
+{
+  "id": "brentford",
+  "slug": "brentford",
+  "title": "Brentford Timeline",
+  "shortTitle": "Brentford",
+  "description": "Place Brentford signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/brentford",
+  "theme": {
+    "primary": "#E30613",
+    "secondary": "#FFFFFF",
+    "background": "#FFF4F4",
+    "text": "#111111"
+  },
+  "share": {
+    "title": "Brentford Timeline",
+    "description": "How far can you build the Brentford signing timeline?",
+    "hashtags": [
+      "Brentford",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Brentford Timeline Quiz - Brentford Signings Game",
+    "description": "Play a Brentford timeline quiz. Guess whether famous Brentford players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Brentford quiz",
+      "Brentford signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "alan-dickens-1992",
+      "label": "Alan Dickens",
+      "year": 1992,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "gerry-peyton-1992",
+      "label": "Gerry Peyton",
+      "year": 1992,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "joe-allon-1992",
+      "label": "Joe Allon",
+      "year": 1992,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "kenny-sansom-1992",
+      "label": "Kenny Sansom",
+      "year": 1992,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "martin-grainger-1992",
+      "label": "Martin Grainger",
+      "year": 1992,
+      "subtitle": "Colchester United",
+      "description": "Signed from Colchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "mickey-bennett-1992",
+      "label": "Mickey Bennett",
+      "year": 1992,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "paul-stephenson-1992",
+      "label": "Paul Stephenson",
+      "year": 1992,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "shane-westley-1992",
+      "label": "Shane Westley",
+      "year": 1992,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "tim-o-shea-1992",
+      "label": "Tim O'Shea",
+      "year": 1992,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "zbigniew-kruszynski-1992",
+      "label": "Zbigniew Kruszyński",
+      "year": 1992,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "barry-ashby-1993",
+      "label": "Barry Ashby",
+      "year": 1993,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "david-thompson-1993",
+      "label": "David Thompson",
+      "year": 1993,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "dean-williams-1993",
+      "label": "Dean Williams",
+      "year": 1993,
+      "subtitle": "Tamworth FC",
+      "description": "Signed from Tamworth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "kevin-dearden-1993",
+      "label": "Kevin Dearden",
+      "year": 1993,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "lee-harvey-1993",
+      "label": "Lee Harvey",
+      "year": 1993,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "robert-taylor-1993",
+      "label": "Robert Taylor",
+      "year": 1993,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "carl-asaba-1994",
+      "label": "Carl Asaba",
+      "year": 1994,
+      "subtitle": "Dulwich Hamlet",
+      "description": "Signed from Dulwich Hamlet",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "gus-hurdle-1994",
+      "label": "Gus Hurdle",
+      "year": 1994,
+      "subtitle": "Dorchester Town",
+      "description": "Signed from Dorchester Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "paul-abrahams-1994",
+      "label": "Paul Abrahams",
+      "year": 1994,
+      "subtitle": "Colchester United",
+      "description": "Signed from Colchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "david-greene-1995",
+      "label": "David Greene",
+      "year": 1995,
+      "subtitle": "Colchester United",
+      "description": "Signed from Colchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "dean-martin-1995",
+      "label": "Dean Martin",
+      "year": 1995,
+      "subtitle": "KA Akureyri",
+      "description": "Signed from KA Akureyri",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ijah-anderson-1995",
+      "label": "Ijah Anderson",
+      "year": 1995,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "paul-davis-1995",
+      "label": "Paul Davis",
+      "year": 1995,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "malcolm-mcpherson-1996",
+      "label": "Malcolm McPherson",
+      "year": 1996,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "scott-canham-1996",
+      "label": "Scott Canham",
+      "year": 1996,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "stuart-myall-1996",
+      "label": "Stuart Myall",
+      "year": 1996,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "andy-scott-1997",
+      "label": "Andy Scott",
+      "year": 1997,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "charlie-oatway-1997",
+      "label": "Charlie Oatway",
+      "year": 1997,
+      "subtitle": "Torquay United",
+      "description": "Signed from Torquay United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "danny-cullip-1997",
+      "label": "Danny Cullip",
+      "year": 1997,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "derek-bryan-1997",
+      "label": "Derek Bryan",
+      "year": 1997,
+      "subtitle": "Hampton & Richmond Borough",
+      "description": "Signed from Hampton & Richmond Borough",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "glenn-cockerill-1997",
+      "label": "Glenn Cockerill",
+      "year": 1997,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "graeme-hogg-1997",
+      "label": "Graeme Hogg",
+      "year": 1997,
+      "subtitle": "Notts County",
+      "description": "Signed from Notts County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "graham-benstead-1997",
+      "label": "Graham Benstead",
+      "year": 1997,
+      "subtitle": "Rushden & Diamonds (- 2011)",
+      "description": "Signed from Rushden & Diamonds (- 2011)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "leon-townley-1997",
+      "label": "Leon Townley",
+      "year": 1997,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "niall-thompson-1997",
+      "label": "Niall Thompson",
+      "year": 1997,
+      "subtitle": "Seattle Sounders",
+      "description": "Signed from Seattle Sounders",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "paul-watson-1997",
+      "label": "Paul Watson",
+      "year": 1997,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "simon-spencer-1997",
+      "label": "Simon Spencer",
+      "year": 1997,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "warren-aspinall-1997",
+      "label": "Warren Aspinall",
+      "year": 1997,
+      "subtitle": "Carlisle United",
+      "description": "Signed from Carlisle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "anthony-folan-1998",
+      "label": "Anthony Folan",
+      "year": 1998,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "danny-boxall-1998",
+      "label": "Danny Boxall",
+      "year": 1998,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "darren-freeman-1998",
+      "label": "Darren Freeman",
+      "year": 1998,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "darren-powell-1998",
+      "label": "Darren Powell",
+      "year": 1998,
+      "subtitle": "Hampton & Richmond Borough",
+      "description": "Signed from Hampton & Richmond Borough",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "dirk-hebel-1998",
+      "label": "Dirk Hebel",
+      "year": 1998,
+      "subtitle": "Tranmere Rovers",
+      "description": "Signed from Tranmere Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "drewe-broughton-1998",
+      "label": "Drewe Broughton",
+      "year": 1998,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "gavin-mahon-1998",
+      "label": "Gavin Mahon",
+      "year": 1998,
+      "subtitle": "Hereford United (- 2014)",
+      "description": "Signed from Hereford United (- 2014)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "hermann-hreidarsson-1998",
+      "label": "Hermann Hreidarsson",
+      "year": 1998,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jason-pearcey-1998",
+      "label": "Jason Pearcey",
+      "year": 1998,
+      "subtitle": "Grimsby Town",
+      "description": "Signed from Grimsby Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "leo-fortune-west-1998",
+      "label": "Leo Fortune-West",
+      "year": 1998,
+      "subtitle": "Lincoln City",
+      "description": "Signed from Lincoln City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "martin-rowlands-1998",
+      "label": "Martin Rowlands",
+      "year": 1998,
+      "subtitle": "Farnborough Town (- 2007)",
+      "description": "Signed from Farnborough Town (- 2007)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "paul-evans-1998",
+      "label": "Paul Evans",
+      "year": 1998,
+      "subtitle": "Shrewsbury Town",
+      "description": "Signed from Shrewsbury Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "rob-quinn-1998",
+      "label": "Rob Quinn",
+      "year": 1998,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "scott-partridge-1998",
+      "label": "Scott Partridge",
+      "year": 1998,
+      "subtitle": "Torquay United",
+      "description": "Signed from Torquay United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "andy-woodman-1999",
+      "label": "Andy Woodman",
+      "year": 1999,
+      "subtitle": "Northampton Town",
+      "description": "Signed from Northampton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "david-theobald-1999",
+      "label": "David Theobald",
+      "year": 1999,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "gareth-graham-1999",
+      "label": "Gareth Graham",
+      "year": 1999,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "gunnar-einarsson-1999",
+      "label": "Gunnar Einarsson",
+      "year": 1999,
+      "subtitle": "Roda JC Kerkrade",
+      "description": "Signed from Roda JC Kerkrade",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ivar-ingimarsson-1999",
+      "label": "Ívar Ingimarsson",
+      "year": 1999,
+      "subtitle": "ÍBV Vestmannaeyjar",
+      "description": "Signed from ÍBV Vestmannaeyjar",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jimmy-glass-1999",
+      "label": "Jimmy Glass",
+      "year": 1999,
+      "subtitle": "Cambridge United",
+      "description": "Signed from Cambridge United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "lakhdar-adjali-1999",
+      "label": "Lakhdar Adjali",
+      "year": 1999,
+      "subtitle": "Wasquehal Football",
+      "description": "Signed from Wasquehal Football",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "lorenzo-pinamonte-1999",
+      "label": "Lorenzo Pinamonte",
+      "year": 1999,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "olafur-gottskalksson-1999",
+      "label": "Ólafur Gottskálksson",
+      "year": 1999,
+      "subtitle": "Hibernian FC",
+      "description": "Signed from Hibernian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "paul-gibbs-1999",
+      "label": "Paul Gibbs",
+      "year": 1999,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "richard-kennedy-1999",
+      "label": "Richard Kennedy",
+      "year": 1999,
+      "subtitle": "Wycombe Wanderers",
+      "description": "Signed from Wycombe Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "scott-marshall-1999",
+      "label": "Scott Marshall",
+      "year": 1999,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "eddie-hutchinson-2000",
+      "label": "Eddie Hutchinson",
+      "year": 2000,
+      "subtitle": "Sutton United",
+      "description": "Signed from Sutton United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jay-lovett-2000",
+      "label": "Jay Lovett",
+      "year": 2000,
+      "subtitle": "Crawley Town",
+      "description": "Signed from Crawley Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jean-philippe-javary-2000",
+      "label": "Jean-Philippe Javary",
+      "year": 2000,
+      "subtitle": "Raith Rovers FC",
+      "description": "Signed from Raith Rovers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "mark-mccammon-2000",
+      "label": "Mark McCammon",
+      "year": 2000,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jason-price-2001",
+      "label": "Jason Price",
+      "year": 2001,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "mark-peters-2001",
+      "label": "Mark Peters",
+      "year": 2001,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "stephen-evans-2001",
+      "label": "Stephen Evans",
+      "year": 2001,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "andy-frampton-2002",
+      "label": "Andy Frampton",
+      "year": 2002,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "efan-ekoku-2002",
+      "label": "Efan Ekoku",
+      "year": 2002,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ibrahima-sonko-2002",
+      "label": "Ibrahima Sonko",
+      "year": 2002,
+      "subtitle": "Grenoble Foot 38",
+      "description": "Signed from Grenoble Foot 38",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jamie-fullarton-2002",
+      "label": "Jamie Fullarton",
+      "year": 2002,
+      "subtitle": "Dundee United FC",
+      "description": "Signed from Dundee United FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "leo-roget-2002",
+      "label": "Leo Roget",
+      "year": 2002,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "leon-constantine-2002",
+      "label": "Leon Constantine",
+      "year": 2002,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "danny-naisbitt-2003",
+      "label": "Danny Naisbitt",
+      "year": 2003,
+      "subtitle": "Harlow Town",
+      "description": "Signed from Harlow Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jani-viander-2003",
+      "label": "Jani Viander",
+      "year": 2003,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jide-olugbodi-2003",
+      "label": "Jide Olugbodi",
+      "year": 2003,
+      "subtitle": "SC Austria Lustenau",
+      "description": "Signed from SC Austria Lustenau",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "matt-harrold-2003",
+      "label": "Matt Harrold",
+      "year": 2003,
+      "subtitle": "Harlow Town",
+      "description": "Signed from Harlow Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "peter-beadle-2003",
+      "label": "Peter Beadle",
+      "year": 2003,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "stuart-nelson-2003",
+      "label": "Stuart Nelson",
+      "year": 2003,
+      "subtitle": "Hucknall Town FC",
+      "description": "Signed from Hucknall Town FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "tony-rougier-2003",
+      "label": "Tony Rougier",
+      "year": 2003,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "andy-myers-2004",
+      "label": "Andy Myers",
+      "year": 2004,
+      "subtitle": "Colchester United",
+      "description": "Signed from Colchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "chris-hargreaves-2004",
+      "label": "Chris Hargreaves",
+      "year": 2004,
+      "subtitle": "Northampton Town",
+      "description": "Signed from Northampton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "deon-burton-2004",
+      "label": "Deon Burton",
+      "year": 2004,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "isaiah-rankin-2004",
+      "label": "Isaiah Rankin",
+      "year": 2004,
+      "subtitle": "Grimsby Town",
+      "description": "Signed from Grimsby Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jamie-lawrence-2004",
+      "label": "Jamie Lawrence",
+      "year": 2004,
+      "subtitle": "Walsall FC",
+      "description": "Signed from Walsall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "john-mousinho-2004",
+      "label": "John Mousinho",
+      "year": 2004,
+      "subtitle": "Notre Dame Fighting Irish (Uni. of Notre Dame)",
+      "description": "Signed from Notre Dame Fighting Irish (Uni. of Notre Dame)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "john-salako-2004",
+      "label": "John Salako",
+      "year": 2004,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "marcus-gayle-2004",
+      "label": "Marcus Gayle",
+      "year": 2004,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "michael-turner-2004",
+      "label": "Michael Turner",
+      "year": 2004,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "richard-pacquette-2004",
+      "label": "Richard Pacquette",
+      "year": 2004,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "sam-sodje-2004",
+      "label": "Sam Sodje",
+      "year": 2004,
+      "subtitle": "Margate FC",
+      "description": "Signed from Margate FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "scott-fitzgerald-2004",
+      "label": "Scott Fitzgerald",
+      "year": 2004,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "scott-fitzgerald-2004",
+      "label": "Scott Fitzgerald",
+      "year": 2004,
+      "subtitle": "Colchester United",
+      "description": "Signed from Colchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "steve-claridge-2004",
+      "label": "Steve Claridge",
+      "year": 2004,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "adam-griffiths-2005",
+      "label": "Adam Griffiths",
+      "year": 2005,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "calum-willock-2005",
+      "label": "Calum Willock",
+      "year": 2005,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "dj-campbell-2005",
+      "label": "DJ Campbell",
+      "year": 2005,
+      "subtitle": "Yeading FC (- 2007)",
+      "description": "Signed from Yeading FC (- 2007)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "junior-lewis-2005",
+      "label": "Junior Lewis",
+      "year": 2005,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "olafur-ingi-skulason-2005",
+      "label": "Ólafur Ingi Skúlason",
+      "year": 2005,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "paul-brooker-2005",
+      "label": "Paul Brooker",
+      "year": 2005,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ricky-newman-2005",
+      "label": "Ricky Newman",
+      "year": 2005,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "chris-moore-2006",
+      "label": "Chris Moore",
+      "year": 2006,
+      "subtitle": "Dagenham & Redbridge FC",
+      "description": "Signed from Dagenham & Redbridge FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "clyde-wijnhard-2006",
+      "label": "Clyde Wijnhard",
+      "year": 2006,
+      "subtitle": "Macclesfield Town FC",
+      "description": "Signed from Macclesfield Town FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "gavin-tomlin-2006",
+      "label": "Gavin Tomlin",
+      "year": 2006,
+      "subtitle": "Windsor & Eton FC",
+      "description": "Signed from Windsor & Eton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jo-kuffour-2006",
+      "label": "Jo Kuffour",
+      "year": 2006,
+      "subtitle": "Torquay United",
+      "description": "Signed from Torquay United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "joe-keith-2006",
+      "label": "Joe Keith",
+      "year": 2006,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "matthew-heywood-2006",
+      "label": "Matthew Heywood",
+      "year": 2006,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "nathan-abbey-2006",
+      "label": "Nathan Abbey",
+      "year": 2006,
+      "subtitle": "Torquay United",
+      "description": "Signed from Torquay United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "neil-shipperley-2006",
+      "label": "Neil Shipperley",
+      "year": 2006,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "thomas-pinault-2006",
+      "label": "Thomas Pinault",
+      "year": 2006,
+      "subtitle": "Grimsby Town",
+      "description": "Signed from Grimsby Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "alan-connell-2007",
+      "label": "Alan Connell",
+      "year": 2007,
+      "subtitle": "Hereford United (- 2014)",
+      "description": "Signed from Hereford United (- 2014)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "craig-pead-2007",
+      "label": "Craig Pead",
+      "year": 2007,
+      "subtitle": "Walsall FC",
+      "description": "Signed from Walsall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "gary-smith-2007",
+      "label": "Gary Smith",
+      "year": 2007,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "glenn-poole-2007",
+      "label": "Glenn Poole",
+      "year": 2007,
+      "subtitle": "Grays Athletic",
+      "description": "Signed from Grays Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "john-mackie-2007",
+      "label": "John Mackie",
+      "year": 2007,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "lanre-oyebanjo-2007",
+      "label": "Lanre Oyebanjo",
+      "year": 2007,
+      "subtitle": "Waltham Forest FC",
+      "description": "Signed from Waltham Forest FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "lee-thorpe-2007",
+      "label": "Lee Thorpe",
+      "year": 2007,
+      "subtitle": "Torquay United",
+      "description": "Signed from Torquay United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "nathan-elder-2007",
+      "label": "Nathan Elder",
+      "year": 2007,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ricky-shakes-2007",
+      "label": "Ricky Shakes",
+      "year": 2007,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ryan-dickson-2007",
+      "label": "Ryan Dickson",
+      "year": 2007,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "simon-brown-2007",
+      "label": "Simon Brown",
+      "year": 2007,
+      "subtitle": "Hibernian FC",
+      "description": "Signed from Hibernian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "adam-newton-2008",
+      "label": "Adam Newton",
+      "year": 2008,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "brett-johnson-2008",
+      "label": "Brett Johnson",
+      "year": 2008,
+      "subtitle": "Northampton Town",
+      "description": "Signed from Northampton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "charlie-macdonald-2008",
+      "label": "Charlie MacDonald",
+      "year": 2008,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "craig-dobson-2008",
+      "label": "Craig Dobson",
+      "year": 2008,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "david-hunt-2008",
+      "label": "David Hunt",
+      "year": 2008,
+      "subtitle": "Shrewsbury Town",
+      "description": "Signed from Shrewsbury Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "john-halls-2008",
+      "label": "John Halls",
+      "year": 2008,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "marcus-bean-2008",
+      "label": "Marcus Bean",
+      "year": 2008,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "mark-phillips-2008",
+      "label": "Mark Phillips",
+      "year": 2008,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "marvin-williams-2008",
+      "label": "Marvin Williams",
+      "year": 2008,
+      "subtitle": "Yeovil Town",
+      "description": "Signed from Yeovil Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "moses-emmanuel-2008",
+      "label": "Moses Emmanuel",
+      "year": 2008,
+      "subtitle": "Croydon Athletic FC (- 2011)",
+      "description": "Signed from Croydon Athletic FC (- 2011)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "roberto-rodiel-2008",
+      "label": "Roberto Rodiel",
+      "year": 2008,
+      "subtitle": "Sevilla Atlético",
+      "description": "Signed from Sevilla Atlético",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "sam-wood-2008",
+      "label": "Sam Wood",
+      "year": 2008,
+      "subtitle": "Bromley FC",
+      "description": "Signed from Bromley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "alan-bennett-2009",
+      "label": "Alan Bennett",
+      "year": 2009,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ben-strevens-2009",
+      "label": "Ben Strevens",
+      "year": 2009,
+      "subtitle": "Dagenham & Redbridge FC",
+      "description": "Signed from Dagenham & Redbridge FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "carl-cort-2009",
+      "label": "Carl Cort",
+      "year": 2009,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "cleveland-taylor-2009",
+      "label": "Cleveland Taylor",
+      "year": 2009,
+      "subtitle": "Carlisle United",
+      "description": "Signed from Carlisle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "danny-foster-2009",
+      "label": "Danny Foster",
+      "year": 2009,
+      "subtitle": "Dagenham & Redbridge FC",
+      "description": "Signed from Dagenham & Redbridge FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "leon-legge-2009",
+      "label": "Leon Legge",
+      "year": 2009,
+      "subtitle": "Tonbridge Angels",
+      "description": "Signed from Tonbridge Angels",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "myles-weston-2009",
+      "label": "Myles Weston",
+      "year": 2009,
+      "subtitle": "Notts County",
+      "description": "Signed from Notts County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "nikki-bull-2009",
+      "label": "Nikki Bull",
+      "year": 2009,
+      "subtitle": "Aldershot Town",
+      "description": "Signed from Aldershot Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "sam-saunders-2009",
+      "label": "Sam Saunders",
+      "year": 2009,
+      "subtitle": "Dagenham & Redbridge FC",
+      "description": "Signed from Dagenham & Redbridge FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "simon-moore-2009",
+      "label": "Simon Moore",
+      "year": 2009,
+      "subtitle": "Farnborough FC",
+      "description": "Signed from Farnborough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "steve-kabba-2009",
+      "label": "Steve Kabba",
+      "year": 2009,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "toumani-diagouraga-2009",
+      "label": "Toumani Diagouraga",
+      "year": 2009,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "craig-woodman-2010",
+      "label": "Craig Woodman",
+      "year": 2010,
+      "subtitle": "Wycombe Wanderers",
+      "description": "Signed from Wycombe Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "david-mccracken-2010",
+      "label": "David McCracken",
+      "year": 2010,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ellis-remy-2010",
+      "label": "Ellis Remy",
+      "year": 2010,
+      "subtitle": "Bishop's Stortford FC",
+      "description": "Signed from Bishop's Stortford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "gary-alexander-2010",
+      "label": "Gary Alexander",
+      "year": 2010,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "kirk-hudson-2010",
+      "label": "Kirk Hudson",
+      "year": 2010,
+      "subtitle": "Aldershot Town",
+      "description": "Signed from Aldershot Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "lewis-grabban-2010",
+      "label": "Lewis Grabban",
+      "year": 2010,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "michael-spillane-2010",
+      "label": "Michael Spillane",
+      "year": 2010,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "nicky-adams-2010",
+      "label": "Nicky Adams",
+      "year": 2010,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "pim-balkestein-2010",
+      "label": "Pim Balkestein",
+      "year": 2010,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "richard-lee-2010",
+      "label": "Richard Lee",
+      "year": 2010,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "simon-royce-2010",
+      "label": "Simon Royce",
+      "year": 2010,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "antonio-german-2011",
+      "label": "Antonio German",
+      "year": 2011,
+      "subtitle": "Bromley FC",
+      "description": "Signed from Bromley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "clayton-donaldson-2011",
+      "label": "Clayton Donaldson",
+      "year": 2011,
+      "subtitle": "Crewe Alexandra",
+      "description": "Signed from Crewe Alexandra",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jonathan-douglas-2011",
+      "label": "Jonathan Douglas",
+      "year": 2011,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "marcel-eger-2011",
+      "label": "Marcel Eger",
+      "year": 2011,
+      "subtitle": "FC St. Pauli",
+      "description": "Signed from FC St. Pauli",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "mike-grella-2011",
+      "label": "Mike Grella",
+      "year": 2011,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "shay-logan-2011",
+      "label": "Shay Logan",
+      "year": 2011,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "farid-el-alagui-2012",
+      "label": "Farid El Alagui",
+      "year": 2012,
+      "subtitle": "Falkirk FC",
+      "description": "Signed from Falkirk FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "harlee-dean-2012",
+      "label": "Harlee Dean",
+      "year": 2012,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "paul-hayes-2012",
+      "label": "Paul Hayes",
+      "year": 2012,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "scott-barron-2012",
+      "label": "Scott Barron",
+      "year": 2012,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "stuart-dallas-2012",
+      "label": "Stuart Dallas",
+      "year": 2012,
+      "subtitle": "Crusaders FC",
+      "description": "Signed from Crusaders FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "tony-craig-2012",
+      "label": "Tony Craig",
+      "year": 2012,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "alan-mccormack-2013",
+      "label": "Alan McCormack",
+      "year": 2013,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "david-button-2013",
+      "label": "David Button",
+      "year": 2013,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jack-bonham-2013",
+      "label": "Jack Bonham",
+      "year": 2013,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "james-tarkowski-2013",
+      "label": "James Tarkowski",
+      "year": 2013,
+      "subtitle": "Oldham Athletic",
+      "description": "Signed from Oldham Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "javi-venta-2013",
+      "label": "Javi Venta",
+      "year": 2013,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "liam-o-brien-2013",
+      "label": "Liam O'Brien",
+      "year": 2013,
+      "subtitle": "Barnet FC",
+      "description": "Signed from Barnet FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "louis-hutton-2013",
+      "label": "Louis Hutton",
+      "year": 2013,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "nico-yennaris-2013",
+      "label": "Nico Yennaris",
+      "year": 2013,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "raphael-calvet-2013",
+      "label": "Raphaël Calvet",
+      "year": 2013,
+      "subtitle": "AJ Auxerre B",
+      "description": "Signed from AJ Auxerre B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "will-grigg-2013",
+      "label": "Will Grigg",
+      "year": 2013,
+      "subtitle": "Walsall FC",
+      "description": "Signed from Walsall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "aaron-greene-2014",
+      "label": "Aaron Greene",
+      "year": 2014,
+      "subtitle": "Chelmsford City",
+      "description": "Signed from Chelmsford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "alan-judge-2014",
+      "label": "Alan Judge",
+      "year": 2014,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "andre-gray-2014",
+      "label": "Andre Gray",
+      "year": 2014,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jack-o-connell-2014",
+      "label": "Jack O'Connell",
+      "year": 2014,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jota-peleteiro-2014",
+      "label": "Jota Peleteiro",
+      "year": 2014,
+      "subtitle": "Celta de Vigo",
+      "description": "Signed from Celta de Vigo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "lewis-macleod-2014",
+      "label": "Lewis Macleod",
+      "year": 2014,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "marcos-tebar-2014",
+      "label": "Marcos Tébar",
+      "year": 2014,
+      "subtitle": "UD Almería",
+      "description": "Signed from UD Almería",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "nick-proschwitz-2014",
+      "label": "Nick Proschwitz",
+      "year": 2014,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "scott-hogan-2014",
+      "label": "Scott Hogan",
+      "year": 2014,
+      "subtitle": "Rochdale AFC",
+      "description": "Signed from Rochdale AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "tommy-smith-2014",
+      "label": "Tommy Smith",
+      "year": 2014,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "akaki-gogia-2015",
+      "label": "Akaki Gogia",
+      "year": 2015,
+      "subtitle": "Hallescher FC",
+      "description": "Signed from Hallescher FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "andreas-bjelland-2015",
+      "label": "Andreas Bjelland",
+      "year": 2015,
+      "subtitle": "FC Twente Enschede",
+      "description": "Signed from FC Twente Enschede",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "josh-mceachran-2015",
+      "label": "Josh McEachran",
+      "year": 2015,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "konstantin-kerschbaumer-2015",
+      "label": "Konstantin Kerschbaumer",
+      "year": 2015,
+      "subtitle": "FC Admira Wacker Mödling",
+      "description": "Signed from FC Admira Wacker Mödling",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "lasse-vibe-2015",
+      "label": "Lasse Vibe",
+      "year": 2015,
+      "subtitle": "IFK Göteborg",
+      "description": "Signed from IFK Göteborg",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "maxime-colin-2015",
+      "label": "Maxime Colin",
+      "year": 2015,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "philipp-hofmann-2015",
+      "label": "Philipp Hofmann",
+      "year": 2015,
+      "subtitle": "1.FC Kaiserslautern",
+      "description": "Signed from 1.FC Kaiserslautern",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ryan-williams-2015",
+      "label": "Ryan Williams",
+      "year": 2015,
+      "subtitle": "Morecambe FC",
+      "description": "Signed from Morecambe FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ryan-woods-2015",
+      "label": "Ryan Woods",
+      "year": 2015,
+      "subtitle": "Shrewsbury Town",
+      "description": "Signed from Shrewsbury Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "yoann-barbet-2015",
+      "label": "Yoann Barbet",
+      "year": 2015,
+      "subtitle": "Chamois Niortais FC",
+      "description": "Signed from Chamois Niortais FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "daniel-bentley-2016",
+      "label": "Daniel Bentley",
+      "year": 2016,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "emmanuel-ledesma-2016",
+      "label": "Emmanuel Ledesma",
+      "year": 2016,
+      "subtitle": "Rotherham United",
+      "description": "Signed from Rotherham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "florian-jozefzoon-2016",
+      "label": "Florian Jozefzoon",
+      "year": 2016,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "john-egan-2016",
+      "label": "John Egan",
+      "year": 2016,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "rico-henry-2016",
+      "label": "Rico Henry",
+      "year": 2016,
+      "subtitle": "Walsall FC",
+      "description": "Signed from Walsall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "romaine-sawyers-2016",
+      "label": "Romaine Sawyers",
+      "year": 2016,
+      "subtitle": "Walsall FC",
+      "description": "Signed from Walsall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "sergi-canos-2016",
+      "label": "Sergi Canós",
+      "year": 2016,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "chiedozie-ogbene-2017",
+      "label": "Chiedozie Ogbene",
+      "year": 2017,
+      "subtitle": "Limerick FC (- 2019)",
+      "description": "Signed from Limerick FC (- 2019)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "emiliano-marcondes-2017",
+      "label": "Emiliano Marcondes",
+      "year": 2017,
+      "subtitle": "FC Nordsjaelland",
+      "description": "Signed from FC Nordsjaelland",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "henrik-dalsgaard-2017",
+      "label": "Henrik Dalsgaard",
+      "year": 2017,
+      "subtitle": "Zulte Waregem",
+      "description": "Signed from Zulte Waregem",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "kamohelo-mokotjo-2017",
+      "label": "Kamohelo Mokotjo",
+      "year": 2017,
+      "subtitle": "FC Twente Enschede",
+      "description": "Signed from FC Twente Enschede",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "luke-daniels-2017",
+      "label": "Luke Daniels",
+      "year": 2017,
+      "subtitle": "Scunthorpe United",
+      "description": "Signed from Scunthorpe United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "neal-maupay-2017",
+      "label": "Neal Maupay",
+      "year": 2017,
+      "subtitle": "AS Saint-Étienne",
+      "description": "Signed from AS Saint-Étienne",
+      "popularity": 90,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ollie-watkins-2017",
+      "label": "Ollie Watkins",
+      "year": 2017,
+      "subtitle": "Exeter City",
+      "description": "Signed from Exeter City",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ezri-konsa-2018",
+      "label": "Ezri Konsa",
+      "year": 2018,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "julian-jeanvier-2018",
+      "label": "Julian Jeanvier",
+      "year": 2018,
+      "subtitle": "Stade Reims",
+      "description": "Signed from Stade Reims",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "patrik-gunnarsson-2018",
+      "label": "Patrik Gunnarsson",
+      "year": 2018,
+      "subtitle": "Breidablik Kópavogur",
+      "description": "Signed from Breidablik Kópavogur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "said-benrahma-2018",
+      "label": "Saïd Benrahma",
+      "year": 2018,
+      "subtitle": "OGC Nice",
+      "description": "Signed from OGC Nice",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "bryan-mbeumo-2019",
+      "label": "Bryan Mbeumo",
+      "year": 2019,
+      "subtitle": "ESTAC Troyes",
+      "description": "Signed from ESTAC Troyes",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "christian-n-rgaard-2019",
+      "label": "Christian Nørgaard",
+      "year": 2019,
+      "subtitle": "ACF Fiorentina",
+      "description": "Signed from ACF Fiorentina",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "david-raya-2019",
+      "label": "David Raya",
+      "year": 2019,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "dru-yearwood-2019",
+      "label": "Dru Yearwood",
+      "year": 2019,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ethan-pinnock-2019",
+      "label": "Ethan Pinnock",
+      "year": 2019,
+      "subtitle": "Barnsley FC",
+      "description": "Signed from Barnsley FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "halil-dervisoglu-2019",
+      "label": "Halil Dervişoğlu",
+      "year": 2019,
+      "subtitle": "Sparta Rotterdam",
+      "description": "Signed from Sparta Rotterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "joel-valencia-2019",
+      "label": "Joel Valencia",
+      "year": 2019,
+      "subtitle": "Piast Gliwice",
+      "description": "Signed from Piast Gliwice",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "mads-roerslev-2019",
+      "label": "Mads Roerslev",
+      "year": 2019,
+      "subtitle": "FC Copenhagen",
+      "description": "Signed from FC Copenhagen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "mathias-jensen-2019",
+      "label": "Mathias Jensen",
+      "year": 2019,
+      "subtitle": "Celta de Vigo",
+      "description": "Signed from Celta de Vigo",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "nikolaos-karelis-2019",
+      "label": "Nikolaos Karelis",
+      "year": 2019,
+      "subtitle": "KRC Genk",
+      "description": "Signed from KRC Genk",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "pontus-jansson-2019",
+      "label": "Pontus Jansson",
+      "year": 2019,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "shandon-baptiste-2019",
+      "label": "Shandon Baptiste",
+      "year": 2019,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "tariqe-fosu-2019",
+      "label": "Tariqe Fosu",
+      "year": 2019,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "charlie-goode-2020",
+      "label": "Charlie Goode",
+      "year": 2020,
+      "subtitle": "Northampton Town",
+      "description": "Signed from Northampton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ivan-toney-2020",
+      "label": "Ivan Toney",
+      "year": 2020,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "saman-ghoddos-2020",
+      "label": "Saman Ghoddos",
+      "year": 2020,
+      "subtitle": "Amiens SC",
+      "description": "Signed from Amiens SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "vitaly-janelt-2020",
+      "label": "Vitaly Janelt",
+      "year": 2020,
+      "subtitle": "VfL Bochum",
+      "description": "Signed from VfL Bochum",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "frank-onyeka-2021",
+      "label": "Frank Onyeka",
+      "year": 2021,
+      "subtitle": "FC Midtjylland",
+      "description": "Signed from FC Midtjylland",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "kristoffer-ajer-2021",
+      "label": "Kristoffer Ajer",
+      "year": 2021,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "yoane-wissa-2021",
+      "label": "Yoane Wissa",
+      "year": 2021,
+      "subtitle": "FC Lorient",
+      "description": "Signed from FC Lorient",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "zanka-2021",
+      "label": "Zanka",
+      "year": 2021,
+      "subtitle": "Fenerbahce",
+      "description": "Signed from Fenerbahce",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "aaron-hickey-2022",
+      "label": "Aaron Hickey",
+      "year": 2022,
+      "subtitle": "Bologna FC 1909",
+      "description": "Signed from Bologna FC 1909",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "ben-mee-2022",
+      "label": "Ben Mee",
+      "year": 2022,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "keane-lewis-potter-2022",
+      "label": "Keane Lewis-Potter",
+      "year": 2022,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "mikkel-damsgaard-2022",
+      "label": "Mikkel Damsgaard",
+      "year": 2022,
+      "subtitle": "UC Sampdoria",
+      "description": "Signed from UC Sampdoria",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "thomas-strakosha-2022",
+      "label": "Thomas Strakosha",
+      "year": 2022,
+      "subtitle": "SS Lazio",
+      "description": "Signed from SS Lazio",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "hakon-valdimarsson-2023",
+      "label": "Hákon Valdimarsson",
+      "year": 2023,
+      "subtitle": "IF Elfsborg",
+      "description": "Signed from IF Elfsborg",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "kevin-schade-2023",
+      "label": "Kevin Schade",
+      "year": 2023,
+      "subtitle": "SC Freiburg",
+      "description": "Signed from SC Freiburg",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "mark-flekken-2023",
+      "label": "Mark Flekken",
+      "year": 2023,
+      "subtitle": "SC Freiburg",
+      "description": "Signed from SC Freiburg",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "nathan-collins-2023",
+      "label": "Nathan Collins",
+      "year": 2023,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "yunus-konak-2023",
+      "label": "Yunus Konak",
+      "year": 2023,
+      "subtitle": "Sivasspor",
+      "description": "Signed from Sivasspor",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "fabio-carvalho-2024",
+      "label": "Fábio Carvalho",
+      "year": 2024,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "gustavo-nunes-2024",
+      "label": "Gustavo Nunes",
+      "year": 2024,
+      "subtitle": "Grêmio Foot-Ball Porto Alegrense",
+      "description": "Signed from Grêmio Foot-Ball Porto Alegrense",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "igor-thiago-2024",
+      "label": "Igor Thiago",
+      "year": 2024,
+      "subtitle": "Club Brugge KV",
+      "description": "Signed from Club Brugge KV",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "sepp-van-den-berg-2024",
+      "label": "Sepp van den Berg",
+      "year": 2024,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "antoni-milambo-2025",
+      "label": "Antoni Milambo",
+      "year": 2025,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "caoimhin-kelleher-2025",
+      "label": "Caoimhín Kelleher",
+      "year": 2025,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "dango-ouattara-2025",
+      "label": "Dango Ouattara",
+      "year": 2025,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "jordan-henderson-2025",
+      "label": "Jordan Henderson",
+      "year": 2025,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "kaye-furo-2025",
+      "label": "Kaye Furo",
+      "year": 2025,
+      "subtitle": "Club Brugge KV",
+      "description": "Signed from Club Brugge KV",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "michael-kayode-2025",
+      "label": "Michael Kayode",
+      "year": 2025,
+      "subtitle": "ACF Fiorentina",
+      "description": "Signed from ACF Fiorentina",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    },
+    {
+      "id": "romelle-donovan-2025",
+      "label": "Romelle Donovan",
+      "year": 2025,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-brentford/alletransfers/verein/1148"
+    }
+  ]
+}

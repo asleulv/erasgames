@@ -1,0 +1,2166 @@
+{
+  "id": "aston-villa",
+  "slug": "aston-villa",
+  "title": "Aston Villa Timeline",
+  "shortTitle": "Aston Villa",
+  "description": "Place Aston Villa signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/aston-villa",
+  "theme": {
+    "primary": "#670E36",
+    "secondary": "#95BFE5",
+    "background": "#F8F0F5",
+    "text": "#4A0025"
+  },
+  "share": {
+    "title": "Aston Villa Timeline",
+    "description": "How far can you build the Aston Villa signing timeline?",
+    "hashtags": [
+      "AstonVilla",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Aston Villa Timeline Quiz - Aston Villa Signings Game",
+    "description": "Play a Aston Villa timeline quiz. Guess whether famous Aston Villa players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Aston Villa quiz",
+      "Aston Villa signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "dean-saunders-1992",
+      "label": "Dean Saunders",
+      "year": 1992,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "frank-mcavennie-1992",
+      "label": "Frank McAvennie",
+      "year": 1992,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "neil-davis-1992",
+      "label": "Neil Davis",
+      "year": 1992,
+      "subtitle": "Redditch United",
+      "description": "Signed from Redditch United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ray-houghton-1992",
+      "label": "Ray Houghton",
+      "year": 1992,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "andy-townsend-1993",
+      "label": "Andy Townsend",
+      "year": 1993,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "gordon-cowans-1993",
+      "label": "Gordon Cowans",
+      "year": 1993,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "guy-whittingham-1993",
+      "label": "Guy Whittingham",
+      "year": 1993,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "scott-murray-1993",
+      "label": "Scott Murray",
+      "year": 1993,
+      "subtitle": "Fraserburgh FC",
+      "description": "Signed from Fraserburgh FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "alan-wright-1994",
+      "label": "Alan Wright",
+      "year": 1994,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "franz-carr-1994",
+      "label": "Franz Carr",
+      "year": 1994,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "gary-charles-1994",
+      "label": "Gary Charles",
+      "year": 1994,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ian-taylor-1994",
+      "label": "Ian Taylor",
+      "year": 1994,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "john-fashanu-1994",
+      "label": "John Fashanu",
+      "year": 1994,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "phil-king-1994",
+      "label": "Phil King",
+      "year": 1994,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "tommy-johnson-1994",
+      "label": "Tommy Johnson",
+      "year": 1994,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "carl-tiler-1995",
+      "label": "Carl Tiler",
+      "year": 1995,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "gareth-southgate-1995",
+      "label": "Gareth Southgate",
+      "year": 1995,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "julian-joachim-1995",
+      "label": "Julian Joachim",
+      "year": 1995,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "mark-draper-1995",
+      "label": "Mark Draper",
+      "year": 1995,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "nii-lamptey-1995",
+      "label": "Nii Lamptey",
+      "year": 1995,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "savo-milosevic-1995",
+      "label": "Savo Milosevic",
+      "year": 1995,
+      "subtitle": "FK Partizan Belgrade",
+      "description": "Signed from FK Partizan Belgrade",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "nelson-1996",
+      "label": "Nélson",
+      "year": 1996,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "sasa-curcic-1996",
+      "label": "Sasa Curcic",
+      "year": 1996,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "simon-grayson-1997",
+      "label": "Simon Grayson",
+      "year": 1997,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "stan-collymore-1997",
+      "label": "Stan Collymore",
+      "year": 1997,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "alan-thompson-1998",
+      "label": "Alan Thompson",
+      "year": 1998,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "colin-calderwood-1998",
+      "label": "Colin Calderwood",
+      "year": 1998,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "david-james-1998",
+      "label": "David James",
+      "year": 1998,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "david-unsworth-1998",
+      "label": "David Unsworth",
+      "year": 1998,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "dion-dublin-1998",
+      "label": "Dion Dublin",
+      "year": 1998,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "mark-delaney-1998",
+      "label": "Mark Delaney",
+      "year": 1998,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "neil-tarrant-1998",
+      "label": "Neil Tarrant",
+      "year": 1998,
+      "subtitle": "Ross County FC",
+      "description": "Signed from Ross County FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "paul-merson-1998",
+      "label": "Paul Merson",
+      "year": 1998,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "peter-enckelman-1998",
+      "label": "Peter Enckelman",
+      "year": 1998,
+      "subtitle": "Turun Palloseura",
+      "description": "Signed from Turun Palloseura",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "steve-stone-1998",
+      "label": "Steve Stone",
+      "year": 1998,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "steve-watson-1998",
+      "label": "Steve Watson",
+      "year": 1998,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "benny-carbone-1999",
+      "label": "Benny Carbone",
+      "year": 1999,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "george-boateng-1999",
+      "label": "George Boateng",
+      "year": 1999,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "najwan-ghrayib-1999",
+      "label": "Najwan Ghrayib",
+      "year": 1999,
+      "subtitle": "Hapoel Haifa",
+      "description": "Signed from Hapoel Haifa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "neil-cutler-1999",
+      "label": "Neil Cutler",
+      "year": 1999,
+      "subtitle": "Chester City (- 2010)",
+      "description": "Signed from Chester City (- 2010)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "alpay-ozalan-2000",
+      "label": "Alpay Özalan",
+      "year": 2000,
+      "subtitle": "Siirt Jetpa Spor",
+      "description": "Signed from Siirt Jetpa Spor",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "david-ginola-2000",
+      "label": "David Ginola",
+      "year": 2000,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "gustavo-bartelt-2000",
+      "label": "Gustavo Bartelt",
+      "year": 2000,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "hassan-kachloul-2000",
+      "label": "Hassan Kachloul",
+      "year": 2000,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "juan-pablo-angel-2000",
+      "label": "Juan Pablo Ángel",
+      "year": 2000,
+      "subtitle": "CA River Plate",
+      "description": "Signed from CA River Plate",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "luc-nilis-2000",
+      "label": "Luc Nilis",
+      "year": 2000,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "steve-staunton-2000",
+      "label": "Steve Staunton",
+      "year": 2000,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "bosko-balaban-2001",
+      "label": "Bosko Balaban",
+      "year": 2001,
+      "subtitle": "GNK Dinamo Zagreb",
+      "description": "Signed from GNK Dinamo Zagreb",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "mustapha-hadji-2001",
+      "label": "Mustapha Hadji",
+      "year": 2001,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "olof-mellberg-2001",
+      "label": "Olof Mellberg",
+      "year": 2001,
+      "subtitle": "Racing Santander",
+      "description": "Signed from Racing Santander",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "peter-crouch-2001",
+      "label": "Peter Crouch",
+      "year": 2001,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "peter-schmeichel-2001",
+      "label": "Peter Schmeichel",
+      "year": 2001,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "wayne-henderson-2001",
+      "label": "Wayne Henderson",
+      "year": 2001,
+      "subtitle": "Cherry Orchard FC",
+      "description": "Signed from Cherry Orchard FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "marcus-allback-2002",
+      "label": "Marcus Allbäck",
+      "year": 2002,
+      "subtitle": "SC Heerenveen",
+      "description": "Signed from SC Heerenveen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "mark-kinsella-2002",
+      "label": "Mark Kinsella",
+      "year": 2002,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "michael-boulding-2002",
+      "label": "Michael Boulding",
+      "year": 2002,
+      "subtitle": "Grimsby Town",
+      "description": "Signed from Grimsby Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "yvind-leonhardsen-2002",
+      "label": "Øyvind Leonhardsen",
+      "year": 2002,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ronny-johnsen-2002",
+      "label": "Ronny Johnsen",
+      "year": 2002,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "stefan-postma-2002",
+      "label": "Stefan Postma",
+      "year": 2002,
+      "subtitle": "De Graafschap Doetinchem",
+      "description": "Signed from De Graafschap Doetinchem",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ulises-de-la-cruz-2002",
+      "label": "Ulises de la Cruz",
+      "year": 2002,
+      "subtitle": "Hibernian FC",
+      "description": "Signed from Hibernian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "gavin-mccann-2003",
+      "label": "Gavin McCann",
+      "year": 2003,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "nolberto-solano-2003",
+      "label": "Nolberto Solano",
+      "year": 2003,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "thomas-sorensen-2003",
+      "label": "Thomas Sörensen",
+      "year": 2003,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "eric-djemba-djemba-2004",
+      "label": "Eric Djemba Djemba",
+      "year": 2004,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "martin-laursen-2004",
+      "label": "Martin Laursen",
+      "year": 2004,
+      "subtitle": "AC Milan",
+      "description": "Signed from AC Milan",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "mathieu-berson-2004",
+      "label": "Mathieu Berson",
+      "year": 2004,
+      "subtitle": "FC Nantes",
+      "description": "Signed from FC Nantes",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "aaron-hughes-2005",
+      "label": "Aaron Hughes",
+      "year": 2005,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "kevin-phillips-2005",
+      "label": "Kevin Phillips",
+      "year": 2005,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "milan-baros-2005",
+      "label": "Milan Baros",
+      "year": 2005,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "patrik-berger-2005",
+      "label": "Patrik Berger",
+      "year": 2005,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "stuart-taylor-2005",
+      "label": "Stuart Taylor",
+      "year": 2005,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "wilfred-bouma-2005",
+      "label": "Wilfred Bouma",
+      "year": 2005,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "john-carew-2006",
+      "label": "John Carew",
+      "year": 2006,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "shaun-maloney-2006",
+      "label": "Shaun Maloney",
+      "year": 2006,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "stiliyan-petrov-2006",
+      "label": "Stiliyan Petrov",
+      "year": 2006,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "eric-lichaj-2007",
+      "label": "Eric Lichaj",
+      "year": 2007,
+      "subtitle": "North Carolina Tar Heels (University of NC)",
+      "description": "Signed from North Carolina Tar Heels (University of NC)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "marlon-harewood-2007",
+      "label": "Marlon Harewood",
+      "year": 2007,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "moustapha-salifou-2007",
+      "label": "Moustapha Salifou",
+      "year": 2007,
+      "subtitle": "FC Wil 1900",
+      "description": "Signed from FC Wil 1900",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "nigel-reo-coker-2007",
+      "label": "Nigel Reo-Coker",
+      "year": 2007,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "wayne-routledge-2007",
+      "label": "Wayne Routledge",
+      "year": 2007,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "zat-knight-2007",
+      "label": "Zat Knight",
+      "year": 2007,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "brad-friedel-2008",
+      "label": "Brad Friedel",
+      "year": 2008,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "brad-guzan-2008",
+      "label": "Brad Guzan",
+      "year": 2008,
+      "subtitle": "CD Chivas USA",
+      "description": "Signed from CD Chivas USA",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "carlos-cuellar-2008",
+      "label": "Carlos Cuéllar",
+      "year": 2008,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "curtis-davies-2008",
+      "label": "Curtis Davies",
+      "year": 2008,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "emile-heskey-2008",
+      "label": "Emile Heskey",
+      "year": 2008,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "james-milner-2008",
+      "label": "James Milner",
+      "year": 2008,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "luke-young-2008",
+      "label": "Luke Young",
+      "year": 2008,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "nicky-shorey-2008",
+      "label": "Nicky Shorey",
+      "year": 2008,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "steve-sidwell-2008",
+      "label": "Steve Sidwell",
+      "year": 2008,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "andy-marshall-2009",
+      "label": "Andy Marshall",
+      "year": 2009,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "fabian-delph-2009",
+      "label": "Fabian Delph",
+      "year": 2009,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "habib-beye-2009",
+      "label": "Habib Beye",
+      "year": 2009,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "james-collins-2009",
+      "label": "James Collins",
+      "year": 2009,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "richard-dunne-2009",
+      "label": "Richard Dunne",
+      "year": 2009,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "stephen-warnock-2009",
+      "label": "Stephen Warnock",
+      "year": 2009,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "stewart-downing-2009",
+      "label": "Stewart Downing",
+      "year": 2009,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "darren-bent-2010",
+      "label": "Darren Bent",
+      "year": 2010,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jean-makoun-2010",
+      "label": "Jean Makoun",
+      "year": 2010,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "stephen-ireland-2010",
+      "label": "Stephen Ireland",
+      "year": 2010,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "alan-hutton-2011",
+      "label": "Alan Hutton",
+      "year": 2011,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "charles-n-zogbia-2011",
+      "label": "Charles N'Zogbia",
+      "year": 2011,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "enda-stevens-2011",
+      "label": "Enda Stevens",
+      "year": 2011,
+      "subtitle": "Shamrock Rovers",
+      "description": "Signed from Shamrock Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "shay-given-2011",
+      "label": "Shay Given",
+      "year": 2011,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ashley-westwood-2012",
+      "label": "Ashley Westwood",
+      "year": 2012,
+      "subtitle": "Crewe Alexandra",
+      "description": "Signed from Crewe Alexandra",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "brett-holman-2012",
+      "label": "Brett Holman",
+      "year": 2012,
+      "subtitle": "AZ Alkmaar",
+      "description": "Signed from AZ Alkmaar",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "christian-benteke-2012",
+      "label": "Christian Benteke",
+      "year": 2012,
+      "subtitle": "KRC Genk",
+      "description": "Signed from KRC Genk",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "joe-bennett-2012",
+      "label": "Joe Bennett",
+      "year": 2012,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jordan-bowery-2012",
+      "label": "Jordan Bowery",
+      "year": 2012,
+      "subtitle": "Chesterfield FC",
+      "description": "Signed from Chesterfield FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "karim-el-ahmadi-2012",
+      "label": "Karim El Ahmadi",
+      "year": 2012,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "matthew-lowton-2012",
+      "label": "Matthew Lowton",
+      "year": 2012,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ron-vlaar-2012",
+      "label": "Ron Vlaar",
+      "year": 2012,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "yacouba-sylla-2012",
+      "label": "Yacouba Sylla",
+      "year": 2012,
+      "subtitle": "Clermont Foot Auvergne 63",
+      "description": "Signed from Clermont Foot Auvergne 63",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "aleksandar-tonev-2013",
+      "label": "Aleksandar Tonev",
+      "year": 2013,
+      "subtitle": "Lech Poznan",
+      "description": "Signed from Lech Poznan",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "antonio-luna-2013",
+      "label": "Antonio Luna",
+      "year": 2013,
+      "subtitle": "Sevilla FC",
+      "description": "Signed from Sevilla FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jed-steer-2013",
+      "label": "Jed Steer",
+      "year": 2013,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jores-okore-2013",
+      "label": "Jores Okore",
+      "year": 2013,
+      "subtitle": "FC Nordsjaelland",
+      "description": "Signed from FC Nordsjaelland",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "leandro-bacuna-2013",
+      "label": "Leandro Bacuna",
+      "year": 2013,
+      "subtitle": "FC Groningen",
+      "description": "Signed from FC Groningen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "libor-kozak-2013",
+      "label": "Libor Kozák",
+      "year": 2013,
+      "subtitle": "SS Lazio",
+      "description": "Signed from SS Lazio",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "nicklas-helenius-2013",
+      "label": "Nicklas Helenius",
+      "year": 2013,
+      "subtitle": "Aalborg BK",
+      "description": "Signed from Aalborg BK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "aly-cissokho-2014",
+      "label": "Aly Cissokho",
+      "year": 2014,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "carles-gil-2014",
+      "label": "Carles Gil",
+      "year": 2014,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "carlos-sanchez-2014",
+      "label": "Carlos Sánchez",
+      "year": 2014,
+      "subtitle": "Elche CF",
+      "description": "Signed from Elche CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "joe-cole-2014",
+      "label": "Joe Cole",
+      "year": 2014,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "kieran-richardson-2014",
+      "label": "Kieran Richardson",
+      "year": 2014,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "philippe-senderos-2014",
+      "label": "Philippe Senderos",
+      "year": 2014,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "adama-traore-2015",
+      "label": "Adama Traoré",
+      "year": 2015,
+      "subtitle": "FC Barcelona B",
+      "description": "Signed from FC Barcelona B",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "idrissa-gueye-2015",
+      "label": "Idrissa Gueye",
+      "year": 2015,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "joleon-lescott-2015",
+      "label": "Joleon Lescott",
+      "year": 2015,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jordan-amavi-2015",
+      "label": "Jordan Amavi",
+      "year": 2015,
+      "subtitle": "OGC Nice",
+      "description": "Signed from OGC Nice",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jordan-ayew-2015",
+      "label": "Jordan Ayew",
+      "year": 2015,
+      "subtitle": "FC Lorient",
+      "description": "Signed from FC Lorient",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jordan-veretout-2015",
+      "label": "Jordan Veretout",
+      "year": 2015,
+      "subtitle": "FC Nantes",
+      "description": "Signed from FC Nantes",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jose-crespo-2015",
+      "label": "José Crespo",
+      "year": 2015,
+      "subtitle": "Córdoba CF",
+      "description": "Signed from Córdoba CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "mark-bunn-2015",
+      "label": "Mark Bunn",
+      "year": 2015,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "micah-richards-2015",
+      "label": "Micah Richards",
+      "year": 2015,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "rudy-gestede-2015",
+      "label": "Rudy Gestede",
+      "year": 2015,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "scott-sinclair-2015",
+      "label": "Scott Sinclair",
+      "year": 2015,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "aaron-tshibola-2016",
+      "label": "Aaron Tshibola",
+      "year": 2016,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "albert-adomah-2016",
+      "label": "Albert Adomah",
+      "year": 2016,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "birkir-bjarnason-2016",
+      "label": "Birkir Bjarnason",
+      "year": 2016,
+      "subtitle": "FC Basel 1893",
+      "description": "Signed from FC Basel 1893",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "conor-hourihane-2016",
+      "label": "Conor Hourihane",
+      "year": 2016,
+      "subtitle": "Barnsley FC",
+      "description": "Signed from Barnsley FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "henri-lansbury-2016",
+      "label": "Henri Lansbury",
+      "year": 2016,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jacob-bedeau-2016",
+      "label": "Jacob Bedeau",
+      "year": 2016,
+      "subtitle": "Bury FC",
+      "description": "Signed from Bury FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "james-bree-2016",
+      "label": "James Bree",
+      "year": 2016,
+      "subtitle": "Barnsley FC",
+      "description": "Signed from Barnsley FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "james-chester-2016",
+      "label": "James Chester",
+      "year": 2016,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jonathan-kodjia-2016",
+      "label": "Jonathan Kodjia",
+      "year": 2016,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "mile-jedinak-2016",
+      "label": "Mile Jedinak",
+      "year": 2016,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "neil-taylor-2016",
+      "label": "Neil Taylor",
+      "year": 2016,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "pierluigi-gollini-2016",
+      "label": "Pierluigi Gollini",
+      "year": 2016,
+      "subtitle": "Hellas Verona",
+      "description": "Signed from Hellas Verona",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ritchie-de-laet-2016",
+      "label": "Ritchie De Laet",
+      "year": 2016,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ross-mccormack-2016",
+      "label": "Ross McCormack",
+      "year": 2016,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "scott-hogan-2016",
+      "label": "Scott Hogan",
+      "year": 2016,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "tommy-elphick-2016",
+      "label": "Tommy Elphick",
+      "year": 2016,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ahmed-el-mohamady-2017",
+      "label": "Ahmed El Mohamady",
+      "year": 2017,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "glenn-whelan-2017",
+      "label": "Glenn Whelan",
+      "year": 2017,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "john-terry-2017",
+      "label": "John Terry",
+      "year": 2017,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "frederic-guilbert-2018",
+      "label": "Frédéric Guilbert",
+      "year": 2018,
+      "subtitle": "SM Caen",
+      "description": "Signed from SM Caen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "john-mcginn-2018",
+      "label": "John McGinn",
+      "year": 2018,
+      "subtitle": "Hibernian FC",
+      "description": "Signed from Hibernian FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "lovre-kalinic-2018",
+      "label": "Lovre Kalinic",
+      "year": 2018,
+      "subtitle": "KAA Gent",
+      "description": "Signed from KAA Gent",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "rjan-nyland-2018",
+      "label": "Ørjan Nyland",
+      "year": 2018,
+      "subtitle": "FC Ingolstadt 04",
+      "description": "Signed from FC Ingolstadt 04",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ally-samatta-2019",
+      "label": "Ally Samatta",
+      "year": 2019,
+      "subtitle": "KRC Genk",
+      "description": "Signed from KRC Genk",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "anwar-el-ghazi-2019",
+      "label": "Anwar El Ghazi",
+      "year": 2019,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "bjorn-engels-2019",
+      "label": "Björn Engels",
+      "year": 2019,
+      "subtitle": "Stade Reims",
+      "description": "Signed from Stade Reims",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "borja-baston-2019",
+      "label": "Borja Bastón",
+      "year": 2019,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "douglas-luiz-2019",
+      "label": "Douglas Luiz",
+      "year": 2019,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ezri-konsa-2019",
+      "label": "Ezri Konsa",
+      "year": 2019,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jota-peleteiro-2019",
+      "label": "Jota Peleteiro",
+      "year": 2019,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "kortney-hause-2019",
+      "label": "Kortney Hause",
+      "year": 2019,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "marvelous-nakamba-2019",
+      "label": "Marvelous Nakamba",
+      "year": 2019,
+      "subtitle": "Club Brugge KV",
+      "description": "Signed from Club Brugge KV",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "matt-targett-2019",
+      "label": "Matt Targett",
+      "year": 2019,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "tom-heaton-2019",
+      "label": "Tom Heaton",
+      "year": 2019,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "trezeguet-2019",
+      "label": "Trezeguet",
+      "year": 2019,
+      "subtitle": "Kasimpasa",
+      "description": "Signed from Kasimpasa",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "tyrone-mings-2019",
+      "label": "Tyrone Mings",
+      "year": 2019,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "wesley-moraes-2019",
+      "label": "Wesley Moraes",
+      "year": 2019,
+      "subtitle": "Club Brugge KV",
+      "description": "Signed from Club Brugge KV",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "bertrand-traore-2020",
+      "label": "Bertrand Traoré",
+      "year": 2020,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "emiliano-martinez-2020",
+      "label": "Emiliano Martínez",
+      "year": 2020,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "matty-cash-2020",
+      "label": "Matty Cash",
+      "year": 2020,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "morgan-sanson-2020",
+      "label": "Morgan Sanson",
+      "year": 2020,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ollie-watkins-2020",
+      "label": "Ollie Watkins",
+      "year": 2020,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "calum-chambers-2021",
+      "label": "Calum Chambers",
+      "year": 2021,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "danny-ings-2021",
+      "label": "Danny Ings",
+      "year": 2021,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "emiliano-buendia-2021",
+      "label": "Emiliano Buendía",
+      "year": 2021,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "leon-bailey-2021",
+      "label": "Leon Bailey",
+      "year": 2021,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "lucas-digne-2021",
+      "label": "Lucas Digne",
+      "year": 2021,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "alex-moreno-2022",
+      "label": "Álex Moreno",
+      "year": 2022,
+      "subtitle": "Real Betis Balompié",
+      "description": "Signed from Real Betis Balompié",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "boubacar-kamara-2022",
+      "label": "Boubacar Kamara",
+      "year": 2022,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "diego-carlos-2022",
+      "label": "Diego Carlos",
+      "year": 2022,
+      "subtitle": "Sevilla FC",
+      "description": "Signed from Sevilla FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jhon-duran-2022",
+      "label": "Jhon Durán",
+      "year": 2022,
+      "subtitle": "Chicago Fire FC",
+      "description": "Signed from Chicago Fire FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "leander-dendoncker-2022",
+      "label": "Leander Dendoncker",
+      "year": 2022,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "philippe-coutinho-2022",
+      "label": "Philippe Coutinho",
+      "year": 2022,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "robin-olsen-2022",
+      "label": "Robin Olsen",
+      "year": 2022,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "joe-gauci-2023",
+      "label": "Joe Gauci",
+      "year": 2023,
+      "subtitle": "Adelaide United",
+      "description": "Signed from Adelaide United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "kosta-nedeljkovic-2023",
+      "label": "Kosta Nedeljkovic",
+      "year": 2023,
+      "subtitle": "Red Star Belgrade",
+      "description": "Signed from Red Star Belgrade",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "morgan-rogers-2023",
+      "label": "Morgan Rogers",
+      "year": 2023,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "moussa-diaby-2023",
+      "label": "Moussa Diaby",
+      "year": 2023,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "pau-torres-2023",
+      "label": "Pau Torres",
+      "year": 2023,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "youri-tielemans-2023",
+      "label": "Youri Tielemans",
+      "year": 2023,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "amadou-onana-2024",
+      "label": "Amadou Onana",
+      "year": 2024,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "andres-garcia-2024",
+      "label": "Andrés García",
+      "year": 2024,
+      "subtitle": "Levante UD",
+      "description": "Signed from Levante UD",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "cameron-archer-2024",
+      "label": "Cameron Archer",
+      "year": 2024,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "donyell-malen-2024",
+      "label": "Donyell Malen",
+      "year": 2024,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "enzo-barrenechea-2024",
+      "label": "Enzo Barrenechea",
+      "year": 2024,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ian-maatsen-2024",
+      "label": "Ian Maatsen",
+      "year": 2024,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "jaden-philogene-2024",
+      "label": "Jaden Philogene",
+      "year": 2024,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "lewis-dobbin-2024",
+      "label": "Lewis Dobbin",
+      "year": 2024,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "ross-barkley-2024",
+      "label": "Ross Barkley",
+      "year": 2024,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "samuel-iling-junior-2024",
+      "label": "Samuel Iling-Junior",
+      "year": 2024,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "alysson-2025",
+      "label": "Alysson",
+      "year": 2025,
+      "subtitle": "Grêmio Foot-Ball Porto Alegrense",
+      "description": "Signed from Grêmio Foot-Ball Porto Alegrense",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "evann-guessand-2025",
+      "label": "Evann Guessand",
+      "year": 2025,
+      "subtitle": "OGC Nice",
+      "description": "Signed from OGC Nice",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "marco-bizot-2025",
+      "label": "Marco Bizot",
+      "year": 2025,
+      "subtitle": "Stade Brestois 29",
+      "description": "Signed from Stade Brestois 29",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "tammy-abraham-2025",
+      "label": "Tammy Abraham",
+      "year": 2025,
+      "subtitle": "Besiktas JK",
+      "description": "Signed from Besiktas JK",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "victor-lindelof-2025",
+      "label": "Victor Lindelöf",
+      "year": 2025,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    },
+    {
+      "id": "yasin-ozcan-2025",
+      "label": "Yasin Özcan",
+      "year": 2025,
+      "subtitle": "Kasimpasa",
+      "description": "Signed from Kasimpasa",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/aston-villa/alletransfers/verein/405"
+    }
+  ]
+}

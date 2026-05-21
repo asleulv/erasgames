@@ -1,0 +1,2326 @@
+{
+  "id": "newcastle",
+  "slug": "newcastle",
+  "title": "Newcastle Timeline",
+  "shortTitle": "Newcastle",
+  "description": "Place Newcastle United signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/newcastle",
+  "theme": {
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "background": "#F4F4F4",
+    "text": "#111111"
+  },
+  "share": {
+    "title": "Newcastle Timeline",
+    "description": "How far can you build the Newcastle United signing timeline?",
+    "hashtags": [
+      "Newcastle",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Newcastle Timeline Quiz - Newcastle United Signings Game",
+    "description": "Play a Newcastle United timeline quiz. Guess whether famous Newcastle United players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Newcastle United quiz",
+      "Newcastle United signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "andy-cole-1992",
+      "label": "Andy Cole",
+      "year": 1992,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "barry-venison-1992",
+      "label": "Barry Venison",
+      "year": 1992,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "john-beresford-1992",
+      "label": "John Beresford",
+      "year": 1992,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "mark-robinson-1992",
+      "label": "Mark Robinson",
+      "year": 1992,
+      "subtitle": "Barnsley FC",
+      "description": "Signed from Barnsley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "paul-bracewell-1992",
+      "label": "Paul Bracewell",
+      "year": 1992,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "rob-lee-1992",
+      "label": "Rob Lee",
+      "year": 1992,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "scott-sellars-1992",
+      "label": "Scott Sellars",
+      "year": 1992,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "alex-mathie-1993",
+      "label": "Alex Mathie",
+      "year": 1993,
+      "subtitle": "Morton FC",
+      "description": "Signed from Morton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "chris-holland-1993",
+      "label": "Chris Holland",
+      "year": 1993,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "darren-peacock-1993",
+      "label": "Darren Peacock",
+      "year": 1993,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "malcolm-allen-1993",
+      "label": "Malcolm Allen",
+      "year": 1993,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "michael-jeffrey-1993",
+      "label": "Michael Jeffrey",
+      "year": 1993,
+      "subtitle": "Doncaster Rovers",
+      "description": "Signed from Doncaster Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "mike-hooper-1993",
+      "label": "Mike Hooper",
+      "year": 1993,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "nikodimos-papavasiliou-1993",
+      "label": "Nikodimos Papavasiliou",
+      "year": 1993,
+      "subtitle": "OFI Crete",
+      "description": "Signed from OFI Crete",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "peter-beardsley-1993",
+      "label": "Peter Beardsley",
+      "year": 1993,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "peter-cormack-1993",
+      "label": "Peter Cormack",
+      "year": 1993,
+      "subtitle": "Meadowbank Thistle FC",
+      "description": "Signed from Meadowbank Thistle FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "ruel-fox-1993",
+      "label": "Ruel Fox",
+      "year": 1993,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "steve-harper-1993",
+      "label": "Steve Harper",
+      "year": 1993,
+      "subtitle": "Seaham Red Star",
+      "description": "Signed from Seaham Red Star",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jason-drysdale-1994",
+      "label": "Jason Drysdale",
+      "year": 1994,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jim-crawford-1994",
+      "label": "Jim Crawford",
+      "year": 1994,
+      "subtitle": "Bohemian Football Club",
+      "description": "Signed from Bohemian Football Club",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "keith-gillespie-1994",
+      "label": "Keith Gillespie",
+      "year": 1994,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "marc-hottiger-1994",
+      "label": "Marc Hottiger",
+      "year": 1994,
+      "subtitle": "FC Sion",
+      "description": "Signed from FC Sion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "paul-kitson-1994",
+      "label": "Paul Kitson",
+      "year": 1994,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "philippe-albert-1994",
+      "label": "Philippe Albert",
+      "year": 1994,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "steve-guppy-1994",
+      "label": "Steve Guppy",
+      "year": 1994,
+      "subtitle": "Wycombe Wanderers",
+      "description": "Signed from Wycombe Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "darren-huckerby-1995",
+      "label": "Darren Huckerby",
+      "year": 1995,
+      "subtitle": "Lincoln City",
+      "description": "Signed from Lincoln City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "david-batty-1995",
+      "label": "David Batty",
+      "year": 1995,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "david-ginola-1995",
+      "label": "David Ginola",
+      "year": 1995,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "faustino-asprilla-1995",
+      "label": "Faustino Asprilla",
+      "year": 1995,
+      "subtitle": "AC Parma",
+      "description": "Signed from AC Parma",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "les-ferdinand-1995",
+      "label": "Les Ferdinand",
+      "year": 1995,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "shaka-hislop-1995",
+      "label": "Shaka Hislop",
+      "year": 1995,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "warren-barton-1995",
+      "label": "Warren Barton",
+      "year": 1995,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "alan-shearer-1996",
+      "label": "Alan Shearer",
+      "year": 1996,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "alessandro-pistone-1997",
+      "label": "Alessandro Pistone",
+      "year": 1997,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "andreas-andersson-1997",
+      "label": "Andreas Andersson",
+      "year": 1997,
+      "subtitle": "AC Milan",
+      "description": "Signed from AC Milan",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "andy-griffin-1997",
+      "label": "Andy Griffin",
+      "year": 1997,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "bjarni-gudjonsson-1997",
+      "label": "Bjarni Gudjónsson",
+      "year": 1997,
+      "subtitle": "ÍA Akranes",
+      "description": "Signed from ÍA Akranes",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "david-terrier-1997",
+      "label": "David Terrier",
+      "year": 1997,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "des-hamilton-1997",
+      "label": "Des Hamilton",
+      "year": 1997,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "gary-speed-1997",
+      "label": "Gary Speed",
+      "year": 1997,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "ian-rush-1997",
+      "label": "Ian Rush",
+      "year": 1997,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "james-coppinger-1997",
+      "label": "James Coppinger",
+      "year": 1997,
+      "subtitle": "Darlington FC (- 2012)",
+      "description": "Signed from Darlington FC (- 2012)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "john-barnes-1997",
+      "label": "John Barnes",
+      "year": 1997,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jon-dahl-tomasson-1997",
+      "label": "Jon Dahl Tomasson",
+      "year": 1997,
+      "subtitle": "SC Heerenveen",
+      "description": "Signed from SC Heerenveen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "nikolaos-dabizas-1997",
+      "label": "Nikolaos Dabizas",
+      "year": 1997,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "paul-robinson-1997",
+      "label": "Paul Robinson",
+      "year": 1997,
+      "subtitle": "Darlington FC (- 2012)",
+      "description": "Signed from Darlington FC (- 2012)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "ralf-keidel-1997",
+      "label": "Ralf Keidel",
+      "year": 1997,
+      "subtitle": "1.FC Schweinfurt 05",
+      "description": "Signed from 1.FC Schweinfurt 05",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "shay-given-1997",
+      "label": "Shay Given",
+      "year": 1997,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "stuart-pearce-1997",
+      "label": "Stuart Pearce",
+      "year": 1997,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "temur-ketsbaia-1997",
+      "label": "Temur Ketsbaia",
+      "year": 1997,
+      "subtitle": "AEK Athens",
+      "description": "Signed from AEK Athens",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "carl-serrant-1998",
+      "label": "Carl Serrant",
+      "year": 1998,
+      "subtitle": "Oldham Athletic",
+      "description": "Signed from Oldham Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "didier-domi-1998",
+      "label": "Didier Domi",
+      "year": 1998,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "dietmar-hamann-1998",
+      "label": "Dietmar Hamann",
+      "year": 1998,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "duncan-ferguson-1998",
+      "label": "Duncan Ferguson",
+      "year": 1998,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "georgios-georgiadis-1998",
+      "label": "Georgios Georgiadis",
+      "year": 1998,
+      "subtitle": "Panathinaikos",
+      "description": "Signed from Panathinaikos",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "john-karelse-1998",
+      "label": "John Karelse",
+      "year": 1998,
+      "subtitle": "NAC Breda",
+      "description": "Signed from NAC Breda",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "laurent-charvet-1998",
+      "label": "Laurent Charvet",
+      "year": 1998,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "lionel-perez-1998",
+      "label": "Lionel Perez",
+      "year": 1998,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "silvio-maric-1998",
+      "label": "Silvio Maric",
+      "year": 1998,
+      "subtitle": "NK Croatia Zagreb",
+      "description": "Signed from NK Croatia Zagreb",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "stephane-guivarc-h-1998",
+      "label": "Stéphane Guivarc'h",
+      "year": 1998,
+      "subtitle": "AJ Auxerre",
+      "description": "Signed from AJ Auxerre",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "stephen-glass-1998",
+      "label": "Stephen Glass",
+      "year": 1998,
+      "subtitle": "Aberdeen FC",
+      "description": "Signed from Aberdeen FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "alain-goma-1999",
+      "label": "Alain Goma",
+      "year": 1999,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "diego-gavilan-1999",
+      "label": "Diego Gavilán",
+      "year": 1999,
+      "subtitle": "Club Cerro Porteño",
+      "description": "Signed from Club Cerro Porteño",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "franck-dumas-1999",
+      "label": "Franck Dumas",
+      "year": 1999,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "gary-caldwell-1999",
+      "label": "Gary Caldwell",
+      "year": 1999,
+      "subtitle": "Celtic Boys Club",
+      "description": "Signed from Celtic Boys Club",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jonny-brain-1999",
+      "label": "Jonny Brain",
+      "year": 1999,
+      "subtitle": "Carlisle United",
+      "description": "Signed from Carlisle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "kevin-gallacher-1999",
+      "label": "Kevin Gallacher",
+      "year": 1999,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "kieron-dyer-1999",
+      "label": "Kieron Dyer",
+      "year": 1999,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "marcelino-1999",
+      "label": "Marcelino",
+      "year": 1999,
+      "subtitle": "RCD Mallorca",
+      "description": "Signed from RCD Mallorca",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "andrew-o-brien-2000",
+      "label": "Andrew O'Brien",
+      "year": 2000,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "carl-cort-2000",
+      "label": "Carl Cort",
+      "year": 2000,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "carlos-daniel-cordone-2000",
+      "label": "Carlos Daniel Cordone",
+      "year": 2000,
+      "subtitle": "Racing Club",
+      "description": "Signed from Racing Club",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "christian-bassedas-2000",
+      "label": "Christian Bassedas",
+      "year": 2000,
+      "subtitle": "CA Vélez Sarsfield",
+      "description": "Signed from CA Vélez Sarsfield",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "clarence-acuna-2000",
+      "label": "Clarence Acuña",
+      "year": 2000,
+      "subtitle": "Club Universidad de Chile",
+      "description": "Signed from Club Universidad de Chile",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "colin-mcmenamin-2000",
+      "label": "Colin McMenamin",
+      "year": 2000,
+      "subtitle": "Annan Athletic FC",
+      "description": "Signed from Annan Athletic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "lomana-lualua-2000",
+      "label": "Lomana LuaLua",
+      "year": 2000,
+      "subtitle": "Colchester United",
+      "description": "Signed from Colchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "wayne-quinn-2000",
+      "label": "Wayne Quinn",
+      "year": 2000,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "craig-bellamy-2001",
+      "label": "Craig Bellamy",
+      "year": 2001,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jermaine-jenas-2001",
+      "label": "Jermaine Jenas",
+      "year": 2001,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "laurent-robert-2001",
+      "label": "Laurent Robert",
+      "year": 2001,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "robbie-elliott-2001",
+      "label": "Robbie Elliott",
+      "year": 2001,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "robert-middleby-2001",
+      "label": "Robert Middleby",
+      "year": 2001,
+      "subtitle": "South Coast Wolves FC",
+      "description": "Signed from South Coast Wolves FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "ryan-mcguffie-2001",
+      "label": "Ryan McGuffie",
+      "year": 2001,
+      "subtitle": "Annan Athletic FC",
+      "description": "Signed from Annan Athletic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "darren-ambrose-2002",
+      "label": "Darren Ambrose",
+      "year": 2002,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "hugo-viana-2002",
+      "label": "Hugo Viana",
+      "year": 2002,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jonathan-woodgate-2002",
+      "label": "Jonathan Woodgate",
+      "year": 2002,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "titus-bramble-2002",
+      "label": "Titus Bramble",
+      "year": 2002,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "tony-caig-2002",
+      "label": "Tony Caig",
+      "year": 2002,
+      "subtitle": "Hibernian FC",
+      "description": "Signed from Hibernian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "lee-bowyer-2003",
+      "label": "Lee Bowyer",
+      "year": 2003,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "amdy-faye-2004",
+      "label": "Amdy Faye",
+      "year": 2004,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "celestine-babayaro-2004",
+      "label": "Celestine Babayaro",
+      "year": 2004,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "charles-n-zogbia-2004",
+      "label": "Charles N'Zogbia",
+      "year": 2004,
+      "subtitle": "Le Havre AC",
+      "description": "Signed from Le Havre AC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "james-milner-2004",
+      "label": "James Milner",
+      "year": 2004,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jean-alain-boumsong-2004",
+      "label": "Jean-Alain Boumsong",
+      "year": 2004,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "nicky-butt-2004",
+      "label": "Nicky Butt",
+      "year": 2004,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "patrick-kluivert-2004",
+      "label": "Patrick Kluivert",
+      "year": 2004,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "ronny-johnsen-2004",
+      "label": "Ronny Johnsen",
+      "year": 2004,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "stephen-carr-2004",
+      "label": "Stephen Carr",
+      "year": 2004,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "albert-luque-2005",
+      "label": "Albert Luque",
+      "year": 2005,
+      "subtitle": "Deportivo de La Coruña",
+      "description": "Signed from Deportivo de La Coruña",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "craig-moore-2005",
+      "label": "Craig Moore",
+      "year": 2005,
+      "subtitle": "Borussia Mönchengladbach",
+      "description": "Signed from Borussia Mönchengladbach",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "emre-belozoglu-2005",
+      "label": "Emre Belözoğlu",
+      "year": 2005,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "lee-clark-2005",
+      "label": "Lee Clark",
+      "year": 2005,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "michael-owen-2005",
+      "label": "Michael Owen",
+      "year": 2005,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "scott-parker-2005",
+      "label": "Scott Parker",
+      "year": 2005,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "antoine-sibierski-2006",
+      "label": "Antoine Sibierski",
+      "year": 2006,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "damien-duff-2006",
+      "label": "Damien Duff",
+      "year": 2006,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "obafemi-martins-2006",
+      "label": "Obafemi Martins",
+      "year": 2006,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "abdoulaye-faye-2007",
+      "label": "Abdoulaye Faye",
+      "year": 2007,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "alan-smith-2007",
+      "label": "Alan Smith",
+      "year": 2007,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "ben-tozer-2007",
+      "label": "Ben Tozer",
+      "year": 2007,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "claudio-cacapa-2007",
+      "label": "Cláudio Caçapa",
+      "year": 2007,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "david-rozehnal-2007",
+      "label": "David Rozehnal",
+      "year": 2007,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "fabio-zamblera-2007",
+      "label": "Fabio Zamblera",
+      "year": 2007,
+      "subtitle": "Atalanta Primavera",
+      "description": "Signed from Atalanta Primavera",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "habib-beye-2007",
+      "label": "Habib Beye",
+      "year": 2007,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "joey-barton-2007",
+      "label": "Joey Barton",
+      "year": 2007,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jose-enrique-2007",
+      "label": "José Enrique",
+      "year": 2007,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "mark-viduka-2007",
+      "label": "Mark Viduka",
+      "year": 2007,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "njitap-geremi-2007",
+      "label": "Njitap Geremi",
+      "year": 2007,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "tamas-kadar-2007",
+      "label": "Tamás Kádár",
+      "year": 2007,
+      "subtitle": "Zalaegerszegi TE FC",
+      "description": "Signed from Zalaegerszegi TE FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "danny-guthrie-2008",
+      "label": "Danny Guthrie",
+      "year": 2008,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "fabricio-coloccini-2008",
+      "label": "Fabricio Coloccini",
+      "year": 2008,
+      "subtitle": "Deportivo de La Coruña",
+      "description": "Signed from Deportivo de La Coruña",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "haris-vuckic-2008",
+      "label": "Haris Vuckic",
+      "year": 2008,
+      "subtitle": "NK Domzale",
+      "description": "Signed from NK Domzale",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jonas-gutierrez-2008",
+      "label": "Jonás Gutiérrez",
+      "year": 2008,
+      "subtitle": "RCD Mallorca",
+      "description": "Signed from RCD Mallorca",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "kevin-nolan-2008",
+      "label": "Kevin Nolan",
+      "year": 2008,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "peter-l-venkrands-2008",
+      "label": "Peter Løvenkrands",
+      "year": 2008,
+      "subtitle": "FC Schalke 04",
+      "description": "Signed from FC Schalke 04",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "ryan-taylor-2008",
+      "label": "Ryan Taylor",
+      "year": 2008,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "sebastien-bassong-2008",
+      "label": "Sébastien Bassong",
+      "year": 2008,
+      "subtitle": "FC Metz",
+      "description": "Signed from FC Metz",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "xisco-2008",
+      "label": "Xisco",
+      "year": 2008,
+      "subtitle": "Deportivo de La Coruña",
+      "description": "Signed from Deportivo de La Coruña",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "danny-simpson-2009",
+      "label": "Danny Simpson",
+      "year": 2009,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "leon-best-2009",
+      "label": "Leon Best",
+      "year": 2009,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "mike-williamson-2009",
+      "label": "Mike Williamson",
+      "year": 2009,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "wayne-routledge-2009",
+      "label": "Wayne Routledge",
+      "year": 2009,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "cheik-tiote-2010",
+      "label": "Cheik Tioté",
+      "year": 2010,
+      "subtitle": "FC Twente Enschede",
+      "description": "Signed from FC Twente Enschede",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "dan-gosling-2010",
+      "label": "Dan Gosling",
+      "year": 2010,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "hatem-ben-arfa-2010",
+      "label": "Hatem Ben Arfa",
+      "year": 2010,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "james-perch-2010",
+      "label": "James Perch",
+      "year": 2010,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "shefki-kuqi-2010",
+      "label": "Shefki Kuqi",
+      "year": 2010,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "sol-campbell-2010",
+      "label": "Sol Campbell",
+      "year": 2010,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "davide-santon-2011",
+      "label": "Davide Santon",
+      "year": 2011,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "demba-ba-2011",
+      "label": "Demba Ba",
+      "year": 2011,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "gabriel-obertan-2011",
+      "label": "Gabriel Obertan",
+      "year": 2011,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "mehdi-abeid-2011",
+      "label": "Mehdi Abeid",
+      "year": 2011,
+      "subtitle": "RC Lens B",
+      "description": "Signed from RC Lens B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "papiss-demba-cisse-2011",
+      "label": "Papiss Demba Cissé",
+      "year": 2011,
+      "subtitle": "SC Freiburg",
+      "description": "Signed from SC Freiburg",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "rob-elliot-2011",
+      "label": "Rob Elliot",
+      "year": 2011,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "sylvain-marveaux-2011",
+      "label": "Sylvain Marveaux",
+      "year": 2011,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "yohan-cabaye-2011",
+      "label": "Yohan Cabaye",
+      "year": 2011,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "curtis-good-2012",
+      "label": "Curtis Good",
+      "year": 2012,
+      "subtitle": "Melbourne Heart FC",
+      "description": "Signed from Melbourne Heart FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "gael-bigirimana-2012",
+      "label": "Gaël Bigirimana",
+      "year": 2012,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "kevin-mbabu-2012",
+      "label": "Kevin Mbabu",
+      "year": 2012,
+      "subtitle": "Servette FC",
+      "description": "Signed from Servette FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "mapou-yanga-mbiwa-2012",
+      "label": "Mapou Yanga-Mbiwa",
+      "year": 2012,
+      "subtitle": "Montpellier HSC",
+      "description": "Signed from Montpellier HSC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "massadio-haidara-2012",
+      "label": "Massadio Haïdara",
+      "year": 2012,
+      "subtitle": "AS Nancy-Lorraine",
+      "description": "Signed from AS Nancy-Lorraine",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "mathieu-debuchy-2012",
+      "label": "Mathieu Debuchy",
+      "year": 2012,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "moussa-sissoko-2012",
+      "label": "Moussa Sissoko",
+      "year": 2012,
+      "subtitle": "FC Toulouse",
+      "description": "Signed from FC Toulouse",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "romain-amalfitano-2012",
+      "label": "Romain Amalfitano",
+      "year": 2012,
+      "subtitle": "Stade Reims",
+      "description": "Signed from Stade Reims",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "vurnon-anita-2012",
+      "label": "Vurnon Anita",
+      "year": 2012,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "yoan-gouffran-2012",
+      "label": "Yoan Gouffran",
+      "year": 2012,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "ayoze-perez-2014",
+      "label": "Ayoze Pérez",
+      "year": 2014,
+      "subtitle": "CD Tenerife",
+      "description": "Signed from CD Tenerife",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "daryl-janmaat-2014",
+      "label": "Daryl Janmaat",
+      "year": 2014,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "emmanuel-riviere-2014",
+      "label": "Emmanuel Rivière",
+      "year": 2014,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jack-colback-2014",
+      "label": "Jack Colback",
+      "year": 2014,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jamaal-lascelles-2014",
+      "label": "Jamaal Lascelles",
+      "year": 2014,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "karl-darlow-2014",
+      "label": "Karl Darlow",
+      "year": 2014,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "remy-cabella-2014",
+      "label": "Rémy Cabella",
+      "year": 2014,
+      "subtitle": "Montpellier HSC",
+      "description": "Signed from Montpellier HSC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "siem-de-jong-2014",
+      "label": "Siem de Jong",
+      "year": 2014,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "aleksandar-mitrovic-2015",
+      "label": "Aleksandar Mitrović",
+      "year": 2015,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "andros-townsend-2015",
+      "label": "Andros Townsend",
+      "year": 2015,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "chancel-mbemba-2015",
+      "label": "Chancel Mbemba",
+      "year": 2015,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "florian-thauvin-2015",
+      "label": "Florian Thauvin",
+      "year": 2015,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "georginio-wijnaldum-2015",
+      "label": "Georginio Wijnaldum",
+      "year": 2015,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "henri-saivet-2015",
+      "label": "Henri Saivet",
+      "year": 2015,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "ivan-toney-2015",
+      "label": "Ivan Toney",
+      "year": 2015,
+      "subtitle": "Northampton Town",
+      "description": "Signed from Northampton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jonjo-shelvey-2015",
+      "label": "Jonjo Shelvey",
+      "year": 2015,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "achraf-lazaar-2016",
+      "label": "Achraf Lazaar",
+      "year": 2016,
+      "subtitle": "US Palermo",
+      "description": "Signed from US Palermo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "ciaran-clark-2016",
+      "label": "Ciaran Clark",
+      "year": 2016,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "daryl-murphy-2016",
+      "label": "Daryl Murphy",
+      "year": 2016,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "deandre-yedlin-2016",
+      "label": "DeAndre Yedlin",
+      "year": 2016,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "dwight-gayle-2016",
+      "label": "Dwight Gayle",
+      "year": 2016,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "grant-hanley-2016",
+      "label": "Grant Hanley",
+      "year": 2016,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jesus-gamez-2016",
+      "label": "Jesús Gámez",
+      "year": 2016,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "matt-ritchie-2016",
+      "label": "Matt Ritchie",
+      "year": 2016,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "matz-sels-2016",
+      "label": "Matz Sels",
+      "year": 2016,
+      "subtitle": "KAA Gent",
+      "description": "Signed from KAA Gent",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "mohamed-diame-2016",
+      "label": "Mohamed Diamé",
+      "year": 2016,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "stuart-findlay-2016",
+      "label": "Stuart Findlay",
+      "year": 2016,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "christian-atsu-2017",
+      "label": "Christian Atsu",
+      "year": 2017,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "florian-lejeune-2017",
+      "label": "Florian Lejeune",
+      "year": 2017,
+      "subtitle": "SD Eibar",
+      "description": "Signed from SD Eibar",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jacob-murphy-2017",
+      "label": "Jacob Murphy",
+      "year": 2017,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "javier-manquillo-2017",
+      "label": "Javier Manquillo",
+      "year": 2017,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "joselu-2017",
+      "label": "Joselu",
+      "year": 2017,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "fabian-schar-2018",
+      "label": "Fabian Schär",
+      "year": 2018,
+      "subtitle": "Deportivo de La Coruña",
+      "description": "Signed from Deportivo de La Coruña",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "federico-fernandez-2018",
+      "label": "Federico Fernández",
+      "year": 2018,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "martin-dubravka-2018",
+      "label": "Martin Dúbravka",
+      "year": 2018,
+      "subtitle": "AC Sparta Prague",
+      "description": "Signed from AC Sparta Prague",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "miguel-almiron-2018",
+      "label": "Miguel Almirón",
+      "year": 2018,
+      "subtitle": "Atlanta United FC",
+      "description": "Signed from Atlanta United FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "mikel-merino-2018",
+      "label": "Mikel Merino",
+      "year": 2018,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "sung-yueng-ki-2018",
+      "label": "Sung-yueng Ki",
+      "year": 2018,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "yoshinori-muto-2018",
+      "label": "Yoshinori Muto",
+      "year": 2018,
+      "subtitle": "1.FSV Mainz 05",
+      "description": "Signed from 1.FSV Mainz 05",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "allan-saint-maximin-2019",
+      "label": "Allan Saint-Maximin",
+      "year": 2019,
+      "subtitle": "OGC Nice",
+      "description": "Signed from OGC Nice",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "andy-carroll-2019",
+      "label": "Andy Carroll",
+      "year": 2019,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "emil-krafth-2019",
+      "label": "Emil Krafth",
+      "year": 2019,
+      "subtitle": "Amiens SC",
+      "description": "Signed from Amiens SC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "joelinton-2019",
+      "label": "Joelinton",
+      "year": 2019,
+      "subtitle": "TSG 1899 Hoffenheim",
+      "description": "Signed from TSG 1899 Hoffenheim",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "callum-wilson-2020",
+      "label": "Callum Wilson",
+      "year": 2020,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jamal-lewis-2020",
+      "label": "Jamal Lewis",
+      "year": 2020,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jeff-hendrick-2020",
+      "label": "Jeff Hendrick",
+      "year": 2020,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "mark-gillespie-2020",
+      "label": "Mark Gillespie",
+      "year": 2020,
+      "subtitle": "Motherwell FC",
+      "description": "Signed from Motherwell FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "ryan-fraser-2020",
+      "label": "Ryan Fraser",
+      "year": 2020,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "bruno-guimaraes-2021",
+      "label": "Bruno Guimarães",
+      "year": 2021,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "chris-wood-2021",
+      "label": "Chris Wood",
+      "year": 2021,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "dan-burn-2021",
+      "label": "Dan Burn",
+      "year": 2021,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "joe-willock-2021",
+      "label": "Joe Willock",
+      "year": 2021,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "kieran-trippier-2021",
+      "label": "Kieran Trippier",
+      "year": 2021,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "alexander-isak-2022",
+      "label": "Alexander Isak",
+      "year": 2022,
+      "subtitle": "Real Sociedad",
+      "description": "Signed from Real Sociedad",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "anthony-gordon-2022",
+      "label": "Anthony Gordon",
+      "year": 2022,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "matt-targett-2022",
+      "label": "Matt Targett",
+      "year": 2022,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "nick-pope-2022",
+      "label": "Nick Pope",
+      "year": 2022,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "sven-botman-2022",
+      "label": "Sven Botman",
+      "year": 2022,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "harvey-barnes-2023",
+      "label": "Harvey Barnes",
+      "year": 2023,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "sandro-tonali-2023",
+      "label": "Sandro Tonali",
+      "year": 2023,
+      "subtitle": "AC Milan",
+      "description": "Signed from AC Milan",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "tino-livramento-2023",
+      "label": "Tino Livramento",
+      "year": 2023,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "yankuba-minteh-2023",
+      "label": "Yankuba Minteh",
+      "year": 2023,
+      "subtitle": "Odense Boldklub",
+      "description": "Signed from Odense Boldklub",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "john-ruddy-2024",
+      "label": "John Ruddy",
+      "year": 2024,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "lewis-hall-2024",
+      "label": "Lewis Hall",
+      "year": 2024,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "lloyd-kelly-2024",
+      "label": "Lloyd Kelly",
+      "year": 2024,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "odysseas-vlachodimos-2024",
+      "label": "Odysseas Vlachodimos",
+      "year": 2024,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "william-osula-2024",
+      "label": "William Osula",
+      "year": 2024,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "anthony-elanga-2025",
+      "label": "Anthony Elanga",
+      "year": 2025,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "antonito-cordero-2025",
+      "label": "Antoñito Cordero",
+      "year": 2025,
+      "subtitle": "Málaga CF",
+      "description": "Signed from Málaga CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "jacob-ramsey-2025",
+      "label": "Jacob Ramsey",
+      "year": 2025,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "malick-thiaw-2025",
+      "label": "Malick Thiaw",
+      "year": 2025,
+      "subtitle": "AC Milan",
+      "description": "Signed from AC Milan",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "nick-woltemade-2025",
+      "label": "Nick Woltemade",
+      "year": 2025,
+      "subtitle": "VfB Stuttgart",
+      "description": "Signed from VfB Stuttgart",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    },
+    {
+      "id": "yoane-wissa-2025",
+      "label": "Yoane Wissa",
+      "year": 2025,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/newcastle-united/alletransfers/verein/762"
+    }
+  ]
+}

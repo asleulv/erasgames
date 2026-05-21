@@ -1,0 +1,2386 @@
+{
+  "id": "crystal-palace",
+  "slug": "crystal-palace",
+  "title": "Crystal Palace Timeline",
+  "shortTitle": "Crystal Palace",
+  "description": "Place Crystal Palace signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/crystal-palace",
+  "theme": {
+    "primary": "#C4122E",
+    "secondary": "#1B458F",
+    "background": "#FFF3F5",
+    "text": "#001430"
+  },
+  "share": {
+    "title": "Crystal Palace Timeline",
+    "description": "How far can you build the Crystal Palace signing timeline?",
+    "hashtags": [
+      "CrystalPalace",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Crystal Palace Timeline Quiz - Crystal Palace Signings Game",
+    "description": "Play a Crystal Palace timeline quiz. Guess whether famous Crystal Palace players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Crystal Palace quiz",
+      "Crystal Palace signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "chris-armstrong-1992",
+      "label": "Chris Armstrong",
+      "year": 1992,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "darren-patterson-1992",
+      "label": "Darren Patterson",
+      "year": 1992,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "paul-williams-1992",
+      "label": "Paul Williams",
+      "year": 1992,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "andy-preece-1993",
+      "label": "Andy Preece",
+      "year": 1993,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "bruce-dyer-1993",
+      "label": "Bruce Dyer",
+      "year": 1993,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "damian-matthew-1993",
+      "label": "Damian Matthew",
+      "year": 1993,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "ian-cox-1993",
+      "label": "Ian Cox",
+      "year": 1993,
+      "subtitle": "Carshalton Athletic",
+      "description": "Signed from Carshalton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "darren-pitcher-1994",
+      "label": "Darren Pitcher",
+      "year": 1994,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "iain-dowie-1994",
+      "label": "Iain Dowie",
+      "year": 1994,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "ray-houghton-1994",
+      "label": "Ray Houghton",
+      "year": 1994,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "ray-wilkins-1994",
+      "label": "Ray Wilkins",
+      "year": 1994,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "rhys-wilmot-1994",
+      "label": "Rhys Wilmot",
+      "year": 1994,
+      "subtitle": "Grimsby Town",
+      "description": "Signed from Grimsby Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "andy-roberts-1995",
+      "label": "Andy Roberts",
+      "year": 1995,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "dave-tuttle-1995",
+      "label": "Dave Tuttle",
+      "year": 1995,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "gareth-davies-1995",
+      "label": "Gareth Davies",
+      "year": 1995,
+      "subtitle": "Hereford United (- 2014)",
+      "description": "Signed from Hereford United (- 2014)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jeroen-boere-1995",
+      "label": "Jeroen Boere",
+      "year": 1995,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "marc-edworthy-1995",
+      "label": "Marc Edworthy",
+      "year": 1995,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "tony-gale-1995",
+      "label": "Tony Gale",
+      "year": 1995,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "andy-linighan-1996",
+      "label": "Andy Linighan",
+      "year": 1996,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "bobby-mimms-1996",
+      "label": "Bobby Mimms",
+      "year": 1996,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "carl-veart-1996",
+      "label": "Carl Veart",
+      "year": 1996,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "carlo-nash-1996",
+      "label": "Carlo Nash",
+      "year": 1996,
+      "subtitle": "Clitheroe FC",
+      "description": "Signed from Clitheroe FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "chris-day-1996",
+      "label": "Chris Day",
+      "year": 1996,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "ivano-bonetti-1996",
+      "label": "Ivano Bonetti",
+      "year": 1996,
+      "subtitle": "Tranmere Rovers",
+      "description": "Signed from Tranmere Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "kevin-muscat-1996",
+      "label": "Kevin Muscat",
+      "year": 1996,
+      "subtitle": "South Melbourne FC",
+      "description": "Signed from South Melbourne FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "tom-evans-1996",
+      "label": "Tom Evans",
+      "year": 1996,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "attilio-lombardo-1997",
+      "label": "Attilio Lombardo",
+      "year": 1997,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "eric-young-1997",
+      "label": "Eric Young",
+      "year": 1997,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "hermann-hreidarsson-1997",
+      "label": "Hermann Hreidarsson",
+      "year": 1997,
+      "subtitle": "ÍBV Vestmannaeyjar",
+      "description": "Signed from ÍBV Vestmannaeyjar",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "itzik-zohar-1997",
+      "label": "Itzik Zohar",
+      "year": 1997,
+      "subtitle": "Beitar Jerusalem",
+      "description": "Signed from Beitar Jerusalem",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jamie-fullarton-1997",
+      "label": "Jamie Fullarton",
+      "year": 1997,
+      "subtitle": "SC Bastia",
+      "description": "Signed from SC Bastia",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jamie-smith-1997",
+      "label": "Jamie Smith",
+      "year": 1997,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "kevin-miller-1997",
+      "label": "Kevin Miller",
+      "year": 1997,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "marcus-bent-1997",
+      "label": "Marcus Bent",
+      "year": 1997,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "michele-padovano-1997",
+      "label": "Michele Padovano",
+      "year": 1997,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "neil-emblen-1997",
+      "label": "Neil Emblen",
+      "year": 1997,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "patrizio-billio-1997",
+      "label": "Patrizio Billio",
+      "year": 1997,
+      "subtitle": "Calcio Monza",
+      "description": "Signed from Calcio Monza",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "paul-warhurst-1997",
+      "label": "Paul Warhurst",
+      "year": 1997,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "sasa-curcic-1997",
+      "label": "Sasa Curcic",
+      "year": 1997,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "tomas-brolin-1997",
+      "label": "Tomas Brolin",
+      "year": 1997,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "valerien-ismael-1997",
+      "label": "Valérien Ismaël",
+      "year": 1997,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "andy-turner-1998",
+      "label": "Andy Turner",
+      "year": 1998,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "craig-foster-1998",
+      "label": "Craig Foster",
+      "year": 1998,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "craig-moore-1998",
+      "label": "Craig Moore",
+      "year": 1998,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "david-amsalem-1998",
+      "label": "David Amsalem",
+      "year": 1998,
+      "subtitle": "Beitar Jerusalem",
+      "description": "Signed from Beitar Jerusalem",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "dean-austin-1998",
+      "label": "Dean Austin",
+      "year": 1998,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "fraser-digby-1998",
+      "label": "Fraser Digby",
+      "year": 1998,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "gordan-petric-1998",
+      "label": "Gordan Petric",
+      "year": 1998,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jihai-sun-1998",
+      "label": "Jihai Sun",
+      "year": 1998,
+      "subtitle": "Dalian Wanda Shide",
+      "description": "Signed from Dalian Wanda Shide",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "lee-bradbury-1998",
+      "label": "Lee Bradbury",
+      "year": 1998,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "mathias-svensson-1998",
+      "label": "Mathias Svensson",
+      "year": 1998,
+      "subtitle": "FC Tirol Innsbruck",
+      "description": "Signed from FC Tirol Innsbruck",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "matt-gregg-1998",
+      "label": "Matt Gregg",
+      "year": 1998,
+      "subtitle": "Torquay United",
+      "description": "Signed from Torquay United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "matt-jansen-1998",
+      "label": "Matt Jansen",
+      "year": 1998,
+      "subtitle": "Carlisle United",
+      "description": "Signed from Carlisle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "paul-harries-1998",
+      "label": "Paul Harries",
+      "year": 1998,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "steve-horvat-1998",
+      "label": "Steve Horvat",
+      "year": 1998,
+      "subtitle": "Carlton SC",
+      "description": "Signed from Carlton SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "walter-jose-del-rio-1998",
+      "label": "Walter José del Río",
+      "year": 1998,
+      "subtitle": "CA Huracán",
+      "description": "Signed from CA Huracán",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "zhiyi-fan-1998",
+      "label": "Zhiyi Fan",
+      "year": 1998,
+      "subtitle": "Shanghai Shenhua",
+      "description": "Signed from Shanghai Shenhua",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "fernando-de-ornelas-1999",
+      "label": "Fernando de Ornelas",
+      "year": 1999,
+      "subtitle": "South China",
+      "description": "Signed from South China",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "steve-mautone-1999",
+      "label": "Steve Mautone",
+      "year": 1999,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "aki-riihilahti-2000",
+      "label": "Aki Riihilahti",
+      "year": 2000,
+      "subtitle": "Vålerenga Fotball Elite",
+      "description": "Signed from Vålerenga Fotball Elite",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "aleksandrs-kolinko-2000",
+      "label": "Aleksandrs Kolinko",
+      "year": 2000,
+      "subtitle": "Skonto Riga (- 2016)",
+      "description": "Signed from Skonto Riga (- 2016)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "andrejs-rubins-2000",
+      "label": "Andrejs Rubins",
+      "year": 2000,
+      "subtitle": "Skonto Riga (- 2016)",
+      "description": "Signed from Skonto Riga (- 2016)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "craig-harrison-2000",
+      "label": "Craig Harrison",
+      "year": 2000,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "gregg-berhalter-2000",
+      "label": "Gregg Berhalter",
+      "year": 2000,
+      "subtitle": "Cambuur-Leeuwarden bvo",
+      "description": "Signed from Cambuur-Leeuwarden bvo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jamie-pollock-2000",
+      "label": "Jamie Pollock",
+      "year": 2000,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "neil-ruddock-2000",
+      "label": "Neil Ruddock",
+      "year": 2000,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "ricardo-fuller-2000",
+      "label": "Ricardo Fuller",
+      "year": 2000,
+      "subtitle": "Tivoli Gardens FC",
+      "description": "Signed from Tivoli Gardens FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "tommy-black-2000",
+      "label": "Tommy Black",
+      "year": 2000,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "curtis-fleming-2001",
+      "label": "Curtis Fleming",
+      "year": 2001,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "danny-granville-2001",
+      "label": "Danny Granville",
+      "year": 2001,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jovan-kirovski-2001",
+      "label": "Jovan Kirovski",
+      "year": 2001,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "kenny-verhoene-2001",
+      "label": "Kenny Verhoene",
+      "year": 2001,
+      "subtitle": "KRC Zuid-West-Vlaanderen (-2002)",
+      "description": "Signed from KRC Zuid-West-Vlaanderen (-2002)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "kit-symons-2001",
+      "label": "Kit Symons",
+      "year": 2001,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "matt-clarke-2001",
+      "label": "Matt Clarke",
+      "year": 2001,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "tony-popovic-2001",
+      "label": "Tony Popovic",
+      "year": 2001,
+      "subtitle": "Sanfrecce Hiroshima",
+      "description": "Signed from Sanfrecce Hiroshima",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "andy-johnson-2002",
+      "label": "Andy Johnson",
+      "year": 2002,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "cedric-berthelin-2002",
+      "label": "Cédric Berthelin",
+      "year": 2002,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "danny-butterfield-2002",
+      "label": "Danny Butterfield",
+      "year": 2002,
+      "subtitle": "Grimsby Town",
+      "description": "Signed from Grimsby Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "darren-powell-2002",
+      "label": "Darren Powell",
+      "year": 2002,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "dele-adebola-2002",
+      "label": "Dele Adebola",
+      "year": 2002,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "sven-scheuer-2002",
+      "label": "Sven Scheuer",
+      "year": 2002,
+      "subtitle": "1.FC Saarbrücken",
+      "description": "Signed from 1.FC Saarbrücken",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "michael-hughes-2003",
+      "label": "Michael Hughes",
+      "year": 2003,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "mikele-leigertwood-2003",
+      "label": "Mikele Leigertwood",
+      "year": 2003,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "anthony-danze-2004",
+      "label": "Anthony Danze",
+      "year": 2004,
+      "subtitle": "Perth Glory",
+      "description": "Signed from Perth Glory",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "emmerson-boyce-2004",
+      "label": "Emmerson Boyce",
+      "year": 2004,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "fitz-hall-2004",
+      "label": "Fitz Hall",
+      "year": 2004,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "gabor-kiraly-2004",
+      "label": "Gábor Király",
+      "year": 2004,
+      "subtitle": "Hertha BSC",
+      "description": "Signed from Hertha BSC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "ivan-kaviedes-2004",
+      "label": "Iván Kaviedes",
+      "year": 2004,
+      "subtitle": "Barcelona SC Guayaquil",
+      "description": "Signed from Barcelona SC Guayaquil",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "joonas-kolkka-2004",
+      "label": "Joonas Kolkka",
+      "year": 2004,
+      "subtitle": "Borussia Mönchengladbach",
+      "description": "Signed from Borussia Mönchengladbach",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "julian-speroni-2004",
+      "label": "Julián Speroni",
+      "year": 2004,
+      "subtitle": "Dundee FC",
+      "description": "Signed from Dundee FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "mark-hudson-2004",
+      "label": "Mark Hudson",
+      "year": 2004,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "sandor-torghelle-2004",
+      "label": "Sándor Torghelle",
+      "year": 2004,
+      "subtitle": "MTK Budapest",
+      "description": "Signed from MTK Budapest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "wayne-andrews-2004",
+      "label": "Wayne Andrews",
+      "year": 2004,
+      "subtitle": "Colchester United",
+      "description": "Signed from Colchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "clinton-morrison-2005",
+      "label": "Clinton Morrison",
+      "year": 2005,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "darren-ward-2005",
+      "label": "Darren Ward",
+      "year": 2005,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jobi-mcanuff-2005",
+      "label": "Jobi McAnuff",
+      "year": 2005,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jon-macken-2005",
+      "label": "Jon Macken",
+      "year": 2005,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "carl-fletcher-2006",
+      "label": "Carl Fletcher",
+      "year": 2006,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "dave-martin-2006",
+      "label": "Dave Martin",
+      "year": 2006,
+      "subtitle": "Dartford FC",
+      "description": "Signed from Dartford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "james-scowcroft-2006",
+      "label": "James Scowcroft",
+      "year": 2006,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "leon-cort-2006",
+      "label": "Leon Cort",
+      "year": 2006,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "mark-kennedy-2006",
+      "label": "Mark Kennedy",
+      "year": 2006,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "matt-lawrence-2006",
+      "label": "Matt Lawrence",
+      "year": 2006,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "paul-ifill-2006",
+      "label": "Paul Ifill",
+      "year": 2006,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "scott-flinders-2006",
+      "label": "Scott Flinders",
+      "year": 2006,
+      "subtitle": "Barnsley FC",
+      "description": "Signed from Barnsley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "shefki-kuqi-2006",
+      "label": "Shefki Kuqi",
+      "year": 2006,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "stuart-green-2006",
+      "label": "Stuart Green",
+      "year": 2006,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "clint-hill-2007",
+      "label": "Clint Hill",
+      "year": 2007,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jeff-hughes-2007",
+      "label": "Jeff Hughes",
+      "year": 2007,
+      "subtitle": "Lincoln City",
+      "description": "Signed from Lincoln City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jose-fonte-2007",
+      "label": "José Fonte",
+      "year": 2007,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "neil-danns-2007",
+      "label": "Neil Danns",
+      "year": 2007,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "tony-craig-2007",
+      "label": "Tony Craig",
+      "year": 2007,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "alan-lee-2008",
+      "label": "Alan Lee",
+      "year": 2008,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "calvin-andrew-2008",
+      "label": "Calvin Andrew",
+      "year": 2008,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "darryl-flahavan-2008",
+      "label": "Darryl Flahavan",
+      "year": 2008,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "johannes-ertl-2008",
+      "label": "Johannes Ertl",
+      "year": 2008,
+      "subtitle": "Austria Vienna",
+      "description": "Signed from Austria Vienna",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "john-oster-2008",
+      "label": "John Oster",
+      "year": 2008,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "leandre-griffit-2008",
+      "label": "Léandre Griffit",
+      "year": 2008,
+      "subtitle": "IF Elfsborg",
+      "description": "Signed from IF Elfsborg",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "nick-carle-2008",
+      "label": "Nick Carle",
+      "year": 2008,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "patrick-mccarthy-2008",
+      "label": "Patrick McCarthy",
+      "year": 2008,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "simon-thomas-2008",
+      "label": "Simon Thomas",
+      "year": 2008,
+      "subtitle": "Boreham Wood FC",
+      "description": "Signed from Boreham Wood FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "claude-davis-2009",
+      "label": "Claude Davis",
+      "year": 2009,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "darren-ambrose-2009",
+      "label": "Darren Ambrose",
+      "year": 2009,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "ryan-smith-2009",
+      "label": "Ryan Smith",
+      "year": 2009,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "stern-john-2009",
+      "label": "Stern John",
+      "year": 2009,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "adam-barrett-2010",
+      "label": "Adam Barrett",
+      "year": 2010,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "alex-marrow-2010",
+      "label": "Alex Marrow",
+      "year": 2010,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "andy-dorman-2010",
+      "label": "Andy Dorman",
+      "year": 2010,
+      "subtitle": "St. Mirren FC",
+      "description": "Signed from St. Mirren FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "david-wright-2010",
+      "label": "David Wright",
+      "year": 2010,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "dean-moxey-2010",
+      "label": "Dean Moxey",
+      "year": 2010,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jermaine-easter-2010",
+      "label": "Jermaine Easter",
+      "year": 2010,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "lewis-price-2010",
+      "label": "Lewis Price",
+      "year": 2010,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "owen-garvan-2010",
+      "label": "Owen Garvan",
+      "year": 2010,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "steffen-iversen-2010",
+      "label": "Steffen Iversen",
+      "year": 2010,
+      "subtitle": "Rosenborg BK",
+      "description": "Signed from Rosenborg BK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "stuart-o-keefe-2010",
+      "label": "Stuart O'Keefe",
+      "year": 2010,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "anthony-gardner-2011",
+      "label": "Anthony Gardner",
+      "year": 2011,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "antonio-pedroza-2011",
+      "label": "Antonio Pedroza",
+      "year": 2011,
+      "subtitle": "Jaguares de Chiapas",
+      "description": "Signed from Jaguares de Chiapas",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "glenn-murray-2011",
+      "label": "Glenn Murray",
+      "year": 2011,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jonathan-parr-2011",
+      "label": "Jonathan Parr",
+      "year": 2011,
+      "subtitle": "Aalesunds FK",
+      "description": "Signed from Aalesunds FK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "kagisho-dikgacoi-2011",
+      "label": "Kagisho Dikgacoi",
+      "year": 2011,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "kwesi-appiah-2011",
+      "label": "Kwesi Appiah",
+      "year": 2011,
+      "subtitle": "Margate FC",
+      "description": "Signed from Margate FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "michael-chambers-2011",
+      "label": "Michael Chambers",
+      "year": 2011,
+      "subtitle": "Dulwich Hamlet",
+      "description": "Signed from Dulwich Hamlet",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "mile-jedinak-2011",
+      "label": "Mile Jedinak",
+      "year": 2011,
+      "subtitle": "Genclerbirligi Ankara",
+      "description": "Signed from Genclerbirligi Ankara",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "aaron-wilbraham-2012",
+      "label": "Aaron Wilbraham",
+      "year": 2012,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "damien-delaney-2012",
+      "label": "Damien Delaney",
+      "year": 2012,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "darcy-blake-2012",
+      "label": "Darcy Blake",
+      "year": 2012,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "joel-ward-2012",
+      "label": "Joel Ward",
+      "year": 2012,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "marcel-henry-francis-2012",
+      "label": "Marcel Henry-Francis",
+      "year": 2012,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "peter-ramage-2012",
+      "label": "Peter Ramage",
+      "year": 2012,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "yannick-bolasie-2012",
+      "label": "Yannick Bolasie",
+      "year": 2012,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "adlene-guedioura-2013",
+      "label": "Adlène Guédioura",
+      "year": 2013,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "adrian-mariappa-2013",
+      "label": "Adrian Mariappa",
+      "year": 2013,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "barry-bannan-2013",
+      "label": "Barry Bannan",
+      "year": 2013,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "dwight-gayle-2013",
+      "label": "Dwight Gayle",
+      "year": 2013,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "elliot-grandin-2013",
+      "label": "Elliot Grandin",
+      "year": 2013,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "florian-marange-2013",
+      "label": "Florian Marange",
+      "year": 2013,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jack-hunt-2013",
+      "label": "Jack Hunt",
+      "year": 2013,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jason-puncheon-2013",
+      "label": "Jason Puncheon",
+      "year": 2013,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jerome-thomas-2013",
+      "label": "Jerome Thomas",
+      "year": 2013,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jimmy-kebe-2013",
+      "label": "Jimmy Kébé",
+      "year": 2013,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "joe-ledley-2013",
+      "label": "Joe Ledley",
+      "year": 2013,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jose-campana-2013",
+      "label": "José Campaña",
+      "year": 2013,
+      "subtitle": "Sevilla FC",
+      "description": "Signed from Sevilla FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "kevin-phillips-2013",
+      "label": "Kevin Phillips",
+      "year": 2013,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "marouane-chamakh-2013",
+      "label": "Marouane Chamakh",
+      "year": 2013,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "neil-alexander-2013",
+      "label": "Neil Alexander",
+      "year": 2013,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "osman-sow-2013",
+      "label": "Osman Sow",
+      "year": 2013,
+      "subtitle": "Syrianska FC",
+      "description": "Signed from Syrianska FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "scott-dann-2013",
+      "label": "Scott Dann",
+      "year": 2013,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "stephen-dobbie-2013",
+      "label": "Stephen Dobbie",
+      "year": 2013,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "wayne-hennessey-2013",
+      "label": "Wayne Hennessey",
+      "year": 2013,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "brede-hangeland-2014",
+      "label": "Brede Hangeland",
+      "year": 2014,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "chris-kettings-2014",
+      "label": "Chris Kettings",
+      "year": 2014,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "chung-yong-lee-2014",
+      "label": "Chung-yong Lee",
+      "year": 2014,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "fraizer-campbell-2014",
+      "label": "Fraizer Campbell",
+      "year": 2014,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "james-mcarthur-2014",
+      "label": "James McArthur",
+      "year": 2014,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jordon-mutch-2014",
+      "label": "Jordon Mutch",
+      "year": 2014,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "keshi-anderson-2014",
+      "label": "Keshi Anderson",
+      "year": 2014,
+      "subtitle": "Barton Rovers",
+      "description": "Signed from Barton Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "martin-kelly-2014",
+      "label": "Martin Kelly",
+      "year": 2014,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "pape-souare-2014",
+      "label": "Pape Souaré",
+      "year": 2014,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "wilfried-zaha-2014",
+      "label": "Wilfried Zaha",
+      "year": 2014,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "zeki-fryers-2014",
+      "label": "Zeki Fryers",
+      "year": 2014,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "alex-mccarthy-2015",
+      "label": "Alex McCarthy",
+      "year": 2015,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "connor-wickham-2015",
+      "label": "Connor Wickham",
+      "year": 2015,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "freddie-ladapo-2015",
+      "label": "Freddie Ladapo",
+      "year": 2015,
+      "subtitle": "Margate FC",
+      "description": "Signed from Margate FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "kleton-perntreou-2015",
+      "label": "Kleton Perntreou",
+      "year": 2015,
+      "subtitle": "Hibernian FC",
+      "description": "Signed from Hibernian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "yohan-cabaye-2015",
+      "label": "Yohan Cabaye",
+      "year": 2015,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "andros-townsend-2016",
+      "label": "Andros Townsend",
+      "year": 2016,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "christian-benteke-2016",
+      "label": "Christian Benteke",
+      "year": 2016,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "james-tomkins-2016",
+      "label": "James Tomkins",
+      "year": 2016,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jeffrey-schlupp-2016",
+      "label": "Jeffrey Schlupp",
+      "year": 2016,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jonathan-benteke-2016",
+      "label": "Jonathan Benteke",
+      "year": 2016,
+      "subtitle": "Zulte Waregem",
+      "description": "Signed from Zulte Waregem",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "luka-milivojevic-2016",
+      "label": "Luka Milivojevic",
+      "year": 2016,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "patrick-van-aanholt-2016",
+      "label": "Patrick van Aanholt",
+      "year": 2016,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "steve-mandanda-2016",
+      "label": "Steve Mandanda",
+      "year": 2016,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "alexander-s-rloth-2017",
+      "label": "Alexander Sørloth",
+      "year": 2017,
+      "subtitle": "FC Midtjylland",
+      "description": "Signed from FC Midtjylland",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "dion-henry-2017",
+      "label": "Dion Henry",
+      "year": 2017,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jairo-riedewald-2017",
+      "label": "Jaïro Riedewald",
+      "year": 2017,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jaros-aw-jach-2017",
+      "label": "Jarosław Jach",
+      "year": 2017,
+      "subtitle": "Zaglebie Lubin",
+      "description": "Signed from Zaglebie Lubin",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "mamadou-sakho-2017",
+      "label": "Mamadou Sakho",
+      "year": 2017,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "cheikhou-kouyate-2018",
+      "label": "Cheikhou Kouyaté",
+      "year": 2018,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "max-meyer-2018",
+      "label": "Max Meyer",
+      "year": 2018,
+      "subtitle": "FC Schalke 04",
+      "description": "Signed from FC Schalke 04",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "vicente-guaita-2018",
+      "label": "Vicente Guaita",
+      "year": 2018,
+      "subtitle": "Getafe CF",
+      "description": "Signed from Getafe CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "gary-cahill-2019",
+      "label": "Gary Cahill",
+      "year": 2019,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "james-mccarthy-2019",
+      "label": "James McCarthy",
+      "year": 2019,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jordan-ayew-2019",
+      "label": "Jordan Ayew",
+      "year": 2019,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "stephen-henderson-2019",
+      "label": "Stephen Henderson",
+      "year": 2019,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "eberechi-eze-2020",
+      "label": "Eberechi Eze",
+      "year": 2020,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jack-butland-2020",
+      "label": "Jack Butland",
+      "year": 2020,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "nathan-ferguson-2020",
+      "label": "Nathan Ferguson",
+      "year": 2020,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "nathaniel-clyne-2020",
+      "label": "Nathaniel Clyne",
+      "year": 2020,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jacob-montes-2021",
+      "label": "Jacob Montes",
+      "year": 2021,
+      "subtitle": "Georgetown Hoyas (Georgetown University)",
+      "description": "Signed from Georgetown Hoyas (Georgetown University)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jean-philippe-mateta-2021",
+      "label": "Jean-Philippe Mateta",
+      "year": 2021,
+      "subtitle": "1.FSV Mainz 05",
+      "description": "Signed from 1.FSV Mainz 05",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "joachim-andersen-2021",
+      "label": "Joachim Andersen",
+      "year": 2021,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "luke-plange-2021",
+      "label": "Luke Plange",
+      "year": 2021,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "marc-guehi-2021",
+      "label": "Marc Guéhi",
+      "year": 2021,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "michael-olise-2021",
+      "label": "Michael Olise",
+      "year": 2021,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "odsonne-edouard-2021",
+      "label": "Odsonne Édouard",
+      "year": 2021,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "remi-matthews-2021",
+      "label": "Remi Matthews",
+      "year": 2021,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "will-hughes-2021",
+      "label": "Will Hughes",
+      "year": 2021,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "cheick-doucoure-2022",
+      "label": "Cheick Doucouré",
+      "year": 2022,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "chris-richards-2022",
+      "label": "Chris Richards",
+      "year": 2022,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "malcolm-ebiowei-2022",
+      "label": "Malcolm Ebiowei",
+      "year": 2022,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "naouirou-ahamada-2022",
+      "label": "Naouirou Ahamada",
+      "year": 2022,
+      "subtitle": "VfB Stuttgart",
+      "description": "Signed from VfB Stuttgart",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "sam-johnstone-2022",
+      "label": "Sam Johnstone",
+      "year": 2022,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "adam-wharton-2023",
+      "label": "Adam Wharton",
+      "year": 2023,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "daniel-munoz-2023",
+      "label": "Daniel Muñoz",
+      "year": 2023,
+      "subtitle": "KRC Genk",
+      "description": "Signed from KRC Genk",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "dean-henderson-2023",
+      "label": "Dean Henderson",
+      "year": 2023,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "jefferson-lerma-2023",
+      "label": "Jefferson Lerma",
+      "year": 2023,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "matheus-franca-2023",
+      "label": "Matheus França",
+      "year": 2023,
+      "subtitle": "CR Flamengo",
+      "description": "Signed from CR Flamengo",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "rob-holding-2023",
+      "label": "Rob Holding",
+      "year": 2023,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "chadi-riad-2024",
+      "label": "Chadi Riad",
+      "year": 2024,
+      "subtitle": "Real Betis Balompié",
+      "description": "Signed from Real Betis Balompié",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "daichi-kamada-2024",
+      "label": "Daichi Kamada",
+      "year": 2024,
+      "subtitle": "SS Lazio",
+      "description": "Signed from SS Lazio",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "eddie-nketiah-2024",
+      "label": "Eddie Nketiah",
+      "year": 2024,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "ismaila-sarr-2024",
+      "label": "Ismaïla Sarr",
+      "year": 2024,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "maxence-lacroix-2024",
+      "label": "Maxence Lacroix",
+      "year": 2024,
+      "subtitle": "VfL Wolfsburg",
+      "description": "Signed from VfL Wolfsburg",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    },
+    {
+      "id": "romain-esse-2024",
+      "label": "Romain Esse",
+      "year": 2024,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/crystal-palace/alletransfers/verein/873"
+    }
+  ]
+}

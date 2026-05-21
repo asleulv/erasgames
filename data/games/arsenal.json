@@ -1,0 +1,1716 @@
+{
+  "id": "arsenal",
+  "slug": "arsenal",
+  "title": "Arsenal Timeline",
+  "shortTitle": "Arsenal",
+  "description": "Place Arsenal signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/arsenal",
+  "theme": {
+    "primary": "#EF0107",
+    "secondary": "#FFFFFF",
+    "background": "#FFF5F2",
+    "text": "#3E0002"
+  },
+  "share": {
+    "title": "Arsenal Timeline",
+    "description": "How far can you build the Arsenal signing timeline?",
+    "hashtags": [
+      "Arsenal",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Arsenal Timeline Quiz - Arsenal Signings Game",
+    "description": "Play a Arsenal timeline quiz. Guess whether famous Arsenal players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Arsenal quiz",
+      "Arsenal signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "john-jensen-1992",
+      "label": "John Jensen",
+      "year": 1992,
+      "subtitle": "Bröndby IF",
+      "description": "Signed from Bröndby IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "martin-keown-1992",
+      "label": "Martin Keown",
+      "year": 1992,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "eddie-mcgoldrick-1993",
+      "label": "Eddie McGoldrick",
+      "year": 1993,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "chris-kiwomya-1994",
+      "label": "Chris Kiwomya",
+      "year": 1994,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "glenn-helder-1994",
+      "label": "Glenn Helder",
+      "year": 1994,
+      "subtitle": "Vitesse Arnhem",
+      "description": "Signed from Vitesse Arnhem",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "john-hartson-1994",
+      "label": "John Hartson",
+      "year": 1994,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "lee-harper-1994",
+      "label": "Lee Harper",
+      "year": 1994,
+      "subtitle": "Sittingbourne FC",
+      "description": "Signed from Sittingbourne FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "stefan-schwarz-1994",
+      "label": "Stefan Schwarz",
+      "year": 1994,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "vince-bartram-1994",
+      "label": "Vince Bartram",
+      "year": 1994,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "david-platt-1995",
+      "label": "David Platt",
+      "year": 1995,
+      "subtitle": "UC Sampdoria",
+      "description": "Signed from UC Sampdoria",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "dennis-bergkamp-1995",
+      "label": "Dennis Bergkamp",
+      "year": 1995,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "john-lukic-1996",
+      "label": "John Lukic",
+      "year": 1996,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "nicolas-anelka-1996",
+      "label": "Nicolas Anelka",
+      "year": 1996,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "patrick-vieira-1996",
+      "label": "Patrick Vieira",
+      "year": 1996,
+      "subtitle": "AC Milan",
+      "description": "Signed from AC Milan",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "remi-garde-1996",
+      "label": "Rémi Garde",
+      "year": 1996,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "alberto-mendez-1997",
+      "label": "Alberto Méndez",
+      "year": 1997,
+      "subtitle": "1.SC Feucht",
+      "description": "Signed from 1.SC Feucht",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "alexander-manninger-1997",
+      "label": "Alexander Manninger",
+      "year": 1997,
+      "subtitle": "Grazer AK",
+      "description": "Signed from Grazer AK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "brian-mcgovern-1997",
+      "label": "Brian McGovern",
+      "year": 1997,
+      "subtitle": "Cherry Orchard FC",
+      "description": "Signed from Cherry Orchard FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "christopher-wreh-1997",
+      "label": "Christopher Wreh",
+      "year": 1997,
+      "subtitle": "EA Guingamp",
+      "description": "Signed from EA Guingamp",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "emmanuel-petit-1997",
+      "label": "Emmanuel Petit",
+      "year": 1997,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "gilles-grimandi-1997",
+      "label": "Gilles Grimandi",
+      "year": 1997,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "jehad-muntasser-1997",
+      "label": "Jehad Muntasser",
+      "year": 1997,
+      "subtitle": "AC Pro Sesto",
+      "description": "Signed from AC Pro Sesto",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "luis-boa-morte-1997",
+      "label": "Luís Boa Morte",
+      "year": 1997,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "marc-overmars-1997",
+      "label": "Marc Overmars",
+      "year": 1997,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "matthew-upson-1997",
+      "label": "Matthew Upson",
+      "year": 1997,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "david-grondin-1998",
+      "label": "David Grondin",
+      "year": 1998,
+      "subtitle": "AS Saint-Étienne",
+      "description": "Signed from AS Saint-Étienne",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "freddie-ljungberg-1998",
+      "label": "Freddie Ljungberg",
+      "year": 1998,
+      "subtitle": "Halmstads BK",
+      "description": "Signed from Halmstads BK",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "kaba-diawara-1998",
+      "label": "Kaba Diawara",
+      "year": 1998,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "nelson-vivas-1998",
+      "label": "Nelson Vivas",
+      "year": 1998,
+      "subtitle": "FC Lugano",
+      "description": "Signed from FC Lugano",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "nwankwo-kanu-1998",
+      "label": "Nwankwo Kanu",
+      "year": 1998,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "davor-suker-1999",
+      "label": "Davor Suker",
+      "year": 1999,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "oleg-luzhnyi-1999",
+      "label": "Oleg Luzhnyi",
+      "year": 1999,
+      "subtitle": "Dynamo Kyiv",
+      "description": "Signed from Dynamo Kyiv",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "stefan-malz-1999",
+      "label": "Stefan Malz",
+      "year": 1999,
+      "subtitle": "TSV 1860 Munich",
+      "description": "Signed from TSV 1860 Munich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "sylvinho-1999",
+      "label": "Sylvinho",
+      "year": 1999,
+      "subtitle": "Sport Club Corinthians Paulista",
+      "description": "Signed from Sport Club Corinthians Paulista",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "thierry-henry-1999",
+      "label": "Thierry Henry",
+      "year": 1999,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "francis-jeffers-2000",
+      "label": "Francis Jeffers",
+      "year": 2000,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "guy-demel-2000",
+      "label": "Guy Demel",
+      "year": 2000,
+      "subtitle": "Nîmes Olympique",
+      "description": "Signed from Nîmes Olympique",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "igors-stepanovs-2000",
+      "label": "Igors Stepanovs",
+      "year": 2000,
+      "subtitle": "Skonto Riga (- 2016)",
+      "description": "Signed from Skonto Riga (- 2016)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "lauren-2000",
+      "label": "Laurén",
+      "year": 2000,
+      "subtitle": "RCD Mallorca",
+      "description": "Signed from RCD Mallorca",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "robert-pires-2000",
+      "label": "Robert Pirès",
+      "year": 2000,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "sebastian-svard-2000",
+      "label": "Sebastian Svärd",
+      "year": 2000,
+      "subtitle": "Kjöbenhavns Boldklub (FCK II)",
+      "description": "Signed from Kjöbenhavns Boldklub (FCK II)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "sylvain-wiltord-2000",
+      "label": "Sylvain Wiltord",
+      "year": 2000,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "tomas-danilevicius-2000",
+      "label": "Tomas Danilevičius",
+      "year": 2000,
+      "subtitle": "FC Lausanne-Sport",
+      "description": "Signed from FC Lausanne-Sport",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "edu-gaspar-2001",
+      "label": "Edú Gaspar",
+      "year": 2001,
+      "subtitle": "Sport Club Corinthians Paulista",
+      "description": "Signed from Sport Club Corinthians Paulista",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "giovanni-van-bronckhorst-2001",
+      "label": "Giovanni van Bronckhorst",
+      "year": 2001,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "juan-2001",
+      "label": "Juan",
+      "year": 2001,
+      "subtitle": "São Paulo FC U20",
+      "description": "Signed from São Paulo FC U20",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "kolo-toure-2001",
+      "label": "Kolo Touré",
+      "year": 2001,
+      "subtitle": "ASEC Mimosas",
+      "description": "Signed from ASEC Mimosas",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "olafur-ingi-skulason-2001",
+      "label": "Ólafur Ingi Skúlason",
+      "year": 2001,
+      "subtitle": "Fylkir Reykjavík",
+      "description": "Signed from Fylkir Reykjavík",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "richard-wright-2001",
+      "label": "Richard Wright",
+      "year": 2001,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "sol-campbell-2001",
+      "label": "Sol Campbell",
+      "year": 2001,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "stathis-tavlaridis-2001",
+      "label": "Stathis Tavlaridis",
+      "year": 2001,
+      "subtitle": "Iraklis Thessaloniki",
+      "description": "Signed from Iraklis Thessaloniki",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "gilberto-silva-2002",
+      "label": "Gilberto Silva",
+      "year": 2002,
+      "subtitle": "Clube Atlético Mineiro",
+      "description": "Signed from Clube Atlético Mineiro",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "guillaume-warmuz-2002",
+      "label": "Guillaume Warmuz",
+      "year": 2002,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "pascal-cygan-2002",
+      "label": "Pascal Cygan",
+      "year": 2002,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "rami-shaaban-2002",
+      "label": "Rami Shaaban",
+      "year": 2002,
+      "subtitle": "Djurgårdens IF",
+      "description": "Signed from Djurgårdens IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "daniel-karbassiyoon-2003",
+      "label": "Daniel Karbassiyoon",
+      "year": 2003,
+      "subtitle": "Roanoke Star",
+      "description": "Signed from Roanoke Star",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "gael-clichy-2003",
+      "label": "Gaël Clichy",
+      "year": 2003,
+      "subtitle": "AS Cannes",
+      "description": "Signed from AS Cannes",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "jens-lehmann-2003",
+      "label": "Jens Lehmann",
+      "year": 2003,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "jose-antonio-reyes-2003",
+      "label": "José Antonio Reyes",
+      "year": 2003,
+      "subtitle": "Sevilla FC",
+      "description": "Signed from Sevilla FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "philippe-senderos-2003",
+      "label": "Philippe Senderos",
+      "year": 2003,
+      "subtitle": "Servette FC",
+      "description": "Signed from Servette FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "emmanuel-eboue-2004",
+      "label": "Emmanuel Eboué",
+      "year": 2004,
+      "subtitle": "KSK Beveren (-2010)",
+      "description": "Signed from KSK Beveren (-2010)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "manuel-almunia-2004",
+      "label": "Manuel Almunia",
+      "year": 2004,
+      "subtitle": "Celta de Vigo",
+      "description": "Signed from Celta de Vigo",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "robin-van-persie-2004",
+      "label": "Robin van Persie",
+      "year": 2004,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "abou-diaby-2005",
+      "label": "Abou Diaby",
+      "year": 2005,
+      "subtitle": "AJ Auxerre",
+      "description": "Signed from AJ Auxerre",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "aleksandr-hleb-2005",
+      "label": "Aleksandr Hleb",
+      "year": 2005,
+      "subtitle": "VfB Stuttgart",
+      "description": "Signed from VfB Stuttgart",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "alex-song-2005",
+      "label": "Alex Song",
+      "year": 2005,
+      "subtitle": "SC Bastia",
+      "description": "Signed from SC Bastia",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "carlos-vela-2005",
+      "label": "Carlos Vela",
+      "year": 2005,
+      "subtitle": "Deportivo Guadalajara U20",
+      "description": "Signed from Deportivo Guadalajara U20",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "emmanuel-adebayor-2005",
+      "label": "Emmanuel Adebayor",
+      "year": 2005,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "mart-poom-2005",
+      "label": "Mart Poom",
+      "year": 2005,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "theo-walcott-2005",
+      "label": "Theo Walcott",
+      "year": 2005,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "vito-mannone-2005",
+      "label": "Vito Mannone",
+      "year": 2005,
+      "subtitle": "Atalanta Primavera",
+      "description": "Signed from Atalanta Primavera",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "denilson-2006",
+      "label": "Denílson",
+      "year": 2006,
+      "subtitle": "São Paulo Futebol Clube",
+      "description": "Signed from São Paulo Futebol Clube",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "tomas-rosicky-2006",
+      "label": "Tomas Rosicky",
+      "year": 2006,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "william-gallas-2006",
+      "label": "William Gallas",
+      "year": 2006,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "bacary-sagna-2007",
+      "label": "Bacary Sagna",
+      "year": 2007,
+      "subtitle": "AJ Auxerre",
+      "description": "Signed from AJ Auxerre",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "eduardo-2007",
+      "label": "Eduardo",
+      "year": 2007,
+      "subtitle": "GNK Dinamo Zagreb",
+      "description": "Signed from GNK Dinamo Zagreb",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "lassana-diarra-2007",
+      "label": "Lassana Diarra",
+      "year": 2007,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "lukasz-fabianski-2007",
+      "label": "Lukasz Fabianski",
+      "year": 2007,
+      "subtitle": "Legia Warszawa",
+      "description": "Signed from Legia Warszawa",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "pedro-botelho-2007",
+      "label": "Pedro Botelho",
+      "year": 2007,
+      "subtitle": "Figueirense Futebol Clube",
+      "description": "Signed from Figueirense Futebol Clube",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "aaron-ramsey-2008",
+      "label": "Aaron Ramsey",
+      "year": 2008,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "amaury-bischoff-2008",
+      "label": "Amaury Bischoff",
+      "year": 2008,
+      "subtitle": "SV Werder Bremen II",
+      "description": "Signed from SV Werder Bremen II",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "andrey-arshavin-2008",
+      "label": "Andrey Arshavin",
+      "year": 2008,
+      "subtitle": "Zenit St. Petersburg",
+      "description": "Signed from Zenit St. Petersburg",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "mikael-silvestre-2008",
+      "label": "Mikaël Silvestre",
+      "year": 2008,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "samir-nasri-2008",
+      "label": "Samir Nasri",
+      "year": 2008,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "thomas-vermaelen-2009",
+      "label": "Thomas Vermaelen",
+      "year": 2009,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "laurent-koscielny-2010",
+      "label": "Laurent Koscielny",
+      "year": 2010,
+      "subtitle": "FC Lorient",
+      "description": "Signed from FC Lorient",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "marouane-chamakh-2010",
+      "label": "Marouane Chamakh",
+      "year": 2010,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "ryo-miyaichi-2010",
+      "label": "Ryo Miyaichi",
+      "year": 2010,
+      "subtitle": "Chukyo High School",
+      "description": "Signed from Chukyo High School",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "sebastien-squillaci-2010",
+      "label": "Sébastien Squillaci",
+      "year": 2010,
+      "subtitle": "Sevilla FC",
+      "description": "Signed from Sevilla FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "wellington-silva-2010",
+      "label": "Wellington Silva",
+      "year": 2010,
+      "subtitle": "Fluminense Football Club",
+      "description": "Signed from Fluminense Football Club",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "alex-oxlade-chamberlain-2011",
+      "label": "Alex Oxlade-Chamberlain",
+      "year": 2011,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "andre-santos-2011",
+      "label": "André Santos",
+      "year": 2011,
+      "subtitle": "Fenerbahce",
+      "description": "Signed from Fenerbahce",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "carl-jenkinson-2011",
+      "label": "Carl Jenkinson",
+      "year": 2011,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "chu-young-park-2011",
+      "label": "Chu-young Park",
+      "year": 2011,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "gervinho-2011",
+      "label": "Gervinho",
+      "year": 2011,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "joel-campbell-2011",
+      "label": "Joel Campbell",
+      "year": 2011,
+      "subtitle": "Deportivo Saprissa",
+      "description": "Signed from Deportivo Saprissa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "mikel-arteta-2011",
+      "label": "Mikel Arteta",
+      "year": 2011,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "per-mertesacker-2011",
+      "label": "Per Mertesacker",
+      "year": 2011,
+      "subtitle": "SV Werder Bremen",
+      "description": "Signed from SV Werder Bremen",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "lukas-podolski-2012",
+      "label": "Lukas Podolski",
+      "year": 2012,
+      "subtitle": "1.FC Köln",
+      "description": "Signed from 1.FC Köln",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "nacho-monreal-2012",
+      "label": "Nacho Monreal",
+      "year": 2012,
+      "subtitle": "Málaga CF",
+      "description": "Signed from Málaga CF",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "olivier-giroud-2012",
+      "label": "Olivier Giroud",
+      "year": 2012,
+      "subtitle": "Montpellier HSC",
+      "description": "Signed from Montpellier HSC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "santi-cazorla-2012",
+      "label": "Santi Cazorla",
+      "year": 2012,
+      "subtitle": "Málaga CF",
+      "description": "Signed from Málaga CF",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "mesut-ozil-2013",
+      "label": "Mesut Özil",
+      "year": 2013,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "semi-ajayi-2013",
+      "label": "Semi Ajayi",
+      "year": 2013,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "yaya-sanogo-2013",
+      "label": "Yaya Sanogo",
+      "year": 2013,
+      "subtitle": "AJ Auxerre",
+      "description": "Signed from AJ Auxerre",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "alexis-sanchez-2014",
+      "label": "Alexis Sánchez",
+      "year": 2014,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "calum-chambers-2014",
+      "label": "Calum Chambers",
+      "year": 2014,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "danny-welbeck-2014",
+      "label": "Danny Welbeck",
+      "year": 2014,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "david-ospina-2014",
+      "label": "David Ospina",
+      "year": 2014,
+      "subtitle": "OGC Nice",
+      "description": "Signed from OGC Nice",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "gabriel-paulista-2014",
+      "label": "Gabriel Paulista",
+      "year": 2014,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "krystian-bielik-2014",
+      "label": "Krystian Bielik",
+      "year": 2014,
+      "subtitle": "Legia Warszawa",
+      "description": "Signed from Legia Warszawa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "mathieu-debuchy-2014",
+      "label": "Mathieu Debuchy",
+      "year": 2014,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "mohamed-elneny-2015",
+      "label": "Mohamed Elneny",
+      "year": 2015,
+      "subtitle": "FC Basel 1893",
+      "description": "Signed from FC Basel 1893",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "petr-cech-2015",
+      "label": "Petr Cech",
+      "year": 2015,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "granit-xhaka-2016",
+      "label": "Granit Xhaka",
+      "year": 2016,
+      "subtitle": "Borussia Mönchengladbach",
+      "description": "Signed from Borussia Mönchengladbach",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "lucas-perez-2016",
+      "label": "Lucas Pérez",
+      "year": 2016,
+      "subtitle": "Deportivo de La Coruña",
+      "description": "Signed from Deportivo de La Coruña",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "rob-holding-2016",
+      "label": "Rob Holding",
+      "year": 2016,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "shkodran-mustafi-2016",
+      "label": "Shkodran Mustafi",
+      "year": 2016,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "takuma-asano-2016",
+      "label": "Takuma Asano",
+      "year": 2016,
+      "subtitle": "Sanfrecce Hiroshima",
+      "description": "Signed from Sanfrecce Hiroshima",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "alexandre-lacazette-2017",
+      "label": "Alexandre Lacazette",
+      "year": 2017,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "henrikh-mkhitaryan-2017",
+      "label": "Henrikh Mkhitaryan",
+      "year": 2017,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "konstantinos-mavropanos-2017",
+      "label": "Konstantinos Mavropanos",
+      "year": 2017,
+      "subtitle": "PAS Giannina",
+      "description": "Signed from PAS Giannina",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "pierre-emerick-aubameyang-2017",
+      "label": "Pierre-Emerick Aubameyang",
+      "year": 2017,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "sead-kolasinac-2017",
+      "label": "Sead Kolasinac",
+      "year": 2017,
+      "subtitle": "FC Schalke 04",
+      "description": "Signed from FC Schalke 04",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "bernd-leno-2018",
+      "label": "Bernd Leno",
+      "year": 2018,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "lucas-torreira-2018",
+      "label": "Lucas Torreira",
+      "year": 2018,
+      "subtitle": "UC Sampdoria",
+      "description": "Signed from UC Sampdoria",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "matteo-guendouzi-2018",
+      "label": "Mattéo Guendouzi",
+      "year": 2018,
+      "subtitle": "FC Lorient",
+      "description": "Signed from FC Lorient",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "sokratis-papastathopoulos-2018",
+      "label": "Sokratis Papastathopoulos",
+      "year": 2018,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "stephan-lichtsteiner-2018",
+      "label": "Stephan Lichtsteiner",
+      "year": 2018,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "david-luiz-2019",
+      "label": "David Luiz",
+      "year": 2019,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "gabriel-martinelli-2019",
+      "label": "Gabriel Martinelli",
+      "year": 2019,
+      "subtitle": "Ituano Futebol Clube (SP)",
+      "description": "Signed from Ituano Futebol Clube (SP)",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "kieran-tierney-2019",
+      "label": "Kieran Tierney",
+      "year": 2019,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "nicolas-pepe-2019",
+      "label": "Nicolas Pépé",
+      "year": 2019,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "william-saliba-2019",
+      "label": "William Saliba",
+      "year": 2019,
+      "subtitle": "AS Saint-Étienne",
+      "description": "Signed from AS Saint-Étienne",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "cedric-soares-2020",
+      "label": "Cédric Soares",
+      "year": 2020,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "gabriel-2020",
+      "label": "Gabriel",
+      "year": 2020,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "pablo-mari-2020",
+      "label": "Pablo Marí",
+      "year": 2020,
+      "subtitle": "CR Flamengo",
+      "description": "Signed from CR Flamengo",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "runar-alex-runarsson-2020",
+      "label": "Rúnar Alex Rúnarsson",
+      "year": 2020,
+      "subtitle": "Dijon FCO",
+      "description": "Signed from Dijon FCO",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "thomas-partey-2020",
+      "label": "Thomas Partey",
+      "year": 2020,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "willian-2020",
+      "label": "Willian",
+      "year": 2020,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "aaron-ramsdale-2021",
+      "label": "Aaron Ramsdale",
+      "year": 2021,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "albert-sambi-lokonga-2021",
+      "label": "Albert Sambi Lokonga",
+      "year": 2021,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "auston-trusty-2021",
+      "label": "Auston Trusty",
+      "year": 2021,
+      "subtitle": "Colorado Rapids",
+      "description": "Signed from Colorado Rapids",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "ben-white-2021",
+      "label": "Ben White",
+      "year": 2021,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "martin-degaard-2021",
+      "label": "Martin Ødegaard",
+      "year": 2021,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "nuno-tavares-2021",
+      "label": "Nuno Tavares",
+      "year": 2021,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "takehiro-tomiyasu-2021",
+      "label": "Takehiro Tomiyasu",
+      "year": 2021,
+      "subtitle": "Bologna FC 1909",
+      "description": "Signed from Bologna FC 1909",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "fabio-vieira-2022",
+      "label": "Fábio Vieira",
+      "year": 2022,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "gabriel-jesus-2022",
+      "label": "Gabriel Jesus",
+      "year": 2022,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "jakub-kiwior-2022",
+      "label": "Jakub Kiwior",
+      "year": 2022,
+      "subtitle": "Spezia Calcio",
+      "description": "Signed from Spezia Calcio",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "jorginho-2022",
+      "label": "Jorginho",
+      "year": 2022,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "leandro-trossard-2022",
+      "label": "Leandro Trossard",
+      "year": 2022,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "marquinhos-2022",
+      "label": "Marquinhos",
+      "year": 2022,
+      "subtitle": "São Paulo Futebol Clube",
+      "description": "Signed from São Paulo Futebol Clube",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "matt-turner-2022",
+      "label": "Matt Turner",
+      "year": 2022,
+      "subtitle": "New England Revolution",
+      "description": "Signed from New England Revolution",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "oleksandr-zinchenko-2022",
+      "label": "Oleksandr Zinchenko",
+      "year": 2022,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "declan-rice-2023",
+      "label": "Declan Rice",
+      "year": 2023,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "jurrien-timber-2023",
+      "label": "Jurriën Timber",
+      "year": 2023,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "kai-havertz-2023",
+      "label": "Kai Havertz",
+      "year": 2023,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "david-raya-2024",
+      "label": "David Raya",
+      "year": 2024,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "mikel-merino-2024",
+      "label": "Mikel Merino",
+      "year": 2024,
+      "subtitle": "Real Sociedad",
+      "description": "Signed from Real Sociedad",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "riccardo-calafiori-2024",
+      "label": "Riccardo Calafiori",
+      "year": 2024,
+      "subtitle": "Bologna FC 1909",
+      "description": "Signed from Bologna FC 1909",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "christian-n-rgaard-2025",
+      "label": "Christian Nørgaard",
+      "year": 2025,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "cristhian-mosquera-2025",
+      "label": "Cristhian Mosquera",
+      "year": 2025,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "eberechi-eze-2025",
+      "label": "Eberechi Eze",
+      "year": 2025,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "kepa-arrizabalaga-2025",
+      "label": "Kepa Arrizabalaga",
+      "year": 2025,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "martin-zubimendi-2025",
+      "label": "Martín Zubimendi",
+      "year": 2025,
+      "subtitle": "Real Sociedad",
+      "description": "Signed from Real Sociedad",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "noni-madueke-2025",
+      "label": "Noni Madueke",
+      "year": 2025,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    },
+    {
+      "id": "viktor-gyokeres-2025",
+      "label": "Viktor Gyökeres",
+      "year": 2025,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-arsenal/alletransfers/verein/11"
+    }
+  ]
+}

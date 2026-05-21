@@ -1,0 +1,2676 @@
+{
+  "id": "west-ham",
+  "slug": "west-ham",
+  "title": "West Ham Timeline",
+  "shortTitle": "West Ham",
+  "description": "Place West Ham United signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/west-ham",
+  "theme": {
+    "primary": "#7A263A",
+    "secondary": "#1BB1E7",
+    "background": "#FFF3F6",
+    "text": "#1E0208"
+  },
+  "share": {
+    "title": "West Ham Timeline",
+    "description": "How far can you build the West Ham United signing timeline?",
+    "hashtags": [
+      "WestHam",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "West Ham Timeline Quiz - West Ham United Signings Game",
+    "description": "Play a West Ham United timeline quiz. Guess whether famous West Ham United players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "West Ham United quiz",
+      "West Ham United signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "alex-bunbury-1992",
+      "label": "Alex Bunbury",
+      "year": 1992,
+      "subtitle": "Montreal Supra (1988 - 1992)",
+      "description": "Signed from Montreal Supra (1988 - 1992)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "mark-robson-1992",
+      "label": "Mark Robson",
+      "year": 1992,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "matty-holmes-1992",
+      "label": "Matty Holmes",
+      "year": 1992,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "peter-butler-1992",
+      "label": "Peter Butler",
+      "year": 1992,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "dale-gordon-1993",
+      "label": "Dale Gordon",
+      "year": 1993,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "david-burrows-1993",
+      "label": "David Burrows",
+      "year": 1993,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "gerry-peyton-1993",
+      "label": "Gerry Peyton",
+      "year": 1993,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jeroen-boere-1993",
+      "label": "Jeroen Boere",
+      "year": 1993,
+      "subtitle": "Go Ahead Eagles",
+      "description": "Signed from Go Ahead Eagles",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "keith-rowland-1993",
+      "label": "Keith Rowland",
+      "year": 1993,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "lee-chapman-1993",
+      "label": "Lee Chapman",
+      "year": 1993,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "malcolm-mcpherson-1993",
+      "label": "Malcolm McPherson",
+      "year": 1993,
+      "subtitle": "Yeovil Town",
+      "description": "Signed from Yeovil Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "mike-marsh-1993",
+      "label": "Mike Marsh",
+      "year": 1993,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "paul-mitchell-1993",
+      "label": "Paul Mitchell",
+      "year": 1993,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "simon-webster-1993",
+      "label": "Simon Webster",
+      "year": 1993,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "adrian-whitbread-1994",
+      "label": "Adrian Whitbread",
+      "year": 1994,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "joey-beauchamp-1994",
+      "label": "Joey Beauchamp",
+      "year": 1994,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "john-moncur-1994",
+      "label": "John Moncur",
+      "year": 1994,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "julian-dicks-1994",
+      "label": "Julian Dicks",
+      "year": 1994,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "tony-cottee-1994",
+      "label": "Tony Cottee",
+      "year": 1994,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "iain-dowie-1995",
+      "label": "Iain Dowie",
+      "year": 1995,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "ilie-dumitrescu-1995",
+      "label": "Ilie Dumitrescu",
+      "year": 1995,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "marc-rieper-1995",
+      "label": "Marc Rieper",
+      "year": 1995,
+      "subtitle": "Bröndby IF",
+      "description": "Signed from Bröndby IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "marco-boogers-1995",
+      "label": "Marco Boogers",
+      "year": 1995,
+      "subtitle": "Sparta Rotterdam",
+      "description": "Signed from Sparta Rotterdam",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "mark-watson-1995",
+      "label": "Mark Watson",
+      "year": 1995,
+      "subtitle": "Sutton United",
+      "description": "Signed from Sutton United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "peter-shilton-1995",
+      "label": "Peter Shilton",
+      "year": 1995,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "robbie-slater-1995",
+      "label": "Robbie Slater",
+      "year": 1995,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "slaven-bilic-1995",
+      "label": "Slaven Bilic",
+      "year": 1995,
+      "subtitle": "Karlsruher SC",
+      "description": "Signed from Karlsruher SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "steve-mautone-1995",
+      "label": "Steve Mautone",
+      "year": 1995,
+      "subtitle": "Cosmos Canberra",
+      "description": "Signed from Cosmos Canberra",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "futre-1996",
+      "label": "Futre",
+      "year": 1996,
+      "subtitle": "AC Milan",
+      "description": "Signed from AC Milan",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "john-hartson-1996",
+      "label": "John Hartson",
+      "year": 1996,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "mark-bowen-1996",
+      "label": "Mark Bowen",
+      "year": 1996,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "michael-hughes-1996",
+      "label": "Michael Hughes",
+      "year": 1996,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "paul-kitson-1996",
+      "label": "Paul Kitson",
+      "year": 1996,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "richard-hall-1996",
+      "label": "Richard Hall",
+      "year": 1996,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "scott-mean-1996",
+      "label": "Scott Mean",
+      "year": 1996,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "stan-lazaridis-1996",
+      "label": "Stan Lazaridis",
+      "year": 1996,
+      "subtitle": "West Adelaide SC",
+      "description": "Signed from West Adelaide SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "steve-lomas-1996",
+      "label": "Steve Lomas",
+      "year": 1996,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "andy-impey-1997",
+      "label": "Andy Impey",
+      "year": 1997,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "bernard-lama-1997",
+      "label": "Bernard Lama",
+      "year": 1997,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "craig-forrest-1997",
+      "label": "Craig Forrest",
+      "year": 1997,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "david-terrier-1997",
+      "label": "David Terrier",
+      "year": 1997,
+      "subtitle": "FC Metz",
+      "description": "Signed from FC Metz",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "david-unsworth-1997",
+      "label": "David Unsworth",
+      "year": 1997,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "eyal-berkovic-1997",
+      "label": "Eyal Berkovic",
+      "year": 1997,
+      "subtitle": "Maccabi Haifa",
+      "description": "Signed from Maccabi Haifa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "ian-pearce-1997",
+      "label": "Ian Pearce",
+      "year": 1997,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "mohammed-berthe-1997",
+      "label": "Mohammed Berthé",
+      "year": 1997,
+      "subtitle": "AC Ajaccio",
+      "description": "Signed from AC Ajaccio",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "samassi-abou-1997",
+      "label": "Samassi Abou",
+      "year": 1997,
+      "subtitle": "AS Cannes",
+      "description": "Signed from AS Cannes",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "stephen-bywater-1997",
+      "label": "Stephen Bywater",
+      "year": 1997,
+      "subtitle": "Rochdale AFC",
+      "description": "Signed from Rochdale AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "trevor-sinclair-1997",
+      "label": "Trevor Sinclair",
+      "year": 1997,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "daniel-sjolund-1998",
+      "label": "Daniel Sjölund",
+      "year": 1998,
+      "subtitle": "IF Brommapojkarna",
+      "description": "Signed from IF Brommapojkarna",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "gavin-holligan-1998",
+      "label": "Gavin Holligan",
+      "year": 1998,
+      "subtitle": "Kingstonian FC",
+      "description": "Signed from Kingstonian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "ian-wright-1998",
+      "label": "Ian Wright",
+      "year": 1998,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jamie-coyne-1998",
+      "label": "Jamie Coyne",
+      "year": 1998,
+      "subtitle": "Perth Azzurri",
+      "description": "Signed from Perth Azzurri",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "javier-margas-1998",
+      "label": "Javier Margas",
+      "year": 1998,
+      "subtitle": "CD Universidad Católica",
+      "description": "Signed from CD Universidad Católica",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jimmy-bullard-1998",
+      "label": "Jimmy Bullard",
+      "year": 1998,
+      "subtitle": "Gravesend and Northfleet FC",
+      "description": "Signed from Gravesend and Northfleet FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "marc-keller-1998",
+      "label": "Marc Keller",
+      "year": 1998,
+      "subtitle": "Karlsruher SC",
+      "description": "Signed from Karlsruher SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "marc-vivien-foe-1998",
+      "label": "Marc-Vivien Foé",
+      "year": 1998,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "neil-ruddock-1998",
+      "label": "Neil Ruddock",
+      "year": 1998,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "paolo-di-canio-1998",
+      "label": "Paolo Di Canio",
+      "year": 1998,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "scott-minto-1998",
+      "label": "Scott Minto",
+      "year": 1998,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "gary-charles-1999",
+      "label": "Gary Charles",
+      "year": 1999,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "igor-stimac-1999",
+      "label": "Igor Stimac",
+      "year": 1999,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "omer-riza-1999",
+      "label": "Ömer Riza",
+      "year": 1999,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "paulo-wanchope-1999",
+      "label": "Paulo Wanchope",
+      "year": 1999,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "rob-jones-1999",
+      "label": "Rob Jones",
+      "year": 1999,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "romarin-billong-1999",
+      "label": "Romarin Billong",
+      "year": 1999,
+      "subtitle": "AS Saint-Étienne",
+      "description": "Signed from AS Saint-Étienne",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "stuart-pearce-1999",
+      "label": "Stuart Pearce",
+      "year": 1999,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "christian-bassila-2000",
+      "label": "Christian Bassila",
+      "year": 2000,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "christian-dailly-2000",
+      "label": "Christian Dailly",
+      "year": 2000,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "davor-suker-2000",
+      "label": "Davor Suker",
+      "year": 2000,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "frederic-kanoute-2000",
+      "label": "Frédéric Kanouté",
+      "year": 2000,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "nigel-winterburn-2000",
+      "label": "Nigel Winterburn",
+      "year": 2000,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "ragnvald-soma-2000",
+      "label": "Ragnvald Soma",
+      "year": 2000,
+      "subtitle": "Bryne FK",
+      "description": "Signed from Bryne FK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "rigobert-song-2000",
+      "label": "Rigobert Song",
+      "year": 2000,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "sebastien-schemmel-2000",
+      "label": "Sébastien Schemmel",
+      "year": 2000,
+      "subtitle": "FC Metz",
+      "description": "Signed from FC Metz",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "svetoslav-todorov-2000",
+      "label": "Svetoslav Todorov",
+      "year": 2000,
+      "subtitle": "Lovech",
+      "description": "Signed from Lovech",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "titi-camara-2000",
+      "label": "Titi Camara",
+      "year": 2000,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "tom-williams-2000",
+      "label": "Tom Williams",
+      "year": 2000,
+      "subtitle": "Walton & Hersham FC",
+      "description": "Signed from Walton & Hersham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "vanni-chiarotto-2000",
+      "label": "Vanni Chiarotto",
+      "year": 2000,
+      "subtitle": "Calcio Padova",
+      "description": "Signed from Calcio Padova",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "david-forde-2001",
+      "label": "David Forde",
+      "year": 2001,
+      "subtitle": "Barry Town",
+      "description": "Signed from Barry Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "david-james-2001",
+      "label": "David James",
+      "year": 2001,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "hayden-foxe-2001",
+      "label": "Hayden Foxe",
+      "year": 2001,
+      "subtitle": "KV Mechelen",
+      "description": "Signed from KV Mechelen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "laurent-courtois-2001",
+      "label": "Laurent Courtois",
+      "year": 2001,
+      "subtitle": "FC Toulouse",
+      "description": "Signed from FC Toulouse",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "raimond-van-der-gouw-2001",
+      "label": "Raimond van der Gouw",
+      "year": 2001,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "tomas-repka-2001",
+      "label": "Tomas Repka",
+      "year": 2001,
+      "subtitle": "AC Fiorentina",
+      "description": "Signed from AC Fiorentina",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "vladimir-labant-2001",
+      "label": "Vladimír Labant",
+      "year": 2001,
+      "subtitle": "AC Sparta Prague",
+      "description": "Signed from AC Sparta Prague",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "gary-breen-2002",
+      "label": "Gary Breen",
+      "year": 2002,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "les-ferdinand-2002",
+      "label": "Les Ferdinand",
+      "year": 2002,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "rufus-brevett-2002",
+      "label": "Rufus Brevett",
+      "year": 2002,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "youssef-sofiane-2002",
+      "label": "Youssef Sofiane",
+      "year": 2002,
+      "subtitle": "AJ Auxerre B",
+      "description": "Signed from AJ Auxerre B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "adam-nowland-2003",
+      "label": "Adam Nowland",
+      "year": 2003,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "andy-melville-2003",
+      "label": "Andy Melville",
+      "year": 2003,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "bobby-zamora-2003",
+      "label": "Bobby Zamora",
+      "year": 2003,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "brian-deane-2003",
+      "label": "Brian Deane",
+      "year": 2003,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "david-connolly-2003",
+      "label": "David Connolly",
+      "year": 2003,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "hayden-mullins-2003",
+      "label": "Hayden Mullins",
+      "year": 2003,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jobi-mcanuff-2003",
+      "label": "Jobi McAnuff",
+      "year": 2003,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "kevin-horlock-2003",
+      "label": "Kevin Horlock",
+      "year": 2003,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "marlon-harewood-2003",
+      "label": "Marlon Harewood",
+      "year": 2003,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "matthew-etherington-2003",
+      "label": "Matthew Etherington",
+      "year": 2003,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "nigel-reo-coker-2003",
+      "label": "Nigel Reo-Coker",
+      "year": 2003,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "pavel-srnicek-2003",
+      "label": "Pavel Srnicek",
+      "year": 2003,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "rob-lee-2003",
+      "label": "Rob Lee",
+      "year": 2003,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "trent-mcclenahan-2003",
+      "label": "Trent McClenahan",
+      "year": 2003,
+      "subtitle": "Sydney Olympic FC",
+      "description": "Signed from Sydney Olympic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "wayne-quinn-2003",
+      "label": "Wayne Quinn",
+      "year": 2003,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "carl-fletcher-2004",
+      "label": "Carl Fletcher",
+      "year": 2004,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "gavin-williams-2004",
+      "label": "Gavin Williams",
+      "year": 2004,
+      "subtitle": "Yeovil Town",
+      "description": "Signed from Yeovil Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jimmy-walker-2004",
+      "label": "Jimmy Walker",
+      "year": 2004,
+      "subtitle": "Walsall FC",
+      "description": "Signed from Walsall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "luke-chadwick-2004",
+      "label": "Luke Chadwick",
+      "year": 2004,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "malky-mackay-2004",
+      "label": "Malky Mackay",
+      "year": 2004,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "mauricio-taricco-2004",
+      "label": "Mauricio Taricco",
+      "year": 2004,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "moses-ashikodi-2004",
+      "label": "Moses Ashikodi",
+      "year": 2004,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "sergiy-rebrov-2004",
+      "label": "Sergiy Rebrov",
+      "year": 2004,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "teddy-sheringham-2004",
+      "label": "Teddy Sheringham",
+      "year": 2004,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "clive-clarke-2005",
+      "label": "Clive Clarke",
+      "year": 2005,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "danny-gabbidon-2005",
+      "label": "Danny Gabbidon",
+      "year": 2005,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "dean-ashton-2005",
+      "label": "Dean Ashton",
+      "year": 2005,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "paul-konchesky-2005",
+      "label": "Paul Konchesky",
+      "year": 2005,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "petr-mikolanda-2005",
+      "label": "Petr Mikolanda",
+      "year": 2005,
+      "subtitle": "FK Viktoria Zizkov",
+      "description": "Signed from FK Viktoria Zizkov",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "roy-carroll-2005",
+      "label": "Roy Carroll",
+      "year": 2005,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "sekou-baradji-2005",
+      "label": "Sekou Baradji",
+      "year": 2005,
+      "subtitle": "Le Mans Union Club 72",
+      "description": "Signed from Le Mans Union Club 72",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "yaniv-katan-2005",
+      "label": "Yaniv Katan",
+      "year": 2005,
+      "subtitle": "Maccabi Haifa",
+      "description": "Signed from Maccabi Haifa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "yossi-benayoun-2005",
+      "label": "Yossi Benayoun",
+      "year": 2005,
+      "subtitle": "Racing Santander",
+      "description": "Signed from Racing Santander",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "calum-davenport-2006",
+      "label": "Calum Davenport",
+      "year": 2006,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "carlos-tevez-2006",
+      "label": "Carlos Tévez",
+      "year": 2006,
+      "subtitle": "Sport Club Corinthians Paulista",
+      "description": "Signed from Sport Club Corinthians Paulista",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "carlton-cole-2006",
+      "label": "Carlton Cole",
+      "year": 2006,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "javier-mascherano-2006",
+      "label": "Javier Mascherano",
+      "year": 2006,
+      "subtitle": "Sport Club Corinthians Paulista",
+      "description": "Signed from Sport Club Corinthians Paulista",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "john-paintsil-2006",
+      "label": "John Paintsil",
+      "year": 2006,
+      "subtitle": "Hapoel Tel Aviv",
+      "description": "Signed from Hapoel Tel Aviv",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jonathan-spector-2006",
+      "label": "Jonathan Spector",
+      "year": 2006,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "lucas-neill-2006",
+      "label": "Lucas Neill",
+      "year": 2006,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "luis-boa-morte-2006",
+      "label": "Luís Boa Morte",
+      "year": 2006,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "matthew-upson-2006",
+      "label": "Matthew Upson",
+      "year": 2006,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "nigel-quashie-2006",
+      "label": "Nigel Quashie",
+      "year": 2006,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "rob-green-2006",
+      "label": "Rob Green",
+      "year": 2006,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "tyrone-mears-2006",
+      "label": "Tyrone Mears",
+      "year": 2006,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "craig-bellamy-2007",
+      "label": "Craig Bellamy",
+      "year": 2007,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "freddie-ljungberg-2007",
+      "label": "Freddie Ljungberg",
+      "year": 2007,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "julien-faubert-2007",
+      "label": "Julien Faubert",
+      "year": 2007,
+      "subtitle": "FC Girondins Bordeaux",
+      "description": "Signed from FC Girondins Bordeaux",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "kieron-dyer-2007",
+      "label": "Kieron Dyer",
+      "year": 2007,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "nolberto-solano-2007",
+      "label": "Nolberto Solano",
+      "year": 2007,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "richard-wright-2007",
+      "label": "Richard Wright",
+      "year": 2007,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "scott-parker-2007",
+      "label": "Scott Parker",
+      "year": 2007,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "zavon-hines-2007",
+      "label": "Zavon Hines",
+      "year": 2007,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "savio-nsereko-2008",
+      "label": "Savio Nsereko",
+      "year": 2008,
+      "subtitle": "Brescia Calcio",
+      "description": "Signed from Brescia Calcio",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "valon-behrami-2008",
+      "label": "Valon Behrami",
+      "year": 2008,
+      "subtitle": "SS Lazio",
+      "description": "Signed from SS Lazio",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "walter-lopez-2008",
+      "label": "Wálter López",
+      "year": 2008,
+      "subtitle": "CA River Plate Montevideo",
+      "description": "Signed from CA River Plate Montevideo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "alessandro-diamanti-2009",
+      "label": "Alessandro Diamanti",
+      "year": 2009,
+      "subtitle": "AS Livorno",
+      "description": "Signed from AS Livorno",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "benni-mccarthy-2009",
+      "label": "Benni McCarthy",
+      "year": 2009,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "danny-uchechi-2009",
+      "label": "Danny Uchechi",
+      "year": 2009,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "fabio-daprela-2009",
+      "label": "Fabio Daprelà",
+      "year": 2009,
+      "subtitle": "Grasshopper Club Zurich",
+      "description": "Signed from Grasshopper Club Zurich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "guillermo-franco-2009",
+      "label": "Guillermo Franco",
+      "year": 2009,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "herita-ilunga-2009",
+      "label": "Hérita Ilunga",
+      "year": 2009,
+      "subtitle": "FC Toulouse",
+      "description": "Signed from FC Toulouse",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "ilan-2009",
+      "label": "Ilan",
+      "year": 2009,
+      "subtitle": "AS Saint-Étienne",
+      "description": "Signed from AS Saint-Étienne",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "manuel-da-costa-2009",
+      "label": "Manuel da Costa",
+      "year": 2009,
+      "subtitle": "ACF Fiorentina",
+      "description": "Signed from ACF Fiorentina",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "peter-kurucz-2009",
+      "label": "Péter Kurucz",
+      "year": 2009,
+      "subtitle": "Újpest FC",
+      "description": "Signed from Újpest FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "radoslav-kovac-2009",
+      "label": "Radoslav Kovac",
+      "year": 2009,
+      "subtitle": "Spartak Moscow",
+      "description": "Signed from Spartak Moscow",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "demba-ba-2010",
+      "label": "Demba Ba",
+      "year": 2010,
+      "subtitle": "TSG 1899 Hoffenheim",
+      "description": "Signed from TSG 1899 Hoffenheim",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "frederic-piquionne-2010",
+      "label": "Frédéric Piquionne",
+      "year": 2010,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "gary-o-neil-2010",
+      "label": "Gary O'Neil",
+      "year": 2010,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "lars-jacobsen-2010",
+      "label": "Lars Jacobsen",
+      "year": 2010,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "pablo-barrera-2010",
+      "label": "Pablo Barrera",
+      "year": 2010,
+      "subtitle": "UNAM Pumas",
+      "description": "Signed from UNAM Pumas",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "paul-mccallum-2010",
+      "label": "Paul McCallum",
+      "year": 2010,
+      "subtitle": "Dulwich Hamlet",
+      "description": "Signed from Dulwich Hamlet",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "ruud-boffin-2010",
+      "label": "Ruud Boffin",
+      "year": 2010,
+      "subtitle": "MVV Maastricht",
+      "description": "Signed from MVV Maastricht",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "thomas-hitzlsperger-2010",
+      "label": "Thomas Hitzlsperger",
+      "year": 2010,
+      "subtitle": "SS Lazio",
+      "description": "Signed from SS Lazio",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "winston-reid-2010",
+      "label": "Winston Reid",
+      "year": 2010,
+      "subtitle": "FC Midtjylland",
+      "description": "Signed from FC Midtjylland",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "abdoulaye-faye-2011",
+      "label": "Abdoulaye Faye",
+      "year": 2011,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "guy-demel-2011",
+      "label": "Guy Demel",
+      "year": 2011,
+      "subtitle": "Hamburger SV",
+      "description": "Signed from Hamburger SV",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "joey-o-brien-2011",
+      "label": "Joey O'Brien",
+      "year": 2011,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "john-carew-2011",
+      "label": "John Carew",
+      "year": 2011,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "kevin-nolan-2011",
+      "label": "Kevin Nolan",
+      "year": 2011,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "matthew-taylor-2011",
+      "label": "Matthew Taylor",
+      "year": 2011,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "nicky-maynard-2011",
+      "label": "Nicky Maynard",
+      "year": 2011,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "papa-bouba-diop-2011",
+      "label": "Papa Bouba Diop",
+      "year": 2011,
+      "subtitle": "AEK Athens",
+      "description": "Signed from AEK Athens",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "ricardo-vaz-te-2011",
+      "label": "Ricardo Vaz Tê",
+      "year": 2011,
+      "subtitle": "Barnsley FC",
+      "description": "Signed from Barnsley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "sam-baldock-2011",
+      "label": "Sam Baldock",
+      "year": 2011,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "alou-diarra-2012",
+      "label": "Alou Diarra",
+      "year": 2012,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "joe-cole-2012",
+      "label": "Joe Cole",
+      "year": 2012,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jussi-jaaskelainen-2012",
+      "label": "Jussi Jääskeläinen",
+      "year": 2012,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "matt-jarvis-2012",
+      "label": "Matt Jarvis",
+      "year": 2012,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "modibo-maiga-2012",
+      "label": "Modibo Maïga",
+      "year": 2012,
+      "subtitle": "FC Sochaux-Montbéliard",
+      "description": "Signed from FC Sochaux-Montbéliard",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "mohamed-diame-2012",
+      "label": "Mohamed Diamé",
+      "year": 2012,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "raphael-spiegel-2012",
+      "label": "Raphael Spiegel",
+      "year": 2012,
+      "subtitle": "Grasshopper Club Zurich",
+      "description": "Signed from Grasshopper Club Zurich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "sean-maguire-2012",
+      "label": "Sean Maguire",
+      "year": 2012,
+      "subtitle": "Waterford United",
+      "description": "Signed from Waterford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "stephen-henderson-2012",
+      "label": "Stephen Henderson",
+      "year": 2012,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "abdul-razak-2013",
+      "label": "Abdul Razak",
+      "year": 2013,
+      "subtitle": "Anzhi Makhachkala",
+      "description": "Signed from Anzhi Makhachkala",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "adrian-san-miguel-2013",
+      "label": "Adrián San Miguel",
+      "year": 2013,
+      "subtitle": "Real Betis Balompié",
+      "description": "Signed from Real Betis Balompié",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "andy-carroll-2013",
+      "label": "Andy Carroll",
+      "year": 2013,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "danny-whitehead-2013",
+      "label": "Danny Whitehead",
+      "year": 2013,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jaanai-gordon-2013",
+      "label": "Jaanai Gordon",
+      "year": 2013,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "razvan-rat-2013",
+      "label": "Răzvan Raț",
+      "year": 2013,
+      "subtitle": "Shakhtar Donetsk",
+      "description": "Signed from Shakhtar Donetsk",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "stewart-downing-2013",
+      "label": "Stewart Downing",
+      "year": 2013,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "aaron-cresswell-2014",
+      "label": "Aaron Cresswell",
+      "year": 2014,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "cheikhou-kouyate-2014",
+      "label": "Cheikhou Kouyaté",
+      "year": 2014,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "diafra-sakho-2014",
+      "label": "Diafra Sakho",
+      "year": 2014,
+      "subtitle": "FC Metz",
+      "description": "Signed from FC Metz",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "diego-poyet-2014",
+      "label": "Diego Poyet",
+      "year": 2014,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "doneil-henry-2014",
+      "label": "Doneil Henry",
+      "year": 2014,
+      "subtitle": "Apollon Limassol",
+      "description": "Signed from Apollon Limassol",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "enner-valencia-2014",
+      "label": "Enner Valencia",
+      "year": 2014,
+      "subtitle": "CF Pachuca",
+      "description": "Signed from CF Pachuca",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "mauro-zarate-2014",
+      "label": "Mauro Zárate",
+      "year": 2014,
+      "subtitle": "CA Vélez Sarsfield",
+      "description": "Signed from CA Vélez Sarsfield",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "morgan-amalfitano-2014",
+      "label": "Morgan Amalfitano",
+      "year": 2014,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "angelo-ogbonna-2015",
+      "label": "Angelo Ogbonna",
+      "year": 2015,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "dimitri-payet-2015",
+      "label": "Dimitri Payet",
+      "year": 2015,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "michail-antonio-2015",
+      "label": "Michail Antonio",
+      "year": 2015,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "nikica-jelavic-2015",
+      "label": "Nikica Jelavic",
+      "year": 2015,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "pedro-obiang-2015",
+      "label": "Pedro Obiang",
+      "year": 2015,
+      "subtitle": "UC Sampdoria",
+      "description": "Signed from UC Sampdoria",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "sam-byram-2015",
+      "label": "Sam Byram",
+      "year": 2015,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "stephen-hendrie-2015",
+      "label": "Stephen Hendrie",
+      "year": 2015,
+      "subtitle": "Hamilton Academical FC",
+      "description": "Signed from Hamilton Academical FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "alvaro-arbeloa-2016",
+      "label": "Álvaro Arbeloa",
+      "year": 2016,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "andre-ayew-2016",
+      "label": "André Ayew",
+      "year": 2016,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "arthur-masuaku-2016",
+      "label": "Arthur Masuaku",
+      "year": 2016,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "edimilson-fernandes-2016",
+      "label": "Edimilson Fernandes",
+      "year": 2016,
+      "subtitle": "FC Sion",
+      "description": "Signed from FC Sion",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "havard-nordtveit-2016",
+      "label": "Håvard Nordtveit",
+      "year": 2016,
+      "subtitle": "Borussia Mönchengladbach",
+      "description": "Signed from Borussia Mönchengladbach",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jose-fonte-2016",
+      "label": "José Fonte",
+      "year": 2016,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "manuel-lanzini-2016",
+      "label": "Manuel Lanzini",
+      "year": 2016,
+      "subtitle": "Al-Jazira Club",
+      "description": "Signed from Al-Jazira Club",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "robert-snodgrass-2016",
+      "label": "Robert Snodgrass",
+      "year": 2016,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "sofiane-feghouli-2016",
+      "label": "Sofiane Feghouli",
+      "year": 2016,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "chicharito-2017",
+      "label": "Chicharito",
+      "year": 2017,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jordan-hugill-2017",
+      "label": "Jordan Hugill",
+      "year": 2017,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "marko-arnautovic-2017",
+      "label": "Marko Arnautovic",
+      "year": 2017,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "pablo-zabaleta-2017",
+      "label": "Pablo Zabaleta",
+      "year": 2017,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "sead-haksabanovic-2017",
+      "label": "Sead Haksabanovic",
+      "year": 2017,
+      "subtitle": "Halmstads BK",
+      "description": "Signed from Halmstads BK",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "andriy-yarmolenko-2018",
+      "label": "Andriy Yarmolenko",
+      "year": 2018,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "carlos-sanchez-2018",
+      "label": "Carlos Sánchez",
+      "year": 2018,
+      "subtitle": "ACF Fiorentina",
+      "description": "Signed from ACF Fiorentina",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "fabian-balbuena-2018",
+      "label": "Fabián Balbuena",
+      "year": 2018,
+      "subtitle": "Sport Club Corinthians Paulista",
+      "description": "Signed from Sport Club Corinthians Paulista",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "felipe-anderson-2018",
+      "label": "Felipe Anderson",
+      "year": 2018,
+      "subtitle": "SS Lazio",
+      "description": "Signed from SS Lazio",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "issa-diop-2018",
+      "label": "Issa Diop",
+      "year": 2018,
+      "subtitle": "FC Toulouse",
+      "description": "Signed from FC Toulouse",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jack-wilshere-2018",
+      "label": "Jack Wilshere",
+      "year": 2018,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "lucas-perez-2018",
+      "label": "Lucas Pérez",
+      "year": 2018,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "lukasz-fabianski-2018",
+      "label": "Lukasz Fabianski",
+      "year": 2018,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "ryan-fredericks-2018",
+      "label": "Ryan Fredericks",
+      "year": 2018,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "samir-nasri-2018",
+      "label": "Samir Nasri",
+      "year": 2018,
+      "subtitle": "Disqualification",
+      "description": "Signed from Disqualification",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "xande-silva-2018",
+      "label": "Xande Silva",
+      "year": 2018,
+      "subtitle": "Vitória Guimarães SC",
+      "description": "Signed from Vitória Guimarães SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "albian-ajeti-2019",
+      "label": "Albian Ajeti",
+      "year": 2019,
+      "subtitle": "FC Basel 1893",
+      "description": "Signed from FC Basel 1893",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "david-martin-2019",
+      "label": "David Martin",
+      "year": 2019,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "jarrod-bowen-2019",
+      "label": "Jarrod Bowen",
+      "year": 2019,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "pablo-fornals-2019",
+      "label": "Pablo Fornals",
+      "year": 2019,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "roberto-2019",
+      "label": "Roberto",
+      "year": 2019,
+      "subtitle": "RCD Espanyol Barcelona",
+      "description": "Signed from RCD Espanyol Barcelona",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "sebastien-haller-2019",
+      "label": "Sébastien Haller",
+      "year": 2019,
+      "subtitle": "Eintracht Frankfurt",
+      "description": "Signed from Eintracht Frankfurt",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "frederik-alves-2020",
+      "label": "Frederik Alves",
+      "year": 2020,
+      "subtitle": "Silkeborg IF",
+      "description": "Signed from Silkeborg IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "said-benrahma-2020",
+      "label": "Saïd Benrahma",
+      "year": 2020,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "tomas-soucek-2020",
+      "label": "Tomáš Souček",
+      "year": 2020,
+      "subtitle": "SK Slavia Prague",
+      "description": "Signed from SK Slavia Prague",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "vladimir-coufal-2020",
+      "label": "Vladimír Coufal",
+      "year": 2020,
+      "subtitle": "SK Slavia Prague",
+      "description": "Signed from SK Slavia Prague",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "craig-dawson-2021",
+      "label": "Craig Dawson",
+      "year": 2021,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "kurt-zouma-2021",
+      "label": "Kurt Zouma",
+      "year": 2021,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "nikola-vlasic-2021",
+      "label": "Nikola Vlašić",
+      "year": 2021,
+      "subtitle": "CSKA Moscow",
+      "description": "Signed from CSKA Moscow",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "alphonse-areola-2022",
+      "label": "Alphonse Areola",
+      "year": 2022,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "danny-ings-2022",
+      "label": "Danny Ings",
+      "year": 2022,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "emerson-2022",
+      "label": "Emerson",
+      "year": 2022,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "flynn-downes-2022",
+      "label": "Flynn Downes",
+      "year": 2022,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "gianluca-scamacca-2022",
+      "label": "Gianluca Scamacca",
+      "year": 2022,
+      "subtitle": "US Sassuolo",
+      "description": "Signed from US Sassuolo",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "lucas-paqueta-2022",
+      "label": "Lucas Paquetá",
+      "year": 2022,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "maxwel-cornet-2022",
+      "label": "Maxwel Cornet",
+      "year": 2022,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "nayef-aguerd-2022",
+      "label": "Nayef Aguerd",
+      "year": 2022,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "thilo-kehrer-2022",
+      "label": "Thilo Kehrer",
+      "year": 2022,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "andrew-irving-2023",
+      "label": "Andrew Irving",
+      "year": 2023,
+      "subtitle": "SK Austria Klagenfurt",
+      "description": "Signed from SK Austria Klagenfurt",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "edson-alvarez-2023",
+      "label": "Edson Álvarez",
+      "year": 2023,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "james-ward-prowse-2023",
+      "label": "James Ward-Prowse",
+      "year": 2023,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "konstantinos-mavropanos-2023",
+      "label": "Konstantinos Mavropanos",
+      "year": 2023,
+      "subtitle": "VfB Stuttgart",
+      "description": "Signed from VfB Stuttgart",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "mohammed-kudus-2023",
+      "label": "Mohammed Kudus",
+      "year": 2023,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "aaron-wan-bissaka-2024",
+      "label": "Aaron Wan-Bissaka",
+      "year": 2024,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "crysencio-summerville-2024",
+      "label": "Crysencio Summerville",
+      "year": 2024,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "guido-rodriguez-2024",
+      "label": "Guido Rodríguez",
+      "year": 2024,
+      "subtitle": "Real Betis Balompié",
+      "description": "Signed from Real Betis Balompié",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "luis-guilherme-2024",
+      "label": "Luís Guilherme",
+      "year": 2024,
+      "subtitle": "Sociedade Esportiva Palmeiras",
+      "description": "Signed from Sociedade Esportiva Palmeiras",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "maximilian-kilman-2024",
+      "label": "Maximilian Kilman",
+      "year": 2024,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "niclas-fullkrug-2024",
+      "label": "Niclas Füllkrug",
+      "year": 2024,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    },
+    {
+      "id": "wes-foderingham-2024",
+      "label": "Wes Foderingham",
+      "year": 2024,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/west-ham-united/alletransfers/verein/379"
+    }
+  ]
+}

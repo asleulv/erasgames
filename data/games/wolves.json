@@ -1,0 +1,2390 @@
+{
+  "id": "wolves",
+  "slug": "wolves",
+  "title": "Wolves Timeline",
+  "shortTitle": "Wolves",
+  "description": "Place Wolverhampton Wanderers signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/wolves",
+  "theme": {
+    "primary": "#FDB913",
+    "secondary": "#000000",
+    "background": "#FFF8E5",
+    "text": "#171511"
+  },
+  "share": {
+    "title": "Wolves Timeline",
+    "description": "How far can you build the Wolves signing timeline?",
+    "hashtags": [
+      "Wolves",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Wolves Timeline Quiz - Wolverhampton Wanderers Signings Game",
+    "description": "Play a Wolverhampton Wanderers timeline quiz. Guess whether famous Wolves players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Wolves quiz",
+      "Wolverhampton Wanderers quiz",
+      "football timeline game",
+      "Premier League quiz",
+      "Wolves signings"
+    ]
+  },
+  "items": [
+    {
+      "id": "henri-camara-2003",
+      "label": "Henri Camara",
+      "year": 2003,
+      "subtitle": "CS Sedan",
+      "description": "Centre-Forward signed from CS Sedan",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "isaac-okoronkwo-2003",
+      "label": "Isaac Okoronkwo",
+      "year": 2003,
+      "subtitle": "Shakhtar D.",
+      "description": "Centre-Back signed from Shakhtar D.",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jody-craddock-2003",
+      "label": "Jody Craddock",
+      "year": 2003,
+      "subtitle": "Sunderland",
+      "description": "Centre-Back signed from Sunderland",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "leon-clarke-2003",
+      "label": "Leon Clarke",
+      "year": 2003,
+      "subtitle": "Kidderminster",
+      "description": "Centre-Forward signed from Kidderminster",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "oleg-luzhnyi-2003",
+      "label": "Oleg Luzhnyi",
+      "year": 2003,
+      "subtitle": "Arsenal",
+      "description": "Right-Back signed from Arsenal",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "silas-2003",
+      "label": "Silas",
+      "year": 2003,
+      "subtitle": "Leiria",
+      "description": "Attacking Midfield signed from Leiria",
+      "popularity": 45,
+      "tags": [
+        "Attacking Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "steffen-iversen-2003",
+      "label": "Steffen Iversen",
+      "year": 2003,
+      "subtitle": "Spurs",
+      "description": "Second Striker signed from Spurs",
+      "popularity": 45,
+      "tags": [
+        "Second Striker",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "carl-cort-2004",
+      "label": "Carl Cort",
+      "year": 2004,
+      "subtitle": "Newcastle",
+      "description": "Centre-Forward signed from Newcastle",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "gary-mulligan-2004",
+      "label": "Gary Mulligan",
+      "year": 2004,
+      "subtitle": "Belvedere FC",
+      "description": "Centre-Back signed from Belvedere FC",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "ionel-ganea-2004",
+      "label": "Ionel Ganea",
+      "year": 2004,
+      "subtitle": "Bursaspor",
+      "description": "Centre-Forward signed from Bursaspor",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "joachim-bj-rklund-2004",
+      "label": "Joachim Björklund",
+      "year": 2004,
+      "subtitle": "Sunderland",
+      "description": "Centre-Back signed from Sunderland",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "ki-hyeon-seol-2004",
+      "label": "Ki-hyeon Seol",
+      "year": 2004,
+      "subtitle": "RSC Anderlecht",
+      "description": "Right Winger signed from RSC Anderlecht",
+      "popularity": 45,
+      "tags": [
+        "Right Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "paul-jones-2004",
+      "label": "Paul Jones",
+      "year": 2004,
+      "subtitle": "Southampton",
+      "description": "Goalkeeper signed from Southampton",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "rob-edwards-2004",
+      "label": "Rob Edwards",
+      "year": 2004,
+      "subtitle": "Aston Villa",
+      "description": "Centre-Back signed from Aston Villa",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "seyi-olofinjana-2004",
+      "label": "Seyi Olofinjana",
+      "year": 2004,
+      "subtitle": "Brann",
+      "description": "Central Midfield signed from Brann",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "darren-anderton-2005",
+      "label": "Darren Anderton",
+      "year": 2005,
+      "subtitle": "Birmingham",
+      "description": "Right Midfield signed from Birmingham",
+      "popularity": 45,
+      "tags": [
+        "Right Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "g-bor-gyepes-2005",
+      "label": "Gábor Gyepes",
+      "year": 2005,
+      "subtitle": "Ferencváros",
+      "description": "Centre-Back signed from Ferencváros",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jackie-mcnamara-2005",
+      "label": "Jackie McNamara",
+      "year": 2005,
+      "subtitle": "Celtic",
+      "description": "Right-Back signed from Celtic",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "leon-clarke-2005",
+      "label": "Leon Clarke",
+      "year": 2005,
+      "subtitle": "Plymouth",
+      "description": "Centre-Forward signed from Plymouth",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "mo-ross-2005",
+      "label": "Mo Ross",
+      "year": 2005,
+      "subtitle": "Sheff Wed",
+      "description": "Right-Back signed from Sheff Wed",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "rohan-ricketts-2005",
+      "label": "Rohan Ricketts",
+      "year": 2005,
+      "subtitle": "Spurs",
+      "description": "Attacking Midfield signed from Spurs",
+      "popularity": 45,
+      "tags": [
+        "Attacking Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "charlie-mulgrew-2006",
+      "label": "Charlie Mulgrew",
+      "year": 2006,
+      "subtitle": "Celtic",
+      "description": "Centre-Back signed from Celtic",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "darren-potter-2006",
+      "label": "Darren Potter",
+      "year": 2006,
+      "subtitle": "Liverpool",
+      "description": "Central Midfield signed from Liverpool",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "d-nes-r-sa-2006",
+      "label": "Dénes Rósa",
+      "year": 2006,
+      "subtitle": "Ferencváros",
+      "description": "Right Midfield signed from Ferencváros",
+      "popularity": 45,
+      "tags": [
+        "Right Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "gary-breen-2006",
+      "label": "Gary Breen",
+      "year": 2006,
+      "subtitle": "Sunderland",
+      "description": "Centre-Back signed from Sunderland",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jamie-clapham-2006",
+      "label": "Jamie Clapham",
+      "year": 2006,
+      "subtitle": "Birmingham",
+      "description": "Left-Back signed from Birmingham",
+      "popularity": 45,
+      "tags": [
+        "Left-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jay-bothroyd-2006",
+      "label": "Jay Bothroyd",
+      "year": 2006,
+      "subtitle": "Charlton",
+      "description": "Centre-Forward signed from Charlton",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jemal-johnson-2006",
+      "label": "Jemal Johnson",
+      "year": 2006,
+      "subtitle": "Blackburn",
+      "description": "Left Winger signed from Blackburn",
+      "popularity": 45,
+      "tags": [
+        "Left Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "karl-henry-2006",
+      "label": "Karl Henry",
+      "year": 2006,
+      "subtitle": "Stoke City",
+      "description": "Defensive Midfield signed from Stoke City",
+      "popularity": 45,
+      "tags": [
+        "Defensive Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "leon-clarke-2006",
+      "label": "Leon Clarke",
+      "year": 2006,
+      "subtitle": "QPR",
+      "description": "Centre-Forward signed from QPR",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "neill-collins-2006",
+      "label": "Neill Collins",
+      "year": 2006,
+      "subtitle": "Sunderland",
+      "description": "Centre-Back signed from Sunderland",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "paul-harrison-2006",
+      "label": "Paul Harrison",
+      "year": 2006,
+      "subtitle": "Accrington",
+      "description": "Goalkeeper signed from Accrington",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "tomasz-frankowski-2006",
+      "label": "Tomasz Frankowski",
+      "year": 2006,
+      "subtitle": "Elche CF",
+      "description": "Centre-Forward signed from Elche CF",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "andy-keogh-2007",
+      "label": "Andy Keogh",
+      "year": 2007,
+      "subtitle": "Scunthorpe Utd.",
+      "description": "Centre-Forward signed from Scunthorpe Utd.",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "darren-ward-2007",
+      "label": "Darren Ward",
+      "year": 2007,
+      "subtitle": "Crystal Palace",
+      "description": "Centre-Back signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "freddy-eastwood-2007",
+      "label": "Freddy Eastwood",
+      "year": 2007,
+      "subtitle": "Southend United",
+      "description": "Centre-Forward signed from Southend United",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "kevin-foley-2007",
+      "label": "Kevin Foley",
+      "year": 2007,
+      "subtitle": "Luton",
+      "description": "Right-Back signed from Luton",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "matt-jarvis-2007",
+      "label": "Matt Jarvis",
+      "year": 2007,
+      "subtitle": "Gillingham FC",
+      "description": "Left Winger signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [
+        "Left Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "michael-gray-2007",
+      "label": "Michael Gray",
+      "year": 2007,
+      "subtitle": "Blackburn",
+      "description": "Left-Back signed from Blackburn",
+      "popularity": 45,
+      "tags": [
+        "Left-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "michael-kightly-2007",
+      "label": "Michael Kightly",
+      "year": 2007,
+      "subtitle": "Grays Athletic FC",
+      "description": "Left Winger signed from Grays Athletic FC",
+      "popularity": 45,
+      "tags": [
+        "Left Winger",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "michael-mcindoe-2007",
+      "label": "Michael McIndoe",
+      "year": 2007,
+      "subtitle": "Barnsley FC",
+      "description": "Left Winger signed from Barnsley FC",
+      "popularity": 45,
+      "tags": [
+        "Left Winger",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "stephen-elliott-2007",
+      "label": "Stephen Elliott",
+      "year": 2007,
+      "subtitle": "Sunderland",
+      "description": "Centre-Forward signed from Sunderland",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "stephen-ward-2007",
+      "label": "Stephen Ward",
+      "year": 2007,
+      "subtitle": "Bohemians",
+      "description": "Left-Back signed from Bohemians",
+      "popularity": 45,
+      "tags": [
+        "Left-Back",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "chris-iwelumo-2008",
+      "label": "Chris Iwelumo",
+      "year": 2008,
+      "subtitle": "Charlton",
+      "description": "Centre-Forward signed from Charlton",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "david-edwards-2008",
+      "label": "David Edwards",
+      "year": 2008,
+      "subtitle": "Luton",
+      "description": "Central Midfield signed from Luton",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "david-jones-2008",
+      "label": "David Jones",
+      "year": 2008,
+      "subtitle": "Derby",
+      "description": "Central Midfield signed from Derby",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "george-elokobi-2008",
+      "label": "George Elokobi",
+      "year": 2008,
+      "subtitle": "Colchester Utd.",
+      "description": "Centre-Back signed from Colchester Utd.",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "george-friend-2008",
+      "label": "George Friend",
+      "year": 2008,
+      "subtitle": "Exeter City",
+      "description": "Left-Back signed from Exeter City",
+      "popularity": 45,
+      "tags": [
+        "Left-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jason-shackell-2008",
+      "label": "Jason Shackell",
+      "year": 2008,
+      "subtitle": "Norwich",
+      "description": "Centre-Back signed from Norwich",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "matt-hill-2008",
+      "label": "Matt Hill",
+      "year": 2008,
+      "subtitle": "Preston",
+      "description": "Left-Back signed from Preston",
+      "popularity": 45,
+      "tags": [
+        "Left-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "richard-stearman-2008",
+      "label": "Richard Stearman",
+      "year": 2008,
+      "subtitle": "Leicester",
+      "description": "Centre-Back signed from Leicester",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "sam-vokes-2008",
+      "label": "Sam Vokes",
+      "year": 2008,
+      "subtitle": "Bournemouth",
+      "description": "Centre-Forward signed from Bournemouth",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "sylvan-ebanks-blake-2008",
+      "label": "Sylvan Ebanks-Blake",
+      "year": 2008,
+      "subtitle": "Plymouth",
+      "description": "Centre-Forward signed from Plymouth",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "andrew-surman-2009",
+      "label": "Andrew Surman",
+      "year": 2009,
+      "subtitle": "Southampton",
+      "description": "Central Midfield signed from Southampton",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "christophe-berra-2009",
+      "label": "Christophe Berra",
+      "year": 2009,
+      "subtitle": "Heart of Midl.",
+      "description": "Centre-Back signed from Heart of Midl.",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "greg-halford-2009",
+      "label": "Greg Halford",
+      "year": 2009,
+      "subtitle": "Sunderland",
+      "description": "Centre-Back signed from Sunderland",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "kevin-doyle-2009",
+      "label": "Kevin Doyle",
+      "year": 2009,
+      "subtitle": "Reading",
+      "description": "Centre-Forward signed from Reading",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "marcus-hahnemann-2009",
+      "label": "Marcus Hahnemann",
+      "year": 2009,
+      "subtitle": "Reading",
+      "description": "Goalkeeper signed from Reading",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "nenad-milijas-2009",
+      "label": "Nenad Milijas",
+      "year": 2009,
+      "subtitle": "Red Star",
+      "description": "Central Midfield signed from Red Star",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "ronald-zubar-2009",
+      "label": "Ronald Zubar",
+      "year": 2009,
+      "subtitle": "Marseille",
+      "description": "Centre-Back signed from Marseille",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "stefan-maierhofer-2009",
+      "label": "Stefan Maierhofer",
+      "year": 2009,
+      "subtitle": "Rapid Vienna",
+      "description": "Centre-Forward signed from Rapid Vienna",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "aaron-mccarey-2010",
+      "label": "Aaron McCarey",
+      "year": 2010,
+      "subtitle": "Monaghan United",
+      "description": "Goalkeeper signed from Monaghan United",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "adl-ne-gu-dioura-2010",
+      "label": "Adlène Guédioura",
+      "year": 2010,
+      "subtitle": "RSC Charleroi",
+      "description": "Central Midfield signed from RSC Charleroi",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jake-cassidy-2010",
+      "label": "Jake Cassidy",
+      "year": 2010,
+      "subtitle": "Airbus UK",
+      "description": "Centre-Forward signed from Airbus UK",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jelle-van-damme-2010",
+      "label": "Jelle Van Damme",
+      "year": 2010,
+      "subtitle": "RSC Anderlecht",
+      "description": "Centre-Back signed from RSC Anderlecht",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "matt-doherty-2010",
+      "label": "Matt Doherty",
+      "year": 2010,
+      "subtitle": "Bohemians",
+      "description": "Right-Back signed from Bohemians",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "stephen-hunt-2010",
+      "label": "Stephen Hunt",
+      "year": 2010,
+      "subtitle": "Hull City",
+      "description": "Left Midfield signed from Hull City",
+      "popularity": 45,
+      "tags": [
+        "Left Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "steven-fletcher-2010",
+      "label": "Steven Fletcher",
+      "year": 2010,
+      "subtitle": "Burnley",
+      "description": "Centre-Forward signed from Burnley",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "steven-mouyokolo-2010",
+      "label": "Steven Mouyokolo",
+      "year": 2010,
+      "subtitle": "Hull City",
+      "description": "Centre-Back signed from Hull City",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "adam-hammill-2011",
+      "label": "Adam Hammill",
+      "year": 2011,
+      "subtitle": "Barnsley FC",
+      "description": "Right Winger signed from Barnsley FC",
+      "popularity": 45,
+      "tags": [
+        "Right Winger",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "dorus-de-vries-2011",
+      "label": "Dorus de Vries",
+      "year": 2011,
+      "subtitle": "Swansea",
+      "description": "Goalkeeper signed from Swansea",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jamie-o-hara-2011",
+      "label": "Jamie O'Hara",
+      "year": 2011,
+      "subtitle": "Spurs",
+      "description": "Central Midfield signed from Spurs",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "leigh-griffiths-2011",
+      "label": "Leigh Griffiths",
+      "year": 2011,
+      "subtitle": "Dundee FC",
+      "description": "Centre-Forward signed from Dundee FC",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "roger-johnson-2011",
+      "label": "Roger Johnson",
+      "year": 2011,
+      "subtitle": "Birmingham",
+      "description": "Centre-Back signed from Birmingham",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "bakary-sako-2012",
+      "label": "Bakary Sako",
+      "year": 2012,
+      "subtitle": "Saint-Étienne",
+      "description": "Left Winger signed from Saint-Étienne",
+      "popularity": 45,
+      "tags": [
+        "Left Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "bj-rn-sigurdarson-2012",
+      "label": "Björn Sigurdarson",
+      "year": 2012,
+      "subtitle": "Lillestrøm",
+      "description": "Centre-Forward signed from Lillestrøm",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "eggert-gunnth-r-j-nsson-2012",
+      "label": "Eggert Gunnthór Jónsson",
+      "year": 2012,
+      "subtitle": "Heart of Midl.",
+      "description": "Defensive Midfield signed from Heart of Midl.",
+      "popularity": 45,
+      "tags": [
+        "Defensive Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "frank-nouble-2012",
+      "label": "Frank Nouble",
+      "year": 2012,
+      "subtitle": "West Ham",
+      "description": "Centre-Forward signed from West Ham",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "georg-margreitter-2012",
+      "label": "Georg Margreitter",
+      "year": 2012,
+      "subtitle": "Austria Vienna",
+      "description": "Centre-Back signed from Austria Vienna",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jamie-tank-2012",
+      "label": "Jamie Tank",
+      "year": 2012,
+      "subtitle": "Walsall",
+      "description": "Centre-Back signed from Walsall",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "razak-boukari-2012",
+      "label": "Razak Boukari",
+      "year": 2012,
+      "subtitle": "Stade Rennais",
+      "description": "Right Winger signed from Stade Rennais",
+      "popularity": 45,
+      "tags": [
+        "Right Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "lee-evans-2013",
+      "label": "Lee Evans",
+      "year": 2013,
+      "subtitle": "Newport County",
+      "description": "Central Midfield signed from Newport County",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "tongo-doumbia-2013",
+      "label": "Tongo Doumbia",
+      "year": 2013,
+      "subtitle": "Stade Rennais",
+      "description": "Defensive Midfield signed from Stade Rennais",
+      "popularity": 45,
+      "tags": [
+        "Defensive Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "george-saville-2014",
+      "label": "George Saville",
+      "year": 2014,
+      "subtitle": "Chelsea U21",
+      "description": "Central Midfield signed from Chelsea U21",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "rajiv-van-la-parra-2014",
+      "label": "Rajiv van La Parra",
+      "year": 2014,
+      "subtitle": "Heerenveen",
+      "description": "Left Winger signed from Heerenveen",
+      "popularity": 45,
+      "tags": [
+        "Left Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "tommy-rowe-2014",
+      "label": "Tommy Rowe",
+      "year": 2014,
+      "subtitle": "Peterborough",
+      "description": "Left Midfield signed from Peterborough",
+      "popularity": 45,
+      "tags": [
+        "Left Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "benik-afobe-2015",
+      "label": "Benik Afobe",
+      "year": 2015,
+      "subtitle": "Arsenal U21",
+      "description": "Centre-Forward signed from Arsenal U21",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "conor-coady-2015",
+      "label": "Conor Coady",
+      "year": 2015,
+      "subtitle": "Huddersfield",
+      "description": "Centre-Back signed from Huddersfield",
+      "popularity": 88,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jed-wallace-2015",
+      "label": "Jed Wallace",
+      "year": 2015,
+      "subtitle": "Portsmouth",
+      "description": "Right Winger signed from Portsmouth",
+      "popularity": 45,
+      "tags": [
+        "Right Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jordan-graham-2015",
+      "label": "Jordan Graham",
+      "year": 2015,
+      "subtitle": "Aston Villa U21",
+      "description": "Right Winger signed from Aston Villa U21",
+      "popularity": 45,
+      "tags": [
+        "Right Winger",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "nathan-byrne-2015",
+      "label": "Nathan Byrne",
+      "year": 2015,
+      "subtitle": "Swindon Town",
+      "description": "Right-Back signed from Swindon Town",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "sylvain-deslandes-2015",
+      "label": "Sylvain Deslandes",
+      "year": 2015,
+      "subtitle": "SM Caen B",
+      "description": "Centre-Back signed from SM Caen B",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "aaron-collins-2016",
+      "label": "Aaron Collins",
+      "year": 2016,
+      "subtitle": "Newport County",
+      "description": "Centre-Forward signed from Newport County",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "andy-lonergan-2016",
+      "label": "Andy Lonergan",
+      "year": 2016,
+      "subtitle": "Fulham",
+      "description": "Goalkeeper signed from Fulham",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "ivan-cavaleiro-2016",
+      "label": "Ivan Cavaleiro",
+      "year": 2016,
+      "subtitle": "Monaco",
+      "description": "Left Winger signed from Monaco",
+      "popularity": 45,
+      "tags": [
+        "Left Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jack-ruddy-2016",
+      "label": "Jack Ruddy",
+      "year": 2016,
+      "subtitle": "Bury",
+      "description": "Goalkeeper signed from Bury",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "joe-mason-2016",
+      "label": "Joe Mason",
+      "year": 2016,
+      "subtitle": "Cardiff",
+      "description": "Centre-Forward signed from Cardiff",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "j-n-dadi-b-dvarsson-2016",
+      "label": "Jón Dadi Bödvarsson",
+      "year": 2016,
+      "subtitle": "1.FC K'lautern",
+      "description": "Centre-Forward signed from 1.FC K'lautern",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "michal-zyro-2016",
+      "label": "Michal Zyro",
+      "year": 2016,
+      "subtitle": "Legia Warszawa",
+      "description": "Centre-Forward signed from Legia Warszawa",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "mike-williamson-2016",
+      "label": "Mike Williamson",
+      "year": 2016,
+      "subtitle": "Newcastle",
+      "description": "Centre-Back signed from Newcastle",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "paul-gladon-2016",
+      "label": "Paul Gladon",
+      "year": 2016,
+      "subtitle": "Heracles Almelo",
+      "description": "Centre-Forward signed from Heracles Almelo",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "prince-oniangu-2016",
+      "label": "Prince Oniangué",
+      "year": 2016,
+      "subtitle": "Stade Reims",
+      "description": "Defensive Midfield signed from Stade Reims",
+      "popularity": 45,
+      "tags": [
+        "Defensive Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "romain-sa-ss-2016",
+      "label": "Romain Saïss",
+      "year": 2016,
+      "subtitle": "Angers SCO",
+      "description": "Centre-Back signed from Angers SCO",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "s-lvio-2016",
+      "label": "Sílvio",
+      "year": 2016,
+      "subtitle": "Atlético Madrid",
+      "description": "Right-Back signed from Atlético Madrid",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "barry-douglas-2017",
+      "label": "Barry Douglas",
+      "year": 2017,
+      "subtitle": "Konyaspor",
+      "description": "Left-Back signed from Konyaspor",
+      "popularity": 45,
+      "tags": [
+        "Left-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "ben-marshall-2017",
+      "label": "Ben Marshall",
+      "year": 2017,
+      "subtitle": "Blackburn",
+      "description": "Right Midfield signed from Blackburn",
+      "popularity": 45,
+      "tags": [
+        "Right Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "duckens-nazon-2017",
+      "label": "Duckens Nazon",
+      "year": 2017,
+      "subtitle": "Kerala Blasters",
+      "description": "Centre-Forward signed from Kerala Blasters",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "h-lder-costa-2017",
+      "label": "Hélder Costa",
+      "year": 2017,
+      "subtitle": "Benfica",
+      "description": "Right Winger signed from Benfica",
+      "popularity": 45,
+      "tags": [
+        "Right Winger",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "john-ruddy-2017",
+      "label": "John Ruddy",
+      "year": 2017,
+      "subtitle": "Norwich",
+      "description": "Goalkeeper signed from Norwich",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "ming-yang-yang-2017",
+      "label": "Ming-Yang Yang",
+      "year": 2017,
+      "subtitle": "FC Winterthur",
+      "description": "Defensive Midfield signed from FC Winterthur",
+      "popularity": 45,
+      "tags": [
+        "Defensive Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "phil-ofosu-ayeh-2017",
+      "label": "Phil Ofosu-Ayeh",
+      "year": 2017,
+      "subtitle": "E. Braunschweig",
+      "description": "Right-Back signed from E. Braunschweig",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "roderick-miranda-2017",
+      "label": "Roderick Miranda",
+      "year": 2017,
+      "subtitle": "Rio Ave FC",
+      "description": "Centre-Back signed from Rio Ave FC",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "r-ben-neves-2017",
+      "label": "Rúben Neves",
+      "year": 2017,
+      "subtitle": "FC Porto",
+      "description": "Defensive Midfield signed from FC Porto",
+      "popularity": 100,
+      "tags": [
+        "Defensive Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "ryan-bennett-2017",
+      "label": "Ryan Bennett",
+      "year": 2017,
+      "subtitle": "Norwich",
+      "description": "Centre-Back signed from Norwich",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "will-norris-2017",
+      "label": "Will Norris",
+      "year": 2017,
+      "subtitle": "Cambridge Utd.",
+      "description": "Goalkeeper signed from Cambridge Utd.",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "adama-traor-2018",
+      "label": "Adama Traoré",
+      "year": 2018,
+      "subtitle": "Middlesbrough",
+      "description": "Right Winger signed from Middlesbrough",
+      "popularity": 88,
+      "tags": [
+        "Right Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "ben-stevenson-2018",
+      "label": "Ben Stevenson",
+      "year": 2018,
+      "subtitle": "Coventry",
+      "description": "Central Midfield signed from Coventry",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "benik-afobe-2018",
+      "label": "Benik Afobe",
+      "year": 2018,
+      "subtitle": "Bournemouth",
+      "description": "Centre-Forward signed from Bournemouth",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "diogo-jota-2018",
+      "label": "Diogo Jota",
+      "year": 2018,
+      "subtitle": "Atlético Madrid",
+      "description": "Left Winger signed from Atlético Madrid",
+      "popularity": 95,
+      "tags": [
+        "Left Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jo-o-moutinho-2018",
+      "label": "João Moutinho",
+      "year": 2018,
+      "subtitle": "Monaco",
+      "description": "Central Midfield signed from Monaco",
+      "popularity": 95,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "l-o-bonatini-2018",
+      "label": "Léo Bonatini",
+      "year": 2018,
+      "subtitle": "Al-Hilal SFC",
+      "description": "Centre-Forward signed from Al-Hilal SFC",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "max-kilman-2018",
+      "label": "Max Kilman",
+      "year": 2018,
+      "subtitle": "Maidenhead Utd.",
+      "description": "Centre-Back signed from Maidenhead Utd.",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "rafa-mir-2018",
+      "label": "Rafa Mir",
+      "year": 2018,
+      "subtitle": "Valencia B",
+      "description": "Centre-Forward signed from Valencia B",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "r-ben-vinagre-2018",
+      "label": "Rúben Vinagre",
+      "year": 2018,
+      "subtitle": "Monaco",
+      "description": "Left-Back signed from Monaco",
+      "popularity": 45,
+      "tags": [
+        "Left-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "rui-patr-cio-2018",
+      "label": "Rui Patrício",
+      "year": 2018,
+      "subtitle": "Sporting CP",
+      "description": "Goalkeeper signed from Sporting CP",
+      "popularity": 88,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "willy-boly-2018",
+      "label": "Willy Boly",
+      "year": 2018,
+      "subtitle": "FC Porto",
+      "description": "Centre-Back signed from FC Porto",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "bruno-jord-o-2019",
+      "label": "Bruno Jordão",
+      "year": 2019,
+      "subtitle": "Lazio",
+      "description": "Central Midfield signed from Lazio",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jonny-otto-2019",
+      "label": "Jonny Otto",
+      "year": 2019,
+      "subtitle": "Atlético Madrid",
+      "description": "Left-Back signed from Atlético Madrid",
+      "popularity": 45,
+      "tags": [
+        "Left-Back",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "leander-dendoncker-2019",
+      "label": "Leander Dendoncker",
+      "year": 2019,
+      "subtitle": "RSC Anderlecht",
+      "description": "Defensive Midfield signed from RSC Anderlecht",
+      "popularity": 45,
+      "tags": [
+        "Defensive Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "patrick-cutrone-2019",
+      "label": "Patrick Cutrone",
+      "year": 2019,
+      "subtitle": "AC Milan",
+      "description": "Centre-Forward signed from AC Milan",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "pedro-neto-2019",
+      "label": "Pedro Neto",
+      "year": 2019,
+      "subtitle": "Lazio",
+      "description": "Left Winger signed from Lazio",
+      "popularity": 88,
+      "tags": [
+        "Left Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "ra-l-jim-nez-2019",
+      "label": "Raúl Jiménez",
+      "year": 2019,
+      "subtitle": "Benfica",
+      "description": "Centre-Forward signed from Benfica",
+      "popularity": 95,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "renat-dadashov-2019",
+      "label": "Renat Dadashov",
+      "year": 2019,
+      "subtitle": "Estoril Praia",
+      "description": "Centre-Forward signed from Estoril Praia",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "daniel-podence-2020",
+      "label": "Daniel Podence",
+      "year": 2020,
+      "subtitle": "Olympiacos",
+      "description": "Right Winger signed from Olympiacos",
+      "popularity": 45,
+      "tags": [
+        "Right Winger",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "f-bio-silva-2020",
+      "label": "Fábio Silva",
+      "year": 2020,
+      "subtitle": "FC Porto",
+      "description": "Centre-Forward signed from FC Porto",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "ki-jana-hoever-2020",
+      "label": "Ki-Jana Hoever",
+      "year": 2020,
+      "subtitle": "Liverpool U23",
+      "description": "Right-Back signed from Liverpool U23",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "leonardo-campana-2020",
+      "label": "Leonardo Campana",
+      "year": 2020,
+      "subtitle": "Barcelona SC",
+      "description": "Centre-Forward signed from Barcelona SC",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "mar-al-2020",
+      "label": "Marçal",
+      "year": 2020,
+      "subtitle": "Olympique Lyon",
+      "description": "Left-Back signed from Olympique Lyon",
+      "popularity": 45,
+      "tags": [
+        "Left-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "matija-sarkic-2020",
+      "label": "Matija Sarkic",
+      "year": 2020,
+      "subtitle": "Aston Villa U21",
+      "description": "Goalkeeper signed from Aston Villa U21",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "n-lson-semedo-2020",
+      "label": "Nélson Semedo",
+      "year": 2020,
+      "subtitle": "Barcelona",
+      "description": "Right-Back signed from Barcelona",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "toti-2020",
+      "label": "Toti",
+      "year": 2020,
+      "subtitle": "Estoril Praia",
+      "description": "Centre-Back signed from Estoril Praia",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "bendeg-z-bolla-2021",
+      "label": "Bendegúz Bolla",
+      "year": 2021,
+      "subtitle": "Fehérvár",
+      "description": "Right-Back signed from Fehérvár",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jos-s-2021",
+      "label": "José Sá",
+      "year": 2021,
+      "subtitle": "Olympiacos",
+      "description": "Goalkeeper signed from Olympiacos",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "louie-moulden-2021",
+      "label": "Louie Moulden",
+      "year": 2021,
+      "subtitle": "Man City U23",
+      "description": "Goalkeeper signed from Man City U23",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "rayan-a-t-nouri-2021",
+      "label": "Rayan Aït-Nouri",
+      "year": 2021,
+      "subtitle": "Angers SCO",
+      "description": "Left-Back signed from Angers SCO",
+      "popularity": 45,
+      "tags": [
+        "Left-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "yerson-mosquera-2021",
+      "label": "Yerson Mosquera",
+      "year": 2021,
+      "subtitle": "Atl. Nacional",
+      "description": "Centre-Back signed from Atl. Nacional",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "chiquinho-2022",
+      "label": "Chiquinho",
+      "year": 2022,
+      "subtitle": "Estoril Praia",
+      "description": "Left Winger signed from Estoril Praia",
+      "popularity": 45,
+      "tags": [
+        "Left Winger",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "gon-alo-guedes-2022",
+      "label": "Gonçalo Guedes",
+      "year": 2022,
+      "subtitle": "Valencia",
+      "description": "Left Winger signed from Valencia",
+      "popularity": 45,
+      "tags": [
+        "Left Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "hayao-kawabe-2022",
+      "label": "Hayao Kawabe",
+      "year": 2022,
+      "subtitle": "Grasshoppers",
+      "description": "Central Midfield signed from Grasshoppers",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "hee-chan-hwang-2022",
+      "label": "Hee-chan Hwang",
+      "year": 2022,
+      "subtitle": "RB Leipzig",
+      "description": "Centre-Forward signed from RB Leipzig",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "matheus-nunes-2022",
+      "label": "Matheus Nunes",
+      "year": 2022,
+      "subtitle": "Sporting CP",
+      "description": "Central Midfield signed from Sporting CP",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "nathan-collins-2022",
+      "label": "Nathan Collins",
+      "year": 2022,
+      "subtitle": "Burnley",
+      "description": "Centre-Back signed from Burnley",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "sang-bin-jeong-2022",
+      "label": "Sang-bin Jeong",
+      "year": 2022,
+      "subtitle": "Suwon Bluewings",
+      "description": "Right Winger signed from Suwon Bluewings",
+      "popularity": 45,
+      "tags": [
+        "Right Winger",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "sasa-kalajdzic-2022",
+      "label": "Sasa Kalajdzic",
+      "year": 2022,
+      "subtitle": "VfB Stuttgart",
+      "description": "Centre-Forward signed from VfB Stuttgart",
+      "popularity": 45,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "boubacar-traor-2023",
+      "label": "Boubacar Traoré",
+      "year": 2023,
+      "subtitle": "FC Metz",
+      "description": "Defensive Midfield signed from FC Metz",
+      "popularity": 75,
+      "tags": [
+        "Defensive Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "craig-dawson-2023",
+      "label": "Craig Dawson",
+      "year": 2023,
+      "subtitle": "West Ham",
+      "description": "Centre-Back signed from West Ham",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "daniel-bentley-2023",
+      "label": "Daniel Bentley",
+      "year": 2023,
+      "subtitle": "Bristol City",
+      "description": "Goalkeeper signed from Bristol City",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "enso-gonz-lez-2023",
+      "label": "Enso González",
+      "year": 2023,
+      "subtitle": "Club Libertad Asunción",
+      "description": "Left Winger signed from Club Libertad Asunción",
+      "popularity": 45,
+      "tags": [
+        "Left Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jean-ricner-bellegarde-2023",
+      "label": "Jean-Ricner Bellegarde",
+      "year": 2023,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Central Midfield signed from RC Strasbourg Alsace",
+      "popularity": 75,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jo-o-gomes-2023",
+      "label": "João Gomes",
+      "year": 2023,
+      "subtitle": "Flamengo",
+      "description": "Central Midfield signed from Flamengo",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "mario-lemina-2023",
+      "label": "Mario Lemina",
+      "year": 2023,
+      "subtitle": "OGC Nice",
+      "description": "Defensive Midfield signed from OGC Nice",
+      "popularity": 45,
+      "tags": [
+        "Defensive Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "matheus-cunha-2023",
+      "label": "Matheus Cunha",
+      "year": 2023,
+      "subtitle": "Atlético de Madrid",
+      "description": "Second Striker signed from Atlético de Madrid",
+      "popularity": 75,
+      "tags": [
+        "Second Striker",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "matt-doherty-2023",
+      "label": "Matt Doherty",
+      "year": 2023,
+      "subtitle": "Atlético de Madrid",
+      "description": "Right-Back signed from Atlético de Madrid",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "pablo-sarabia-2023",
+      "label": "Pablo Sarabia",
+      "year": 2023,
+      "subtitle": "Paris SG",
+      "description": "Right Winger signed from Paris SG",
+      "popularity": 45,
+      "tags": [
+        "Right Winger",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "santiago-bueno-2023",
+      "label": "Santiago Bueno",
+      "year": 2023,
+      "subtitle": "Girona FC",
+      "description": "Centre-Back signed from Girona FC",
+      "popularity": 75,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "tom-king-2023",
+      "label": "Tom King",
+      "year": 2023,
+      "subtitle": "Northampton Town",
+      "description": "Goalkeeper signed from Northampton Town",
+      "popularity": 45,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "andr-2024",
+      "label": "André",
+      "year": 2024,
+      "subtitle": "Fluminense Football Club",
+      "description": "Defensive Midfield signed from Fluminense Football Club",
+      "popularity": 75,
+      "tags": [
+        "Defensive Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "bastien-meupiyou-2024",
+      "label": "Bastien Meupiyou",
+      "year": 2024,
+      "subtitle": "FC Nantes",
+      "description": "Centre-Back signed from FC Nantes",
+      "popularity": 45,
+      "tags": [
+        "Centre-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "pedro-lima-2024",
+      "label": "Pedro Lima",
+      "year": 2024,
+      "subtitle": "Sport Club do Recife",
+      "description": "Right-Back signed from Sport Club do Recife",
+      "popularity": 45,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "rodrigo-gomes-2024",
+      "label": "Rodrigo Gomes",
+      "year": 2024,
+      "subtitle": "SC Braga",
+      "description": "Left Midfield signed from SC Braga",
+      "popularity": 75,
+      "tags": [
+        "Left Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "sam-johnstone-2024",
+      "label": "Sam Johnstone",
+      "year": 2024,
+      "subtitle": "Crystal Palace",
+      "description": "Goalkeeper signed from Crystal Palace",
+      "popularity": 75,
+      "tags": [
+        "Goalkeeper",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "tommy-doyle-2024",
+      "label": "Tommy Doyle",
+      "year": 2024,
+      "subtitle": "Manchester City",
+      "description": "Central Midfield signed from Manchester City",
+      "popularity": 45,
+      "tags": [
+        "Central Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "david-m-ller-wolfe-2025",
+      "label": "David Møller Wolfe",
+      "year": 2025,
+      "subtitle": "AZ Alkmaar",
+      "description": "Left-Back signed from AZ Alkmaar",
+      "popularity": 75,
+      "tags": [
+        "Left-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "emmanuel-agbadou-2025",
+      "label": "Emmanuel Agbadou",
+      "year": 2025,
+      "subtitle": "Stade Reims",
+      "description": "Centre-Back signed from Stade Reims",
+      "popularity": 75,
+      "tags": [
+        "Centre-Back",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "fer-l-pez-2025",
+      "label": "Fer López",
+      "year": 2025,
+      "subtitle": "Celta de Vigo",
+      "description": "Attacking Midfield signed from Celta de Vigo",
+      "popularity": 75,
+      "tags": [
+        "Attacking Midfield",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jackson-tchatchoua-2025",
+      "label": "Jackson Tchatchoua",
+      "year": 2025,
+      "subtitle": "Hellas Verona",
+      "description": "Right-Back signed from Hellas Verona",
+      "popularity": 75,
+      "tags": [
+        "Right-Back",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "jhon-arias-2025",
+      "label": "Jhon Arias",
+      "year": 2025,
+      "subtitle": "Fluminense Football Club",
+      "description": "Right Winger signed from Fluminense Football Club",
+      "popularity": 75,
+      "tags": [
+        "Right Winger",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "j-rgen-strand-larsen-2025",
+      "label": "Jørgen Strand Larsen",
+      "year": 2025,
+      "subtitle": "Celta de Vigo",
+      "description": "Centre-Forward signed from Celta de Vigo",
+      "popularity": 75,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    },
+    {
+      "id": "marshall-munetsi-2025",
+      "label": "Marshall Munetsi",
+      "year": 2025,
+      "subtitle": "Stade Reims",
+      "description": "Central Midfield signed from Stade Reims",
+      "popularity": 75,
+      "tags": [
+        "Central Midfield",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "nasser-djiga-2025",
+      "label": "Nasser Djiga",
+      "year": 2025,
+      "subtitle": "Red Star Belgrade",
+      "description": "Centre-Back signed from Red Star Belgrade",
+      "popularity": 75,
+      "tags": [
+        "Centre-Back",
+        "winter"
+      ],
+      "source": null
+    },
+    {
+      "id": "tolu-arokodare-2025",
+      "label": "Tolu Arokodare",
+      "year": 2025,
+      "subtitle": "KRC Genk",
+      "description": "Centre-Forward signed from KRC Genk",
+      "popularity": 75,
+      "tags": [
+        "Centre-Forward",
+        "summer"
+      ],
+      "source": null
+    }
+  ]
+}

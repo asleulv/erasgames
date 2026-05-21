@@ -1,0 +1,26 @@
+services:
+  db:
+    image: mysql:8.0
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'erasgames'
+      MYSQL_USER: 'erasgames_user'
+      MYSQL_PASSWORD: 'choose_a_strong_password'
+      MYSQL_ROOT_PASSWORD: 'choose_a_strong_root_password'
+      MYSQL_ALLOW_EMPTY_PASSWORD: 'no'
+    volumes:
+      - ./mysql_data:/var/lib/mysql
+
+  web:
+    build: .
+    env_file: .env
+    restart: always
+    depends_on:
+      - db
+    networks:
+      - default
+      - web-network
+
+networks:
+  web-network:
+    external: true

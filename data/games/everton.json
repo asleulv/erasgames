@@ -1,0 +1,1996 @@
+{
+  "id": "everton",
+  "slug": "everton",
+  "title": "Everton Timeline",
+  "shortTitle": "Everton",
+  "description": "Place Everton signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/everton",
+  "theme": {
+    "primary": "#003399",
+    "secondary": "#FFFFFF",
+    "background": "#F1F5FF",
+    "text": "#000F60"
+  },
+  "share": {
+    "title": "Everton Timeline",
+    "description": "How far can you build the Everton signing timeline?",
+    "hashtags": [
+      "Everton",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Everton Timeline Quiz - Everton Signings Game",
+    "description": "Play a Everton timeline quiz. Guess whether famous Everton players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Everton quiz",
+      "Everton signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "barry-horne-1992",
+      "label": "Barry Horne",
+      "year": 1992,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "kenny-sansom-1992",
+      "label": "Kenny Sansom",
+      "year": 1992,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "paul-holmes-1992",
+      "label": "Paul Holmes",
+      "year": 1992,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "paul-rideout-1992",
+      "label": "Paul Rideout",
+      "year": 1992,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "preki-1992",
+      "label": "Preki",
+      "year": 1992,
+      "subtitle": "St. Louis Storm (indoor)",
+      "description": "Signed from St. Louis Storm (indoor)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "anders-limpar-1993",
+      "label": "Anders Limpar",
+      "year": 1993,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "brett-angell-1993",
+      "label": "Brett Angell",
+      "year": 1993,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "gary-rowett-1993",
+      "label": "Gary Rowett",
+      "year": 1993,
+      "subtitle": "Cambridge United",
+      "description": "Signed from Cambridge United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "graham-stuart-1993",
+      "label": "Graham Stuart",
+      "year": 1993,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "joe-parkinson-1993",
+      "label": "Joe Parkinson",
+      "year": 1993,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "daniel-amokachi-1994",
+      "label": "Daniel Amokachi",
+      "year": 1994,
+      "subtitle": "Club Brugge KV",
+      "description": "Signed from Club Brugge KV",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "david-burrows-1994",
+      "label": "David Burrows",
+      "year": 1994,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "earl-barrett-1994",
+      "label": "Earl Barrett",
+      "year": 1994,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "vinny-samways-1994",
+      "label": "Vinny Samways",
+      "year": 1994,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "andrey-kanchelskis-1995",
+      "label": "Andrey Kanchelskis",
+      "year": 1995,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "craig-short-1995",
+      "label": "Craig Short",
+      "year": 1995,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "john-hills-1995",
+      "label": "John Hills",
+      "year": 1995,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "marc-hottiger-1995",
+      "label": "Marc Hottiger",
+      "year": 1995,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "claus-thomsen-1996",
+      "label": "Claus Thomsen",
+      "year": 1996,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "gary-speed-1996",
+      "label": "Gary Speed",
+      "year": 1996,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "nick-barmby-1996",
+      "label": "Nick Barmby",
+      "year": 1996,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "paul-gerrard-1996",
+      "label": "Paul Gerrard",
+      "year": 1996,
+      "subtitle": "Oldham Athletic",
+      "description": "Signed from Oldham Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "slaven-bilic-1996",
+      "label": "Slaven Bilic",
+      "year": 1996,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "terry-phelan-1996",
+      "label": "Terry Phelan",
+      "year": 1996,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "carl-tiler-1997",
+      "label": "Carl Tiler",
+      "year": 1997,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "danny-williamson-1997",
+      "label": "Danny Williamson",
+      "year": 1997,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "don-hutchison-1997",
+      "label": "Don Hutchison",
+      "year": 1997,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "gareth-farrelly-1997",
+      "label": "Gareth Farrelly",
+      "year": 1997,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "john-o-kane-1997",
+      "label": "John O'Kane",
+      "year": 1997,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "john-oster-1997",
+      "label": "John Oster",
+      "year": 1997,
+      "subtitle": "Grimsby Town",
+      "description": "Signed from Grimsby Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "john-spencer-1997",
+      "label": "John Spencer",
+      "year": 1997,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "mickael-madar-1997",
+      "label": "Mickaël Madar",
+      "year": 1997,
+      "subtitle": "Deportivo de La Coruña",
+      "description": "Signed from Deportivo de La Coruña",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "mitch-ward-1997",
+      "label": "Mitch Ward",
+      "year": 1997,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "peter-beagrie-1997",
+      "label": "Peter Beagrie",
+      "year": 1997,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "thomas-myhre-1997",
+      "label": "Thomas Myhre",
+      "year": 1997,
+      "subtitle": "Viking FK",
+      "description": "Signed from Viking FK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "tony-thomas-1997",
+      "label": "Tony Thomas",
+      "year": 1997,
+      "subtitle": "Tranmere Rovers",
+      "description": "Signed from Tranmere Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "alec-cleland-1998",
+      "label": "Alec Cleland",
+      "year": 1998,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "david-unsworth-1998",
+      "label": "David Unsworth",
+      "year": 1998,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "david-weir-1998",
+      "label": "David Weir",
+      "year": 1998,
+      "subtitle": "Heart of Midlothian FC",
+      "description": "Signed from Heart of Midlothian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "ibrahima-bakayoko-1998",
+      "label": "Ibrahima Bakayoko",
+      "year": 1998,
+      "subtitle": "Montpellier HSC",
+      "description": "Signed from Montpellier HSC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "john-collins-1998",
+      "label": "John Collins",
+      "year": 1998,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "marco-materazzi-1998",
+      "label": "Marco Materazzi",
+      "year": 1998,
+      "subtitle": "AC Perugia",
+      "description": "Signed from AC Perugia",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "olivier-dacourt-1998",
+      "label": "Olivier Dacourt",
+      "year": 1998,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "peter-degn-1998",
+      "label": "Peter Degn",
+      "year": 1998,
+      "subtitle": "Aarhus GF",
+      "description": "Signed from Aarhus GF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "richard-gough-1998",
+      "label": "Richard Gough",
+      "year": 1998,
+      "subtitle": "San Jose Clash",
+      "description": "Signed from San Jose Clash",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "scot-gemmill-1998",
+      "label": "Scot Gemmill",
+      "year": 1998,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "steve-simonsen-1998",
+      "label": "Steve Simonsen",
+      "year": 1998,
+      "subtitle": "Tranmere Rovers",
+      "description": "Signed from Tranmere Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "abel-xavier-1999",
+      "label": "Abel Xavier",
+      "year": 1999,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "joe-max-moore-1999",
+      "label": "Joe-Max Moore",
+      "year": 1999,
+      "subtitle": "New England Revolution",
+      "description": "Signed from New England Revolution",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "kevin-campbell-1999",
+      "label": "Kevin Campbell",
+      "year": 1999,
+      "subtitle": "Trabzonspor",
+      "description": "Signed from Trabzonspor",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "mark-hughes-1999",
+      "label": "Mark Hughes",
+      "year": 1999,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "mark-pembridge-1999",
+      "label": "Mark Pembridge",
+      "year": 1999,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "stephen-hughes-1999",
+      "label": "Stephen Hughes",
+      "year": 1999,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "alessandro-pistone-2000",
+      "label": "Alessandro Pistone",
+      "year": 2000,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "alex-nyarko-2000",
+      "label": "Alex Nyarko",
+      "year": 2000,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "andrew-pettinger-2000",
+      "label": "Andrew Pettinger",
+      "year": 2000,
+      "subtitle": "Scunthorpe United",
+      "description": "Signed from Scunthorpe United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "gareth-seddon-2000",
+      "label": "Gareth Seddon",
+      "year": 2000,
+      "subtitle": "Royal Air Force",
+      "description": "Signed from Royal Air Force",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "gary-naysmith-2000",
+      "label": "Gary Naysmith",
+      "year": 2000,
+      "subtitle": "Heart of Midlothian FC",
+      "description": "Signed from Heart of Midlothian FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "idan-tal-2000",
+      "label": "Idan Tal",
+      "year": 2000,
+      "subtitle": "Maccabi Petah Tikva",
+      "description": "Signed from Maccabi Petah Tikva",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "niclas-alexandersson-2000",
+      "label": "Niclas Alexandersson",
+      "year": 2000,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "paul-gascoigne-2000",
+      "label": "Paul Gascoigne",
+      "year": 2000,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "steve-watson-2000",
+      "label": "Steve Watson",
+      "year": 2000,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "thomas-gravesen-2000",
+      "label": "Thomas Gravesen",
+      "year": 2000,
+      "subtitle": "Hamburger SV",
+      "description": "Signed from Hamburger SV",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "jesper-blomqvist-2001",
+      "label": "Jesper Blomqvist",
+      "year": 2001,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "lee-carsley-2001",
+      "label": "Lee Carsley",
+      "year": 2001,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "tobias-linderoth-2001",
+      "label": "Tobias Linderoth",
+      "year": 2001,
+      "subtitle": "Stabæk Fotball",
+      "description": "Signed from Stabæk Fotball",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "tomasz-radzinski-2001",
+      "label": "Tomasz Radzinski",
+      "year": 2001,
+      "subtitle": "RSC Anderlecht",
+      "description": "Signed from RSC Anderlecht",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "david-ginola-2002",
+      "label": "David Ginola",
+      "year": 2002,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "espen-baardsen-2002",
+      "label": "Espen Baardsen",
+      "year": 2002,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "richard-wright-2002",
+      "label": "Richard Wright",
+      "year": 2002,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "tie-li-2002",
+      "label": "Tie Li",
+      "year": 2002,
+      "subtitle": "Liaoning FC",
+      "description": "Signed from Liaoning FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "iain-turner-2003",
+      "label": "Iain Turner",
+      "year": 2003,
+      "subtitle": "Stirling Albion FC",
+      "description": "Signed from Stirling Albion FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "james-mcfadden-2003",
+      "label": "James McFadden",
+      "year": 2003,
+      "subtitle": "Motherwell FC",
+      "description": "Signed from Motherwell FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "joseph-yobo-2003",
+      "label": "Joseph Yobo",
+      "year": 2003,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "kevin-kilbane-2003",
+      "label": "Kevin Kilbane",
+      "year": 2003,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "nigel-martyn-2003",
+      "label": "Nigel Martyn",
+      "year": 2003,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "eddy-bosnar-2004",
+      "label": "Eddy Bosnar",
+      "year": 2004,
+      "subtitle": "SK Sturm Graz",
+      "description": "Signed from SK Sturm Graz",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "guillaume-plessis-2004",
+      "label": "Guillaume Plessis",
+      "year": 2004,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "james-beattie-2004",
+      "label": "James Beattie",
+      "year": 2004,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "marcus-bent-2004",
+      "label": "Marcus Bent",
+      "year": 2004,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "tim-cahill-2004",
+      "label": "Tim Cahill",
+      "year": 2004,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "anderson-silva-2005",
+      "label": "Anderson Silva",
+      "year": 2005,
+      "subtitle": "Club Nacional",
+      "description": "Signed from Club Nacional",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "andy-van-der-meyde-2005",
+      "label": "Andy van der Meyde",
+      "year": 2005,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "john-ruddy-2005",
+      "label": "John Ruddy",
+      "year": 2005,
+      "subtitle": "Cambridge United",
+      "description": "Signed from Cambridge United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "mikel-arteta-2005",
+      "label": "Mikel Arteta",
+      "year": 2005,
+      "subtitle": "Real Sociedad",
+      "description": "Signed from Real Sociedad",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "nuno-valente-2005",
+      "label": "Nuno Valente",
+      "year": 2005,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "per-kroldrup-2005",
+      "label": "Per Kröldrup",
+      "year": 2005,
+      "subtitle": "Udinese Calcio",
+      "description": "Signed from Udinese Calcio",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "phil-neville-2005",
+      "label": "Phil Neville",
+      "year": 2005,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "simon-davies-2005",
+      "label": "Simon Davies",
+      "year": 2005,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "andy-johnson-2006",
+      "label": "Andy Johnson",
+      "year": 2006,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "joleon-lescott-2006",
+      "label": "Joleon Lescott",
+      "year": 2006,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "dan-gosling-2007",
+      "label": "Dan Gosling",
+      "year": 2007,
+      "subtitle": "Plymouth Argyle",
+      "description": "Signed from Plymouth Argyle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "leighton-baines-2007",
+      "label": "Leighton Baines",
+      "year": 2007,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "lukas-jutkiewicz-2007",
+      "label": "Lukas Jutkiewicz",
+      "year": 2007,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "phil-jagielka-2007",
+      "label": "Phil Jagielka",
+      "year": 2007,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "stefan-wessels-2007",
+      "label": "Stefan Wessels",
+      "year": 2007,
+      "subtitle": "1.FC Köln",
+      "description": "Signed from 1.FC Köln",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "tim-howard-2007",
+      "label": "Tim Howard",
+      "year": 2007,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "yakubu-2007",
+      "label": "Yakubu",
+      "year": 2007,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "carlo-nash-2008",
+      "label": "Carlo Nash",
+      "year": 2008,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "lars-jacobsen-2008",
+      "label": "Lars Jacobsen",
+      "year": 2008,
+      "subtitle": "1.FC Nuremberg",
+      "description": "Signed from 1.FC Nuremberg",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "louis-saha-2008",
+      "label": "Louis Saha",
+      "year": 2008,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "marouane-fellaini-2008",
+      "label": "Marouane Fellaini",
+      "year": 2008,
+      "subtitle": "Standard Liège",
+      "description": "Signed from Standard Liège",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "seamus-coleman-2008",
+      "label": "Séamus Coleman",
+      "year": 2008,
+      "subtitle": "Sligo Rovers",
+      "description": "Signed from Sligo Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "anton-peterlin-2009",
+      "label": "Anton Peterlin",
+      "year": 2009,
+      "subtitle": "Ventura County Fusion",
+      "description": "Signed from Ventura County Fusion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "diniyar-bilyaletdinov-2009",
+      "label": "Diniyar Bilyaletdinov",
+      "year": 2009,
+      "subtitle": "Lokomotiv Moskau",
+      "description": "Signed from Lokomotiv Moskau",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "john-heitinga-2009",
+      "label": "John Heitinga",
+      "year": 2009,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "sylvain-distin-2009",
+      "label": "Sylvain Distin",
+      "year": 2009,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "apostolos-vellios-2010",
+      "label": "Apostolos Vellios",
+      "year": 2010,
+      "subtitle": "Iraklis Thessaloniki",
+      "description": "Signed from Iraklis Thessaloniki",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "jan-mucha-2010",
+      "label": "Jan Mucha",
+      "year": 2010,
+      "subtitle": "Legia Warszawa",
+      "description": "Signed from Legia Warszawa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "jermaine-beckford-2010",
+      "label": "Jermaine Beckford",
+      "year": 2010,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "magaye-gueye-2010",
+      "label": "Magaye Gueye",
+      "year": 2010,
+      "subtitle": "RC Strasbourg Alsace",
+      "description": "Signed from RC Strasbourg Alsace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "darron-gibson-2011",
+      "label": "Darron Gibson",
+      "year": 2011,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "nikica-jelavic-2011",
+      "label": "Nikica Jelavic",
+      "year": 2011,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "ben-mclaughlin-2012",
+      "label": "Ben McLaughlin",
+      "year": 2012,
+      "subtitle": "Dundalk FC",
+      "description": "Signed from Dundalk FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "bryan-oviedo-2012",
+      "label": "Bryan Oviedo",
+      "year": 2012,
+      "subtitle": "FC Copenhagen",
+      "description": "Signed from FC Copenhagen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "john-stones-2012",
+      "label": "John Stones",
+      "year": 2012,
+      "subtitle": "Barnsley FC",
+      "description": "Signed from Barnsley FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "kevin-mirallas-2012",
+      "label": "Kevin Mirallas",
+      "year": 2012,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "matty-kennedy-2012",
+      "label": "Matty Kennedy",
+      "year": 2012,
+      "subtitle": "Kilmarnock FC",
+      "description": "Signed from Kilmarnock FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "steven-naismith-2012",
+      "label": "Steven Naismith",
+      "year": 2012,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "aiden-mcgeady-2013",
+      "label": "Aiden McGeady",
+      "year": 2013,
+      "subtitle": "Spartak Moscow",
+      "description": "Signed from Spartak Moscow",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "antolin-alcaraz-2013",
+      "label": "Antolín Alcaraz",
+      "year": 2013,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "arouna-kone-2013",
+      "label": "Arouna Koné",
+      "year": 2013,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "james-mccarthy-2013",
+      "label": "James McCarthy",
+      "year": 2013,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "joel-robles-2013",
+      "label": "Joel Robles",
+      "year": 2013,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "brendan-galloway-2014",
+      "label": "Brendan Galloway",
+      "year": 2014,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "gareth-barry-2014",
+      "label": "Gareth Barry",
+      "year": 2014,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "muhamed-besic-2014",
+      "label": "Muhamed Besic",
+      "year": 2014,
+      "subtitle": "Ferencvárosi TC",
+      "description": "Signed from Ferencvárosi TC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "romelu-lukaku-2014",
+      "label": "Romelu Lukaku",
+      "year": 2014,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "samuel-eto-o-2014",
+      "label": "Samuel Eto'o",
+      "year": 2014,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "aaron-lennon-2015",
+      "label": "Aaron Lennon",
+      "year": 2015,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "gerard-deulofeu-2015",
+      "label": "Gerard Deulofeu",
+      "year": 2015,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "leandro-rodriguez-2015",
+      "label": "Leandro Rodríguez",
+      "year": 2015,
+      "subtitle": "CA River Plate Montevideo",
+      "description": "Signed from CA River Plate Montevideo",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "mason-holgate-2015",
+      "label": "Mason Holgate",
+      "year": 2015,
+      "subtitle": "Barnsley FC",
+      "description": "Signed from Barnsley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "oumar-niasse-2015",
+      "label": "Oumar Niasse",
+      "year": 2015,
+      "subtitle": "Lokomotiv Moskau",
+      "description": "Signed from Lokomotiv Moskau",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "ramiro-funes-mori-2015",
+      "label": "Ramiro Funes Mori",
+      "year": 2015,
+      "subtitle": "CA River Plate",
+      "description": "Signed from CA River Plate",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "shani-tarashaj-2015",
+      "label": "Shani Tarashaj",
+      "year": 2015,
+      "subtitle": "Grasshopper Club Zurich",
+      "description": "Signed from Grasshopper Club Zurich",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "tom-cleverley-2015",
+      "label": "Tom Cleverley",
+      "year": 2015,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "ademola-lookman-2016",
+      "label": "Ademola Lookman",
+      "year": 2016,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "ashley-williams-2016",
+      "label": "Ashley Williams",
+      "year": 2016,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "dominic-calvert-lewin-2016",
+      "label": "Dominic Calvert-Lewin",
+      "year": 2016,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "maarten-stekelenburg-2016",
+      "label": "Maarten Stekelenburg",
+      "year": 2016,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "morgan-schneiderlin-2016",
+      "label": "Morgan Schneiderlin",
+      "year": 2016,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "yannick-bolasie-2016",
+      "label": "Yannick Bolasie",
+      "year": 2016,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "cenk-tosun-2017",
+      "label": "Cenk Tosun",
+      "year": 2017,
+      "subtitle": "Besiktas JK",
+      "description": "Signed from Besiktas JK",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "cuco-martina-2017",
+      "label": "Cuco Martina",
+      "year": 2017,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "davy-klaassen-2017",
+      "label": "Davy Klaassen",
+      "year": 2017,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "gylfi-sigurdsson-2017",
+      "label": "Gylfi Sigurdsson",
+      "year": 2017,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "henry-onyekuru-2017",
+      "label": "Henry Onyekuru",
+      "year": 2017,
+      "subtitle": "KAS Eupen",
+      "description": "Signed from KAS Eupen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "jordan-pickford-2017",
+      "label": "Jordan Pickford",
+      "year": 2017,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "michael-keane-2017",
+      "label": "Michael Keane",
+      "year": 2017,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "nikola-vlasic-2017",
+      "label": "Nikola Vlašić",
+      "year": 2017,
+      "subtitle": "HNK Hajduk Split",
+      "description": "Signed from HNK Hajduk Split",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "sandro-ramirez-2017",
+      "label": "Sandro Ramírez",
+      "year": 2017,
+      "subtitle": "Málaga CF",
+      "description": "Signed from Málaga CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "theo-walcott-2017",
+      "label": "Theo Walcott",
+      "year": 2017,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "wayne-rooney-2017",
+      "label": "Wayne Rooney",
+      "year": 2017,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "bernard-2018",
+      "label": "Bernard",
+      "year": 2018,
+      "subtitle": "Shakhtar Donetsk",
+      "description": "Signed from Shakhtar Donetsk",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "lucas-digne-2018",
+      "label": "Lucas Digne",
+      "year": 2018,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "richarlison-2018",
+      "label": "Richarlison",
+      "year": 2018,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "yerry-mina-2018",
+      "label": "Yerry Mina",
+      "year": 2018,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "alex-iwobi-2019",
+      "label": "Alex Iwobi",
+      "year": 2019,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "andre-gomes-2019",
+      "label": "André Gomes",
+      "year": 2019,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "fabian-delph-2019",
+      "label": "Fabian Delph",
+      "year": 2019,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "jarrad-branthwaite-2019",
+      "label": "Jarrad Branthwaite",
+      "year": 2019,
+      "subtitle": "Carlisle United",
+      "description": "Signed from Carlisle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "jean-philippe-gbamin-2019",
+      "label": "Jean-Philippe Gbamin",
+      "year": 2019,
+      "subtitle": "1.FSV Mainz 05",
+      "description": "Signed from 1.FSV Mainz 05",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "jonas-lossl-2019",
+      "label": "Jonas Lössl",
+      "year": 2019,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "moise-kean-2019",
+      "label": "Moise Kean",
+      "year": 2019,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "abdoulaye-doucoure-2020",
+      "label": "Abdoulaye Doucouré",
+      "year": 2020,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "allan-2020",
+      "label": "Allan",
+      "year": 2020,
+      "subtitle": "SSC Napoli",
+      "description": "Signed from SSC Napoli",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "ben-godfrey-2020",
+      "label": "Ben Godfrey",
+      "year": 2020,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "james-rodriguez-2020",
+      "label": "James Rodríguez",
+      "year": 2020,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "joshua-king-2020",
+      "label": "Joshua King",
+      "year": 2020,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "niels-nkounkou-2020",
+      "label": "Niels Nkounkou",
+      "year": 2020,
+      "subtitle": "Olympique de Marseille B",
+      "description": "Signed from Olympique de Marseille B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "andros-townsend-2021",
+      "label": "Andros Townsend",
+      "year": 2021,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "andy-lonergan-2021",
+      "label": "Andy Lonergan",
+      "year": 2021,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "dele-alli-2021",
+      "label": "Dele Alli",
+      "year": 2021,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "demarai-gray-2021",
+      "label": "Demarai Gray",
+      "year": 2021,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "nathan-patterson-2021",
+      "label": "Nathan Patterson",
+      "year": 2021,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "salomon-rondon-2021",
+      "label": "Salomón Rondón",
+      "year": 2021,
+      "subtitle": "Dalian Professional",
+      "description": "Signed from Dalian Professional",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "vitaliy-mykolenko-2021",
+      "label": "Vitaliy Mykolenko",
+      "year": 2021,
+      "subtitle": "Dynamo Kyiv",
+      "description": "Signed from Dynamo Kyiv",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "amadou-onana-2022",
+      "label": "Amadou Onana",
+      "year": 2022,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "dwight-mcneil-2022",
+      "label": "Dwight McNeil",
+      "year": 2022,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "james-garner-2022",
+      "label": "James Garner",
+      "year": 2022,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "james-tarkowski-2022",
+      "label": "James Tarkowski",
+      "year": 2022,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "neal-maupay-2022",
+      "label": "Neal Maupay",
+      "year": 2022,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "ashley-young-2023",
+      "label": "Ashley Young",
+      "year": 2023,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "beto-2023",
+      "label": "Beto",
+      "year": 2023,
+      "subtitle": "Udinese Calcio",
+      "description": "Signed from Udinese Calcio",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "youssef-chermiti-2023",
+      "label": "Youssef Chermiti",
+      "year": 2023,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "iliman-ndiaye-2024",
+      "label": "Iliman Ndiaye",
+      "year": 2024,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "jake-o-brien-2024",
+      "label": "Jake O'Brien",
+      "year": 2024,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "tim-iroegbunam-2024",
+      "label": "Tim Iroegbunam",
+      "year": 2024,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "adam-aznou-2025",
+      "label": "Adam Aznou",
+      "year": 2025,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "carlos-alcaraz-2025",
+      "label": "Carlos Alcaraz",
+      "year": 2025,
+      "subtitle": "CR Flamengo",
+      "description": "Signed from CR Flamengo",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "kiernan-dewsbury-hall-2025",
+      "label": "Kiernan Dewsbury-Hall",
+      "year": 2025,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "mark-travers-2025",
+      "label": "Mark Travers",
+      "year": 2025,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "thierno-barry-2025",
+      "label": "Thierno Barry",
+      "year": 2025,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "tom-king-2025",
+      "label": "Tom King",
+      "year": 2025,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    },
+    {
+      "id": "tyler-dibling-2025",
+      "label": "Tyler Dibling",
+      "year": 2025,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-everton/alletransfers/verein/29"
+    }
+  ]
+}

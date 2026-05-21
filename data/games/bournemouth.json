@@ -1,0 +1,2186 @@
+{
+  "id": "bournemouth",
+  "slug": "bournemouth",
+  "title": "Bournemouth Timeline",
+  "shortTitle": "Bournemouth",
+  "description": "Place AFC Bournemouth signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/bournemouth",
+  "theme": {
+    "primary": "#DA291C",
+    "secondary": "#000000",
+    "background": "#FFF4F2",
+    "text": "#000000"
+  },
+  "share": {
+    "title": "Bournemouth Timeline",
+    "description": "How far can you build the AFC Bournemouth signing timeline?",
+    "hashtags": [
+      "Bournemouth",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Bournemouth Timeline Quiz - AFC Bournemouth Signings Game",
+    "description": "Play a AFC Bournemouth timeline quiz. Guess whether famous AFC Bournemouth players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "AFC Bournemouth quiz",
+      "AFC Bournemouth signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "adrian-pennock-1992",
+      "label": "Adrian Pennock",
+      "year": 1992,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "peter-scott-1992",
+      "label": "Peter Scott",
+      "year": 1992,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "chris-leadbitter-1993",
+      "label": "Chris Leadbitter",
+      "year": 1993,
+      "subtitle": "Cambridge United",
+      "description": "Signed from Cambridge United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "dave-kevan-1993",
+      "label": "Dave Kevan",
+      "year": 1993,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "gary-chivers-1993",
+      "label": "Gary Chivers",
+      "year": 1993,
+      "subtitle": "Lyn 1896 FK",
+      "description": "Signed from Lyn 1896 FK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "joe-parkinson-1993",
+      "label": "Joe Parkinson",
+      "year": 1993,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "kevin-russell-1993",
+      "label": "Kevin Russell",
+      "year": 1993,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "russell-beardsmore-1993",
+      "label": "Russell Beardsmore",
+      "year": 1993,
+      "subtitle": "Manchester United",
+      "description": "Signed from Manchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "steve-cotterill-1993",
+      "label": "Steve Cotterill",
+      "year": 1993,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "warren-aspinall-1993",
+      "label": "Warren Aspinall",
+      "year": 1993,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "david-adekola-1994",
+      "label": "David Adekola",
+      "year": 1994,
+      "subtitle": "Bury FC",
+      "description": "Signed from Bury FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "gareth-williams-1994",
+      "label": "Gareth Williams",
+      "year": 1994,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ian-andrews-1994",
+      "label": "Ian Andrews",
+      "year": 1994,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jason-brissett-1994",
+      "label": "Jason Brissett",
+      "year": 1994,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "matt-holland-1994",
+      "label": "Matt Holland",
+      "year": 1994,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "michael-dean-1994",
+      "label": "Michael Dean",
+      "year": 1994,
+      "subtitle": "AFC Bournemouth Jugend",
+      "description": "Signed from AFC Bournemouth Jugend",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "neil-young-1994",
+      "label": "Neil Young",
+      "year": 1994,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "shaun-brooks-1994",
+      "label": "Shaun Brooks",
+      "year": 1994,
+      "subtitle": "Dorchester Town",
+      "description": "Signed from Dorchester Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "stephen-robinson-1994",
+      "label": "Stephen Robinson",
+      "year": 1994,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "steve-jones-1994",
+      "label": "Steve Jones",
+      "year": 1994,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "david-town-1995",
+      "label": "David Town",
+      "year": 1995,
+      "subtitle": "AFC Bournemouth Jugend",
+      "description": "Signed from AFC Bournemouth Jugend",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ian-cox-1995",
+      "label": "Ian Cox",
+      "year": 1995,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jamie-victory-1995",
+      "label": "Jamie Victory",
+      "year": 1995,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "john-o-neill-1995",
+      "label": "John O'Neill",
+      "year": 1995,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "marcus-oldbury-1995",
+      "label": "Marcus Oldbury",
+      "year": 1995,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "paul-mitchell-1995",
+      "label": "Paul Mitchell",
+      "year": 1995,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "dale-gordon-1996",
+      "label": "Dale Gordon",
+      "year": 1996,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jamie-vincent-1996",
+      "label": "Jamie Vincent",
+      "year": 1996,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jimmy-glass-1996",
+      "label": "Jimmy Glass",
+      "year": 1996,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "leo-cotterell-1996",
+      "label": "Leo Cotterell",
+      "year": 1996,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "mark-watson-1996",
+      "label": "Mark Watson",
+      "year": 1996,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "owen-coll-1996",
+      "label": "Owen Coll",
+      "year": 1996,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "roy-o-brien-1996",
+      "label": "Roy O'Brien",
+      "year": 1996,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "christer-warren-1997",
+      "label": "Christer Warren",
+      "year": 1997,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "franck-rolling-1997",
+      "label": "Franck Rolling",
+      "year": 1997,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "justin-harrington-1997",
+      "label": "Justin Harrington",
+      "year": 1997,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "claus-bech-jorgensen-1998",
+      "label": "Claus Bech Jörgensen",
+      "year": 1998,
+      "subtitle": "AC Horsens",
+      "description": "Signed from AC Horsens",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "mark-ovendale-1998",
+      "label": "Mark Ovendale",
+      "year": 1998,
+      "subtitle": "Barry Town",
+      "description": "Signed from Barry Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "mark-stein-1998",
+      "label": "Mark Stein",
+      "year": 1998,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "mohammed-berthe-1998",
+      "label": "Mohammed Berthé",
+      "year": 1998,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "nick-colgan-1998",
+      "label": "Nick Colgan",
+      "year": 1998,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "roger-boli-1998",
+      "label": "Roger Boli",
+      "year": 1998,
+      "subtitle": "Dundee United FC",
+      "description": "Signed from Dundee United FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "danny-smith-1999",
+      "label": "Danny Smith",
+      "year": 1999,
+      "subtitle": "Bashley FC",
+      "description": "Signed from Bashley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "gareth-stewart-1999",
+      "label": "Gareth Stewart",
+      "year": 1999,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "gordon-watson-1999",
+      "label": "Gordon Watson",
+      "year": 1999,
+      "subtitle": "Bradford City",
+      "description": "Signed from Bradford City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "joe-sheerin-1999",
+      "label": "Joe Sheerin",
+      "year": 1999,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "scott-mean-1999",
+      "label": "Scott Mean",
+      "year": 1999,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "abdelkader-seydi-2000",
+      "label": "Abdelkader Seydi",
+      "year": 2000,
+      "subtitle": "Le Mans Union Club 72 B",
+      "description": "Signed from Le Mans Union Club 72 B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "chukki-eribenne-2000",
+      "label": "Chukki Eribenne",
+      "year": 2000,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "garreth-o-connor-2000",
+      "label": "Garreth O'Connor",
+      "year": 2000,
+      "subtitle": "Bohemian Football Club",
+      "description": "Signed from Bohemian Football Club",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "michael-menetrier-2000",
+      "label": "Michaël Ménétrier",
+      "year": 2000,
+      "subtitle": "FC Metz B",
+      "description": "Signed from FC Metz B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "narada-bernard-2000",
+      "label": "Narada Bernard",
+      "year": 2000,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "peter-grant-2000",
+      "label": "Peter Grant",
+      "year": 2000,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "wade-elliott-2000",
+      "label": "Wade Elliott",
+      "year": 2000,
+      "subtitle": "Bashley FC",
+      "description": "Signed from Bashley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "warren-feeney-2000",
+      "label": "Warren Feeney",
+      "year": 2000,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "david-birmingham-2001",
+      "label": "David Birmingham",
+      "year": 2001,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "derek-holmes-2001",
+      "label": "Derek Holmes",
+      "year": 2001,
+      "subtitle": "Ross County FC",
+      "description": "Signed from Ross County FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "graeme-mathie-2001",
+      "label": "Graeme Mathie",
+      "year": 2001,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "james-bittner-2001",
+      "label": "James Bittner",
+      "year": 2001,
+      "subtitle": "Salisbury City (- 2014)",
+      "description": "Signed from Salisbury City (- 2014)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "shaun-maher-2001",
+      "label": "Shaun Maher",
+      "year": 2001,
+      "subtitle": "Bohemian Football Club",
+      "description": "Signed from Bohemian Football Club",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "tresor-kandol-2001",
+      "label": "Tresor Kandol",
+      "year": 2001,
+      "subtitle": "Cambridge United",
+      "description": "Signed from Cambridge United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "andy-petterson-2002",
+      "label": "Andy Petterson",
+      "year": 2002,
+      "subtitle": "Derry City",
+      "description": "Signed from Derry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "marcus-browning-2002",
+      "label": "Marcus Browning",
+      "year": 2002,
+      "subtitle": "Gillingham FC",
+      "description": "Signed from Gillingham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "neil-moss-2002",
+      "label": "Neil Moss",
+      "year": 2002,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "rob-newman-2002",
+      "label": "Rob Newman",
+      "year": 2002,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "warren-cummings-2002",
+      "label": "Warren Cummings",
+      "year": 2002,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "marc-canham-2003",
+      "label": "Marc Canham",
+      "year": 2003,
+      "subtitle": "Colchester United",
+      "description": "Signed from Colchester United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "dani-rodrigues-2004",
+      "label": "Dani Rodrigues",
+      "year": 2004,
+      "subtitle": "Yeovil Town",
+      "description": "Signed from Yeovil Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "diogo-andrade-2004",
+      "label": "Diogo Andrade",
+      "year": 2004,
+      "subtitle": "CF Os Belenenses Under 19",
+      "description": "Signed from CF Os Belenenses Under 19",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "eddie-howe-2004",
+      "label": "Eddie Howe",
+      "year": 2004,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "callum-hart-2005",
+      "label": "Callum Hart",
+      "year": 2005,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "josh-gowling-2005",
+      "label": "Josh Gowling",
+      "year": 2005,
+      "subtitle": "Ölstykke FC",
+      "description": "Signed from Ölstykke FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "kirk-hudson-2005",
+      "label": "Kirk Hudson",
+      "year": 2005,
+      "subtitle": "Celtic Glasgow U20",
+      "description": "Signed from Celtic Glasgow U20",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "shaun-cooper-2005",
+      "label": "Shaun Cooper",
+      "year": 2005,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "stephen-cooke-2005",
+      "label": "Stephen Cooke",
+      "year": 2005,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "darren-anderton-2006",
+      "label": "Darren Anderton",
+      "year": 2006,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "daryl-taylor-2006",
+      "label": "Daryl Taylor",
+      "year": 2006,
+      "subtitle": "Walsall FC",
+      "description": "Signed from Walsall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "michael-standing-2006",
+      "label": "Michael Standing",
+      "year": 2006,
+      "subtitle": "Chesterfield FC",
+      "description": "Signed from Chesterfield FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "tareq-khalil-2006",
+      "label": "Tareq Khalil",
+      "year": 2006,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jason-pearce-2007",
+      "label": "Jason Pearce",
+      "year": 2007,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jo-kuffour-2007",
+      "label": "Jo Kuffour",
+      "year": 2007,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jo-tessem-2007",
+      "label": "Jo Tessem",
+      "year": 2007,
+      "subtitle": "Lyn 1896 FK",
+      "description": "Signed from Lyn 1896 FK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "lee-bradbury-2007",
+      "label": "Lee Bradbury",
+      "year": 2007,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "marvin-bartley-2007",
+      "label": "Marvin Bartley",
+      "year": 2007,
+      "subtitle": "Hampton & Richmond Borough",
+      "description": "Signed from Hampton & Richmond Borough",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "paul-telfer-2007",
+      "label": "Paul Telfer",
+      "year": 2007,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "russell-perrett-2007",
+      "label": "Russell Perrett",
+      "year": 2007,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ryan-garry-2007",
+      "label": "Ryan Garry",
+      "year": 2007,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "anton-robinson-2008",
+      "label": "Anton Robinson",
+      "year": 2008,
+      "subtitle": "Weymouth FC",
+      "description": "Signed from Weymouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "carl-pettefer-2008",
+      "label": "Carl Pettefer",
+      "year": 2008,
+      "subtitle": "Oxford United",
+      "description": "Signed from Oxford United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jeff-goulding-2008",
+      "label": "Jeff Goulding",
+      "year": 2008,
+      "subtitle": "Fisher Athletic",
+      "description": "Signed from Fisher Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "liam-feeney-2008",
+      "label": "Liam Feeney",
+      "year": 2008,
+      "subtitle": "Salisbury City (- 2014)",
+      "description": "Signed from Salisbury City (- 2014)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "mark-molesley-2008",
+      "label": "Mark Molesley",
+      "year": 2008,
+      "subtitle": "Grays Athletic",
+      "description": "Signed from Grays Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "sammy-igoe-2008",
+      "label": "Sammy Igoe",
+      "year": 2008,
+      "subtitle": "Bristol Rovers",
+      "description": "Signed from Bristol Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "scott-guyett-2008",
+      "label": "Scott Guyett",
+      "year": 2008,
+      "subtitle": "Yeovil Town",
+      "description": "Signed from Yeovil Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "shwan-jalal-2008",
+      "label": "Shwan Jalal",
+      "year": 2008,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ben-williamson-2010",
+      "label": "Ben Williamson",
+      "year": 2010,
+      "subtitle": "Jerez Industrial CF",
+      "description": "Signed from Jerez Industrial CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "harry-arter-2010",
+      "label": "Harry Arter",
+      "year": 2010,
+      "subtitle": "Woking FC",
+      "description": "Signed from Woking FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jon-stewart-2010",
+      "label": "Jon Stewart",
+      "year": 2010,
+      "subtitle": "Weymouth FC",
+      "description": "Signed from Weymouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "lyle-taylor-2010",
+      "label": "Lyle Taylor",
+      "year": 2010,
+      "subtitle": "Concord Rangers",
+      "description": "Signed from Concord Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "marc-pugh-2010",
+      "label": "Marc Pugh",
+      "year": 2010,
+      "subtitle": "Hereford United (- 2014)",
+      "description": "Signed from Hereford United (- 2014)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "mathieu-baudry-2010",
+      "label": "Mathieu Baudry",
+      "year": 2010,
+      "subtitle": "ESTAC Troyes",
+      "description": "Signed from ESTAC Troyes",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "michael-symes-2010",
+      "label": "Michael Symes",
+      "year": 2010,
+      "subtitle": "Accrington Stanley",
+      "description": "Signed from Accrington Stanley",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "mitchell-nelson-2010",
+      "label": "Mitchell Nelson",
+      "year": 2010,
+      "subtitle": "Tooting & Mitcham FC",
+      "description": "Signed from Tooting & Mitcham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "steve-lovell-2010",
+      "label": "Steve Lovell",
+      "year": 2010,
+      "subtitle": "Partick Thistle FC",
+      "description": "Signed from Partick Thistle FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "adam-barrett-2011",
+      "label": "Adam Barrett",
+      "year": 2011,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "charlie-daniels-2011",
+      "label": "Charlie Daniels",
+      "year": 2011,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "charlie-sheringham-2011",
+      "label": "Charlie Sheringham",
+      "year": 2011,
+      "subtitle": "Dartford FC",
+      "description": "Signed from Dartford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "darryl-flahavan-2011",
+      "label": "Darryl Flahavan",
+      "year": 2011,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "donal-mcdermott-2011",
+      "label": "Donal McDermott",
+      "year": 2011,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "matt-tubbs-2011",
+      "label": "Matt Tubbs",
+      "year": 2011,
+      "subtitle": "Crawley Town",
+      "description": "Signed from Crawley Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "scott-malone-2011",
+      "label": "Scott Malone",
+      "year": 2011,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "shaun-macdonald-2011",
+      "label": "Shaun MacDonald",
+      "year": 2011,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "simon-francis-2011",
+      "label": "Simon Francis",
+      "year": 2011,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "steve-cook-2011",
+      "label": "Steve Cook",
+      "year": 2011,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "steven-gregory-2011",
+      "label": "Steven Gregory",
+      "year": 2011,
+      "subtitle": "AFC Wimbledon",
+      "description": "Signed from AFC Wimbledon",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "wes-fogden-2011",
+      "label": "Wes Fogden",
+      "year": 2011,
+      "subtitle": "Havant & Waterlooville FC",
+      "description": "Signed from Havant & Waterlooville FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "wes-thomas-2011",
+      "label": "Wes Thomas",
+      "year": 2011,
+      "subtitle": "Crawley Town",
+      "description": "Signed from Crawley Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "benjamin-buchel-2012",
+      "label": "Benjamin Büchel",
+      "year": 2012,
+      "subtitle": "USV Eschen/Mauren",
+      "description": "Signed from USV Eschen/Mauren",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "brett-pitman-2012",
+      "label": "Brett Pitman",
+      "year": 2012,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "eunan-o-kane-2012",
+      "label": "Eunan O'Kane",
+      "year": 2012,
+      "subtitle": "Torquay United",
+      "description": "Signed from Torquay United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "frank-demouge-2012",
+      "label": "Frank Demouge",
+      "year": 2012,
+      "subtitle": "FC Utrecht",
+      "description": "Signed from FC Utrecht",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "harry-cornick-2012",
+      "label": "Harry Cornick",
+      "year": 2012,
+      "subtitle": "Christchurch FC",
+      "description": "Signed from Christchurch FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jon-meades-2012",
+      "label": "Jon Meades",
+      "year": 2012,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "josh-mcquoid-2012",
+      "label": "Josh McQuoid",
+      "year": 2012,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "lorenzo-davids-2012",
+      "label": "Lorenzo Davids",
+      "year": 2012,
+      "subtitle": "FC Augsburg",
+      "description": "Signed from FC Augsburg",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "matt-ritchie-2012",
+      "label": "Matt Ritchie",
+      "year": 2012,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "miles-addison-2012",
+      "label": "Miles Addison",
+      "year": 2012,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ryan-allsop-2012",
+      "label": "Ryan Allsop",
+      "year": 2012,
+      "subtitle": "Leyton Orient",
+      "description": "Signed from Leyton Orient",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ryan-fraser-2012",
+      "label": "Ryan Fraser",
+      "year": 2012,
+      "subtitle": "Aberdeen FC",
+      "description": "Signed from Aberdeen FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "tommy-elphick-2012",
+      "label": "Tommy Elphick",
+      "year": 2012,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "adam-smith-2013",
+      "label": "Adam Smith",
+      "year": 2013,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "elliott-ward-2013",
+      "label": "Elliott Ward",
+      "year": 2013,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ian-harte-2013",
+      "label": "Ian Harte",
+      "year": 2013,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "josh-o-hanlon-2013",
+      "label": "Josh O'Hanlon",
+      "year": 2013,
+      "subtitle": "Longford Town FC",
+      "description": "Signed from Longford Town FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "lee-camp-2013",
+      "label": "Lee Camp",
+      "year": 2013,
+      "subtitle": "West Bromwich Albion",
+      "description": "Signed from West Bromwich Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "mohamed-coulibaly-2013",
+      "label": "Mohamed Coulibaly",
+      "year": 2013,
+      "subtitle": "Grasshopper Club Zurich",
+      "description": "Signed from Grasshopper Club Zurich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "tokelo-rantie-2013",
+      "label": "Tokelo Rantie",
+      "year": 2013,
+      "subtitle": "Malmö FF",
+      "description": "Signed from Malmö FF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "yann-kermorgant-2013",
+      "label": "Yann Kermorgant",
+      "year": 2013,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "andrew-surman-2014",
+      "label": "Andrew Surman",
+      "year": 2014,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "callum-wilson-2014",
+      "label": "Callum Wilson",
+      "year": 2014,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "dan-gosling-2014",
+      "label": "Dan Gosling",
+      "year": 2014,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "emerson-hyndman-2014",
+      "label": "Emerson Hyndman",
+      "year": 2014,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "junior-stanislas-2014",
+      "label": "Junior Stanislas",
+      "year": 2014,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "adam-federici-2015",
+      "label": "Adam Federici",
+      "year": 2015,
+      "subtitle": "Reading FC",
+      "description": "Signed from Reading FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "artur-boruc-2015",
+      "label": "Artur Boruc",
+      "year": 2015,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "benik-afobe-2015",
+      "label": "Benik Afobe",
+      "year": 2015,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "glenn-murray-2015",
+      "label": "Glenn Murray",
+      "year": 2015,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jordan-green-2015",
+      "label": "Jordan Green",
+      "year": 2015,
+      "subtitle": "Banbury United",
+      "description": "Signed from Banbury United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "joshua-king-2015",
+      "label": "Joshua King",
+      "year": 2015,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "lee-tomlin-2015",
+      "label": "Lee Tomlin",
+      "year": 2015,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "max-gradel-2015",
+      "label": "Max Gradel",
+      "year": 2015,
+      "subtitle": "AS Saint-Étienne",
+      "description": "Signed from AS Saint-Étienne",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "sylvain-distin-2015",
+      "label": "Sylvain Distin",
+      "year": 2015,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "tyrone-mings-2015",
+      "label": "Tyrone Mings",
+      "year": 2015,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "aaron-ramsdale-2016",
+      "label": "Aaron Ramsdale",
+      "year": 2016,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "brad-smith-2016",
+      "label": "Brad Smith",
+      "year": 2016,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jordon-ibe-2016",
+      "label": "Jordon Ibe",
+      "year": 2016,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "lewis-cook-2016",
+      "label": "Lewis Cook",
+      "year": 2016,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "lys-mousset-2016",
+      "label": "Lys Mousset",
+      "year": 2016,
+      "subtitle": "Le Havre AC",
+      "description": "Signed from Le Havre AC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "marc-wilson-2016",
+      "label": "Marc Wilson",
+      "year": 2016,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "asmir-begovic-2017",
+      "label": "Asmir Begovic",
+      "year": 2017,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "connor-mahoney-2017",
+      "label": "Connor Mahoney",
+      "year": 2017,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jermain-defoe-2017",
+      "label": "Jermain Defoe",
+      "year": 2017,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "nathan-ake-2017",
+      "label": "Nathan Aké",
+      "year": 2017,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "chris-mepham-2018",
+      "label": "Chris Mepham",
+      "year": 2018,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "david-brooks-2018",
+      "label": "David Brooks",
+      "year": 2018,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "diego-rico-2018",
+      "label": "Diego Rico",
+      "year": 2018,
+      "subtitle": "CD Leganés",
+      "description": "Signed from CD Leganés",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "dominic-solanke-2018",
+      "label": "Dominic Solanke",
+      "year": 2018,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jefferson-lerma-2018",
+      "label": "Jefferson Lerma",
+      "year": 2018,
+      "subtitle": "Levante UD",
+      "description": "Signed from Levante UD",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "arnaut-danjuma-2019",
+      "label": "Arnaut Danjuma",
+      "year": 2019,
+      "subtitle": "Club Brugge KV",
+      "description": "Signed from Club Brugge KV",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jack-stacey-2019",
+      "label": "Jack Stacey",
+      "year": 2019,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "lloyd-kelly-2019",
+      "label": "Lloyd Kelly",
+      "year": 2019,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "philip-billing-2019",
+      "label": "Philip Billing",
+      "year": 2019,
+      "subtitle": "Huddersfield Town",
+      "description": "Signed from Huddersfield Town",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ben-pearson-2020",
+      "label": "Ben Pearson",
+      "year": 2020,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "emiliano-marcondes-2021",
+      "label": "Emiliano Marcondes",
+      "year": 2021,
+      "subtitle": "Brentford FC",
+      "description": "Signed from Brentford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "gary-cahill-2021",
+      "label": "Gary Cahill",
+      "year": 2021,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "jamal-lowe-2021",
+      "label": "Jamal Lowe",
+      "year": 2021,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "james-hill-2021",
+      "label": "James Hill",
+      "year": 2021,
+      "subtitle": "Fleetwood Town",
+      "description": "Signed from Fleetwood Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "kieffer-moore-2021",
+      "label": "Kieffer Moore",
+      "year": 2021,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "rjan-nyland-2021",
+      "label": "Ørjan Nyland",
+      "year": 2021,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ryan-christie-2021",
+      "label": "Ryan Christie",
+      "year": 2021,
+      "subtitle": "Celtic FC",
+      "description": "Signed from Celtic FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "siriki-dembele-2021",
+      "label": "Siriki Dembélé",
+      "year": 2021,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "antoine-semenyo-2022",
+      "label": "Antoine Semenyo",
+      "year": 2022,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "dango-ouattara-2022",
+      "label": "Dango Ouattara",
+      "year": 2022,
+      "subtitle": "FC Lorient",
+      "description": "Signed from FC Lorient",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "darren-randolph-2022",
+      "label": "Darren Randolph",
+      "year": 2022,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ilya-zabarnyi-2022",
+      "label": "Ilya Zabarnyi",
+      "year": 2022,
+      "subtitle": "Dynamo Kyiv",
+      "description": "Signed from Dynamo Kyiv",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "joe-rothwell-2022",
+      "label": "Joe Rothwell",
+      "year": 2022,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "marcos-senesi-2022",
+      "label": "Marcos Senesi",
+      "year": 2022,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "marcus-tavernier-2022",
+      "label": "Marcus Tavernier",
+      "year": 2022,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "neto-2022",
+      "label": "Neto",
+      "year": 2022,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ryan-fredericks-2022",
+      "label": "Ryan Fredericks",
+      "year": 2022,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "alex-scott-2023",
+      "label": "Alex Scott",
+      "year": 2023,
+      "subtitle": "Bristol City",
+      "description": "Signed from Bristol City",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "hamed-traore-2023",
+      "label": "Hamed Traoré",
+      "year": 2023,
+      "subtitle": "US Sassuolo",
+      "description": "Signed from US Sassuolo",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "justin-kluivert-2023",
+      "label": "Justin Kluivert",
+      "year": 2023,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "max-aarons-2023",
+      "label": "Max Aarons",
+      "year": 2023,
+      "subtitle": "Norwich City",
+      "description": "Signed from Norwich City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "milos-kerkez-2023",
+      "label": "Milos Kerkez",
+      "year": 2023,
+      "subtitle": "AZ Alkmaar",
+      "description": "Signed from AZ Alkmaar",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "romain-faivre-2023",
+      "label": "Romain Faivre",
+      "year": 2023,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "tyler-adams-2023",
+      "label": "Tyler Adams",
+      "year": 2023,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "alex-paulsen-2024",
+      "label": "Alex Paulsen",
+      "year": 2024,
+      "subtitle": "Wellington Phoenix",
+      "description": "Signed from Wellington Phoenix",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "daniel-jebbison-2024",
+      "label": "Daniel Jebbison",
+      "year": 2024,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "dean-huijsen-2024",
+      "label": "Dean Huijsen",
+      "year": 2024,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "enes-unal-2024",
+      "label": "Enes Ünal",
+      "year": 2024,
+      "subtitle": "Getafe CF",
+      "description": "Signed from Getafe CF",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "evanilson-2024",
+      "label": "Evanilson",
+      "year": 2024,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "julian-araujo-2024",
+      "label": "Julián Araujo",
+      "year": 2024,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "julio-soler-2024",
+      "label": "Julio Soler",
+      "year": 2024,
+      "subtitle": "CA Lanús",
+      "description": "Signed from CA Lanús",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "junior-kroupi-2024",
+      "label": "Junior Kroupi",
+      "year": 2024,
+      "subtitle": "FC Lorient",
+      "description": "Signed from FC Lorient",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "luis-sinisterra-2024",
+      "label": "Luis Sinisterra",
+      "year": 2024,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "matai-akinmboni-2024",
+      "label": "Matai Akinmboni",
+      "year": 2024,
+      "subtitle": "D.C. United",
+      "description": "Signed from D.C. United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "adrien-truffert-2025",
+      "label": "Adrien Truffert",
+      "year": 2025,
+      "subtitle": "Stade Rennais FC",
+      "description": "Signed from Stade Rennais FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "alex-toth-2025",
+      "label": "Alex Tóth",
+      "year": 2025,
+      "subtitle": "Ferencvárosi TC",
+      "description": "Signed from Ferencvárosi TC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "amine-adli-2025",
+      "label": "Amine Adli",
+      "year": 2025,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "bafode-diakite-2025",
+      "label": "Bafodé Diakité",
+      "year": 2025,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "ben-gannon-doak-2025",
+      "label": "Ben Gannon-Doak",
+      "year": 2025,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "djordje-petrovic-2025",
+      "label": "Djordje Petrovic",
+      "year": 2025,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "rayan-2025",
+      "label": "Rayan",
+      "year": 2025,
+      "subtitle": "Clube de Regatas Vasco da Gama",
+      "description": "Signed from Clube de Regatas Vasco da Gama",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    },
+    {
+      "id": "veljko-milosavljevic-2025",
+      "label": "Veljko Milosavljevic",
+      "year": 2025,
+      "subtitle": "Red Star Belgrade",
+      "description": "Signed from Red Star Belgrade",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/afc-bournemouth/alletransfers/verein/989"
+    }
+  ]
+}

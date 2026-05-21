@@ -1,0 +1,2036 @@
+{
+  "id": "liverpool",
+  "slug": "liverpool",
+  "title": "Liverpool Timeline",
+  "shortTitle": "Liverpool",
+  "description": "Place Liverpool signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/liverpool",
+  "theme": {
+    "primary": "#C8102E",
+    "secondary": "#FFFFFF",
+    "background": "#FFF3F5",
+    "text": "#3E0000"
+  },
+  "share": {
+    "title": "Liverpool Timeline",
+    "description": "How far can you build the Liverpool signing timeline?",
+    "hashtags": [
+      "Liverpool",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Liverpool Timeline Quiz - Liverpool Signings Game",
+    "description": "Play a Liverpool timeline quiz. Guess whether famous Liverpool players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Liverpool quiz",
+      "Liverpool signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "david-james-1992",
+      "label": "David James",
+      "year": 1992,
+      "subtitle": "Watford FC",
+      "description": "Signed from Watford FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "paul-stewart-1992",
+      "label": "Paul Stewart",
+      "year": 1992,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "stig-inge-bj-rnebye-1992",
+      "label": "Stig Inge Bjørnebye",
+      "year": 1992,
+      "subtitle": "Rosenborg BK",
+      "description": "Signed from Rosenborg BK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "torben-piechnik-1992",
+      "label": "Torben Piechnik",
+      "year": 1992,
+      "subtitle": "FC Copenhagen",
+      "description": "Signed from FC Copenhagen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "julian-dicks-1993",
+      "label": "Julian Dicks",
+      "year": 1993,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "neil-ruddock-1993",
+      "label": "Neil Ruddock",
+      "year": 1993,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "nigel-clough-1993",
+      "label": "Nigel Clough",
+      "year": 1993,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "john-scales-1994",
+      "label": "John Scales",
+      "year": 1994,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "mark-kennedy-1994",
+      "label": "Mark Kennedy",
+      "year": 1994,
+      "subtitle": "Millwall FC",
+      "description": "Signed from Millwall FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "michael-stensgaard-1994",
+      "label": "Michael Stensgaard",
+      "year": 1994,
+      "subtitle": "Hvidovre IF",
+      "description": "Signed from Hvidovre IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "phil-babb-1994",
+      "label": "Phil Babb",
+      "year": 1994,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "jason-mcateer-1995",
+      "label": "Jason McAteer",
+      "year": 1995,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "stan-collymore-1995",
+      "label": "Stan Collymore",
+      "year": 1995,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "stephen-pears-1995",
+      "label": "Stephen Pears",
+      "year": 1995,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "bj-rn-tore-kvarme-1996",
+      "label": "Bjørn Tore Kvarme",
+      "year": 1996,
+      "subtitle": "Rosenborg BK",
+      "description": "Signed from Rosenborg BK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "haukur-ingi-gudnason-1996",
+      "label": "Haukur Ingi Gudnason",
+      "year": 1996,
+      "subtitle": "Keflavík ÍF",
+      "description": "Signed from Keflavík ÍF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "yvind-leonhardsen-1996",
+      "label": "Øyvind Leonhardsen",
+      "year": 1996,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "patrik-berger-1996",
+      "label": "Patrik Berger",
+      "year": 1996,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "brad-friedel-1997",
+      "label": "Brad Friedel",
+      "year": 1997,
+      "subtitle": "Columbus Crew",
+      "description": "Signed from Columbus Crew",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "danny-murphy-1997",
+      "label": "Danny Murphy",
+      "year": 1997,
+      "subtitle": "Crewe Alexandra",
+      "description": "Signed from Crewe Alexandra",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "j-rgen-nielsen-1997",
+      "label": "Jørgen Nielsen",
+      "year": 1997,
+      "subtitle": "Hvidovre IF",
+      "description": "Signed from Hvidovre IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "karl-heinz-riedle-1997",
+      "label": "Karl-Heinz Riedle",
+      "year": 1997,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "paul-ince-1997",
+      "label": "Paul Ince",
+      "year": 1997,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "sean-dundee-1997",
+      "label": "Sean Dundee",
+      "year": 1997,
+      "subtitle": "Karlsruher SC",
+      "description": "Signed from Karlsruher SC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "djimi-traore-1998",
+      "label": "Djimi Traoré",
+      "year": 1998,
+      "subtitle": "Stade Lavallois",
+      "description": "Signed from Stade Lavallois",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "frode-kippe-1998",
+      "label": "Frode Kippe",
+      "year": 1998,
+      "subtitle": "Lillestrøm SK",
+      "description": "Signed from Lillestrøm SK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "jean-michel-ferri-1998",
+      "label": "Jean-Michel Ferri",
+      "year": 1998,
+      "subtitle": "Istanbulspor",
+      "description": "Signed from Istanbulspor",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "rigobert-song-1998",
+      "label": "Rigobert Song",
+      "year": 1998,
+      "subtitle": "US Salernitana",
+      "description": "Signed from US Salernitana",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "steve-staunton-1998",
+      "label": "Steve Staunton",
+      "year": 1998,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "vegard-heggem-1998",
+      "label": "Vegard Heggem",
+      "year": 1998,
+      "subtitle": "Rosenborg BK",
+      "description": "Signed from Rosenborg BK",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "dietmar-hamann-1999",
+      "label": "Dietmar Hamann",
+      "year": 1999,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "emile-heskey-1999",
+      "label": "Emile Heskey",
+      "year": 1999,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "erik-meijer-1999",
+      "label": "Erik Meijer",
+      "year": 1999,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "sami-hyypia-1999",
+      "label": "Sami Hyypiä",
+      "year": 1999,
+      "subtitle": "Willem II Tilburg",
+      "description": "Signed from Willem II Tilburg",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "sander-westerveld-1999",
+      "label": "Sander Westerveld",
+      "year": 1999,
+      "subtitle": "Vitesse Arnhem",
+      "description": "Signed from Vitesse Arnhem",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "stephane-henchoz-1999",
+      "label": "Stéphane Henchoz",
+      "year": 1999,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "titi-camara-1999",
+      "label": "Titi Camara",
+      "year": 1999,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "vladimir-smicer-1999",
+      "label": "Vladimir Smicer",
+      "year": 1999,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "bernard-diomede-2000",
+      "label": "Bernard Diomède",
+      "year": 2000,
+      "subtitle": "AJ Auxerre",
+      "description": "Signed from AJ Auxerre",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "christian-ziege-2000",
+      "label": "Christian Ziege",
+      "year": 2000,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "daniel-sjolund-2000",
+      "label": "Daniel Sjölund",
+      "year": 2000,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "gary-mcallister-2000",
+      "label": "Gary McAllister",
+      "year": 2000,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "gregory-vignal-2000",
+      "label": "Grégory Vignal",
+      "year": 2000,
+      "subtitle": "Montpellier HSC",
+      "description": "Signed from Montpellier HSC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "igor-biscan-2000",
+      "label": "Igor Biscan",
+      "year": 2000,
+      "subtitle": "GNK Dinamo Zagreb",
+      "description": "Signed from GNK Dinamo Zagreb",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "jari-litmanen-2000",
+      "label": "Jari Litmanen",
+      "year": 2000,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "markus-babbel-2000",
+      "label": "Markus Babbel",
+      "year": 2000,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "nick-barmby-2000",
+      "label": "Nick Barmby",
+      "year": 2000,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "pegguy-arphexad-2000",
+      "label": "Pegguy Arphexad",
+      "year": 2000,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "abel-xavier-2001",
+      "label": "Abel Xavier",
+      "year": 2001,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "chris-kirkland-2001",
+      "label": "Chris Kirkland",
+      "year": 2001,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "jerzy-dudek-2001",
+      "label": "Jerzy Dudek",
+      "year": 2001,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "john-arne-riise-2001",
+      "label": "John Arne Riise",
+      "year": 2001,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "milan-baros-2001",
+      "label": "Milan Baros",
+      "year": 2001,
+      "subtitle": "FC Banik Ostrava",
+      "description": "Signed from FC Banik Ostrava",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "alou-diarra-2002",
+      "label": "Alou Diarra",
+      "year": 2002,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "bruno-cheyrou-2002",
+      "label": "Bruno Cheyrou",
+      "year": 2002,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "el-hadji-diouf-2002",
+      "label": "El-Hadji Diouf",
+      "year": 2002,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "florent-sinama-pongolle-2002",
+      "label": "Florent Sinama-Pongolle",
+      "year": 2002,
+      "subtitle": "Le Havre AC",
+      "description": "Signed from Le Havre AC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "patrice-luzi-2002",
+      "label": "Patrice Luzi",
+      "year": 2002,
+      "subtitle": "AC Ajaccio",
+      "description": "Signed from AC Ajaccio",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "salif-diao-2002",
+      "label": "Salif Diao",
+      "year": 2002,
+      "subtitle": "CS Sedan-Ardennes",
+      "description": "Signed from CS Sedan-Ardennes",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "arnaud-buhler-2003",
+      "label": "Arnaud Bühler",
+      "year": 2003,
+      "subtitle": "FC Lausanne-Sport",
+      "description": "Signed from FC Lausanne-Sport",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "carl-medjani-2003",
+      "label": "Carl Medjani",
+      "year": 2003,
+      "subtitle": "AS Saint-Étienne B",
+      "description": "Signed from AS Saint-Étienne B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "harry-kewell-2003",
+      "label": "Harry Kewell",
+      "year": 2003,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "steve-finnan-2003",
+      "label": "Steve Finnan",
+      "year": 2003,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "antonio-nunez-2004",
+      "label": "Antonio Núñez",
+      "year": 2004,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "djibril-cisse-2004",
+      "label": "Djibril Cissé",
+      "year": 2004,
+      "subtitle": "AJ Auxerre",
+      "description": "Signed from AJ Auxerre",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "fernando-morientes-2004",
+      "label": "Fernando Morientes",
+      "year": 2004,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "josemi-2004",
+      "label": "Josemi",
+      "year": 2004,
+      "subtitle": "Málaga CF",
+      "description": "Signed from Málaga CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "luis-garcia-2004",
+      "label": "Luis García",
+      "year": 2004,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "mauricio-pellegrino-2004",
+      "label": "Mauricio Pellegrino",
+      "year": 2004,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "scott-carson-2004",
+      "label": "Scott Carson",
+      "year": 2004,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "xabi-alonso-2004",
+      "label": "Xabi Alonso",
+      "year": 2004,
+      "subtitle": "Real Sociedad",
+      "description": "Signed from Real Sociedad",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "antonio-barragan-2005",
+      "label": "Antonio Barragán",
+      "year": 2005,
+      "subtitle": "Sevilla FC B",
+      "description": "Signed from Sevilla FC B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "besian-idrizaj-2005",
+      "label": "Besian Idrizaj",
+      "year": 2005,
+      "subtitle": "LASK",
+      "description": "Signed from LASK",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "boudewijn-zenden-2005",
+      "label": "Boudewijn Zenden",
+      "year": 2005,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "daniel-agger-2005",
+      "label": "Daniel Agger",
+      "year": 2005,
+      "subtitle": "Bröndby IF",
+      "description": "Signed from Bröndby IF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "david-martin-2005",
+      "label": "David Martin",
+      "year": 2005,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "jack-hobbs-2005",
+      "label": "Jack Hobbs",
+      "year": 2005,
+      "subtitle": "Lincoln City",
+      "description": "Signed from Lincoln City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "jan-kromkamp-2005",
+      "label": "Jan Kromkamp",
+      "year": 2005,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "mark-gonzalez-2005",
+      "label": "Mark González",
+      "year": 2005,
+      "subtitle": "Albacete Balompié",
+      "description": "Signed from Albacete Balompié",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "miki-roque-2005",
+      "label": "Miki Roqué",
+      "year": 2005,
+      "subtitle": "UE Lleida",
+      "description": "Signed from UE Lleida",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "mohamed-sissoko-2005",
+      "label": "Mohamed Sissoko",
+      "year": 2005,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "pepe-reina-2005",
+      "label": "Pepe Reina",
+      "year": 2005,
+      "subtitle": "Villarreal CF",
+      "description": "Signed from Villarreal CF",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "peter-crouch-2005",
+      "label": "Peter Crouch",
+      "year": 2005,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "alvaro-arbeloa-2006",
+      "label": "Álvaro Arbeloa",
+      "year": 2006,
+      "subtitle": "Deportivo de La Coruña",
+      "description": "Signed from Deportivo de La Coruña",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "astrit-ajdarevic-2006",
+      "label": "Astrit Ajdarevic",
+      "year": 2006,
+      "subtitle": "Falkenbergs FF",
+      "description": "Signed from Falkenbergs FF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "dirk-kuyt-2006",
+      "label": "Dirk Kuyt",
+      "year": 2006,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "fabio-aurelio-2006",
+      "label": "Fábio Aurélio",
+      "year": 2006,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "gabriel-paletta-2006",
+      "label": "Gabriel Paletta",
+      "year": 2006,
+      "subtitle": "CA Banfield",
+      "description": "Signed from CA Banfield",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "jermaine-pennant-2006",
+      "label": "Jermaine Pennant",
+      "year": 2006,
+      "subtitle": "Birmingham City",
+      "description": "Signed from Birmingham City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "nabil-el-zhar-2006",
+      "label": "Nabil El Zhar",
+      "year": 2006,
+      "subtitle": "AS Saint-Étienne B",
+      "description": "Signed from AS Saint-Étienne B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "andriy-voronin-2007",
+      "label": "Andriy Voronin",
+      "year": 2007,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "charles-itandje-2007",
+      "label": "Charles Itandje",
+      "year": 2007,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "damien-plessis-2007",
+      "label": "Damien Plessis",
+      "year": 2007,
+      "subtitle": "Olympique Lyon B",
+      "description": "Signed from Olympique Lyon B",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "fernando-torres-2007",
+      "label": "Fernando Torres",
+      "year": 2007,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "krisztian-nemeth-2007",
+      "label": "Krisztián Németh",
+      "year": 2007,
+      "subtitle": "MTK Budapest",
+      "description": "Signed from MTK Budapest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "lucas-leiva-2007",
+      "label": "Lucas Leiva",
+      "year": 2007,
+      "subtitle": "Grêmio Foot-Ball Porto Alegrense",
+      "description": "Signed from Grêmio Foot-Ball Porto Alegrense",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "martin-skrtel-2007",
+      "label": "Martin Skrtel",
+      "year": 2007,
+      "subtitle": "Zenit St. Petersburg",
+      "description": "Signed from Zenit St. Petersburg",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "nikolay-mihaylov-2007",
+      "label": "Nikolay Mihaylov",
+      "year": 2007,
+      "subtitle": "Levski Sofia",
+      "description": "Signed from Levski Sofia",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "ryan-babel-2007",
+      "label": "Ryan Babel",
+      "year": 2007,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "ryan-crowther-2007",
+      "label": "Ryan Crowther",
+      "year": 2007,
+      "subtitle": "Stockport County",
+      "description": "Signed from Stockport County",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "sebastian-leto-2007",
+      "label": "Sebastián Leto",
+      "year": 2007,
+      "subtitle": "CA Lanús",
+      "description": "Signed from CA Lanús",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "yossi-benayoun-2007",
+      "label": "Yossi Benayoun",
+      "year": 2007,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "albert-riera-2008",
+      "label": "Albert Riera",
+      "year": 2008,
+      "subtitle": "RCD Espanyol Barcelona",
+      "description": "Signed from RCD Espanyol Barcelona",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "andrea-dossena-2008",
+      "label": "Andrea Dossena",
+      "year": 2008,
+      "subtitle": "Udinese Calcio",
+      "description": "Signed from Udinese Calcio",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "david-n-gog-2008",
+      "label": "David N'Gog",
+      "year": 2008,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "diego-cavalieri-2008",
+      "label": "Diego Cavalieri",
+      "year": 2008,
+      "subtitle": "Sociedade Esportiva Palmeiras",
+      "description": "Signed from Sociedade Esportiva Palmeiras",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "emiliano-insua-2008",
+      "label": "Emiliano Insúa",
+      "year": 2008,
+      "subtitle": "CA Boca Juniors",
+      "description": "Signed from CA Boca Juniors",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "javier-mascherano-2008",
+      "label": "Javier Mascherano",
+      "year": 2008,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "philipp-degen-2008",
+      "label": "Philipp Degen",
+      "year": 2008,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "robbie-keane-2008",
+      "label": "Robbie Keane",
+      "year": 2008,
+      "subtitle": "Tottenham Hotspur",
+      "description": "Signed from Tottenham Hotspur",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "alberto-aquilani-2009",
+      "label": "Alberto Aquilani",
+      "year": 2009,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "glen-johnson-2009",
+      "label": "Glen Johnson",
+      "year": 2009,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "maxi-rodriguez-2009",
+      "label": "Maxi Rodríguez",
+      "year": 2009,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "sotiris-kyrgiakos-2009",
+      "label": "Sotiris Kyrgiakos",
+      "year": 2009,
+      "subtitle": "AEK Athens",
+      "description": "Signed from AEK Athens",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "andy-carroll-2010",
+      "label": "Andy Carroll",
+      "year": 2010,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "brad-jones-2010",
+      "label": "Brad Jones",
+      "year": 2010,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "christian-poulsen-2010",
+      "label": "Christian Poulsen",
+      "year": 2010,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "danny-wilson-2010",
+      "label": "Danny Wilson",
+      "year": 2010,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "joe-cole-2010",
+      "label": "Joe Cole",
+      "year": 2010,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "jonjo-shelvey-2010",
+      "label": "Jonjo Shelvey",
+      "year": 2010,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "luis-suarez-2010",
+      "label": "Luis Suárez",
+      "year": 2010,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "milan-jovanovic-2010",
+      "label": "Milan Jovanovic",
+      "year": 2010,
+      "subtitle": "Standard Liège",
+      "description": "Signed from Standard Liège",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "paul-konchesky-2010",
+      "label": "Paul Konchesky",
+      "year": 2010,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "raul-meireles-2010",
+      "label": "Raúl Meireles",
+      "year": 2010,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "charlie-adam-2011",
+      "label": "Charlie Adam",
+      "year": 2011,
+      "subtitle": "Blackpool FC",
+      "description": "Signed from Blackpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "danny-ward-2011",
+      "label": "Danny Ward",
+      "year": 2011,
+      "subtitle": "Wrexham AFC",
+      "description": "Signed from Wrexham AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "doni-2011",
+      "label": "Doni",
+      "year": 2011,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "jordan-henderson-2011",
+      "label": "Jordan Henderson",
+      "year": 2011,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "jose-enrique-2011",
+      "label": "José Enrique",
+      "year": 2011,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "sebastian-coates-2011",
+      "label": "Sebastián Coates",
+      "year": 2011,
+      "subtitle": "Club Nacional",
+      "description": "Signed from Club Nacional",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "stewart-downing-2011",
+      "label": "Stewart Downing",
+      "year": 2011,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "daniel-sturridge-2012",
+      "label": "Daniel Sturridge",
+      "year": 2012,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "fabio-borini-2012",
+      "label": "Fabio Borini",
+      "year": 2012,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "joe-allen-2012",
+      "label": "Joe Allen",
+      "year": 2012,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "oussama-assaidi-2012",
+      "label": "Oussama Assaidi",
+      "year": 2012,
+      "subtitle": "SC Heerenveen",
+      "description": "Signed from SC Heerenveen",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "philippe-coutinho-2012",
+      "label": "Philippe Coutinho",
+      "year": 2012,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "samed-yesil-2012",
+      "label": "Samed Yesil",
+      "year": 2012,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "iago-aspas-2013",
+      "label": "Iago Aspas",
+      "year": 2013,
+      "subtitle": "Celta de Vigo",
+      "description": "Signed from Celta de Vigo",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "kolo-toure-2013",
+      "label": "Kolo Touré",
+      "year": 2013,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "luis-alberto-2013",
+      "label": "Luis Alberto",
+      "year": 2013,
+      "subtitle": "Sevilla FC",
+      "description": "Signed from Sevilla FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "mamadou-sakho-2013",
+      "label": "Mamadou Sakho",
+      "year": 2013,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "simon-mignolet-2013",
+      "label": "Simon Mignolet",
+      "year": 2013,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "tiago-ilori-2013",
+      "label": "Tiago Ilori",
+      "year": 2013,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "adam-lallana-2014",
+      "label": "Adam Lallana",
+      "year": 2014,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "alberto-moreno-2014",
+      "label": "Alberto Moreno",
+      "year": 2014,
+      "subtitle": "Sevilla FC",
+      "description": "Signed from Sevilla FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "dejan-lovren-2014",
+      "label": "Dejan Lovren",
+      "year": 2014,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "divock-origi-2014",
+      "label": "Divock Origi",
+      "year": 2014,
+      "subtitle": "LOSC Lille",
+      "description": "Signed from LOSC Lille",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "emre-can-2014",
+      "label": "Emre Can",
+      "year": 2014,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "lazar-markovic-2014",
+      "label": "Lazar Markovic",
+      "year": 2014,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "mario-balotelli-2014",
+      "label": "Mario Balotelli",
+      "year": 2014,
+      "subtitle": "AC Milan",
+      "description": "Signed from AC Milan",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "rickie-lambert-2014",
+      "label": "Rickie Lambert",
+      "year": 2014,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "adam-bogdan-2015",
+      "label": "Ádám Bogdán",
+      "year": 2015,
+      "subtitle": "Bolton Wanderers",
+      "description": "Signed from Bolton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "christian-benteke-2015",
+      "label": "Christian Benteke",
+      "year": 2015,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "danny-ings-2015",
+      "label": "Danny Ings",
+      "year": 2015,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "james-milner-2015",
+      "label": "James Milner",
+      "year": 2015,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "joe-gomez-2015",
+      "label": "Joe Gomez",
+      "year": 2015,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "marko-grujic-2015",
+      "label": "Marko Grujić",
+      "year": 2015,
+      "subtitle": "Red Star Belgrade",
+      "description": "Signed from Red Star Belgrade",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "nathaniel-clyne-2015",
+      "label": "Nathaniel Clyne",
+      "year": 2015,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "roberto-firmino-2015",
+      "label": "Roberto Firmino",
+      "year": 2015,
+      "subtitle": "TSG 1899 Hoffenheim",
+      "description": "Signed from TSG 1899 Hoffenheim",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "alexander-manninger-2016",
+      "label": "Alexander Manninger",
+      "year": 2016,
+      "subtitle": "FC Augsburg",
+      "description": "Signed from FC Augsburg",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "georginio-wijnaldum-2016",
+      "label": "Georginio Wijnaldum",
+      "year": 2016,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "joel-matip-2016",
+      "label": "Joël Matip",
+      "year": 2016,
+      "subtitle": "FC Schalke 04",
+      "description": "Signed from FC Schalke 04",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "loris-karius-2016",
+      "label": "Loris Karius",
+      "year": 2016,
+      "subtitle": "1.FSV Mainz 05",
+      "description": "Signed from 1.FSV Mainz 05",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "ragnar-klavan-2016",
+      "label": "Ragnar Klavan",
+      "year": 2016,
+      "subtitle": "FC Augsburg",
+      "description": "Signed from FC Augsburg",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "sadio-mane-2016",
+      "label": "Sadio Mané",
+      "year": 2016,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "alex-oxlade-chamberlain-2017",
+      "label": "Alex Oxlade-Chamberlain",
+      "year": 2017,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "andrew-robertson-2017",
+      "label": "Andrew Robertson",
+      "year": 2017,
+      "subtitle": "Hull City",
+      "description": "Signed from Hull City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "mohamed-salah-2017",
+      "label": "Mohamed Salah",
+      "year": 2017,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "virgil-van-dijk-2017",
+      "label": "Virgil van Dijk",
+      "year": 2017,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "alisson-2018",
+      "label": "Alisson",
+      "year": 2018,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "fabinho-2018",
+      "label": "Fabinho",
+      "year": 2018,
+      "subtitle": "AS Monaco",
+      "description": "Signed from AS Monaco",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "naby-keita-2018",
+      "label": "Naby Keïta",
+      "year": 2018,
+      "subtitle": "RB Leipzig",
+      "description": "Signed from RB Leipzig",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "xherdan-shaqiri-2018",
+      "label": "Xherdan Shaqiri",
+      "year": 2018,
+      "subtitle": "Stoke City",
+      "description": "Signed from Stoke City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "adrian-san-miguel-2019",
+      "label": "Adrián San Miguel",
+      "year": 2019,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "andy-lonergan-2019",
+      "label": "Andy Lonergan",
+      "year": 2019,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "sepp-van-den-berg-2019",
+      "label": "Sepp van den Berg",
+      "year": 2019,
+      "subtitle": "PEC Zwolle",
+      "description": "Signed from PEC Zwolle",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "takumi-minamino-2019",
+      "label": "Takumi Minamino",
+      "year": 2019,
+      "subtitle": "Red Bull Salzburg",
+      "description": "Signed from Red Bull Salzburg",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "ben-davies-2020",
+      "label": "Ben Davies",
+      "year": 2020,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "diogo-jota-2020",
+      "label": "Diogo Jota",
+      "year": 2020,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "konstantinos-tsimikas-2020",
+      "label": "Konstantinos Tsimikas",
+      "year": 2020,
+      "subtitle": "Olympiacos Piraeus",
+      "description": "Signed from Olympiacos Piraeus",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "marcelo-pitaluga-2020",
+      "label": "Marcelo Pitaluga",
+      "year": 2020,
+      "subtitle": "Fluminense FC U20",
+      "description": "Signed from Fluminense FC U20",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "thiago-alcantara-2020",
+      "label": "Thiago Alcántara",
+      "year": 2020,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "ibrahima-konate-2021",
+      "label": "Ibrahima Konaté",
+      "year": 2021,
+      "subtitle": "RB Leipzig",
+      "description": "Signed from RB Leipzig",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "luis-diaz-2021",
+      "label": "Luis Díaz",
+      "year": 2021,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "cody-gakpo-2022",
+      "label": "Cody Gakpo",
+      "year": 2022,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "darwin-nunez-2022",
+      "label": "Darwin Núñez",
+      "year": 2022,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "fabio-carvalho-2022",
+      "label": "Fábio Carvalho",
+      "year": 2022,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "alexis-mac-allister-2023",
+      "label": "Alexis Mac Allister",
+      "year": 2023,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "dominik-szoboszlai-2023",
+      "label": "Dominik Szoboszlai",
+      "year": 2023,
+      "subtitle": "RB Leipzig",
+      "description": "Signed from RB Leipzig",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "ryan-gravenberch-2023",
+      "label": "Ryan Gravenberch",
+      "year": 2023,
+      "subtitle": "Bayern Munich",
+      "description": "Signed from Bayern Munich",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "wataru-endo-2023",
+      "label": "Wataru Endo",
+      "year": 2023,
+      "subtitle": "VfB Stuttgart",
+      "description": "Signed from VfB Stuttgart",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "federico-chiesa-2024",
+      "label": "Federico Chiesa",
+      "year": 2024,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "giorgi-mamardashvili-2024",
+      "label": "Giorgi Mamardashvili",
+      "year": 2024,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "alexander-isak-2025",
+      "label": "Alexander Isak",
+      "year": 2025,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "florian-wirtz-2025",
+      "label": "Florian Wirtz",
+      "year": 2025,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "freddie-woodman-2025",
+      "label": "Freddie Woodman",
+      "year": 2025,
+      "subtitle": "Preston North End",
+      "description": "Signed from Preston North End",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "giovanni-leoni-2025",
+      "label": "Giovanni Leoni",
+      "year": 2025,
+      "subtitle": "Parma Calcio 1913",
+      "description": "Signed from Parma Calcio 1913",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "hugo-ekitike-2025",
+      "label": "Hugo Ekitiké",
+      "year": 2025,
+      "subtitle": "Eintracht Frankfurt",
+      "description": "Signed from Eintracht Frankfurt",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "jeremie-frimpong-2025",
+      "label": "Jeremie Frimpong",
+      "year": 2025,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    },
+    {
+      "id": "milos-kerkez-2025",
+      "label": "Milos Kerkez",
+      "year": 2025,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/fc-liverpool/alletransfers/verein/31"
+    }
+  ]
+}

@@ -1,0 +1,2126 @@
+{
+  "id": "tottenham",
+  "slug": "tottenham",
+  "title": "Tottenham Timeline",
+  "shortTitle": "Tottenham",
+  "description": "Place Tottenham Hotspur signings in the correct chronological order.",
+  "category": "Football",
+  "sitePath": "/timeline/tottenham",
+  "theme": {
+    "primary": "#FFFFFF",
+    "secondary": "#132257",
+    "background": "#F5F7FF",
+    "text": "#132257"
+  },
+  "share": {
+    "title": "Tottenham Timeline",
+    "description": "How far can you build the Tottenham Hotspur signing timeline?",
+    "hashtags": [
+      "Tottenham",
+      "FootballQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Tottenham Timeline Quiz - Tottenham Hotspur Signings Game",
+    "description": "Play a Tottenham Hotspur timeline quiz. Guess whether famous Tottenham Hotspur players signed before or after each other and build the longest streak you can.",
+    "keywords": [
+      "Tottenham Hotspur quiz",
+      "Tottenham Hotspur signings",
+      "football timeline game",
+      "Premier League quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "darren-anderton-1992",
+      "label": "Darren Anderton",
+      "year": 1992,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "dean-austin-1992",
+      "label": "Dean Austin",
+      "year": 1992,
+      "subtitle": "Southend United",
+      "description": "Signed from Southend United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "gerry-mcmahon-1992",
+      "label": "Gerry McMahon",
+      "year": 1992,
+      "subtitle": "Glenavon FC",
+      "description": "Signed from Glenavon FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "jason-cundy-1992",
+      "label": "Jason Cundy",
+      "year": 1992,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "neil-ruddock-1992",
+      "label": "Neil Ruddock",
+      "year": 1992,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "colin-calderwood-1993",
+      "label": "Colin Calderwood",
+      "year": 1993,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "david-kerslake-1993",
+      "label": "David Kerslake",
+      "year": 1993,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "jason-dozzell-1993",
+      "label": "Jason Dozzell",
+      "year": 1993,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "kevin-scott-1993",
+      "label": "Kevin Scott",
+      "year": 1993,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "micky-hazard-1993",
+      "label": "Micky Hazard",
+      "year": 1993,
+      "subtitle": "Swindon Town",
+      "description": "Signed from Swindon Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ronny-rosenthal-1993",
+      "label": "Ronny Rosenthal",
+      "year": 1993,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "gheorghe-popescu-1994",
+      "label": "Gheorghe Popescu",
+      "year": 1994,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ilie-dumitrescu-1994",
+      "label": "Ilie Dumitrescu",
+      "year": 1994,
+      "subtitle": "Steaua Bucharest",
+      "description": "Signed from Steaua Bucharest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "owen-coll-1994",
+      "label": "Owen Coll",
+      "year": 1994,
+      "subtitle": "Enfield FC",
+      "description": "Signed from Enfield FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "andy-sinton-1995",
+      "label": "Andy Sinton",
+      "year": 1995,
+      "subtitle": "Sheffield Wednesday",
+      "description": "Signed from Sheffield Wednesday",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "chris-armstrong-1995",
+      "label": "Chris Armstrong",
+      "year": 1995,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "clive-wilson-1995",
+      "label": "Clive Wilson",
+      "year": 1995,
+      "subtitle": "Queens Park Rangers",
+      "description": "Signed from Queens Park Rangers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ruel-fox-1995",
+      "label": "Ruel Fox",
+      "year": 1995,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "allan-nielsen-1996",
+      "label": "Allan Nielsen",
+      "year": 1996,
+      "subtitle": "Bröndby IF",
+      "description": "Signed from Bröndby IF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "espen-baardsen-1996",
+      "label": "Espen Baardsen",
+      "year": 1996,
+      "subtitle": "San Francisco United FC",
+      "description": "Signed from San Francisco United FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "john-scales-1996",
+      "label": "John Scales",
+      "year": 1996,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ramon-vega-1996",
+      "label": "Ramon Vega",
+      "year": 1996,
+      "subtitle": "Cagliari Calcio",
+      "description": "Signed from Cagliari Calcio",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "steffen-iversen-1996",
+      "label": "Steffen Iversen",
+      "year": 1996,
+      "subtitle": "Rosenborg BK",
+      "description": "Signed from Rosenborg BK",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "david-ginola-1997",
+      "label": "David Ginola",
+      "year": 1997,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "frode-grodas-1997",
+      "label": "Frode Grodås",
+      "year": 1997,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "jose-dominguez-1997",
+      "label": "José Dominguez",
+      "year": 1997,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "les-ferdinand-1997",
+      "label": "Les Ferdinand",
+      "year": 1997,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "moussa-saib-1997",
+      "label": "Moussa Saïb",
+      "year": 1997,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "nicola-berti-1997",
+      "label": "Nicola Berti",
+      "year": 1997,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "hans-segers-1998",
+      "label": "Hans Segers",
+      "year": 1998,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "mauricio-taricco-1998",
+      "label": "Mauricio Taricco",
+      "year": 1998,
+      "subtitle": "Ipswich Town",
+      "description": "Signed from Ipswich Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "paolo-tramezzani-1998",
+      "label": "Paolo Tramezzani",
+      "year": 1998,
+      "subtitle": "Piacenza FC",
+      "description": "Signed from Piacenza FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "roger-nilsen-1998",
+      "label": "Roger Nilsen",
+      "year": 1998,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "steffen-freund-1998",
+      "label": "Steffen Freund",
+      "year": 1998,
+      "subtitle": "Borussia Dortmund",
+      "description": "Signed from Borussia Dortmund",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "tim-sherwood-1998",
+      "label": "Tim Sherwood",
+      "year": 1998,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "anthony-gardner-1999",
+      "label": "Anthony Gardner",
+      "year": 1999,
+      "subtitle": "Port Vale FC",
+      "description": "Signed from Port Vale FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "chris-perry-1999",
+      "label": "Chris Perry",
+      "year": 1999,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "dave-mcewen-1999",
+      "label": "Dave McEwen",
+      "year": 1999,
+      "subtitle": "Dulwich Hamlet",
+      "description": "Signed from Dulwich Hamlet",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "gary-doherty-1999",
+      "label": "Gary Doherty",
+      "year": 1999,
+      "subtitle": "Luton Town",
+      "description": "Signed from Luton Town",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "matthew-etherington-1999",
+      "label": "Matthew Etherington",
+      "year": 1999,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "neil-sullivan-1999",
+      "label": "Neil Sullivan",
+      "year": 1999,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "yvind-leonhardsen-1999",
+      "label": "Øyvind Leonhardsen",
+      "year": 1999,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "simon-davies-1999",
+      "label": "Simon Davies",
+      "year": 1999,
+      "subtitle": "Peterborough United",
+      "description": "Signed from Peterborough United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "willem-korsten-1999",
+      "label": "Willem Korsten",
+      "year": 1999,
+      "subtitle": "Vitesse Arnhem",
+      "description": "Signed from Vitesse Arnhem",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ben-thatcher-2000",
+      "label": "Ben Thatcher",
+      "year": 2000,
+      "subtitle": "Wimbledon FC (- 2004)",
+      "description": "Signed from Wimbledon FC (- 2004)",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "sergiy-rebrov-2000",
+      "label": "Sergiy Rebrov",
+      "year": 2000,
+      "subtitle": "Dynamo Kyiv",
+      "description": "Signed from Dynamo Kyiv",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "steven-ferguson-2000",
+      "label": "Steven Ferguson",
+      "year": 2000,
+      "subtitle": "East Fife FC",
+      "description": "Signed from East Fife FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "christian-ziege-2001",
+      "label": "Christian Ziege",
+      "year": 2001,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "dave-beasant-2001",
+      "label": "Dave Beasant",
+      "year": 2001,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "dean-richards-2001",
+      "label": "Dean Richards",
+      "year": 2001,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "goran-bunjevcevic-2001",
+      "label": "Goran Bunjevcevic",
+      "year": 2001,
+      "subtitle": "Red Star Belgrade",
+      "description": "Signed from Red Star Belgrade",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "gustavo-poyet-2001",
+      "label": "Gustavo Poyet",
+      "year": 2001,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "kasey-keller-2001",
+      "label": "Kasey Keller",
+      "year": 2001,
+      "subtitle": "Rayo Vallecano",
+      "description": "Signed from Rayo Vallecano",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "diego-bortolozzo-2002",
+      "label": "Diego Bortolozzo",
+      "year": 2002,
+      "subtitle": "Treviso FBC 1993",
+      "description": "Signed from Treviso FBC 1993",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "jamie-redknapp-2002",
+      "label": "Jamie Redknapp",
+      "year": 2002,
+      "subtitle": "Liverpool FC",
+      "description": "Signed from Liverpool FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "jonathan-blondel-2002",
+      "label": "Jonathan Blondel",
+      "year": 2002,
+      "subtitle": "Excelsior Mouscron (-2009)",
+      "description": "Signed from Excelsior Mouscron (-2009)",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "lars-hirschfeld-2002",
+      "label": "Lars Hirschfeld",
+      "year": 2002,
+      "subtitle": "Calgary Storm",
+      "description": "Signed from Calgary Storm",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "milenko-acimovic-2002",
+      "label": "Milenko Acimovic",
+      "year": 2002,
+      "subtitle": "Red Star Belgrade",
+      "description": "Signed from Red Star Belgrade",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "rohan-ricketts-2002",
+      "label": "Rohan Ricketts",
+      "year": 2002,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "bobby-zamora-2003",
+      "label": "Bobby Zamora",
+      "year": 2003,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "frederic-kanoute-2003",
+      "label": "Frédéric Kanouté",
+      "year": 2003,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "helder-postiga-2003",
+      "label": "Hélder Postiga",
+      "year": 2003,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "mbulelo-mabizela-2003",
+      "label": "Mbulelo Mabizela",
+      "year": 2003,
+      "subtitle": "Orlando Pirates",
+      "description": "Signed from Orlando Pirates",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "michael-brown-2003",
+      "label": "Michael Brown",
+      "year": 2003,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "andy-reid-2004",
+      "label": "Andy Reid",
+      "year": 2004,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "calum-davenport-2004",
+      "label": "Calum Davenport",
+      "year": 2004,
+      "subtitle": "Coventry City",
+      "description": "Signed from Coventry City",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "edson-sousa-2004",
+      "label": "Edson Sousa",
+      "year": 2004,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "erik-edman-2004",
+      "label": "Erik Edman",
+      "year": 2004,
+      "subtitle": "SC Heerenveen",
+      "description": "Signed from SC Heerenveen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "marton-fulop-2004",
+      "label": "Márton Fülöp",
+      "year": 2004,
+      "subtitle": "MTK Budapest",
+      "description": "Signed from MTK Budapest",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "michael-carrick-2004",
+      "label": "Michael Carrick",
+      "year": 2004,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "michael-dawson-2004",
+      "label": "Michael Dawson",
+      "year": 2004,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "mounir-el-hamdaoui-2004",
+      "label": "Mounir El Hamdaoui",
+      "year": 2004,
+      "subtitle": "SBV Excelsior",
+      "description": "Signed from SBV Excelsior",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "noe-pamarot-2004",
+      "label": "Noé Pamarot",
+      "year": 2004,
+      "subtitle": "OGC Nice",
+      "description": "Signed from OGC Nice",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "noureddine-naybet-2004",
+      "label": "Noureddine Naybet",
+      "year": 2004,
+      "subtitle": "Deportivo de La Coruña",
+      "description": "Signed from Deportivo de La Coruña",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "paul-robinson-2004",
+      "label": "Paul Robinson",
+      "year": 2004,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "pedro-mendes-2004",
+      "label": "Pedro Mendes",
+      "year": 2004,
+      "subtitle": "FC Porto",
+      "description": "Signed from FC Porto",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "reto-ziegler-2004",
+      "label": "Reto Ziegler",
+      "year": 2004,
+      "subtitle": "Grasshopper Club Zurich",
+      "description": "Signed from Grasshopper Club Zurich",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "rodrigo-defendi-2004",
+      "label": "Rodrigo Defendi",
+      "year": 2004,
+      "subtitle": "Cruzeiro Esporte Clube",
+      "description": "Signed from Cruzeiro Esporte Clube",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "sean-davis-2004",
+      "label": "Sean Davis",
+      "year": 2004,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "spase-dilevski-2004",
+      "label": "Spase Dilevski",
+      "year": 2004,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "thimothee-atouba-2004",
+      "label": "Thimothée Atouba",
+      "year": 2004,
+      "subtitle": "FC Basel 1893",
+      "description": "Signed from FC Basel 1893",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "aaron-lennon-2005",
+      "label": "Aaron Lennon",
+      "year": 2005,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "danny-murphy-2005",
+      "label": "Danny Murphy",
+      "year": 2005,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "edgar-davids-2005",
+      "label": "Edgar Davids",
+      "year": 2005,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "grzegorz-rasiak-2005",
+      "label": "Grzegorz Rasiak",
+      "year": 2005,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "hossam-ghaly-2005",
+      "label": "Hossam Ghaly",
+      "year": 2005,
+      "subtitle": "Feyenoord Rotterdam",
+      "description": "Signed from Feyenoord Rotterdam",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "jermaine-jenas-2005",
+      "label": "Jermaine Jenas",
+      "year": 2005,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "paul-stalteri-2005",
+      "label": "Paul Stalteri",
+      "year": 2005,
+      "subtitle": "SV Werder Bremen",
+      "description": "Signed from SV Werder Bremen",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "teemu-tainio-2005",
+      "label": "Teemu Tainio",
+      "year": 2005,
+      "subtitle": "AJ Auxerre",
+      "description": "Signed from AJ Auxerre",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "tom-huddlestone-2005",
+      "label": "Tom Huddlestone",
+      "year": 2005,
+      "subtitle": "Derby County",
+      "description": "Signed from Derby County",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "wayne-routledge-2005",
+      "label": "Wayne Routledge",
+      "year": 2005,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "young-pyo-lee-2005",
+      "label": "Young-pyo Lee",
+      "year": 2005,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ben-alnwick-2006",
+      "label": "Ben Alnwick",
+      "year": 2006,
+      "subtitle": "Sunderland AFC",
+      "description": "Signed from Sunderland AFC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "benoit-assou-ekotto-2006",
+      "label": "Benoît Assou-Ekotto",
+      "year": 2006,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "didier-zokora-2006",
+      "label": "Didier Zokora",
+      "year": 2006,
+      "subtitle": "AS Saint-Étienne",
+      "description": "Signed from AS Saint-Étienne",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "dimitar-berbatov-2006",
+      "label": "Dimitar Berbatov",
+      "year": 2006,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "mido-2006",
+      "label": "Mido",
+      "year": 2006,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "radek-cerny-2006",
+      "label": "Radek Cerny",
+      "year": 2006,
+      "subtitle": "SK Slavia Prague",
+      "description": "Signed from SK Slavia Prague",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ricardo-rocha-2006",
+      "label": "Ricardo Rocha",
+      "year": 2006,
+      "subtitle": "SL Benfica",
+      "description": "Signed from SL Benfica",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "steed-malbranque-2006",
+      "label": "Steed Malbranque",
+      "year": 2006,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "adel-taarabt-2007",
+      "label": "Adel Taarabt",
+      "year": 2007,
+      "subtitle": "RC Lens",
+      "description": "Signed from RC Lens",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "alan-hutton-2007",
+      "label": "Alan Hutton",
+      "year": 2007,
+      "subtitle": "Rangers FC",
+      "description": "Signed from Rangers FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "chris-gunter-2007",
+      "label": "Chris Gunter",
+      "year": 2007,
+      "subtitle": "Cardiff City",
+      "description": "Signed from Cardiff City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "darren-bent-2007",
+      "label": "Darren Bent",
+      "year": 2007,
+      "subtitle": "Charlton Athletic",
+      "description": "Signed from Charlton Athletic",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "gareth-bale-2007",
+      "label": "Gareth Bale",
+      "year": 2007,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "gilberto-2007",
+      "label": "Gilberto",
+      "year": 2007,
+      "subtitle": "Hertha BSC",
+      "description": "Signed from Hertha BSC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "jonathan-woodgate-2007",
+      "label": "Jonathan Woodgate",
+      "year": 2007,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "kevin-prince-boateng-2007",
+      "label": "Kevin-Prince Boateng",
+      "year": 2007,
+      "subtitle": "Hertha BSC",
+      "description": "Signed from Hertha BSC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "carlo-cudicini-2008",
+      "label": "Carlo Cudicini",
+      "year": 2008,
+      "subtitle": "Chelsea FC",
+      "description": "Signed from Chelsea FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "cesar-sanchez-2008",
+      "label": "César Sánchez",
+      "year": 2008,
+      "subtitle": "Real Zaragoza",
+      "description": "Signed from Real Zaragoza",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "david-bentley-2008",
+      "label": "David Bentley",
+      "year": 2008,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "giovani-dos-santos-2008",
+      "label": "Giovani dos Santos",
+      "year": 2008,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "heurelho-gomes-2008",
+      "label": "Heurelho Gomes",
+      "year": 2008,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "john-bostock-2008",
+      "label": "John Bostock",
+      "year": 2008,
+      "subtitle": "Crystal Palace",
+      "description": "Signed from Crystal Palace",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "luka-modric-2008",
+      "label": "Luka Modrić",
+      "year": 2008,
+      "subtitle": "GNK Dinamo Zagreb",
+      "description": "Signed from GNK Dinamo Zagreb",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "roman-pavlyuchenko-2008",
+      "label": "Roman Pavlyuchenko",
+      "year": 2008,
+      "subtitle": "Spartak Moscow",
+      "description": "Signed from Spartak Moscow",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "vedran-corluka-2008",
+      "label": "Vedran Corluka",
+      "year": 2008,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "wilson-palacios-2008",
+      "label": "Wilson Palacios",
+      "year": 2008,
+      "subtitle": "Wigan Athletic",
+      "description": "Signed from Wigan Athletic",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "jimmy-walker-2009",
+      "label": "Jimmy Walker",
+      "year": 2009,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "kyle-naughton-2009",
+      "label": "Kyle Naughton",
+      "year": 2009,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "kyle-walker-2009",
+      "label": "Kyle Walker",
+      "year": 2009,
+      "subtitle": "Sheffield United",
+      "description": "Signed from Sheffield United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "niko-kranjcar-2009",
+      "label": "Niko Kranjcar",
+      "year": 2009,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "peter-crouch-2009",
+      "label": "Peter Crouch",
+      "year": 2009,
+      "subtitle": "Portsmouth FC",
+      "description": "Signed from Portsmouth FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "sebastien-bassong-2009",
+      "label": "Sébastien Bassong",
+      "year": 2009,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "bongani-khumalo-2010",
+      "label": "Bongani Khumalo",
+      "year": 2010,
+      "subtitle": "SuperSport United",
+      "description": "Signed from SuperSport United",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "rafael-van-der-vaart-2010",
+      "label": "Rafael van der Vaart",
+      "year": 2010,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "sandro-2010",
+      "label": "Sandro",
+      "year": 2010,
+      "subtitle": "Sport Club Internacional",
+      "description": "Signed from Sport Club Internacional",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "steven-pienaar-2010",
+      "label": "Steven Pienaar",
+      "year": 2010,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "william-gallas-2010",
+      "label": "William Gallas",
+      "year": 2010,
+      "subtitle": "Arsenal FC",
+      "description": "Signed from Arsenal FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "brad-friedel-2011",
+      "label": "Brad Friedel",
+      "year": 2011,
+      "subtitle": "Aston Villa",
+      "description": "Signed from Aston Villa",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "iago-falque-2011",
+      "label": "Iago Falque",
+      "year": 2011,
+      "subtitle": "Juventus Primavera",
+      "description": "Signed from Juventus Primavera",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "louis-saha-2011",
+      "label": "Louis Saha",
+      "year": 2011,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ryan-nelsen-2011",
+      "label": "Ryan Nelsen",
+      "year": 2011,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "scott-parker-2011",
+      "label": "Scott Parker",
+      "year": 2011,
+      "subtitle": "West Ham United",
+      "description": "Signed from West Ham United",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "clint-dempsey-2012",
+      "label": "Clint Dempsey",
+      "year": 2012,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "emmanuel-adebayor-2012",
+      "label": "Emmanuel Adebayor",
+      "year": 2012,
+      "subtitle": "Manchester City",
+      "description": "Signed from Manchester City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "grant-hall-2012",
+      "label": "Grant Hall",
+      "year": 2012,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "gylfi-sigurdsson-2012",
+      "label": "Gylfi Sigurdsson",
+      "year": 2012,
+      "subtitle": "TSG 1899 Hoffenheim",
+      "description": "Signed from TSG 1899 Hoffenheim",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "hugo-lloris-2012",
+      "label": "Hugo Lloris",
+      "year": 2012,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "jan-vertonghen-2012",
+      "label": "Jan Vertonghen",
+      "year": 2012,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "lewis-holtby-2012",
+      "label": "Lewis Holtby",
+      "year": 2012,
+      "subtitle": "FC Schalke 04",
+      "description": "Signed from FC Schalke 04",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "mousa-dembele-2012",
+      "label": "Mousa Dembélé",
+      "year": 2012,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "zeki-fryers-2012",
+      "label": "Zeki Fryers",
+      "year": 2012,
+      "subtitle": "Standard Liège",
+      "description": "Signed from Standard Liège",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "christian-eriksen-2013",
+      "label": "Christian Eriksen",
+      "year": 2013,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "erik-lamela-2013",
+      "label": "Erik Lamela",
+      "year": 2013,
+      "subtitle": "AS Roma",
+      "description": "Signed from AS Roma",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "etienne-capoue-2013",
+      "label": "Étienne Capoue",
+      "year": 2013,
+      "subtitle": "FC Toulouse",
+      "description": "Signed from FC Toulouse",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "nacer-chadli-2013",
+      "label": "Nacer Chadli",
+      "year": 2013,
+      "subtitle": "FC Twente Enschede",
+      "description": "Signed from FC Twente Enschede",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "paulinho-2013",
+      "label": "Paulinho",
+      "year": 2013,
+      "subtitle": "Sport Club Corinthians Paulista",
+      "description": "Signed from Sport Club Corinthians Paulista",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "roberto-soldado-2013",
+      "label": "Roberto Soldado",
+      "year": 2013,
+      "subtitle": "Valencia CF",
+      "description": "Signed from Valencia CF",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "vlad-chiriches-2013",
+      "label": "Vlad Chiricheș",
+      "year": 2013,
+      "subtitle": "Steaua Bucharest",
+      "description": "Signed from Steaua Bucharest",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ben-davies-2014",
+      "label": "Ben Davies",
+      "year": 2014,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "benjamin-stambouli-2014",
+      "label": "Benjamin Stambouli",
+      "year": 2014,
+      "subtitle": "Montpellier HSC",
+      "description": "Signed from Montpellier HSC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "deandre-yedlin-2014",
+      "label": "DeAndre Yedlin",
+      "year": 2014,
+      "subtitle": "Seattle Sounders FC",
+      "description": "Signed from Seattle Sounders FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "dele-alli-2014",
+      "label": "Dele Alli",
+      "year": 2014,
+      "subtitle": "Milton Keynes Dons",
+      "description": "Signed from Milton Keynes Dons",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "eric-dier-2014",
+      "label": "Eric Dier",
+      "year": 2014,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "federico-fazio-2014",
+      "label": "Federico Fazio",
+      "year": 2014,
+      "subtitle": "Sevilla FC",
+      "description": "Signed from Sevilla FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "michel-vorm-2014",
+      "label": "Michel Vorm",
+      "year": 2014,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "clinton-n-jie-2015",
+      "label": "Clinton N'Jie",
+      "year": 2015,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "heung-min-son-2015",
+      "label": "Heung-min Son",
+      "year": 2015,
+      "subtitle": "Bayer 04 Leverkusen",
+      "description": "Signed from Bayer 04 Leverkusen",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "kevin-wimmer-2015",
+      "label": "Kevin Wimmer",
+      "year": 2015,
+      "subtitle": "1.FC Köln",
+      "description": "Signed from 1.FC Köln",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "kieran-trippier-2015",
+      "label": "Kieran Trippier",
+      "year": 2015,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "toby-alderweireld-2015",
+      "label": "Toby Alderweireld",
+      "year": 2015,
+      "subtitle": "Atlético de Madrid",
+      "description": "Signed from Atlético de Madrid",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "georges-kevin-n-koudou-2016",
+      "label": "Georges-Kevin N'Koudou",
+      "year": 2016,
+      "subtitle": "Olympique Marseille",
+      "description": "Signed from Olympique Marseille",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "moussa-sissoko-2016",
+      "label": "Moussa Sissoko",
+      "year": 2016,
+      "subtitle": "Newcastle United",
+      "description": "Signed from Newcastle United",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "victor-wanyama-2016",
+      "label": "Victor Wanyama",
+      "year": 2016,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "vincent-janssen-2016",
+      "label": "Vincent Janssen",
+      "year": 2016,
+      "subtitle": "AZ Alkmaar",
+      "description": "Signed from AZ Alkmaar",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "davinson-sanchez-2017",
+      "label": "Davinson Sánchez",
+      "year": 2017,
+      "subtitle": "Ajax Amsterdam",
+      "description": "Signed from Ajax Amsterdam",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "fernando-llorente-2017",
+      "label": "Fernando Llorente",
+      "year": 2017,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "juan-foyth-2017",
+      "label": "Juan Foyth",
+      "year": 2017,
+      "subtitle": "Club Estudiantes de La Plata",
+      "description": "Signed from Club Estudiantes de La Plata",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "lucas-moura-2017",
+      "label": "Lucas Moura",
+      "year": 2017,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "paulo-gazzaniga-2017",
+      "label": "Paulo Gazzaniga",
+      "year": 2017,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "serge-aurier-2017",
+      "label": "Serge Aurier",
+      "year": 2017,
+      "subtitle": "Paris Saint-Germain",
+      "description": "Signed from Paris Saint-Germain",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "jack-clarke-2019",
+      "label": "Jack Clarke",
+      "year": 2019,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ryan-sessegnon-2019",
+      "label": "Ryan Sessegnon",
+      "year": 2019,
+      "subtitle": "Fulham FC",
+      "description": "Signed from Fulham FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "steven-bergwijn-2019",
+      "label": "Steven Bergwijn",
+      "year": 2019,
+      "subtitle": "PSV Eindhoven",
+      "description": "Signed from PSV Eindhoven",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "tanguy-ndombele-2019",
+      "label": "Tanguy Ndombélé",
+      "year": 2019,
+      "subtitle": "Olympique Lyon",
+      "description": "Signed from Olympique Lyon",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "giovani-lo-celso-2020",
+      "label": "Giovani Lo Celso",
+      "year": 2020,
+      "subtitle": "Real Betis Balompié",
+      "description": "Signed from Real Betis Balompié",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "joe-hart-2020",
+      "label": "Joe Hart",
+      "year": 2020,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "joe-rodon-2020",
+      "label": "Joe Rodon",
+      "year": 2020,
+      "subtitle": "Swansea City",
+      "description": "Signed from Swansea City",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "matt-doherty-2020",
+      "label": "Matt Doherty",
+      "year": 2020,
+      "subtitle": "Wolverhampton Wanderers",
+      "description": "Signed from Wolverhampton Wanderers",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "pierre-emile-h-jbjerg-2020",
+      "label": "Pierre-Emile Højbjerg",
+      "year": 2020,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "sergio-reguilon-2020",
+      "label": "Sergio Reguilón",
+      "year": 2020,
+      "subtitle": "Real Madrid",
+      "description": "Signed from Real Madrid",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "bryan-gil-2021",
+      "label": "Bryan Gil",
+      "year": 2021,
+      "subtitle": "Sevilla FC",
+      "description": "Signed from Sevilla FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "emerson-royal-2021",
+      "label": "Emerson Royal",
+      "year": 2021,
+      "subtitle": "FC Barcelona",
+      "description": "Signed from FC Barcelona",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "pape-matar-sarr-2021",
+      "label": "Pape Matar Sarr",
+      "year": 2021,
+      "subtitle": "FC Metz",
+      "description": "Signed from FC Metz",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "rodrigo-bentancur-2021",
+      "label": "Rodrigo Bentancur",
+      "year": 2021,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "cristian-romero-2022",
+      "label": "Cristian Romero",
+      "year": 2022,
+      "subtitle": "Atalanta BC",
+      "description": "Signed from Atalanta BC",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "destiny-udogie-2022",
+      "label": "Destiny Udogie",
+      "year": 2022,
+      "subtitle": "Udinese Calcio",
+      "description": "Signed from Udinese Calcio",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "djed-spence-2022",
+      "label": "Djed Spence",
+      "year": 2022,
+      "subtitle": "Middlesbrough FC",
+      "description": "Signed from Middlesbrough FC",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "fraser-forster-2022",
+      "label": "Fraser Forster",
+      "year": 2022,
+      "subtitle": "Southampton FC",
+      "description": "Signed from Southampton FC",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ivan-perisic-2022",
+      "label": "Ivan Perišić",
+      "year": 2022,
+      "subtitle": "Inter Milan",
+      "description": "Signed from Inter Milan",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "richarlison-2022",
+      "label": "Richarlison",
+      "year": 2022,
+      "subtitle": "Everton FC",
+      "description": "Signed from Everton FC",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "yves-bissouma-2022",
+      "label": "Yves Bissouma",
+      "year": 2022,
+      "subtitle": "Brighton & Hove Albion",
+      "description": "Signed from Brighton & Hove Albion",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "alejo-veliz-2023",
+      "label": "Alejo Veliz",
+      "year": 2023,
+      "subtitle": "CA Rosario Central",
+      "description": "Signed from CA Rosario Central",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "ashley-phillips-2023",
+      "label": "Ashley Phillips",
+      "year": 2023,
+      "subtitle": "Blackburn Rovers",
+      "description": "Signed from Blackburn Rovers",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "brennan-johnson-2023",
+      "label": "Brennan Johnson",
+      "year": 2023,
+      "subtitle": "Nottingham Forest",
+      "description": "Signed from Nottingham Forest",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "dejan-kulusevski-2023",
+      "label": "Dejan Kulusevski",
+      "year": 2023,
+      "subtitle": "Juventus FC",
+      "description": "Signed from Juventus FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "guglielmo-vicario-2023",
+      "label": "Guglielmo Vicario",
+      "year": 2023,
+      "subtitle": "FC Empoli",
+      "description": "Signed from FC Empoli",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "james-maddison-2023",
+      "label": "James Maddison",
+      "year": 2023,
+      "subtitle": "Leicester City",
+      "description": "Signed from Leicester City",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "manor-solomon-2023",
+      "label": "Manor Solomon",
+      "year": 2023,
+      "subtitle": "Shakhtar Donetsk",
+      "description": "Signed from Shakhtar Donetsk",
+      "popularity": 45,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "micky-van-de-ven-2023",
+      "label": "Micky van de Ven",
+      "year": 2023,
+      "subtitle": "VfL Wolfsburg",
+      "description": "Signed from VfL Wolfsburg",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "pedro-porro-2023",
+      "label": "Pedro Porro",
+      "year": 2023,
+      "subtitle": "Sporting CP",
+      "description": "Signed from Sporting CP",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "radu-dragusin-2023",
+      "label": "Radu Drăgușin",
+      "year": 2023,
+      "subtitle": "Genoa CFC",
+      "description": "Signed from Genoa CFC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "antonin-kinsky-2024",
+      "label": "Antonín Kinský",
+      "year": 2024,
+      "subtitle": "SK Slavia Prague",
+      "description": "Signed from SK Slavia Prague",
+      "popularity": 65,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "archie-gray-2024",
+      "label": "Archie Gray",
+      "year": 2024,
+      "subtitle": "Leeds United",
+      "description": "Signed from Leeds United",
+      "popularity": 88,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "dominic-solanke-2024",
+      "label": "Dominic Solanke",
+      "year": 2024,
+      "subtitle": "AFC Bournemouth",
+      "description": "Signed from AFC Bournemouth",
+      "popularity": 95,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "lucas-bergvall-2024",
+      "label": "Lucas Bergvall",
+      "year": 2024,
+      "subtitle": "Djurgårdens IF",
+      "description": "Signed from Djurgårdens IF",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "min-hyeok-yang-2024",
+      "label": "Min-hyeok Yang",
+      "year": 2024,
+      "subtitle": "Gangwon FC",
+      "description": "Signed from Gangwon FC",
+      "popularity": 55,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    },
+    {
+      "id": "wilson-odobert-2024",
+      "label": "Wilson Odobert",
+      "year": 2024,
+      "subtitle": "Burnley FC",
+      "description": "Signed from Burnley FC",
+      "popularity": 78,
+      "tags": [],
+      "source": "https://www.transfermarkt.us/tottenham-hotspur/alletransfers/verein/148"
+    }
+  ]
+}
