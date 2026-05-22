@@ -9,6 +9,12 @@ RUN npm ci
 # Copy the rest of the source files
 COPY . .
 
+# Declare build arguments for public env variables needed at build-time
+ARG NEXT_PUBLIC_UMAMI_SCRIPT_URL
+ARG NEXT_PUBLIC_UMAMI_WEBSITE_ID
+ENV NEXT_PUBLIC_UMAMI_SCRIPT_URL=$NEXT_PUBLIC_UMAMI_SCRIPT_URL
+ENV NEXT_PUBLIC_UMAMI_WEBSITE_ID=$NEXT_PUBLIC_UMAMI_WEBSITE_ID
+
 # Run production build
 RUN npm run build
 

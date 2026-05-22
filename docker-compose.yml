@@ -4,16 +4,20 @@ services:
     container_name: erasgames-db
     restart: always
     environment:
-      MYSQL_DATABASE: 'erasgames'
-      MYSQL_USER: 'erasgames_user'
-      MYSQL_PASSWORD: 'choose_a_strong_password'
-      MYSQL_ROOT_PASSWORD: 'choose_a_strong_root_password'
+      MYSQL_DATABASE: ${DB_DATABASE:-erasgames}
+      MYSQL_USER: ${DB_USER:-erasgames_user}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:-choose_a_strong_root_password}
       MYSQL_ALLOW_EMPTY_PASSWORD: 'no'
     volumes:
       - ./mysql_data:/var/lib/mysql
 
   web:
-    build: .
+    build:
+      context: .
+      args:
+        - NEXT_PUBLIC_UMAMI_SCRIPT_URL=${NEXT_PUBLIC_UMAMI_SCRIPT_URL}
+        - NEXT_PUBLIC_UMAMI_WEBSITE_ID=${NEXT_PUBLIC_UMAMI_WEBSITE_ID}
     container_name: erasgames-web
     env_file: .env
     restart: always
