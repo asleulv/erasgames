@@ -59,7 +59,8 @@ async function checkDbAvailable(): Promise<boolean> {
   } catch (e) {
     if (!globalForMemoryDb.hasCheckedDb) {
       console.warn(
-        "⚠️ MySQL Database is not running or accessible. Leaderboard will run in in-memory fallback mode."
+        "⚠️ MySQL Database is not running or accessible. Leaderboard will run in in-memory fallback mode. Error details:",
+        e
       );
       globalForMemoryDb.hasCheckedDb = true;
     }
