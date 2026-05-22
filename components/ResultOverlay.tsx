@@ -312,7 +312,7 @@ export function ResultOverlay({
                     maxLength={24}
                     required
                   />
-                  <button type="submit">Submit</button>
+                  <button type="submit" data-umami-event="Submit Score">Submit</button>
                 </div>
               </form>
             )}
@@ -324,11 +324,11 @@ export function ResultOverlay({
                   <strong>{timeUntilMidnight || "--h --m --s"}</strong>
                 </div>
               ) : (
-                <button type="button" onClick={onPlayAgain}>
+                <button type="button" onClick={onPlayAgain} data-umami-event="Play Again">
                   Play again
                 </button>
               )}
-              <button type="button" onClick={shareResult}>
+              <button type="button" onClick={shareResult} data-umami-event="Share Result">
                 {shareCopied ? "Copied" : "Share result"}
               </button>
             </div>

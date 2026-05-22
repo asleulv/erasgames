@@ -30,10 +30,20 @@ export function ActiveGuessCard({
         <strong>{pivot.year}</strong>
       </div>
       <div className="answer-grid">
-        <button type="button" disabled={isResolving} onClick={() => onAnswer("before")}>
+        <button 
+          type="button" 
+          disabled={isResolving} 
+          onClick={() => onAnswer("before")}
+          data-umami-event="Guess Before"
+        >
           Before
         </button>
-        <button type="button" disabled={isResolving} onClick={() => onAnswer("after")}>
+        <button 
+          type="button" 
+          disabled={isResolving} 
+          onClick={() => onAnswer("after")}
+          data-umami-event="Guess After"
+        >
           After
         </button>
       </div>

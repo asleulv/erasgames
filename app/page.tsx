@@ -64,6 +64,8 @@ export default function HomePage() {
         className="theme-toggle" 
         onClick={toggleTheme} 
         aria-label="Toggle dark mode"
+        data-umami-event="Toggle Theme"
+        data-umami-event-page="homepage"
         style={{
           position: "absolute",
           top: "24px",
@@ -110,6 +112,8 @@ export default function HomePage() {
             className="game-link"
             href={game.sitePath}
             key={game.id}
+            data-umami-event="Play Game"
+            data-umami-event-game={game.id}
             style={
               (() => {
                 const bg = cardBg(game.theme.primary);

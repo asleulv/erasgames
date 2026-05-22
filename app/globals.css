@@ -1723,7 +1723,7 @@ body.dark .daily-completed-actions-banner {
 .info-timer {
   font-size: 1.25rem;
   font-weight: 900;
-  color: var(--game-active-accent, var(--game-primary));
+  color: var(--game-brand-accent, var(--game-primary));
   letter-spacing: 0.02em;
 }
 

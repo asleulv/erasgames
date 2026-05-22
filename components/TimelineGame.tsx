@@ -492,7 +492,12 @@ export function TimelineGame({ game }: TimelineGameProps) {
     >
       <header className="game-header">
         <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-          <Link href="/" className="game-back-button" title="Gå tilbake til forsida">
+          <Link 
+            href="/" 
+            className="game-back-button" 
+            title="Gå tilbake til forsida"
+            data-umami-event="Back to Homepage"
+          >
             ←
           </Link>
           <h1>{game.title}</h1>
@@ -511,6 +516,8 @@ export function TimelineGame({ game }: TimelineGameProps) {
             className="game-theme-toggle" 
             onClick={toggleTheme} 
             title="Toggle theme"
+            data-umami-event="Toggle Theme"
+            data-umami-event-page="game"
           >
             {theme === 'light' ? '☾' : '☀'}
           </button>
@@ -561,7 +568,12 @@ export function TimelineGame({ game }: TimelineGameProps) {
                       <p>
                         Test your memory by placing each player on the timeline. One mistake ends your streak, and a 10-second timer runs for each card!
                       </p>
-                      <button type="button" className="btn-start-game" onClick={() => setIsGameStarted(true)}>
+                      <button 
+                        type="button" 
+                        className="btn-start-game" 
+                        onClick={() => setIsGameStarted(true)}
+                        data-umami-event="Start Game"
+                      >
                         Start Game
                       </button>
                     </article>
@@ -582,10 +594,19 @@ export function TimelineGame({ game }: TimelineGameProps) {
             </div>
           )}
           <div className="banner-buttons">
-            <button type="button" className="btn-reopen-results" onClick={() => setShowResult(true)}>
+            <button 
+              type="button" 
+              className="btn-reopen-results" 
+              onClick={() => setShowResult(true)}
+              data-umami-event="View Results"
+            >
               View Results
             </button>
-            <Link href="/" className="btn-back-home">
+            <Link 
+              href="/" 
+              className="btn-back-home"
+              data-umami-event="Play Other Timelines"
+            >
               Play other timelines
             </Link>
           </div>
