@@ -44,4 +44,6 @@ export type TimelineGameData = {
 export type PublicGameSummary = Pick<
   TimelineGameData,
   "id" | "slug" | "title" | "shortTitle" | "description" | "category" | "sitePath" | "theme"
->;
+> & {
+  itemCount: number;
+};

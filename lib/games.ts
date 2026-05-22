@@ -22,7 +22,6 @@ import wolves from "@/data/games/wolves.json";
 import type { PublicGameSummary, TimelineGameData } from "@/lib/timeline-types";
 
 const games = [
-  wolves,
   arsenal,
   astonVilla,
   bournemouth,
@@ -41,7 +40,8 @@ const games = [
   nottinghamForest,
   sunderland,
   tottenham,
-  westHam
+  westHam,
+  wolves
 ] as TimelineGameData[];
 
 export function getAllGames(): TimelineGameData[] {
@@ -53,7 +53,7 @@ export function getGame(slug: string): TimelineGameData | undefined {
 }
 
 export function getGameSummaries(): PublicGameSummary[] {
-  return games.map(({ id, slug, title, shortTitle, description, category, sitePath, theme }) => ({
+  return games.map(({ id, slug, title, shortTitle, description, category, sitePath, theme, items }) => ({
     id,
     slug,
     title,
@@ -61,6 +61,7 @@ export function getGameSummaries(): PublicGameSummary[] {
     description,
     category,
     sitePath,
-    theme
+    theme,
+    itemCount: items.length
   }));
 }

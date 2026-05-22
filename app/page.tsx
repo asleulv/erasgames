@@ -33,6 +33,9 @@ export default function HomePage() {
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [mounted, setMounted] = useState(false);
 
+  const [randomGames, setRandomGames] = useState(games.slice(0, 10));
+  const [todayScores, setTodayScores] = useState<Record<string, number>>({});
+
   useEffect(() => {
     setMounted(true);
     const savedTheme = localStorage.getItem('theme') as 'light' | 'dark' | null;
@@ -45,6 +48,17 @@ export default function HomePage() {
     } else {
       document.body.classList.remove('dark');
     }
+
+    // Shuffle random games client-side only
+    const shuffled = [...games].sort(() => Math.random() - 0.5);
+    setRandomGames(shuffled.slice(0, 10));
+
+    // Fetch today's best scores
+    const today = new Date().toISOString().split('T')[0];
+    fetch(`/api/leaderboard/today?date=${today}`)
+      .then(r => r.json())
+      .then(data => { if (data.scores) setTodayScores(data.scores); })
+      .catch(() => {});
   }, []);
 
   const toggleTheme = () => {
@@ -106,7 +120,13 @@ export default function HomePage() {
         </p>
       </section>
 
-      <section className="game-list" aria-label="Available games">
+      <section className="game-list-section">
+        <div className="game-list-header">
+          <h2 className="game-list-title">Football</h2>
+          <p className="game-list-subtitle">Choose a club and place their signings in chronological order. One wrong answer ends your run.</p>
+        </div>
+
+        <div className="game-list" aria-label="Available games">
         {games.map((game) => (
           <Link
             className="game-link"
@@ -117,34 +137,64 @@ export default function HomePage() {
             style={
               (() => {
                 const bg = cardBg(game.theme.primary);
-                const isLight = getLum(bg) > 0.45;
-                const bgEnd = isLight
-                  ? `color-mix(in srgb, ${bg} 93%, #000000)` // soft silver-grey for white/light cards
-                  : `color-mix(in srgb, ${bg} 82%, #000000)`; // deep rich gradient end for dark cards
-
                 return {
                   "--game-primary": game.theme.primary,
                   "--game-secondary": game.theme.secondary,
                   "--game-card-bg": bg,
-                  "--game-card-bg-end": bgEnd,
                   "--game-card-text": cardText(bg),
                   "--game-card-accent": cardAccent(game.theme.primary, game.theme.secondary, bg),
                 } as React.CSSProperties;
               })()
             }
           >
-            <div className="game-card-content">
-              <span className="game-card-category">{game.category}</span>
-              <h2>{game.title}</h2>
-              <p>{game.description}</p>
+            <div className="game-card-meta">
+              <span className="game-card-count">{game.itemCount} entries</span>
+              {todayScores[game.id] !== undefined && (
+                <span className="game-card-today">Today's best score: {todayScores[game.id]}</span>
+              )}
             </div>
-            <div className="game-card-action">
-              <span>Play Now</span>
-              <span className="arrow">&rarr;</span>
+            <div className="game-card-content">
+              <h2>{game.shortTitle ?? game.title}</h2>
             </div>
           </Link>
         ))}
+        </div>
       </section>
+
+      <footer className="home-footer">
+        <div className="footer-top">
+          <div className="footer-brand">
+            <Image
+              src={!mounted || theme === 'light' ? "/logo-dark.png" : "/logo-light.png"}
+              alt="Eras Games"
+              width={120}
+              height={70}
+              style={{ marginBottom: "12px" }}
+            />
+            <p className="footer-brand-text">
+              Simple, yet addictive timeline quiz games. Test your football and pop-culture knowledge by ordering events chronologically.
+            </p>
+          </div>
+          
+          <div className="footer-links-grid">
+            <div className="footer-link-group">
+              <h4 className="footer-group-title">Timelines</h4>
+              {randomGames.map((game) => (
+                <Link key={game.id} href={game.sitePath} className="footer-link">
+                  {game.shortTitle ?? game.title}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        <div className="footer-bottom">
+          <p>© {new Date().getFullYear()} Eras Games. All rights reserved.</p>
+          <div className="norway-badge">
+            We miss you Nuno 🐺
+          </div>
+        </div>
+      </footer>
     </main>
   );
 }
