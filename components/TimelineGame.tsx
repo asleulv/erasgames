@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
+import Link from "next/link";
 import { resolveTimelineSettings, yearGapForScore } from "@/lib/timeline-settings";
 import { createRng, getPlayableItems, makeSeed, pickWeighted } from "@/lib/timeline-engine";
 import type { TimelineGameData, TimelineItem } from "@/lib/timeline-types";
@@ -110,6 +111,31 @@ export function TimelineGame({ game }: TimelineGameProps) {
   const [failedPivotCard, setFailedPivotCard] = useState<TimelineItem | null>(null);
   const [formattedDate, setFormattedDate] = useState("");
   const [isGameStarted, setIsGameStarted] = useState(false);
+  const [theme, setTheme] = useState<'light' | 'dark'>('light');
+
+  useEffect(() => {
+    const savedTheme = localStorage.getItem('theme') as 'light' | 'dark' | null;
+    const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const initialTheme = savedTheme || (systemPrefersDark ? 'dark' : 'light');
+    
+    setTheme(initialTheme);
+    if (initialTheme === 'dark') {
+      document.body.classList.add('dark');
+    } else {
+      document.body.classList.remove('dark');
+    }
+  }, []);
+
+  const toggleTheme = () => {
+    const nextTheme = theme === 'light' ? 'dark' : 'light';
+    setTheme(nextTheme);
+    localStorage.setItem('theme', nextTheme);
+    if (nextTheme === 'dark') {
+      document.body.classList.add('dark');
+    } else {
+      document.body.classList.remove('dark');
+    }
+  };
 
   const deck = useMemo(
     () =>
@@ -465,8 +491,10 @@ export function TimelineGame({ game }: TimelineGameProps) {
       }
     >
       <header className="game-header">
-        <div>
-          <p className="eyebrow">Eras Games</p>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+          <Link href="/" className="game-back-button" title="Gå tilbake til forsida">
+            ←
+          </Link>
           <h1>{game.title}</h1>
         </div>
         <div className="score-grid">
@@ -479,6 +507,13 @@ export function TimelineGame({ game }: TimelineGameProps) {
           <span>
             Line <strong>{timeline.length}</strong>
           </span>
+          <button 
+            className="game-theme-toggle" 
+            onClick={toggleTheme} 
+            title="Toggle theme"
+          >
+            {theme === 'light' ? '☾' : '☀'}
+          </button>
         </div>
       </header>
 
@@ -490,7 +525,7 @@ export function TimelineGame({ game }: TimelineGameProps) {
         </p>
       </div>
 
-      <div className={`timeline-feed ${shouldDimInactiveCards ? "has-focus" : ""}`}>
+      <div className={`timeline-feed ${shouldDimInactiveCards ? "has-focus" : ""} ${isOver ? "game-over" : ""}`}>
         {endOfGameTimeline.map((item, index) => {
           const isReference = candidate && pivot?.id === item.id && !isOver;
           const isFailed = (item as any).isFailedCard;
@@ -539,9 +574,22 @@ export function TimelineGame({ game }: TimelineGameProps) {
       </div>
 
       {isOver && !showResult && (
-        <button type="button" className="result-reopen" onClick={() => setShowResult(true)}>
-          Results
-        </button>
+        <div className="daily-completed-actions-banner">
+          {isDailyCompleted && (
+            <div className="daily-completed-info">
+              <span className="info-label">Daily challenge completed! Next game in:</span>
+              <strong className="info-timer">{timeUntilMidnight || "--h --m --s"}</strong>
+            </div>
+          )}
+          <div className="banner-buttons">
+            <button type="button" className="btn-reopen-results" onClick={() => setShowResult(true)}>
+              View Results
+            </button>
+            <Link href="/" className="btn-back-home">
+              Play other timelines
+            </Link>
+          </div>
+        </div>
       )}
 
       {showResult && (

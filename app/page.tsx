@@ -1,4 +1,8 @@
+"use client";
+
+import { useState, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { getGameSummaries } from "@/lib/games";
 
 function getLum(hex: string): number {
@@ -26,14 +30,77 @@ function cardAccent(primary: string, secondary: string, bg: string): string {
 
 export default function HomePage() {
   const games = getGameSummaries();
+  const [theme, setTheme] = useState<'light' | 'dark'>('light');
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+    const savedTheme = localStorage.getItem('theme') as 'light' | 'dark' | null;
+    const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const initialTheme = savedTheme || (systemPrefersDark ? 'dark' : 'light');
+    
+    setTheme(initialTheme);
+    if (initialTheme === 'dark') {
+      document.body.classList.add('dark');
+    } else {
+      document.body.classList.remove('dark');
+    }
+  }, []);
+
+  const toggleTheme = () => {
+    const nextTheme = theme === 'light' ? 'dark' : 'light';
+    setTheme(nextTheme);
+    localStorage.setItem('theme', nextTheme);
+    if (nextTheme === 'dark') {
+      document.body.classList.add('dark');
+    } else {
+      document.body.classList.remove('dark');
+    }
+  };
 
   return (
-    <main className="home-page">
+    <main className="home-page" style={{ position: "relative" }}>
+      <button 
+        className="theme-toggle" 
+        onClick={toggleTheme} 
+        aria-label="Toggle dark mode"
+        style={{
+          position: "absolute",
+          top: "24px",
+          right: "24px",
+          background: "transparent",
+          border: "1px solid var(--line)",
+          padding: "6px 12px",
+          borderRadius: "8px",
+          fontFamily: "var(--font-mono)",
+          fontSize: "0.8rem",
+          fontWeight: "bold",
+          color: "var(--text-color)",
+          cursor: "pointer",
+          display: "flex",
+          alignItems: "center",
+          gap: "8px",
+          transition: "all 0.2s ease",
+          zIndex: 10,
+        }}
+      >
+        <span>{theme === 'light' ? '☾' : '☀'}</span>
+        <span>{theme === 'light' ? 'DARK' : 'LIGHT'}</span>
+      </button>
+
       <section className="home-hero">
-        <p className="eyebrow">Eras Games</p>
-        <h1>Timeline games for every era worth arguing about.</h1>
+        <div className="logo-container">
+          <Image
+            src={!mounted || theme === 'light' ? "/logo-dark.png" : "/logo-light.png"}
+            alt="Eras Games"
+            width={240}
+            height={140}
+            priority
+          />
+        </div>
+        <h1>Simple, yet addictive timeline games.</h1>
         <p>
-          Build streaks by placing players, songs, people, and moments in the right chronological order.
+          Build streaks and impress your friends by putting stuff in the right chronological order.
         </p>
       </section>
 

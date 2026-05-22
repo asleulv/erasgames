@@ -152,7 +152,7 @@ const CLUBS = {
   },
   "Nottingham Forest": {
     slug: "nottingham-forest",
-    shortTitle: "Forest",
+    shortTitle: "Nottingham Forest",
     title: "Nottingham Forest Timeline",
     clubName: "Nottingham Forest",
     primary: "#DD0000",

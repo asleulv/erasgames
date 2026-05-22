@@ -1,8 +1,8 @@
 {
   "id": "nottingham-forest",
   "slug": "nottingham-forest",
-  "title": "Forest Timeline",
-  "shortTitle": "Forest",
+  "title": "Nottingham Forest Timeline",
+  "shortTitle": "Nottingham Forest",
   "description": "Place Nottingham Forest signings in the correct chronological order.",
   "category": "Football",
   "sitePath": "/timeline/nottingham-forest",
@@ -13,16 +13,16 @@
     "text": "#3E0000"
   },
   "share": {
-    "title": "Forest Timeline",
+    "title": "Nottingham Forest Timeline",
     "description": "How far can you build the Nottingham Forest signing timeline?",
     "hashtags": [
-      "Forest",
+      "NottinghamForest",
       "FootballQuiz",
       "TimelineQuiz"
     ]
   },
   "seo": {
-    "title": "Forest Timeline Quiz - Nottingham Forest Signings Game",
+    "title": "Nottingham Forest Timeline Quiz - Nottingham Forest Signings Game",
     "description": "Play a Nottingham Forest timeline quiz. Guess whether famous Nottingham Forest players signed before or after each other and build the longest streak you can.",
     "keywords": [
       "Nottingham Forest quiz",
