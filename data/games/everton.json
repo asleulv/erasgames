@@ -5,6 +5,7 @@
   "shortTitle": "Everton",
   "description": "Place Everton signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/everton",
   "theme": {
     "primary": "#003399",

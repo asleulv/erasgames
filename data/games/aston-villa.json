@@ -5,6 +5,7 @@
   "shortTitle": "Aston Villa",
   "description": "Place Aston Villa signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/aston-villa",
   "theme": {
     "primary": "#670E36",

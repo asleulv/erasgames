@@ -28,7 +28,7 @@ async function checkDbAvailable(): Promise<boolean> {
 }
 
 // GET /api/leaderboard/today
-// Returns: { scores: { [gameId]: number } }
+// Returns: { scores: { [gameId]: { score: number, username: string } } }
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
@@ -42,30 +42,36 @@ export async function GET(request: Request) {
 
     if (hasDb) {
       const [rows] = await pool.query(
-        `SELECT game_id, MAX(score) AS top_score
-         FROM scores
-         WHERE date = ?
-         GROUP BY game_id;`,
-        [date]
-      ) as [Array<{ game_id: string; top_score: number }>, unknown];
+        `SELECT s.game_id, s.score AS top_score, s.username
+         FROM scores s
+         INNER JOIN (
+           SELECT game_id, MAX(score) AS max_score
+           FROM scores
+           WHERE date = ?
+           GROUP BY game_id
+         ) m ON s.game_id = m.game_id AND s.score = m.max_score
+         WHERE s.date = ?
+         GROUP BY s.game_id, s.score, s.username;`,
+        [date, date]
+      ) as [Array<{ game_id: string; top_score: number; username: string }>, unknown];
 
-      const scores: Record<string, number> = {};
+      const scores: Record<string, { score: number; username: string }> = {};
       for (const row of rows) {
-        scores[row.game_id] = row.top_score;
+        scores[row.game_id] = { score: row.top_score, username: row.username };
       }
 
       return NextResponse.json({ scores });
     } else {
       // In-memory fallback
-      const scores: Record<string, number> = {};
+      const best: Record<string, { score: number; username: string }> = {};
       for (const entry of (globalForMemoryDb.localMemoryScores ?? [])) {
         if (entry.date === date) {
-          if (scores[entry.game_id] === undefined || entry.score > scores[entry.game_id]) {
-            scores[entry.game_id] = entry.score;
+          if (!best[entry.game_id] || entry.score > best[entry.game_id].score) {
+            best[entry.game_id] = { score: entry.score, username: entry.username };
           }
         }
       }
-      return NextResponse.json({ scores });
+      return NextResponse.json({ scores: best });
     }
   } catch (error) {
     console.error("Failed to fetch today's scores", error);

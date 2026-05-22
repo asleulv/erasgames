@@ -5,6 +5,7 @@
   "shortTitle": "Brentford",
   "description": "Place Brentford signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/brentford",
   "theme": {
     "primary": "#E30613",

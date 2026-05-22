@@ -5,6 +5,7 @@
   "shortTitle": "Wolves",
   "description": "Place Wolverhampton Wanderers signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/wolves",
   "theme": {
     "primary": "#FDB913",

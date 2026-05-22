@@ -21,8 +21,13 @@ function getRank(score: number): Rank {
   return ranks.find((rank) => score >= rank.min) || ranks[ranks.length - 1];
 }
 
-function makeShareGrid(score: number): string {
-  const marks = Array.from({ length: score }, () => "🟩").concat("❌");
+function makeShareGrid(score: number, isVictory: boolean): string {
+  const marks = Array.from({ length: score }, () => "🟩");
+  if (isVictory) {
+    marks.push("🏆");
+  } else {
+    marks.push("❌");
+  }
   const rows = [];
 
   for (let index = 0; index < marks.length; index += 10) {
@@ -63,7 +68,9 @@ export function ResultOverlay({
   onPlayAgain,
   formatPlayerLabel
 }: ResultOverlayProps) {
+  const isVictory = !candidate;
   const rank = getRank(score);
+  const rankTitle = isVictory ? "TIMELINE CHAMPION 🏆" : rank.title;
   const [username, setUsername] = useState("");
   const [hasSubmitted, setHasSubmitted] = useState(false);
   const [leaderboardTab, setLeaderboardTab] = useState<"daily" | "allTime">("daily");
@@ -227,7 +234,7 @@ export function ResultOverlay({
       }
     }
 
-    const text = `${game.share.title} #${dailyNumber}\nStreak: ${score} - ${rank.title}\n${rankingText}${makeShareGrid(score)}\n\n${game.share.description}\nhttps://erasgames.com${game.sitePath}`;
+    const text = `${game.share.title} #${dailyNumber}\nStreak: ${score} - ${rankTitle}\n${rankingText}${makeShareGrid(score, isVictory)}\n\n${game.share.description}\nhttps://erasgames.com${game.sitePath}`;
     if (navigator.share) {
       try {
         await navigator.share({
@@ -277,9 +284,9 @@ export function ResultOverlay({
 
         {activeResultTab === "stats" ? (
           <div className="result-content">
-            <div className="result-rank">{rank.title}</div>
+            <div className="result-rank">{rankTitle}</div>
             <div className="result-score" aria-label={`${score} correct answers`}>
-              <span>Final streak</span>
+              <span>{isVictory ? "Perfect run! 🎉" : "Final streak"}</span>
               <strong>{score}</strong>
               <small>{score === 1 ? "correct player" : "correct players"}</small>
             </div>
@@ -287,7 +294,11 @@ export function ResultOverlay({
               {Array.from({ length: score }).map((_, i) => (
                 <span key={i} className="grid-tile correct" aria-hidden="true">✓</span>
               ))}
-              <span className="grid-tile incorrect" aria-hidden="true">×</span>
+              {isVictory ? (
+                <span className="grid-tile correct" aria-hidden="true" style={{ background: 'var(--gold, #fdb913)', color: '#171511' }}>🏆</span>
+              ) : (
+                <span className="grid-tile incorrect" aria-hidden="true">×</span>
+              )}
             </div>
             <div className="result-stats">
               <span>

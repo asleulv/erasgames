@@ -25,6 +25,7 @@ export type TimelineGameData = {
   shortTitle: string;
   description: string;
   category: string;
+  subcategory?: string;
   sitePath: string;
   theme: TimelineTheme;
   settings?: TimelineGameSettingsOverride;
@@ -43,7 +44,7 @@ export type TimelineGameData = {
 
 export type PublicGameSummary = Pick<
   TimelineGameData,
-  "id" | "slug" | "title" | "shortTitle" | "description" | "category" | "sitePath" | "theme"
+  "id" | "slug" | "title" | "shortTitle" | "description" | "category" | "subcategory" | "sitePath" | "theme"
 > & {
   itemCount: number;
 };

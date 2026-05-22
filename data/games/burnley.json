@@ -5,6 +5,7 @@
   "shortTitle": "Burnley",
   "description": "Place Burnley signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/burnley",
   "theme": {
     "primary": "#6C1D45",

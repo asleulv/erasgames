@@ -5,6 +5,7 @@
   "shortTitle": "Man United",
   "description": "Place Manchester United signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/man-united",
   "theme": {
     "primary": "#DA291C",

@@ -5,6 +5,7 @@
   "shortTitle": "Arsenal",
   "description": "Place Arsenal signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/arsenal",
   "theme": {
     "primary": "#EF0107",

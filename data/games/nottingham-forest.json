@@ -5,6 +5,7 @@
   "shortTitle": "Nottingham Forest",
   "description": "Place Nottingham Forest signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/nottingham-forest",
   "theme": {
     "primary": "#DD0000",

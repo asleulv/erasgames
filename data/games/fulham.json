@@ -5,6 +5,7 @@
   "shortTitle": "Fulham",
   "description": "Place Fulham signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/fulham",
   "theme": {
     "primary": "#FFFFFF",

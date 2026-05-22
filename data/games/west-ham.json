@@ -5,6 +5,7 @@
   "shortTitle": "West Ham",
   "description": "Place West Ham United signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/west-ham",
   "theme": {
     "primary": "#7A263A",

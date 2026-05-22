@@ -53,13 +53,14 @@ export function getGame(slug: string): TimelineGameData | undefined {
 }
 
 export function getGameSummaries(): PublicGameSummary[] {
-  return games.map(({ id, slug, title, shortTitle, description, category, sitePath, theme, items }) => ({
+  return games.map(({ id, slug, title, shortTitle, description, category, subcategory, sitePath, theme, items }) => ({
     id,
     slug,
     title,
     shortTitle,
     description,
     category,
+    subcategory,
     sitePath,
     theme,
     itemCount: items.length

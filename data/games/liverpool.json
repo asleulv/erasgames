@@ -5,6 +5,7 @@
   "shortTitle": "Liverpool",
   "description": "Place Liverpool signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/liverpool",
   "theme": {
     "primary": "#C8102E",

@@ -5,6 +5,7 @@
   "shortTitle": "Leeds",
   "description": "Place Leeds United signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/leeds",
   "theme": {
     "primary": "#FFFFFF",

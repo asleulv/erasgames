@@ -5,6 +5,7 @@
   "shortTitle": "Man City",
   "description": "Place Manchester City signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/man-city",
   "theme": {
     "primary": "#6CABDD",

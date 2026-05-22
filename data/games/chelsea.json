@@ -5,6 +5,7 @@
   "shortTitle": "Chelsea",
   "description": "Place Chelsea signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/chelsea",
   "theme": {
     "primary": "#034694",

@@ -5,6 +5,7 @@
   "shortTitle": "Sunderland",
   "description": "Place Sunderland signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/sunderland",
   "theme": {
     "primary": "#EB172B",

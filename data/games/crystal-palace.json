@@ -5,6 +5,7 @@
   "shortTitle": "Crystal Palace",
   "description": "Place Crystal Palace signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/crystal-palace",
   "theme": {
     "primary": "#C4122E",

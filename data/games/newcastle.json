@@ -5,6 +5,7 @@
   "shortTitle": "Newcastle",
   "description": "Place Newcastle United signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/newcastle",
   "theme": {
     "primary": "#FFFFFF",

@@ -5,6 +5,7 @@
   "shortTitle": "Brighton",
   "description": "Place Brighton & Hove Albion signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/brighton",
   "theme": {
     "primary": "#0057B8",

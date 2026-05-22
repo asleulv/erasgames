@@ -5,6 +5,7 @@
   "shortTitle": "Bournemouth",
   "description": "Place AFC Bournemouth signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/bournemouth",
   "theme": {
     "primary": "#DA291C",

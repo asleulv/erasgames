@@ -5,6 +5,7 @@
   "shortTitle": "Tottenham",
   "description": "Place Tottenham Hotspur signings in the correct chronological order.",
   "category": "Football",
+  "subcategory": "Player Transfers",
   "sitePath": "/timeline/tottenham",
   "theme": {
     "primary": "#FFFFFF",
