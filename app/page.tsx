@@ -20,7 +20,7 @@ function cardBg(primary: string): string {
 
 /** On light card backgrounds use dark text, on dark backgrounds use white */
 function cardText(bgHex: string): string {
-  return getLum(bgHex) > 0.40 ? "#101820" : "#ffffff";
+  return getLum(bgHex) > 0.60 ? "#101820" : "#ffffff";
 }
 
 /** Top-border accent: simply the other color of the two identity colors */
@@ -41,6 +41,17 @@ function getSubcategoryDescription(subcategory: string): string {
     case "club foundations":
     case "foundations":
       return "Place the foundation years of historic football clubs in chronological order.";
+    case "marvel":
+    case "mcu":
+      return "Place Marvel Cinematic Universe movie releases in the correct chronological order.";
+    case "classics":
+    case "movies":
+    case "movie classics":
+      return "Place legendary, universally acclaimed movies in their correct release order.";
+    case "tv shows":
+    case "tv series":
+    case "tv classics":
+      return "Place iconic, universally acclaimed television series in their correct release order.";
     default:
       return "";
   }
@@ -72,7 +83,7 @@ export default function HomePage() {
     setRandomGames(shuffled.slice(0, 10));
 
     // Fetch today's best scores
-    const today = new Date().toISOString().split('T')[0];
+    const today = new Date().toLocaleDateString("en-CA");
     fetch(`/api/leaderboard/today?date=${today}`)
       .then(r => r.json())
       .then(data => { if (data.scores) setTodayScores(data.scores); })

@@ -104,6 +104,11 @@ export function TimelineGame({ game }: TimelineGameProps) {
   const activeRef = useRef<HTMLDivElement | null>(null);
   const pendingFlipRef = useRef<FlipSnapshot | null>(null);
   const settings = useMemo(() => resolveTimelineSettings(game.settings), [game.settings]);
+  const isMedia = game.category === "Movies" || game.category === "Movies & TV";
+  const isTV = game.subcategory === "TV Shows" || game.subcategory === "TV Series" || game.id.includes("tv");
+  const mediaNoun = isTV ? "show" : "movie";
+  const itemNoun = (game as any).itemNoun || (isMedia ? mediaNoun : "player");
+  const verbNoun = (game as any).verbNoun || (isMedia ? "release" : "join");
 
   const [isDailyCompleted, setIsDailyCompleted] = useState(false);
   const [timeUntilMidnight, setTimeUntilMidnight] = useState("");
@@ -528,7 +533,15 @@ export function TimelineGame({ game }: TimelineGameProps) {
         {formattedDate && <span className="game-date">{formattedDate}</span>}
         <h2>The {cleanTitle} Timeline #{dailyNumber}</h2>
         <p>
-          Did each player join {cleanTitle} <strong>before</strong> or <strong>after</strong> the active card's year? One mistake ends your streak!
+          {game.category === "Football" ? (
+            <>
+              Did each {itemNoun} {verbNoun} {cleanTitle} <strong>before</strong> or <strong>after</strong> the active card&apos;s year? One mistake ends your streak!
+            </>
+          ) : (
+            <>
+              Did each {itemNoun} {verbNoun} <strong>before</strong> or <strong>after</strong> the active card&apos;s year? One mistake ends your streak!
+            </>
+          )}
         </p>
       </div>
 
@@ -566,7 +579,7 @@ export function TimelineGame({ game }: TimelineGameProps) {
                     <article className="timeline-card start-card">
                       <h3>Ready to Play?</h3>
                       <p>
-                        Test your memory by placing each player on the timeline. One mistake ends your streak, and a 10-second timer runs for each card!
+                        Test your memory by placing each {itemNoun} in the correct chronological order. One mistake ends your streak, and a 10-second timer runs for each card!
                       </p>
                       <button 
                         type="button" 

@@ -1,0 +1,3164 @@
+{
+  "id": "movie-classics",
+  "slug": "movie-classics",
+  "title": "Cinema Classics",
+  "shortTitle": "Classics",
+  "description": "Place legendary, universally acclaimed movies in their correct release order.",
+  "category": "Movies & TV",
+  "subcategory": "Movies",
+  "sitePath": "/timeline/movie-classics",
+  "theme": {
+    "primary": "#F5C518",
+    "secondary": "#FFFFFF",
+    "background": "#151515",
+    "text": "#151515"
+  },
+  "share": {
+    "title": "Cinema Classics Timeline",
+    "description": "Can you place these legendary classic films in the correct order of their release?",
+    "hashtags": [
+      "Movies",
+      "CinemaClassics",
+      "MovieQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Cinema Classics Movie Timeline Quiz - Eras Games",
+    "description": "Test your classic movie knowledge! Put legendary, universally acclaimed movies in their correct release order in this addictive timeline game.",
+    "keywords": [
+      "Movies",
+      "Classics",
+      "Cinema",
+      "Hollywood",
+      "Timeline Game",
+      "Movie Quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "yojinbo-1961",
+      "label": "Yôjinbô",
+      "year": 1961,
+      "subtitle": "Dir: Akira Kurosawa",
+      "description": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "witness-for-the-prosecution-1958",
+      "label": "Witness for the Prosecution",
+      "year": 1958,
+      "subtitle": "Dir: Billy Wilder",
+      "description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+      "popularity": 84,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "whiplash-2014",
+      "label": "Whiplash",
+      "year": 2014,
+      "subtitle": "Dir: Damien Chazelle",
+      "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+      "popularity": 85,
+      "tags": [
+        "Drama",
+        "Music"
+      ]
+    },
+    {
+      "id": "warrior-2011",
+      "label": "Warrior",
+      "year": 2011,
+      "subtitle": "Dir: Gavin O'Connor",
+      "description": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Drama",
+        "Sport"
+      ]
+    },
+    {
+      "id": "walle-2008",
+      "label": "WALL·E",
+      "year": 2008,
+      "subtitle": "Dir: Andrew Stanton",
+      "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+      "popularity": 84,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ]
+    },
+    {
+      "id": "vertigo-1958",
+      "label": "Vertigo",
+      "year": 1958,
+      "subtitle": "Dir: Alfred Hitchcock",
+      "description": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+      "popularity": 83,
+      "tags": [
+        "Mystery",
+        "Romance",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "v-for-vendetta-2006",
+      "label": "V for Vendetta",
+      "year": 2006,
+      "subtitle": "Dir: James McTeigue",
+      "description": "In a future British dystopian society, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow the tyrannical government - with the help of a young woman.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "up-2009",
+      "label": "Up",
+      "year": 2009,
+      "subtitle": "Dir: Pete Docter",
+      "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+      "popularity": 83,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "unforgiven-1992",
+      "label": "Unforgiven",
+      "year": 1992,
+      "subtitle": "Dir: Clint Eastwood",
+      "description": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The \"Schofield Kid.\"",
+      "popularity": 82,
+      "tags": [
+        "Drama",
+        "Western"
+      ]
+    },
+    {
+      "id": "tokyo-monogatari-1972",
+      "label": "Tôkyô monogatari",
+      "year": 1972,
+      "subtitle": "Dir: Yasujirô Ozu",
+      "description": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+      "popularity": 82,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "trainspotting-1996",
+      "label": "Trainspotting",
+      "year": 1996,
+      "subtitle": "Dir: Danny Boyle",
+      "description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+      "popularity": 81,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "toy-story-3-2010",
+      "label": "Toy Story 3",
+      "year": 2010,
+      "subtitle": "Dir: Lee Unkrich",
+      "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+      "popularity": 83,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "toy-story-1995",
+      "label": "Toy Story",
+      "year": 1995,
+      "subtitle": "Dir: John Lasseter",
+      "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+      "popularity": 83,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "top-gun-maverick-2022",
+      "label": "Top Gun: Maverick",
+      "year": 2022,
+      "subtitle": "Dir: Joseph Kosinski",
+      "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to ...",
+      "popularity": 84,
+      "tags": [
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tonari-no-totoro-1990",
+      "label": "Tonari no Totoro",
+      "year": 1990,
+      "subtitle": "Dir: Hayao Miyazaki",
+      "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+      "popularity": 81,
+      "tags": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "to-kill-a-mockingbird-1963",
+      "label": "To Kill a Mockingbird",
+      "year": 1963,
+      "subtitle": "Dir: Robert Mulligan",
+      "description": "Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.",
+      "popularity": 83,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "to-be-or-not-to-be-1942",
+      "label": "To Be or Not to Be",
+      "year": 1942,
+      "subtitle": "Dir: Ernst Lubitsch",
+      "description": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+      "popularity": 82,
+      "tags": [
+        "Comedy",
+        "Romance",
+        "War"
+      ]
+    },
+    {
+      "id": "three-billboards-outside-ebbing-missouri-2017",
+      "label": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017,
+      "subtitle": "Dir: Martin McDonagh",
+      "description": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "there-will-be-blood-2008",
+      "label": "There Will Be Blood",
+      "year": 2008,
+      "subtitle": "Dir: Paul Thomas Anderson",
+      "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+      "popularity": 82,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-wolf-of-wall-street-2013",
+      "label": "The Wolf of Wall Street",
+      "year": 2013,
+      "subtitle": "Dir: Martin Scorsese",
+      "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+      "popularity": 82,
+      "tags": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "id": "the-wizard-of-oz-1939",
+      "label": "The Wizard of Oz",
+      "year": 1939,
+      "subtitle": "Dir: Victor Fleming",
+      "description": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the other...",
+      "popularity": 81,
+      "tags": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "the-usual-suspects-1995",
+      "label": "The Usual Suspects",
+      "year": 1995,
+      "subtitle": "Dir: Bryan Singer",
+      "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+      "popularity": 85,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "the-truman-show-1998",
+      "label": "The Truman Show",
+      "year": 1998,
+      "subtitle": "Dir: Peter Weir",
+      "description": "An insurance salesman discovers his whole life is actually a reality TV show.",
+      "popularity": 82,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-treasure-of-the-sierra-madre-1948",
+      "label": "The Treasure of the Sierra Madre",
+      "year": 1948,
+      "subtitle": "Dir: John Huston",
+      "description": "Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+      "popularity": 82,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ]
+    },
+    {
+      "id": "the-third-man-1949",
+      "label": "The Third Man",
+      "year": 1949,
+      "subtitle": "Dir: Carol Reed",
+      "description": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+      "popularity": 81,
+      "tags": [
+        "Film-Noir",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "the-thing-1982",
+      "label": "The Thing",
+      "year": 1982,
+      "subtitle": "Dir: John Carpenter",
+      "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+      "popularity": 82,
+      "tags": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "the-terminator-1984",
+      "label": "The Terminator",
+      "year": 1984,
+      "subtitle": "Dir: James Cameron",
+      "description": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvat...",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "the-sting-1973",
+      "label": "The Sting",
+      "year": 1973,
+      "subtitle": "Dir: George Roy Hill",
+      "description": "Two grifters team up to pull off the ultimate con.",
+      "popularity": 83,
+      "tags": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-sound-of-music-1965",
+      "label": "The Sound of Music",
+      "year": 1965,
+      "subtitle": "Dir: Robert Wise",
+      "description": "A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+      "popularity": 81,
+      "tags": [
+        "Biography",
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "the-sixth-sense-1999",
+      "label": "The Sixth Sense",
+      "year": 1999,
+      "subtitle": "Dir: M. Night Shyamalan",
+      "description": "A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+      "popularity": 82,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "the-silence-of-the-lambs-1991",
+      "label": "The Silence of the Lambs",
+      "year": 1991,
+      "subtitle": "Dir: Jonathan Demme",
+      "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "popularity": 86,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "the-shining-1980",
+      "label": "The Shining",
+      "year": 1980,
+      "subtitle": "Dir: Stanley Kubrick",
+      "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "Horror"
+      ]
+    },
+    {
+      "id": "the-shawshank-redemption-1994",
+      "label": "The Shawshank Redemption",
+      "year": 1994,
+      "subtitle": "Dir: Frank Darabont",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "popularity": 93,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-prestige-2006",
+      "label": "The Prestige",
+      "year": 2006,
+      "subtitle": "Dir: Christopher Nolan",
+      "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+      "popularity": 85,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "the-pianist-2003",
+      "label": "The Pianist",
+      "year": 2003,
+      "subtitle": "Dir: Roman Polanski",
+      "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+      "popularity": 85,
+      "tags": [
+        "Biography",
+        "Drama",
+        "Music"
+      ]
+    },
+    {
+      "id": "the-matrix-1999",
+      "label": "The Matrix",
+      "year": 1999,
+      "subtitle": "Dir: Lana Wachowski",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "popularity": 87,
+      "tags": [
+        "Action",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "the-lord-of-the-rings-the-two-towers-2002",
+      "label": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "subtitle": "Dir: Peter Jackson",
+      "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "popularity": 88,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-lord-of-the-rings-the-return-of-the-king-2003",
+      "label": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "subtitle": "Dir: Peter Jackson",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "popularity": 90,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+      "label": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "subtitle": "Dir: Peter Jackson",
+      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "popularity": 88,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-lion-king-1994",
+      "label": "The Lion King",
+      "year": 1994,
+      "subtitle": "Dir: Roger Allers",
+      "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "popularity": 85,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-kid-1921",
+      "label": "The Kid",
+      "year": 1921,
+      "subtitle": "Dir: Charles Chaplin",
+      "description": "The Tramp cares for an abandoned child, but events put their relationship in jeopardy.",
+      "popularity": 83,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "the-iron-giant-1999",
+      "label": "The Iron Giant",
+      "year": 1999,
+      "subtitle": "Dir: Brad Bird",
+      "description": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+      "popularity": 81,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "the-incredibles-2004",
+      "label": "The Incredibles",
+      "year": 2004,
+      "subtitle": "Dir: Brad Bird",
+      "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+      "popularity": 80,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "the-help-2011",
+      "label": "The Help",
+      "year": 2011,
+      "subtitle": "Dir: Tate Taylor",
+      "description": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily b...",
+      "popularity": 81,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-green-mile-1999",
+      "label": "The Green Mile",
+      "year": 1999,
+      "subtitle": "Dir: Frank Darabont",
+      "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+      "popularity": 86,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "the-great-escape-1963",
+      "label": "The Great Escape",
+      "year": 1963,
+      "subtitle": "Dir: John Sturges",
+      "description": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+      "popularity": 82,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "the-great-dictator-1941",
+      "label": "The Great Dictator",
+      "year": 1941,
+      "subtitle": "Dir: Charles Chaplin",
+      "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "the-grapes-of-wrath-1940",
+      "label": "The Grapes of Wrath",
+      "year": 1940,
+      "subtitle": "Dir: John Ford",
+      "description": "An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
+      "popularity": 81,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-grand-budapest-hotel-2014",
+      "label": "The Grand Budapest Hotel",
+      "year": 2014,
+      "subtitle": "Dir: Wes Anderson",
+      "description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+      "popularity": 81,
+      "tags": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "id": "the-gold-rush-1925",
+      "label": "The Gold Rush",
+      "year": 1925,
+      "subtitle": "Dir: Charles Chaplin",
+      "description": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+      "popularity": 82,
+      "tags": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-godfather-part-ii-1974",
+      "label": "The Godfather Part II",
+      "year": 1974,
+      "subtitle": "Dir: Francis Ford Coppola",
+      "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "popularity": 90,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-godfather-1972",
+      "label": "The Godfather",
+      "year": 1972,
+      "subtitle": "Dir: Francis Ford Coppola",
+      "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+      "popularity": 92,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-general-1927",
+      "label": "The General",
+      "year": 1927,
+      "subtitle": "Dir: Clyde Bruckman",
+      "description": "After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through ene...",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "the-father-2021",
+      "label": "The Father",
+      "year": 2021,
+      "subtitle": "Dir: Florian Zeller",
+      "description": "A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+      "popularity": 82,
+      "tags": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "the-exorcist-1973",
+      "label": "The Exorcist",
+      "year": 1973,
+      "subtitle": "Dir: William Friedkin",
+      "description": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
+      "popularity": 81,
+      "tags": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "the-empire-strikes-back-1980",
+      "label": "The Empire Strikes Back",
+      "year": 1980,
+      "subtitle": "Dir: Irvin Kershner",
+      "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+      "popularity": 87,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "the-elephant-man-1980",
+      "label": "The Elephant Man",
+      "year": 1980,
+      "subtitle": "Dir: David Lynch",
+      "description": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+      "popularity": 82,
+      "tags": [
+        "Biography",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-departed-2006",
+      "label": "The Departed",
+      "year": 2006,
+      "subtitle": "Dir: Martin Scorsese",
+      "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "popularity": 85,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "the-deer-hunter-1979",
+      "label": "The Deer Hunter",
+      "year": 1979,
+      "subtitle": "Dir: Michael Cimino",
+      "description": "An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "the-dark-knight-rises-2012",
+      "label": "The Dark Knight Rises",
+      "year": 2012,
+      "subtitle": "Dir: Christopher Nolan",
+      "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Selina Kyle, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+      "popularity": 84,
+      "tags": [
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-dark-knight-2008",
+      "label": "The Dark Knight",
+      "year": 2008,
+      "subtitle": "Dir: Christopher Nolan",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "popularity": 90,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-bridge-on-the-river-kwai-1957",
+      "label": "The Bridge on the River Kwai",
+      "year": 1957,
+      "subtitle": "Dir: David Lean",
+      "description": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.",
+      "popularity": 82,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "the-big-lebowski-1998",
+      "label": "The Big Lebowski",
+      "year": 1998,
+      "subtitle": "Dir: Joel Coen",
+      "description": "Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's miss...",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "id": "the-best-years-of-our-lives-1947",
+      "label": "The Best Years of Our Lives",
+      "year": 1947,
+      "subtitle": "Dir: William Wyler",
+      "description": "Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Romance",
+        "War"
+      ]
+    },
+    {
+      "id": "the-apartment-1960",
+      "label": "The Apartment",
+      "year": 1960,
+      "subtitle": "Dir: Billy Wilder",
+      "description": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+      "popularity": 83,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "terminator-2-judgment-day-1991",
+      "label": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "subtitle": "Dir: James Cameron",
+      "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old adolescent son John from an even more advanced and powerful cyborg.",
+      "popularity": 86,
+      "tags": [
+        "Action",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tengoku-to-jigoku-1963",
+      "label": "Tengoku to jigoku",
+      "year": 1963,
+      "subtitle": "Dir: Akira Kurosawa",
+      "description": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+      "popularity": 84,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "taxi-driver-1976",
+      "label": "Taxi Driver",
+      "year": 1976,
+      "subtitle": "Dir: Martin Scorsese",
+      "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+      "popularity": 82,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "taare-zameen-par-2007",
+      "label": "Taare Zameen Par",
+      "year": 2007,
+      "subtitle": "Dir: Aamir Khan",
+      "description": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "sunset-blvd-1950",
+      "label": "Sunset Blvd.",
+      "year": 1950,
+      "subtitle": "Dir: Billy Wilder",
+      "description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "Film-Noir"
+      ]
+    },
+    {
+      "id": "star-wars-episode-vi-return-of-the-jedi-1983",
+      "label": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "subtitle": "Dir: Richard Marquand",
+      "description": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's...",
+      "popularity": 83,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "star-wars-1977",
+      "label": "Star Wars",
+      "year": 1977,
+      "subtitle": "Dir: George Lucas",
+      "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...",
+      "popularity": 86,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "stand-by-me-1986",
+      "label": "Stand by Me",
+      "year": 1986,
+      "subtitle": "Dir: Rob Reiner",
+      "description": "After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.",
+      "popularity": 81,
+      "tags": [
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "spotlight-2015",
+      "label": "Spotlight",
+      "year": 2015,
+      "subtitle": "Dir: Tom McCarthy",
+      "description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+      "popularity": 81,
+      "tags": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "spider-man-no-way-home-2021",
+      "label": "Spider-Man: No Way Home",
+      "year": 2021,
+      "subtitle": "Dir: Jon Watts",
+      "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+      "popularity": 83,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "spider-man-into-the-spider-verse-2018",
+      "label": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "subtitle": "Dir: Bob Persichetti",
+      "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      "popularity": 84,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "some-like-it-hot-1959",
+      "label": "Some Like It Hot",
+      "year": 1959,
+      "subtitle": "Dir: Billy Wilder",
+      "description": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+      "popularity": 82,
+      "tags": [
+        "Comedy",
+        "Music",
+        "Romance"
+      ]
+    },
+    {
+      "id": "snatch-2001",
+      "label": "Snatch",
+      "year": 2001,
+      "subtitle": "Dir: Guy Ritchie",
+      "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+      "popularity": 82,
+      "tags": [
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "id": "smultronstallet-1959",
+      "label": "Smultronstället",
+      "year": 1959,
+      "subtitle": "Dir: Ingmar Bergman",
+      "description": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "singin-in-the-rain-1952",
+      "label": "Singin' in the Rain",
+      "year": 1952,
+      "subtitle": "Dir: Stanley Donen",
+      "description": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+      "popularity": 83,
+      "tags": [
+        "Comedy",
+        "Musical",
+        "Romance"
+      ]
+    },
+    {
+      "id": "shutter-island-2010",
+      "label": "Shutter Island",
+      "year": 2010,
+      "subtitle": "Dir: Martin Scorsese",
+      "description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+      "popularity": 82,
+      "tags": [
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "shichinin-no-samurai-1956",
+      "label": "Shichinin no samurai",
+      "year": 1956,
+      "subtitle": "Dir: Akira Kurosawa",
+      "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him. As the samurai teach the peasants how to defend themselves, the village is attacked by an army of bandits.",
+      "popularity": 86,
+      "tags": [
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "sherlock-jr-1924",
+      "label": "Sherlock Jr.",
+      "year": 1924,
+      "subtitle": "Dir: Buster Keaton",
+      "description": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "seppuku-1964",
+      "label": "Seppuku",
+      "year": 1964,
+      "subtitle": "Dir: Masaki Kobayashi",
+      "description": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+      "popularity": 86,
+      "tags": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "sen-to-chihiro-no-kamikakushi-2003",
+      "label": "Sen to Chihiro no kamikakushi",
+      "year": 2003,
+      "subtitle": "Dir: Hayao Miyazaki",
+      "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+      "popularity": 86,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ]
+    },
+    {
+      "id": "se7en-1995",
+      "label": "Se7en",
+      "year": 1995,
+      "subtitle": "Dir: David Fincher",
+      "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "popularity": 86,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "schindlers-list-1994",
+      "label": "Schindler's List",
+      "year": 1994,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "popularity": 90,
+      "tags": [
+        "Biography",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "scarface-1983",
+      "label": "Scarface",
+      "year": 1983,
+      "subtitle": "Dir: Brian De Palma",
+      "description": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+      "popularity": 83,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "saving-private-ryan-1998",
+      "label": "Saving Private Ryan",
+      "year": 1998,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "popularity": 86,
+      "tags": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "salinui-chueok-2003",
+      "label": "Salinui chueok",
+      "year": 2003,
+      "subtitle": "Dir: Bong Joon Ho",
+      "description": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+      "popularity": 81,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "rush-2013",
+      "label": "Rush",
+      "year": 2013,
+      "subtitle": "Dir: Ron Howard",
+      "description": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Biography",
+        "Drama"
+      ]
+    },
+    {
+      "id": "room-2016",
+      "label": "Room",
+      "year": 2016,
+      "subtitle": "Dir: Lenny Abrahamson",
+      "description": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "rocky-1976",
+      "label": "Rocky",
+      "year": 1976,
+      "subtitle": "Dir: John G. Avildsen",
+      "description": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Sport"
+      ]
+    },
+    {
+      "id": "reservoir-dogs-1992",
+      "label": "Reservoir Dogs",
+      "year": 1992,
+      "subtitle": "Dir: Quentin Tarantino",
+      "description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+      "popularity": 83,
+      "tags": [
+        "Crime",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "requiem-for-a-dream-2000",
+      "label": "Requiem for a Dream",
+      "year": 2000,
+      "subtitle": "Dir: Darren Aronofsky",
+      "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+      "popularity": 83,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "relatos-salvajes-2014",
+      "label": "Relatos salvajes",
+      "year": 2014,
+      "subtitle": "Dir: Damián Szifron",
+      "description": "Six short stories that explore the extremities of human behavior involving people in distress.",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "rebecca-1940",
+      "label": "Rebecca",
+      "year": 1940,
+      "subtitle": "Dir: Alfred Hitchcock",
+      "description": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Film-Noir",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "rear-window-1954",
+      "label": "Rear Window",
+      "year": 1954,
+      "subtitle": "Dir: Alfred Hitchcock",
+      "description": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.",
+      "popularity": 85,
+      "tags": [
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "ratatouille-2007",
+      "label": "Ratatouille",
+      "year": 2007,
+      "subtitle": "Dir: Brad Bird",
+      "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+      "popularity": 81,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "rashomon-1951",
+      "label": "Rashômon",
+      "year": 1951,
+      "subtitle": "Dir: Akira Kurosawa",
+      "description": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+      "popularity": 82,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "ran-1985",
+      "label": "Ran",
+      "year": 1985,
+      "subtitle": "Dir: Akira Kurosawa",
+      "description": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "raiders-of-the-lost-ark-1981",
+      "label": "Raiders of the Lost Ark",
+      "year": 1981,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "Archaeology professor Indiana Jones ventures to seize a biblical artefact known as the Ark of the Covenant. While doing so, he puts up a fight against Renee and a troop of Nazis.",
+      "popularity": 84,
+      "tags": [
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "raging-bull-1980",
+      "label": "Raging Bull",
+      "year": 1980,
+      "subtitle": "Dir: Martin Scorsese",
+      "description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+      "popularity": 82,
+      "tags": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ]
+    },
+    {
+      "id": "pulp-fiction-1994",
+      "label": "Pulp Fiction",
+      "year": 1994,
+      "subtitle": "Dir: Quentin Tarantino",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "popularity": 89,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "psycho-1960",
+      "label": "Psycho",
+      "year": 1960,
+      "subtitle": "Dir: Alfred Hitchcock",
+      "description": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+      "popularity": 85,
+      "tags": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "prisoners-2013",
+      "label": "Prisoners",
+      "year": 2013,
+      "subtitle": "Dir: Denis Villeneuve",
+      "description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+      "popularity": 81,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "platoon-1987",
+      "label": "Platoon",
+      "year": 1987,
+      "subtitle": "Dir: Oliver Stone",
+      "description": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "pirates-of-the-caribbean-the-curse-of-the-black-pearl-2003",
+      "label": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "subtitle": "Dir: Gore Verbinski",
+      "description": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "persona-1967",
+      "label": "Persona",
+      "year": 1967,
+      "subtitle": "Dir: Ingmar Bergman",
+      "description": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "per-qualche-dollaro-in-piu-1967",
+      "label": "Per qualche dollaro in più",
+      "year": 1967,
+      "subtitle": "Dir: Sergio Leone",
+      "description": "Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.",
+      "popularity": 82,
+      "tags": [
+        "Western"
+      ]
+    },
+    {
+      "id": "paths-of-glory-1957",
+      "label": "Paths of Glory",
+      "year": 1957,
+      "subtitle": "Dir: Stanley Kubrick",
+      "description": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "pather-panchali-1955",
+      "label": "Pather Panchali",
+      "year": 1955,
+      "subtitle": "Dir: Satyajit Ray",
+      "description": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+      "popularity": 83,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "one-flew-over-the-cuckoos-nest-1975",
+      "label": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "subtitle": "Dir: Milos Forman",
+      "description": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",
+      "popularity": 87,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "once-upon-a-time-in-america-1984",
+      "label": "Once Upon a Time in America",
+      "year": 1984,
+      "subtitle": "Dir: Sergio Leone",
+      "description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+      "popularity": 83,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "on-the-waterfront-1954",
+      "label": "On the Waterfront",
+      "year": 1954,
+      "subtitle": "Dir: Elia Kazan",
+      "description": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+      "popularity": 81,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "oldeuboi-2003",
+      "label": "Oldeuboi",
+      "year": 2003,
+      "subtitle": "Dir: Park Chan-wook",
+      "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+      "popularity": 84,
+      "tags": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "nuovo-cinema-paradiso-1990",
+      "label": "Nuovo Cinema Paradiso",
+      "year": 1990,
+      "subtitle": "Dir: Giuseppe Tornatore",
+      "description": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+      "popularity": 85,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "north-by-northwest-1959",
+      "label": "North by Northwest",
+      "year": 1959,
+      "subtitle": "Dir: Alfred Hitchcock",
+      "description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+      "popularity": 83,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "no-country-for-old-men-2007",
+      "label": "No Country for Old Men",
+      "year": 2007,
+      "subtitle": "Dir: Ethan Coen",
+      "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+      "popularity": 82,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "network-1976",
+      "label": "Network",
+      "year": 1976,
+      "subtitle": "Dir: Sidney Lumet",
+      "description": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control.",
+      "popularity": 81,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "mr-smith-goes-to-washington-1939",
+      "label": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "subtitle": "Dir: Frank Capra",
+      "description": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his c...",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "monty-python-and-the-holy-grail-1975",
+      "label": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "subtitle": "Dir: Terry Gilliam",
+      "description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+      "popularity": 82,
+      "tags": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "monsters-inc-2001",
+      "label": "Monsters, Inc.",
+      "year": 2001,
+      "subtitle": "Dir: Pete Docter",
+      "description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+      "popularity": 81,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "mononoke-hime-1997",
+      "label": "Mononoke-hime",
+      "year": 1997,
+      "subtitle": "Dir: Hayao Miyazaki",
+      "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+      "popularity": 84,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "modern-times-1936",
+      "label": "Modern Times",
+      "year": 1936,
+      "subtitle": "Dir: Charles Chaplin",
+      "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+      "popularity": 85,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "million-dollar-baby-2005",
+      "label": "Million Dollar Baby",
+      "year": 2005,
+      "subtitle": "Dir: Clint Eastwood",
+      "description": "A determined woman works with a hardened boxing trainer to become a professional.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Sport"
+      ]
+    },
+    {
+      "id": "metropolis-1927",
+      "label": "Metropolis",
+      "year": 1927,
+      "subtitle": "Dir: Fritz Lang",
+      "description": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+      "popularity": 83,
+      "tags": [
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "memento-2001",
+      "label": "Memento",
+      "year": 2001,
+      "subtitle": "Dir: Christopher Nolan",
+      "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+      "popularity": 84,
+      "tags": [
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "mary-and-max-2010",
+      "label": "Mary and Max.",
+      "year": 2010,
+      "subtitle": "Dir: Adam Elliot",
+      "description": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+      "popularity": 81,
+      "tags": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "mad-max-fury-road-2015",
+      "label": "Mad Max: Fury Road",
+      "year": 2015,
+      "subtitle": "Dir: George Miller",
+      "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "m-eine-stadt-sucht-einen-morder-1931",
+      "label": "M - Eine Stadt sucht einen Mörder",
+      "year": 1931,
+      "subtitle": "Dir: Fritz Lang",
+      "description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+      "popularity": 83,
+      "tags": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "leon-1994",
+      "label": "Léon",
+      "year": 1994,
+      "subtitle": "Dir: Luc Besson",
+      "description": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+      "popularity": 85,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "logan-2017",
+      "label": "Logan",
+      "year": 2017,
+      "subtitle": "Dir: James Mangold",
+      "description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "lock-stock-and-two-smoking-barrels-1998",
+      "label": "Lock, Stock and Two Smoking Barrels",
+      "year": 1998,
+      "subtitle": "Dir: Guy Ritchie",
+      "description": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "id": "life-of-brian-1979",
+      "label": "Life of Brian",
+      "year": 1979,
+      "subtitle": "Dir: Terry Jones",
+      "description": "Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.",
+      "popularity": 80,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "les-quatre-cents-coups-1959",
+      "label": "Les quatre cents coups",
+      "year": 1959,
+      "subtitle": "Dir: François Truffaut",
+      "description": "A young boy, left without attention, delves into a life of petty crime.",
+      "popularity": 81,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "le-salaire-de-la-peur-1955",
+      "label": "Le salaire de la peur",
+      "year": 1955,
+      "subtitle": "Dir: Henri-Georges Clouzot",
+      "description": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+      "popularity": 82,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "le-fabuleux-destin-damelie-poulain-2002",
+      "label": "Le fabuleux destin d'Amélie Poulain",
+      "year": 2002,
+      "subtitle": "Dir: Jean-Pierre Jeunet",
+      "description": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+      "popularity": 83,
+      "tags": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "lawrence-of-arabia-1962",
+      "label": "Lawrence of Arabia",
+      "year": 1962,
+      "subtitle": "Dir: David Lean",
+      "description": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+      "popularity": 83,
+      "tags": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ]
+    },
+    {
+      "id": "ladri-di-biciclette-1949",
+      "label": "Ladri di biciclette",
+      "year": 1949,
+      "subtitle": "Dir: Vittorio De Sica",
+      "description": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+      "popularity": 83,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "la-vita-e-bella-1997",
+      "label": "La vita è bella",
+      "year": 1997,
+      "subtitle": "Dir: Roberto Benigni",
+      "description": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+      "popularity": 86,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "la-passion-de-jeanne-darc-1928",
+      "label": "La passion de Jeanne d'Arc",
+      "year": 1928,
+      "subtitle": "Dir: Carl Theodor Dreyer",
+      "description": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+      "popularity": 82,
+      "tags": [
+        "Biography",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "la-haine-1996",
+      "label": "La haine",
+      "year": 1996,
+      "subtitle": "Dir: Mathieu Kassovitz",
+      "description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+      "popularity": 81,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "la-battaglia-di-algeri-1967",
+      "label": "La battaglia di Algeri",
+      "year": 1967,
+      "subtitle": "Dir: Gillo Pontecorvo",
+      "description": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "la-confidential-1997",
+      "label": "L.A. Confidential",
+      "year": 1997,
+      "subtitle": "Dir: Curtis Hanson",
+      "description": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+      "popularity": 82,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "klaus-2019",
+      "label": "Klaus",
+      "year": 2019,
+      "subtitle": "Dir: Sergio Pablos",
+      "description": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+      "popularity": 81,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "kimi-no-na-wa-2017",
+      "label": "Kimi no Na wa.",
+      "year": 2017,
+      "subtitle": "Dir: Makoto Shinkai",
+      "description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+      "popularity": 84,
+      "tags": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "kill-bill-vol-1-2003",
+      "label": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "subtitle": "Dir: Quentin Tarantino",
+      "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "jurassic-park-1993",
+      "label": "Jurassic Park",
+      "year": 1993,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "judgment-at-nuremberg-1961",
+      "label": "Judgment at Nuremberg",
+      "year": 1961,
+      "subtitle": "Dir: Stanley Kramer",
+      "description": "In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",
+      "popularity": 83,
+      "tags": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "joker-2019",
+      "label": "Joker",
+      "year": 2019,
+      "subtitle": "Dir: Todd Phillips",
+      "description": "A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
+      "popularity": 84,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "jodaeiye-nader-az-simin-2011",
+      "label": "Jodaeiye Nader az Simin",
+      "year": 2011,
+      "subtitle": "Dir: Asghar Farhadi",
+      "description": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+      "popularity": 83,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "jaws-1975",
+      "label": "Jaws",
+      "year": 1975,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+      "popularity": 81,
+      "tags": [
+        "Adventure",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "jai-bhim-2021",
+      "label": "Jai Bhim",
+      "year": 2021,
+      "subtitle": "Dir: T.J. Gnanavel",
+      "description": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+      "popularity": 89,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "jagten-2013",
+      "label": "Jagten",
+      "year": 2013,
+      "subtitle": "Dir: Thomas Vinterberg",
+      "description": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent li...",
+      "popularity": 83,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "its-a-wonderful-life-1947",
+      "label": "It's a Wonderful Life",
+      "year": 1947,
+      "subtitle": "Dir: Frank Capra",
+      "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+      "popularity": 86,
+      "tags": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "it-happened-one-night-1934",
+      "label": "It Happened One Night",
+      "year": 1934,
+      "subtitle": "Dir: Frank Capra",
+      "description": "A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops.",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "intouchables-2011",
+      "label": "Intouchables",
+      "year": 2011,
+      "subtitle": "Dir: Olivier Nakache",
+      "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+      "popularity": 85,
+      "tags": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "into-the-wild-2007",
+      "label": "Into the Wild",
+      "year": 2007,
+      "subtitle": "Dir: Sean Penn",
+      "description": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way...",
+      "popularity": 81,
+      "tags": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ]
+    },
+    {
+      "id": "interstellar-2014",
+      "label": "Interstellar",
+      "year": 2014,
+      "subtitle": "Dir: Christopher Nolan",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "popularity": 86,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "inside-out-2015",
+      "label": "Inside Out",
+      "year": 2015,
+      "subtitle": "Dir: Pete Docter",
+      "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+      "popularity": 82,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "inglourious-basterds-2009",
+      "label": "Inglourious Basterds",
+      "year": 2009,
+      "subtitle": "Dir: Quentin Tarantino",
+      "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+      "popularity": 83,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "indiana-jones-and-the-last-crusade-1989",
+      "label": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "inception-2010",
+      "label": "Inception",
+      "year": 2010,
+      "subtitle": "Dir: Christopher Nolan",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "popularity": 88,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "incendies-2011",
+      "label": "Incendies",
+      "year": 2011,
+      "subtitle": "Dir: Denis Villeneuve",
+      "description": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+      "popularity": 83,
+      "tags": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "in-the-name-of-the-father-1994",
+      "label": "In the Name of the Father",
+      "year": 1994,
+      "subtitle": "Dir: Jim Sheridan",
+      "description": "A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
+      "popularity": 81,
+      "tags": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "il-buono-il-brutto-il-cattivo-1967",
+      "label": "Il buono, il brutto, il cattivo",
+      "year": 1967,
+      "subtitle": "Dir: Sergio Leone",
+      "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+      "popularity": 88,
+      "tags": [
+        "Adventure",
+        "Western"
+      ]
+    },
+    {
+      "id": "ikiru-1956",
+      "label": "Ikiru",
+      "year": 1956,
+      "subtitle": "Dir: Akira Kurosawa",
+      "description": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
+      "popularity": 83,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "idi-i-smotri-1985",
+      "label": "Idi i smotri",
+      "year": 1985,
+      "subtitle": "Dir: Elem Klimov",
+      "description": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "Thriller",
+        "War"
+      ]
+    },
+    {
+      "id": "how-to-train-your-dragon-2010",
+      "label": "How to Train Your Dragon",
+      "year": 2010,
+      "subtitle": "Dir: Dean DeBlois",
+      "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+      "popularity": 81,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "hotel-rwanda-2005",
+      "label": "Hotel Rwanda",
+      "year": 2005,
+      "subtitle": "Dir: Terry George",
+      "description": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+      "popularity": 81,
+      "tags": [
+        "Biography",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "hotaru-no-haka-1989",
+      "label": "Hotaru no haka",
+      "year": 1989,
+      "subtitle": "Dir: Isao Takahata",
+      "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+      "popularity": 85,
+      "tags": [
+        "Animation",
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "heat-1995",
+      "label": "Heat",
+      "year": 1995,
+      "subtitle": "Dir: Michael Mann",
+      "description": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.",
+      "popularity": 83,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "hauru-no-ugoku-shiro-2005",
+      "label": "Hauru no ugoku shiro",
+      "year": 2005,
+      "subtitle": "Dir: Hayao Miyazaki",
+      "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+      "popularity": 82,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ]
+    },
+    {
+      "id": "harry-potter-and-the-deathly-hallows-part-2-2011",
+      "label": "Harry Potter and the Deathly Hallows - Part 2",
+      "year": 2011,
+      "subtitle": "Dir: David Yates",
+      "description": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+      "popularity": 81,
+      "tags": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "hamilton-2020",
+      "label": "Hamilton",
+      "year": 2020,
+      "subtitle": "Dir: Thomas Kail",
+      "description": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+      "popularity": 84,
+      "tags": [
+        "Biography",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "hacksaw-ridge-2016",
+      "label": "Hacksaw Ridge",
+      "year": 2016,
+      "subtitle": "Dir: Mel Gibson",
+      "description": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+      "popularity": 81,
+      "tags": [
+        "Biography",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "hachi-a-dogs-tale-2010",
+      "label": "Hachi: A Dog's Tale",
+      "year": 2010,
+      "subtitle": "Dir: Lasse Hallström",
+      "description": "A college professor bonds with an abandoned dog he takes into his home.",
+      "popularity": 81,
+      "tags": [
+        "Biography",
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "groundhog-day-1993",
+      "label": "Groundhog Day",
+      "year": 1993,
+      "subtitle": "Dir: Harold Ramis",
+      "description": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "green-book-2018",
+      "label": "Green Book",
+      "year": 2018,
+      "subtitle": "Dir: Peter Farrelly",
+      "description": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+      "popularity": 82,
+      "tags": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "gran-torino-2009",
+      "label": "Gran Torino",
+      "year": 2009,
+      "subtitle": "Dir: Clint Eastwood",
+      "description": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+      "popularity": 81,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "goodfellas-1990",
+      "label": "Goodfellas",
+      "year": 1990,
+      "subtitle": "Dir: Martin Scorsese",
+      "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+      "popularity": 87,
+      "tags": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "good-will-hunting-1998",
+      "label": "Good Will Hunting",
+      "year": 1998,
+      "subtitle": "Dir: Gus Van Sant",
+      "description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+      "popularity": 83,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "gone-with-the-wind-1940",
+      "label": "Gone with the Wind",
+      "year": 1940,
+      "subtitle": "Dir: Victor Fleming",
+      "description": "The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.",
+      "popularity": 82,
+      "tags": [
+        "Drama",
+        "Romance",
+        "War"
+      ]
+    },
+    {
+      "id": "gone-girl-2014",
+      "label": "Gone Girl",
+      "year": 2014,
+      "subtitle": "Dir: David Fincher",
+      "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "gladiator-2000",
+      "label": "Gladiator",
+      "year": 2000,
+      "subtitle": "Dir: Ridley Scott",
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "popularity": 85,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "gisaengchung-2019",
+      "label": "Gisaengchung",
+      "year": 2019,
+      "subtitle": "Dir: Bong Joon Ho",
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "popularity": 85,
+      "tags": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "gandhi-1983",
+      "label": "Gandhi",
+      "year": 1983,
+      "subtitle": "Dir: Richard Attenborough",
+      "description": "The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.",
+      "popularity": 81,
+      "tags": [
+        "Biography",
+        "Drama"
+      ]
+    },
+    {
+      "id": "full-metal-jacket-1987",
+      "label": "Full Metal Jacket",
+      "year": 1987,
+      "subtitle": "Dir: Stanley Kubrick",
+      "description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+      "popularity": 83,
+      "tags": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "forrest-gump-1994",
+      "label": "Forrest Gump",
+      "year": 1994,
+      "subtitle": "Dir: Robert Zemeckis",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood swe...",
+      "popularity": 88,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "ford-v-ferrari-2019",
+      "label": "Ford v Ferrari",
+      "year": 2019,
+      "subtitle": "Dir: James Mangold",
+      "description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Biography",
+        "Drama"
+      ]
+    },
+    {
+      "id": "finding-nemo-2003",
+      "label": "Finding Nemo",
+      "year": 2003,
+      "subtitle": "Dir: Andrew Stanton",
+      "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "popularity": 82,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "fight-club-1999",
+      "label": "Fight Club",
+      "year": 1999,
+      "subtitle": "Dir: David Fincher",
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "popularity": 88,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "fargo-1996",
+      "label": "Fargo",
+      "year": 1996,
+      "subtitle": "Dir: Joel Coen",
+      "description": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+      "popularity": 81,
+      "tags": [
+        "Crime",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "everything-everywhere-all-at-once-2022",
+      "label": "Everything Everywhere All at Once",
+      "year": 2022,
+      "subtitle": "Dir: Dan Kwan",
+      "description": "An aging Chinese immigrant is swept up in an insane adventure, in which she alone can save the world by exploring other universes connecting with the lives she could have led.",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "eternal-sunshine-of-the-spotless-mind-2004",
+      "label": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "subtitle": "Dir: Michel Gondry",
+      "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.",
+      "popularity": 83,
+      "tags": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "el-secreto-de-sus-ojos-2010",
+      "label": "El secreto de sus ojos",
+      "year": 2010,
+      "subtitle": "Dir: Juan José Campanella",
+      "description": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+      "popularity": 82,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ]
+    },
+    {
+      "id": "el-laberinto-del-fauno-2007",
+      "label": "El laberinto del fauno",
+      "year": 2007,
+      "subtitle": "Dir: Guillermo del Toro",
+      "description": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+      "popularity": 82,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "War"
+      ]
+    },
+    {
+      "id": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964",
+      "label": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "subtitle": "Dir: Stanley Kubrick",
+      "description": "An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "War"
+      ]
+    },
+    {
+      "id": "double-indemnity-1944",
+      "label": "Double Indemnity",
+      "year": 1944,
+      "subtitle": "Dir: Billy Wilder",
+      "description": "A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.",
+      "popularity": 83,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+      ]
+    },
+    {
+      "id": "django-unchained-2012",
+      "label": "Django Unchained",
+      "year": 2012,
+      "subtitle": "Dir: Quentin Tarantino",
+      "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "Western"
+      ]
+    },
+    {
+      "id": "die-hard-1988",
+      "label": "Die Hard",
+      "year": 1988,
+      "subtitle": "Dir: John McTiernan",
+      "description": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "dial-m-for-murder-1954",
+      "label": "Dial M for Murder",
+      "year": 1954,
+      "subtitle": "Dir: Alfred Hitchcock",
+      "description": "A former tennis star arranges the murder of his adulterous wife.",
+      "popularity": 82,
+      "tags": [
+        "Crime",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "det-sjunde-inseglet-1958",
+      "label": "Det sjunde inseglet",
+      "year": 1958,
+      "subtitle": "Dir: Ingmar Bergman",
+      "description": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "dersu-uzala-1977",
+      "label": "Dersu Uzala",
+      "year": 1977,
+      "subtitle": "Dir: Akira Kurosawa",
+      "description": "The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter.",
+      "popularity": 82,
+      "tags": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ]
+    },
+    {
+      "id": "der-untergang-2005",
+      "label": "Der Untergang",
+      "year": 2005,
+      "subtitle": "Dir: Oliver Hirschbiegel",
+      "description": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+      "popularity": 82,
+      "tags": [
+        "Biography",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "dead-poets-society-1989",
+      "label": "Dead Poets Society",
+      "year": 1989,
+      "subtitle": "Dir: Peter Weir",
+      "description": "Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "das-leben-der-anderen-2007",
+      "label": "Das Leben der Anderen",
+      "year": 2007,
+      "subtitle": "Dir: Florian Henckel von Donnersmarck",
+      "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "das-boot-1982",
+      "label": "Das Boot",
+      "year": 1982,
+      "subtitle": "Dir: Wolfgang Petersen",
+      "description": "A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "dangal-2016",
+      "label": "Dangal",
+      "year": 2016,
+      "subtitle": "Dir: Nitesh Tiwari",
+      "description": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+      "popularity": 83,
+      "tags": [
+        "Action",
+        "Biography",
+        "Drama"
+      ]
+    },
+    {
+      "id": "cool-hand-luke-1967",
+      "label": "Cool Hand Luke",
+      "year": 1967,
+      "subtitle": "Dir: Stuart Rosenberg",
+      "description": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+      "popularity": 81,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "coco-2017",
+      "label": "Coco",
+      "year": 2017,
+      "subtitle": "Dir: Lee Unkrich",
+      "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      "popularity": 84,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "city-lights-1931",
+      "label": "City Lights",
+      "year": 1931,
+      "subtitle": "Dir: Charles Chaplin",
+      "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+      "popularity": 85,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "citizen-kane-1941",
+      "label": "Citizen Kane",
+      "year": 1941,
+      "subtitle": "Dir: Orson Welles",
+      "description": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+      "popularity": 83,
+      "tags": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "cidade-de-deus-2004",
+      "label": "Cidade de Deus",
+      "year": 2004,
+      "subtitle": "Dir: Fernando Meirelles",
+      "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+      "popularity": 86,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "chinatown-1974",
+      "label": "Chinatown",
+      "year": 1974,
+      "subtitle": "Dir: Roman Polanski",
+      "description": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+      "popularity": 82,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "catch-me-if-you-can-2002",
+      "label": "Catch Me If You Can",
+      "year": 2002,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+      "popularity": 81,
+      "tags": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "casino-1995",
+      "label": "Casino",
+      "year": 1995,
+      "subtitle": "Dir: Martin Scorsese",
+      "description": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.",
+      "popularity": 82,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "casablanca-1943",
+      "label": "Casablanca",
+      "year": 1943,
+      "subtitle": "Dir: Michael Curtiz",
+      "description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+      "popularity": 85,
+      "tags": [
+        "Drama",
+        "Romance",
+        "War"
+      ]
+    },
+    {
+      "id": "capharnaum-2018",
+      "label": "Capharnaüm",
+      "year": 2018,
+      "subtitle": "Dir: Nadine Labaki",
+      "description": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+      "popularity": 84,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "cera-una-volta-il-west-1969",
+      "label": "C'era una volta il West",
+      "year": 1969,
+      "subtitle": "Dir: Sergio Leone",
+      "description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+      "popularity": 85,
+      "tags": [
+        "Western"
+      ]
+    },
+    {
+      "id": "braveheart-1995",
+      "label": "Braveheart",
+      "year": 1995,
+      "subtitle": "Dir: Mel Gibson",
+      "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+      "popularity": 84,
+      "tags": [
+        "Biography",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "blade-runner-1982",
+      "label": "Blade Runner",
+      "year": 1982,
+      "subtitle": "Dir: Ridley Scott",
+      "description": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "ben-hur-1959",
+      "label": "Ben-Hur",
+      "year": 1959,
+      "subtitle": "Dir: William Wyler",
+      "description": "After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.",
+      "popularity": 81,
+      "tags": [
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "before-sunset-2004",
+      "label": "Before Sunset",
+      "year": 2004,
+      "subtitle": "Dir: Richard Linklater",
+      "description": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "before-sunrise-1995",
+      "label": "Before Sunrise",
+      "year": 1995,
+      "subtitle": "Dir: Richard Linklater",
+      "description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "batman-begins-2005",
+      "label": "Batman Begins",
+      "year": 2005,
+      "subtitle": "Dir: Christopher Nolan",
+      "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "barry-lyndon-1975",
+      "label": "Barry Lyndon",
+      "year": 1975,
+      "subtitle": "Dir: Stanley Kubrick",
+      "description": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+      "popularity": 81,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "back-to-the-future-1985",
+      "label": "Back to the Future",
+      "year": 1985,
+      "subtitle": "Dir: Robert Zemeckis",
+      "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+      "popularity": 85,
+      "tags": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "bacheha-ye-aseman-1999",
+      "label": "Bacheha-Ye aseman",
+      "year": 1999,
+      "subtitle": "Dir: Majid Majidi",
+      "description": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+      "popularity": 82,
+      "tags": [
+        "Drama",
+        "Family",
+        "Sport"
+      ]
+    },
+    {
+      "id": "babam-ve-oglum-2005",
+      "label": "Babam ve Oglum",
+      "year": 2005,
+      "subtitle": "Dir: Çagan Irmak",
+      "description": "The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.",
+      "popularity": 82,
+      "tags": [
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "avengers-infinity-war-2018",
+      "label": "Avengers: Infinity War",
+      "year": 2018,
+      "subtitle": "Dir: Anthony Russo",
+      "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "popularity": 84,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "avengers-endgame-2019",
+      "label": "Avengers: Endgame",
+      "year": 2019,
+      "subtitle": "Dir: Anthony Russo",
+      "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "popularity": 84,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "apocalypse-now-1979",
+      "label": "Apocalypse Now",
+      "year": 1979,
+      "subtitle": "Dir: Francis Ford Coppola",
+      "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+      "popularity": 85,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "War"
+      ]
+    },
+    {
+      "id": "amores-perros-2001",
+      "label": "Amores perros",
+      "year": 2001,
+      "subtitle": "Dir: Alejandro G. Iñárritu",
+      "description": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "american-history-x-1998",
+      "label": "American History X",
+      "year": 1998,
+      "subtitle": "Dir: Tony Kaye",
+      "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+      "popularity": 85,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "american-beauty-1999",
+      "label": "American Beauty",
+      "year": 1999,
+      "subtitle": "Dir: Sam Mendes",
+      "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+      "popularity": 84,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "amadeus-1984",
+      "label": "Amadeus",
+      "year": 1984,
+      "subtitle": "Dir: Milos Forman",
+      "description": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart's talent and claimed to have murdered him.",
+      "popularity": 84,
+      "tags": [
+        "Biography",
+        "Drama",
+        "Music"
+      ]
+    },
+    {
+      "id": "all-about-eve-1950",
+      "label": "All About Eve",
+      "year": 1950,
+      "subtitle": "Dir: Joseph L. Mankiewicz",
+      "description": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+      "popularity": 82,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "aliens-1986",
+      "label": "Aliens",
+      "year": 1986,
+      "subtitle": "Dir: James Cameron",
+      "description": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.",
+      "popularity": 84,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "alien-1979",
+      "label": "Alien",
+      "year": 1979,
+      "subtitle": "Dir: Ridley Scott",
+      "description": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
+      "popularity": 85,
+      "tags": [
+        "Horror",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "aladdin-1992",
+      "label": "Aladdin",
+      "year": 1992,
+      "subtitle": "Dir: Ron Clements",
+      "description": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+      "popularity": 80,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "ah-ga-ssi-2016",
+      "label": "Ah-ga-ssi",
+      "year": 2016,
+      "subtitle": "Dir: Park Chan-wook",
+      "description": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "a-clockwork-orange-1972",
+      "label": "A Clockwork Orange",
+      "year": 1972,
+      "subtitle": "Dir: Stanley Kubrick",
+      "description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+      "popularity": 83,
+      "tags": [
+        "Crime",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "a-beautiful-mind-2002",
+      "label": "A Beautiful Mind",
+      "year": 2002,
+      "subtitle": "Dir: Ron Howard",
+      "description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+      "popularity": 82,
+      "tags": [
+        "Biography",
+        "Drama"
+      ]
+    },
+    {
+      "id": "3-idiots-2009",
+      "label": "3 Idiots",
+      "year": 2009,
+      "subtitle": "Dir: Rajkumar Hirani",
+      "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "2001-a-space-odyssey-1970",
+      "label": "2001: A Space Odyssey",
+      "year": 1970,
+      "subtitle": "Dir: Stanley Kubrick",
+      "description": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.",
+      "popularity": 83,
+      "tags": [
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "1917-2020",
+      "label": "1917",
+      "year": 2020,
+      "subtitle": "Dir: Sam Mendes",
+      "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "12-years-a-slave-2013",
+      "label": "12 Years a Slave",
+      "year": 2013,
+      "subtitle": "Dir: Steve McQueen",
+      "description": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+      "popularity": 81,
+      "tags": [
+        "Biography",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "12-angry-men-1957",
+      "label": "12 Angry Men",
+      "year": 1957,
+      "subtitle": "Dir: Sidney Lumet",
+      "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "popularity": 90,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    }
+  ]
+}

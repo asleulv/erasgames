@@ -1,0 +1,3325 @@
+{
+  "id": "tv-classics",
+  "slug": "tv-classics",
+  "title": "TV Show Classics",
+  "shortTitle": "TV Shows",
+  "description": "Place iconic, universally acclaimed television series in their correct release order.",
+  "category": "Movies & TV",
+  "subcategory": "TV Shows",
+  "sitePath": "/timeline/tv-classics",
+  "theme": {
+    "primary": "#3B82F6",
+    "secondary": "#FFFFFF",
+    "background": "#0F172A",
+    "text": "#0F172A"
+  },
+  "share": {
+    "title": "TV Show Classics Timeline",
+    "description": "Can you place these legendary television shows in the correct order of their release?",
+    "hashtags": [
+      "TVShows",
+      "Classics",
+      "TVQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "TV Show Classics Movie Timeline Quiz - Eras Games",
+    "description": "Test your television knowledge! Put legendary, universally acclaimed TV shows in their correct release order in this addictive timeline game.",
+    "keywords": [
+      "TV Shows",
+      "TV Series",
+      "Classics",
+      "Television",
+      "Timeline Game",
+      "TV Quiz"
+    ]
+  },
+  "items": [
+    {
+      "id": "i-love-lucy-1951",
+      "label": "I Love Lucy",
+      "year": 1951,
+      "subtitle": "Stars: Lucille Ball, Desi Arnaz",
+      "description": "A wacky woman constantly tries to break into show business alongside her bandleader husband.",
+      "popularity": 85,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "the-honeymooners-1955",
+      "label": "The Honeymooners",
+      "year": 1955,
+      "subtitle": "Stars: Jackie Gleason, Art Carney",
+      "description": "A bus driver and his sewage worker friend constantly concoct get-rich-quick schemes in Brooklyn.",
+      "popularity": 86,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "gunsmoke-1955",
+      "label": "Gunsmoke",
+      "year": 1955,
+      "subtitle": "Stars: James Arness, Milburn Stone",
+      "description": "Marshal Matt Dillon keeps the peace in the rough town of Dodge City during the wild west.",
+      "popularity": 81,
+      "tags": [
+        "Western",
+        "Drama"
+      ]
+    },
+    {
+      "id": "leave-it-to-beaver-1957",
+      "label": "Leave It to Beaver",
+      "year": 1957,
+      "subtitle": "Stars: Jerry Mathers, Hugh Beaumont",
+      "description": "An inquisitive boy named Beaver gets into innocent neighborhood scrapes in mid-century America.",
+      "popularity": 77,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "perry-mason-1957",
+      "label": "Perry Mason",
+      "year": 1957,
+      "subtitle": "Stars: Raymond Burr, Barbara Hale",
+      "description": "A brilliant criminal defense lawyer defends seemingly hopeless cases in court.",
+      "popularity": 83,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "the-twilight-zone-1959",
+      "label": "The Twilight Zone",
+      "year": 1959,
+      "subtitle": "Creator: Rod Serling",
+      "description": "Ordinary people find themselves in extraordinarily astounding, supernatural situations.",
+      "popularity": 91,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "the-andy-griffith-show-1960",
+      "label": "The Andy Griffith Show",
+      "year": 1960,
+      "subtitle": "Stars: Andy Griffith, Ron Howard",
+      "description": "A widowed sheriff raises his son in the peaceful, eccentric town of Mayberry.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "the-flintstones-1960",
+      "label": "The Flintstones",
+      "year": 1960,
+      "subtitle": "Creator: William Hanna, Joseph Barbera",
+      "description": "A modern Stone Age family faces everyday struggles in the prehistoric town of Bedrock.",
+      "popularity": 75,
+      "tags": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "the-dick-van-dyke-show-1961",
+      "label": "The Dick Van Dyke Show",
+      "year": 1961,
+      "subtitle": "Stars: Dick Van Dyke, Mary Tyler Moore",
+      "description": "The work and home life of a comedy writer and his beautiful, spirited wife.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "doctor-who-1963",
+      "label": "Doctor Who",
+      "year": 1963,
+      "subtitle": "Creator: Sydney Newman",
+      "description": "An alien Time Lord travels across time and space in a blue police box.",
+      "popularity": 84,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "the-addams-family-1964",
+      "label": "The Addams Family",
+      "year": 1964,
+      "subtitle": "Stars: Carolyn Jones, John Astin",
+      "description": "A macabre, gothic, but loving family lives next door in suburban America.",
+      "popularity": 80,
+      "tags": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "the-munsters-1964",
+      "label": "The Munsters",
+      "year": 1964,
+      "subtitle": "Stars: Fred Gwynne, Al Lewis",
+      "description": "A family of friendly, classic movie monsters live their lives in an ordinary neighborhood.",
+      "popularity": 79,
+      "tags": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "gilligans-island-1964",
+      "label": "Gilligan's Island",
+      "year": 1964,
+      "subtitle": "Creator: Sherwood Schwartz",
+      "description": "Seven castaways survive on an uncharted tropical island after a shipwreck.",
+      "popularity": 74,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "bewitched-1964",
+      "label": "Bewitched",
+      "year": 1964,
+      "subtitle": "Stars: Elizabeth Montgomery, Dick York",
+      "description": "A young witch marries an ordinary advertising executive and tries to live a mortal life.",
+      "popularity": 76,
+      "tags": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "get-smart-1965",
+      "label": "Get Smart",
+      "year": 1965,
+      "subtitle": "Creator: Mel Brooks, Buck Henry",
+      "description": "A bumbling secret agent fights the evil syndicate KAOS with the help of his clever partner.",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "star-trek-the-original-series-1966",
+      "label": "Star Trek: The Original Series",
+      "year": 1966,
+      "subtitle": "Creator: Gene Roddenberry",
+      "description": "The crew of the USS Enterprise explores the galaxy, seeking out new life and civilizations.",
+      "popularity": 84,
+      "tags": [
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "batman-1966",
+      "label": "Batman",
+      "year": 1966,
+      "subtitle": "Stars: Adam West, Burt Ward",
+      "description": "The Caped Crusader and Robin fight colorful villains in a highly stylized Gotham City.",
+      "popularity": 75,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "mission-impossible-1966",
+      "label": "Mission: Impossible",
+      "year": 1966,
+      "subtitle": "Creator: Bruce Geller",
+      "description": "An elite covert operations unit carries out highly dangerous, complex missions.",
+      "popularity": 79,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ]
+    },
+    {
+      "id": "scooby-doo-where-are-you-1969",
+      "label": "Scooby-Doo, Where Are You!",
+      "year": 1969,
+      "subtitle": "Creator: Joe Ruby, Ken Spears",
+      "description": "Four teenagers and a talking Great Dane travel around solving mysteries involving monsters.",
+      "popularity": 79,
+      "tags": [
+        "Animation",
+        "Comedy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "monty-pythons-flying-circus-1969",
+      "label": "Monty Python's Flying Circus",
+      "year": 1969,
+      "subtitle": "Stars: Graham Chapman, John Cleese",
+      "description": "The legendary British comedy troupe presents surreal sketches and brilliant animations.",
+      "popularity": 88,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "all-in-the-family-1971",
+      "label": "All in the Family",
+      "year": 1971,
+      "subtitle": "Stars: Carroll O'Connor, Jean Stapleton",
+      "description": "A working-class bigot clashes with his progressive daughter and liberal son-in-law.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "columbo-1971",
+      "label": "Columbo",
+      "year": 1971,
+      "subtitle": "Stars: Peter Falk",
+      "description": "An eccentric, rumpled homicide detective uses subtle questioning to trap clever killers.",
+      "popularity": 83,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "mash-1972",
+      "label": "M*A*S*H",
+      "year": 1972,
+      "subtitle": "Stars: Alan Alda, Wayne Rogers",
+      "description": "The staff of a mobile army surgical hospital find humor and tragedy during the Korean War.",
+      "popularity": 85,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "the-bob-newhart-show-1972",
+      "label": "The Bob Newhart Show",
+      "year": 1972,
+      "subtitle": "Stars: Bob Newhart, Suzanne Pleshette",
+      "description": "The personal and professional trials of an eccentric Chicago psychologist.",
+      "popularity": 80,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "happy-days-1974",
+      "label": "Happy Days",
+      "year": 1974,
+      "subtitle": "Stars: Ron Howard, Henry Winkler",
+      "description": "A nostalgic look at growing up in America during the mid-fifties and sixties.",
+      "popularity": 74,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "little-house-on-the-prairie-1974",
+      "label": "Little House on the Prairie",
+      "year": 1974,
+      "subtitle": "Stars: Michael Landon, Melissa Gilbert",
+      "description": "The life and adventures of a family living on a farm in Walnut Grove during the 1870s.",
+      "popularity": 75,
+      "tags": [
+        "Drama",
+        "Family",
+        "Western"
+      ]
+    },
+    {
+      "id": "fawlty-towers-1975",
+      "label": "Fawlty Towers",
+      "year": 1975,
+      "subtitle": "Stars: John Cleese, Prunella Scales",
+      "description": "A highly stressed, snobbish hotel owner deals with eccentric guests and his own temper.",
+      "popularity": 88,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "saturday-night-live-1975",
+      "label": "Saturday Night Live",
+      "year": 1975,
+      "subtitle": "Creator: Lorne Michaels",
+      "description": "A live late-night television sketch comedy and variety show featuring legendary talent.",
+      "popularity": 79,
+      "tags": [
+        "Comedy",
+        "Music"
+      ]
+    },
+    {
+      "id": "the-jeffersons-1975",
+      "label": "The Jeffersons",
+      "year": 1975,
+      "subtitle": "Stars: Sherman Hemsley, Isabel Sanford",
+      "description": "A successful dry cleaner moves on up to a deluxe apartment in East Side Manhattan.",
+      "popularity": 75,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "charlies-angels-1976",
+      "label": "Charlie's Angels",
+      "year": 1976,
+      "subtitle": "Stars: Jaclyn Smith, Cheryl Ladd",
+      "description": "Three beautiful, athletic private investigators solve crimes for a mysterious boss.",
+      "popularity": 65,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ]
+    },
+    {
+      "id": "the-muppet-show-1976",
+      "label": "The Muppet Show",
+      "year": 1976,
+      "subtitle": "Creator: Jim Henson",
+      "description": "Kermit the Frog hosts a variety show featuring Muppets and celebrity guest stars.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Family",
+        "Music"
+      ]
+    },
+    {
+      "id": "threes-company-1977",
+      "label": "Three's Company",
+      "year": 1977,
+      "subtitle": "Stars: John Ritter, Joyce DeWitt",
+      "description": "Two single women and a bachelor pretend to be roommates, navigating endless misunderstandings.",
+      "popularity": 75,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "dallas-1978",
+      "label": "Dallas",
+      "year": 1978,
+      "subtitle": "Stars: Larry Hagman, Linda Gray",
+      "description": "The dramatic, cutthroat exploits of a wealthy, feuding oil tycoon family in Texas.",
+      "popularity": 70,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "mork-mindy-1978",
+      "label": "Mork & Mindy",
+      "year": 1978,
+      "subtitle": "Stars: Robin Williams, Pam Dawber",
+      "description": "An eccentric alien arrives from the planet Ork and lives with an ordinary young woman.",
+      "popularity": 70,
+      "tags": [
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "taxi-1978",
+      "label": "Taxi",
+      "year": 1978,
+      "subtitle": "Stars: Judd Hirsch, Danny DeVito",
+      "description": "The daily lives and dreams of a group of eccentric cab drivers in New York City.",
+      "popularity": 79,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "battlestar-galactica-classic-1978",
+      "label": "Battlestar Galactica (Classic)",
+      "year": 1978,
+      "subtitle": "Stars: Richard Hatch, Dirk Benedict",
+      "description": "The last surviving fleet of humans searches for the mythical planet Earth while escaping Cylons.",
+      "popularity": 72,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "wkrp-in-cincinnati-1978",
+      "label": "WKRP in Cincinnati",
+      "year": 1978,
+      "subtitle": "Stars: Gary Sandy, Howard Hesseman",
+      "description": "A new program director tries to turn around a struggling, eccentric AM radio station.",
+      "popularity": 80,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "the-dukes-of-hazzard-1979",
+      "label": "The Dukes of Hazzard",
+      "year": 1979,
+      "subtitle": "Stars: Tom Wopat, John Schneider",
+      "description": "Two good-natured cousins battle corrupt local officials in their famous muscle car.",
+      "popularity": 71,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "hart-to-hart-1979",
+      "label": "Hart to Hart",
+      "year": 1979,
+      "subtitle": "Stars: Robert Wagner, Stefanie Powers",
+      "description": "A wealthy, glamorous married couple spends their spare time solving murder mysteries.",
+      "popularity": 69,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "doctor-who-tom-baker-era-1974",
+      "label": "Doctor Who (Tom Baker Era)",
+      "year": 1974,
+      "subtitle": "Stars: Tom Baker, Elisabeth Sladen",
+      "description": "The iconic Fourth Doctor battles Daleks and Cybermen across the galaxy.",
+      "popularity": 86,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "magnum-pi-1980",
+      "label": "Magnum, P.I.",
+      "year": 1980,
+      "subtitle": "Stars: Tom Selleck, John Hillerman",
+      "description": "A charismatic private investigator lives in Hawaii and solves crimes for wealthy clients.",
+      "popularity": 75,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ]
+    },
+    {
+      "id": "dynasty-1981",
+      "label": "Dynasty",
+      "year": 1981,
+      "subtitle": "Stars: John Forsythe, Linda Evans",
+      "description": "A high-stakes prime-time soap opera centered on two wealthy, feuding Denver oil families.",
+      "popularity": 63,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "hill-street-blues-1981",
+      "label": "Hill Street Blues",
+      "year": 1981,
+      "subtitle": "Creator: Steven Bochco",
+      "description": "The daily work and chaotic personal lives of the officers in an urban police precinct.",
+      "popularity": 82,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "cheers-1982",
+      "label": "Cheers",
+      "year": 1982,
+      "subtitle": "Stars: Ted Danson, Shelley Long",
+      "description": "The patrons and staff of an iconic Boston bar where everybody knows your name.",
+      "popularity": 80,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "knight-rider-1982",
+      "label": "Knight Rider",
+      "year": 1982,
+      "subtitle": "Stars: David Hasselhoff",
+      "description": "A high-tech crimefighter battles injustice with the help of a talking, intelligent sports car.",
+      "popularity": 69,
+      "tags": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "st-elsewhere-1982",
+      "label": "St. Elsewhere",
+      "year": 1982,
+      "subtitle": "Creator: Joshua Brand",
+      "description": "The lives and dramatic medical challenges of doctors at a decaying Boston hospital.",
+      "popularity": 79,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "cagney-lacey-1982",
+      "label": "Cagney & Lacey",
+      "year": 1982,
+      "subtitle": "Stars: Tyne Daly, Sharon Gless",
+      "description": "Two female New York police detectives balance their careers with complex family lives.",
+      "popularity": 69,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "the-a-team-1983",
+      "label": "The A-Team",
+      "year": 1983,
+      "subtitle": "Stars: George Peppard, Mr. T",
+      "description": "Four framed Vietnam War veterans work as soldiers of fortune, helping people in need.",
+      "popularity": 72,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "blackadder-1983",
+      "label": "Blackadder",
+      "year": 1983,
+      "subtitle": "Stars: Rowan Atkinson, Tony Robinson",
+      "description": "The cynical, devious Blackadder maneuvers through different eras of British history.",
+      "popularity": 80,
+      "tags": [
+        "Comedy",
+        "History"
+      ]
+    },
+    {
+      "id": "miami-vice-1984",
+      "label": "Miami Vice",
+      "year": 1984,
+      "subtitle": "Stars: Don Johnson, Philip Michael Thomas",
+      "description": "Two undercover detectives combat drug trafficking and crime in stylish, neon Miami.",
+      "popularity": 75,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-cosby-show-1984",
+      "label": "The Cosby Show",
+      "year": 1984,
+      "subtitle": "Stars: Bill Cosby, Phylicia Rashad",
+      "description": "The warm, comedic trials and triumphs of a wealthy Black family living in Brooklyn.",
+      "popularity": 73,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "murder-she-wrote-1984",
+      "label": "Murder, She Wrote",
+      "year": 1984,
+      "subtitle": "Stars: Angela Lansbury",
+      "description": "A professional mystery writer uses her keen intellect to solve real-life murders.",
+      "popularity": 71,
+      "tags": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-golden-girls-1985",
+      "label": "The Golden Girls",
+      "year": 1985,
+      "subtitle": "Stars: Bea Arthur, Betty White",
+      "description": "Four elderly, single women share a house and navigate their golden years in Miami.",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "macgyver-1985",
+      "label": "MacGyver",
+      "year": 1985,
+      "subtitle": "Stars: Richard Dean Anderson",
+      "description": "An ingenious secret agent solves dangerous situations using everyday science and a Swiss Army knife.",
+      "popularity": 77,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ]
+    },
+    {
+      "id": "growing-pains-1985",
+      "label": "Growing Pains",
+      "year": 1985,
+      "subtitle": "Stars: Alan Thicke, Joanna Kerns",
+      "description": "A working mom and a stay-at-home psychiatrist raise three energetic children.",
+      "popularity": 66,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "moonlighting-1985",
+      "label": "Moonlighting",
+      "year": 1985,
+      "subtitle": "Stars: Bruce Willis, Cybill Shepherd",
+      "description": "A former model and a cocky private eye run a detective agency, trading witty banter.",
+      "popularity": 75,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "perfect-strangers-1986",
+      "label": "Perfect Strangers",
+      "year": 1986,
+      "subtitle": "Stars: Bronson Pinchot, Mark Linn-Baker",
+      "description": "A neurotic American is joined by his eccentric, optimistic cousin from Eastern Europe.",
+      "popularity": 72,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "alf-1986",
+      "label": "ALF",
+      "year": 1986,
+      "subtitle": "Stars: Max Wright, Anne Schedeen",
+      "description": "A sarcastic, furry alien crashes into a suburban garage and lives with a middle-class family.",
+      "popularity": 74,
+      "tags": [
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "full-house-1987",
+      "label": "Full House",
+      "year": 1987,
+      "subtitle": "Stars: Bob Saget, John Stamos",
+      "description": "A widowed father enlists his brother-in-law and best friend to help raise his three daughters.",
+      "popularity": 68,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "star-trek-the-next-generation-1987",
+      "label": "Star Trek: The Next Generation",
+      "year": 1987,
+      "subtitle": "Stars: Patrick Stewart, Jonathan Frakes",
+      "description": "Captain Jean-Luc Picard leads the new Enterprise crew across the galaxy.",
+      "popularity": 87,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "married-with-children-1987",
+      "label": "Married... with Children",
+      "year": 1987,
+      "subtitle": "Stars: Ed O'Neill, Katey Sagal",
+      "description": "A cynical shoe salesman endures his lazy wife, demanding kids, and endless bad luck.",
+      "popularity": 81,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "the-wonder-years-1988",
+      "label": "The Wonder Years",
+      "year": 1988,
+      "subtitle": "Stars: Fred Savage, Dan Lauria",
+      "description": "A nostalgic, bittersweet look at growing up in suburban America during the late 60s and early 70s.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "roseanne-1988",
+      "label": "Roseanne",
+      "year": 1988,
+      "subtitle": "Stars: Roseanne Barr, John Goodman",
+      "description": "A working-class family struggles to make ends meet in the fictional town of Lanford.",
+      "popularity": 71,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "red-dwarf-1988",
+      "label": "Red Dwarf",
+      "year": 1988,
+      "subtitle": "Stars: Craig Charles, Danny John-Jules",
+      "description": "The last human alive travels through deep space with a hologram, a cat, and a neurotic robot.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "seinfeld-1989",
+      "label": "Seinfeld",
+      "year": 1989,
+      "subtitle": "Stars: Jerry Seinfeld, Julia Louis-Dreyfus",
+      "description": "A stand-up comedian and his eccentric friends navigate the absurdities of daily New York life.",
+      "popularity": 89,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "the-simpsons-1989",
+      "label": "The Simpsons",
+      "year": 1989,
+      "subtitle": "Creator: Matt Groening",
+      "description": "The satirical, animated adventures of a dysfunctional working-class family in Springfield.",
+      "popularity": 87,
+      "tags": [
+        "Animation",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "baywatch-1989",
+      "label": "Baywatch",
+      "year": 1989,
+      "subtitle": "Stars: David Hasselhoff, Pamela Anderson",
+      "description": "Los Angeles County lifeguards save lives, solve crimes, and deal with relationship drama.",
+      "popularity": 54,
+      "tags": [
+        "Action",
+        "Drama",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "saved-by-the-bell-1989",
+      "label": "Saved by the Bell",
+      "year": 1989,
+      "subtitle": "Stars: Mark-Paul Gosselaar, Mario Lopez",
+      "description": "A group of teenage friends navigate the social high-jinks of Bayside High School.",
+      "popularity": 71,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "agatha-christies-poirot-1989",
+      "label": "Agatha Christie's Poirot",
+      "year": 1989,
+      "subtitle": "Stars: David Suchet, Hugh Fraser",
+      "description": "The brilliant Belgian detective Hercule Poirot solves highly complex murder mysteries.",
+      "popularity": 86,
+      "tags": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "quantum-leap-1989",
+      "label": "Quantum Leap",
+      "year": 1989,
+      "subtitle": "Stars: Scott Bakula, Dean Stockwell",
+      "description": "A scientist travels through time, leaping into different people's bodies to correct history.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "twin-peaks-1990",
+      "label": "Twin Peaks",
+      "year": 1990,
+      "subtitle": "Creator: David Lynch, Mark Frost",
+      "description": "An eccentric FBI agent investigates the mysterious murder of a beloved high school queen.",
+      "popularity": 88,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "the-fresh-prince-of-bel-air-1990",
+      "label": "The Fresh Prince of Bel-Air",
+      "year": 1990,
+      "subtitle": "Stars: Will Smith, James Avery",
+      "description": "A street-smart teen from Philadelphia is sent to live with his wealthy aunt and uncle in Bel-Air.",
+      "popularity": 79,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "law-order-1990",
+      "label": "Law & Order",
+      "year": 1990,
+      "subtitle": "Creator: Dick Wolf",
+      "description": "A long-running procedural following police investigations and prosecution in New York.",
+      "popularity": 78,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "northern-exposure-1990",
+      "label": "Northern Exposure",
+      "year": 1990,
+      "subtitle": "Creator: Joshua Brand",
+      "description": "A young New York doctor is forced to practice in an eccentric, remote Alaskan town.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "home-improvement-1991",
+      "label": "Home Improvement",
+      "year": 1991,
+      "subtitle": "Stars: Tim Allen, Patricia Richardson",
+      "description": "A bumbling, power-tool-obsessed TV host raises three sons alongside his patient wife.",
+      "popularity": 72,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "are-you-afraid-of-the-dark-1990",
+      "label": "Are You Afraid of the Dark?",
+      "year": 1990,
+      "subtitle": "Creator: D.J. MacHale",
+      "description": "A group of teenagers tell spine-chilling ghost stories around a campfire.",
+      "popularity": 82,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ]
+    },
+    {
+      "id": "batman-the-animated-series-1992",
+      "label": "Batman: The Animated Series",
+      "year": 1992,
+      "subtitle": "Stars: Kevin Conroy, Mark Hamill",
+      "description": "The dark, acclaimed animated adventures of Batman defending Gotham from classic foes.",
+      "popularity": 90,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "melrose-place-1992",
+      "label": "Melrose Place",
+      "year": 1992,
+      "subtitle": "Stars: Heather Locklear, Andrew Shue",
+      "description": "The dramatic, scandalous lives and relationships of young adults in a West Hollywood complex.",
+      "popularity": 59,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "absolutely-fabulous-1992",
+      "label": "Absolutely Fabulous",
+      "year": 1992,
+      "subtitle": "Stars: Jennifer Saunders, Joanna Lumley",
+      "description": "Two self-indulgent, middle-aged British career women behave outrageously in London.",
+      "popularity": 81,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "the-x-files-1993",
+      "label": "The X-Files",
+      "year": 1993,
+      "subtitle": "Creator: Chris Carter",
+      "description": "Two FBI agents investigate paranormal, unexplained phenomena and government conspiracies.",
+      "popularity": 86,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "frasier-1993",
+      "label": "Frasier",
+      "year": 1993,
+      "subtitle": "Stars: Kelsey Grammer, David Hyde Pierce",
+      "description": "An arrogant, neurotic radio psychiatrist deals with his eccentric family in Seattle.",
+      "popularity": 82,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "boy-meets-world-1993",
+      "label": "Boy Meets World",
+      "year": 1993,
+      "subtitle": "Stars: Ben Savage, Rider Strong",
+      "description": "A teenager learns life lessons alongside his best friend, girlfriend, and wise teacher.",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "star-trek-deep-space-nine-1993",
+      "label": "Star Trek: Deep Space Nine",
+      "year": 1993,
+      "subtitle": "Creator: Rick Berman",
+      "description": "The crew of a strategic space station handles deep political conflicts and war.",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "nypd-blue-1993",
+      "label": "NYPD Blue",
+      "year": 1993,
+      "subtitle": "Creator: Steven Bochco, David Milch",
+      "description": "The gritty, realistic trials of detectives working in a Manhattan precinct.",
+      "popularity": 77,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "animaniacs-1993",
+      "label": "Animaniacs",
+      "year": 1993,
+      "subtitle": "Stars: Rob Paulsen, Jess Harnell",
+      "description": "The wacky Warner brothers and sister escape their studio tower and cause chaotic comedy.",
+      "popularity": 79,
+      "tags": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "friends-1994",
+      "label": "Friends",
+      "year": 1994,
+      "subtitle": "Creator: David Crane, Marta Kauffman",
+      "description": "Six young adults navigate work, love, and life in 1990s Manhattan.",
+      "popularity": 89,
+      "tags": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "er-1994",
+      "label": "ER",
+      "year": 1994,
+      "subtitle": "Creator: Michael Crichton",
+      "description": "The chaotic personal and professional lives of the staff in a Chicago emergency room.",
+      "popularity": 79,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "my-so-called-life-1994",
+      "label": "My So-Called Life",
+      "year": 1994,
+      "subtitle": "Stars: Claire Danes, Jared Leto",
+      "description": "A poignant, honest look at the emotional struggles of a teenage girl and her friends.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "star-trek-voyager-1995",
+      "label": "Star Trek: Voyager",
+      "year": 1995,
+      "subtitle": "Creator: Rick Berman",
+      "description": "A starship is thrown into a remote quadrant of space and begins a 70-year trip home.",
+      "popularity": 78,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "xena-warrior-princess-1995",
+      "label": "Xena: Warrior Princess",
+      "year": 1995,
+      "subtitle": "Stars: Lucy Lawless, Renee O'Connor",
+      "description": "A reformed warrior princess travels the ancient world fighting for justice and peace.",
+      "popularity": 67,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "father-ted-1995",
+      "label": "Father Ted",
+      "year": 1995,
+      "subtitle": "Stars: Dermot Morgan, Ardal O'Hanlon",
+      "description": "Three eccentric priests live on a remote, rainy island off the coast of Ireland.",
+      "popularity": 87,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "dexters-laboratory-1996",
+      "label": "Dexter's Laboratory",
+      "year": 1996,
+      "subtitle": "Creator: Genndy Tartakovsky",
+      "description": "A boy genius conducts incredible experiments in his secret lab despite his annoying sister.",
+      "popularity": 79,
+      "tags": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "everybody-loves-raymond-1996",
+      "label": "Everybody Loves Raymond",
+      "year": 1996,
+      "subtitle": "Stars: Ray Romano, Patricia Heaton",
+      "description": "A sports writer copes with his intrusive parents and brother living just across the street.",
+      "popularity": 73,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "south-park-1997",
+      "label": "South Park",
+      "year": 1997,
+      "subtitle": "Creator: Trey Parker, Matt Stone",
+      "description": "The highly satirical, offensive animated adventures of four boys in a Colorado town.",
+      "popularity": 87,
+      "tags": [
+        "Animation",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "buffy-the-vampire-slayer-1997",
+      "label": "Buffy the Vampire Slayer",
+      "year": 1997,
+      "subtitle": "Creator: Joss Whedon",
+      "description": "A young woman battles vampires, demons, and the forces of darkness in Sunnydale.",
+      "popularity": 83,
+      "tags": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "king-of-the-hill-1997",
+      "label": "King of the Hill",
+      "year": 1997,
+      "subtitle": "Creator: Mike Judge, Greg Daniels",
+      "description": "A propane salesman deals with his eccentric family and neighbors in suburban Texas.",
+      "popularity": 75,
+      "tags": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "oz-1997",
+      "label": "Oz",
+      "year": 1997,
+      "subtitle": "Creator: Tom Fontana",
+      "description": "The brutal, dramatic lives of inmates and guards inside a high-security prison block.",
+      "popularity": 87,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "sex-and-the-city-1998",
+      "label": "Sex and the City",
+      "year": 1998,
+      "subtitle": "Stars: Sarah Jessica Parker, Kim Cattrall",
+      "description": "Four single career women navigate love, fashion, and friendship in New York City.",
+      "popularity": 73,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "that-70s-show-1998",
+      "label": "That '70s Show",
+      "year": 1998,
+      "subtitle": "Stars: Topher Grace, Mila Kunis",
+      "description": "A group of teenage friends hangs out in a Wisconsin basement during the late 1970s.",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "charmed-1998",
+      "label": "Charmed",
+      "year": 1998,
+      "subtitle": "Stars: Holly Marie Combs, Alyssa Milano",
+      "description": "Three sisters discover they are witches and use their magic powers to fight evil.",
+      "popularity": 72,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "the-sopranos-1999",
+      "label": "The Sopranos",
+      "year": 1999,
+      "subtitle": "Creator: David Chase",
+      "description": "A New Jersey mob boss struggles to balance his crime syndicate and his family life.",
+      "popularity": 92,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-west-wing-1999",
+      "label": "The West Wing",
+      "year": 1999,
+      "subtitle": "Creator: Aaron Sorkin",
+      "description": "The chaotic, high-speed political drama of the staff working inside the White House.",
+      "popularity": 89,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "spongebob-squarepants-1999",
+      "label": "SpongeBob SquarePants",
+      "year": 1999,
+      "subtitle": "Creator: Stephen Hillenburg",
+      "description": "The absurd, cheerful deep-sea adventures of a yellow sponge and his friends in Bikini Bottom.",
+      "popularity": 82,
+      "tags": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "freaks-and-geeks-1999",
+      "label": "Freaks and Geeks",
+      "year": 1999,
+      "subtitle": "Creator: Paul Feig",
+      "description": "A poignant, realistic look at two distinct social circles navigating high school in 1980.",
+      "popularity": 88,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "family-guy-1999",
+      "label": "Family Guy",
+      "year": 1999,
+      "subtitle": "Creator: Seth MacFarlane",
+      "description": "The highly offensive, chaotic animated adventures of a dysfunctional Rhode Island family.",
+      "popularity": 82,
+      "tags": [
+        "Animation",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "curb-your-enthusiasm-2000",
+      "label": "Curb Your Enthusiasm",
+      "year": 2000,
+      "subtitle": "Stars: Larry David, Cheryl Hines",
+      "description": "The neurotic, socially awkward exploits of a wealthy television writer in Los Angeles.",
+      "popularity": 88,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "malcolm-in-the-middle-2000",
+      "label": "Malcolm in the Middle",
+      "year": 2000,
+      "subtitle": "Stars: Frankie Muniz, Bryan Cranston",
+      "description": "A middle-class boy with a high IQ navigates life in a highly dysfunctional, chaotic family.",
+      "popularity": 82,
+      "tags": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "gilmore-girls-2000",
+      "label": "Gilmore Girls",
+      "year": 2000,
+      "subtitle": "Stars: Lauren Graham, Alexis Bledel",
+      "description": "A close-knit mother and daughter navigate romance and life in the town of Stars Hollow.",
+      "popularity": 82,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "csi-crime-scene-investigation-2000",
+      "label": "CSI: Crime Scene Investigation",
+      "year": 2000,
+      "subtitle": "Stars: William Petersen, Marg Helgenberger",
+      "description": "Forensic investigators use advanced science to solve mysterious deaths in Las Vegas.",
+      "popularity": 77,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "jackass-2000",
+      "label": "Jackass",
+      "year": 2000,
+      "subtitle": "Stars: Johnny Knoxville, Bam Margera",
+      "description": "A group of daring friends perform dangerous, painful, and hilarious stunts and pranks.",
+      "popularity": 74,
+      "tags": [
+        "Action",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "band-of-brothers-2001",
+      "label": "Band of Brothers",
+      "year": 2001,
+      "subtitle": "Producer: Steven Spielberg, Tom Hanks",
+      "description": "The legendary, harrowing journey of Easy Company during World War II.",
+      "popularity": 94,
+      "tags": [
+        "Drama",
+        "History",
+        "War"
+      ]
+    },
+    {
+      "id": "the-office-uk-2001",
+      "label": "The Office (UK)",
+      "year": 2001,
+      "subtitle": "Creator: Ricky Gervais, Stephen Merchant",
+      "description": "A painful, brilliant mockumentary following the mundane life inside a Slough paper merchant.",
+      "popularity": 85,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "24-2001",
+      "label": "24",
+      "year": 2001,
+      "subtitle": "Stars: Kiefer Sutherland",
+      "description": "Counter-terrorist agent Jack Bauer races against the clock in 24-hour real-time operations.",
+      "popularity": 84,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "six-feet-under-2001",
+      "label": "Six Feet Under",
+      "year": 2001,
+      "subtitle": "Creator: Alan Ball",
+      "description": "The complex, emotional trials of a dysfunctional family running a funeral home in LA.",
+      "popularity": 87,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "scrubs-2001",
+      "label": "Scrubs",
+      "year": 2001,
+      "subtitle": "Stars: Zach Braff, Sarah Chalke",
+      "description": "The surreal, comedic, and emotional struggles of interns at Sacred Heart Hospital.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "alias-2001",
+      "label": "Alias",
+      "year": 2001,
+      "subtitle": "Creator: J.J. Abrams",
+      "description": "A young woman works as a double agent, carrying out secret operations for the CIA.",
+      "popularity": 76,
+      "tags": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "smallville-2001",
+      "label": "Smallville",
+      "year": 2001,
+      "subtitle": "Stars: Tom Welling, Kristin Kreuk",
+      "description": "A young Clark Kent navigates high school while learning to control his emerging superpowers.",
+      "popularity": 75,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-wire-2002",
+      "label": "The Wire",
+      "year": 2002,
+      "subtitle": "Creator: David Simon",
+      "description": "A gritty, systemic look at the Baltimore drug scene through the eyes of police and dealers.",
+      "popularity": 93,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "firefly-2002",
+      "label": "Firefly",
+      "year": 2002,
+      "subtitle": "Creator: Joss Whedon",
+      "description": "A renegade crew travels across the dangerous frontiers of space in their cargo ship.",
+      "popularity": 89,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "the-shield-2002",
+      "label": "The Shield",
+      "year": 2002,
+      "subtitle": "Stars: Michael Chiklis",
+      "description": "A corrupt, highly effective police captain leads an experimental anti-gang unit.",
+      "popularity": 87,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "monk-2002",
+      "label": "Monk",
+      "year": 2002,
+      "subtitle": "Stars: Tony Shalhoub",
+      "description": "A brilliant homicide detective with severe OCD works as a consultant for the police.",
+      "popularity": 80,
+      "tags": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "kim-possible-2002",
+      "label": "Kim Possible",
+      "year": 2002,
+      "subtitle": "Creator: Bob Schooley, Mark McCorkle",
+      "description": "A teenage cheerleader fights world-threatening villains with her clumsy best friend.",
+      "popularity": 72,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "arrested-development-2003",
+      "label": "Arrested Development",
+      "year": 2003,
+      "subtitle": "Creator: Mitchell Hurwitz",
+      "description": "A level-headed son tries to keep his highly dysfunctional, wealthy family out of prison.",
+      "popularity": 87,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "mythbusters-2003",
+      "label": "MythBusters",
+      "year": 2003,
+      "subtitle": "Stars: Jamie Hyneman, Adam Savage",
+      "description": "Special effects experts use scientific testing to prove or debunk popular urban myths.",
+      "popularity": 82,
+      "tags": [
+        "Documentary",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "the-oc-2003",
+      "label": "The O.C.",
+      "year": 2003,
+      "subtitle": "Creator: Josh Schwartz",
+      "description": "A troubled teen is taken in by a wealthy family, disrupting the lives of Orange County residents.",
+      "popularity": 75,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "one-tree-hill-2003",
+      "label": "One Tree Hill",
+      "year": 2003,
+      "subtitle": "Stars: Chad Michael Murray, James Lafferty",
+      "description": "Two half-brothers share a bitter rivalry on and off the high school basketball court.",
+      "popularity": 78,
+      "tags": [
+        "Drama",
+        "Sport",
+        "Romance"
+      ]
+    },
+    {
+      "id": "lost-2004",
+      "label": "Lost",
+      "year": 2004,
+      "subtitle": "Creator: J.J. Abrams, Damon Lindelof",
+      "description": "The survivors of a plane crash face mysterious, supernatural dangers on a tropical island.",
+      "popularity": 83,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "house-2004",
+      "label": "House",
+      "year": 2004,
+      "subtitle": "Stars: Hugh Laurie, Omar Epps",
+      "description": "An antisocial, pill-addicted medical genius solves highly complex, life-threatening cases.",
+      "popularity": 87,
+      "tags": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "entourage-2004",
+      "label": "Entourage",
+      "year": 2004,
+      "subtitle": "Stars: Adrian Grenier, Jeremy Piven",
+      "description": "A young Hollywood star navigates the film industry alongside his close childhood friends.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "desperate-housewives-2004",
+      "label": "Desperate Housewives",
+      "year": 2004,
+      "subtitle": "Creator: Marc Cherry",
+      "description": "The secrets, crimes, and relationships of a group of wealthy suburban housewives.",
+      "popularity": 76,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "battlestar-galactica-2004",
+      "label": "Battlestar Galactica",
+      "year": 2004,
+      "subtitle": "Creator: Ronald D. Moore",
+      "description": "A military crew leads a surviving fleet of humans on a quest for the mythical Earth.",
+      "popularity": 87,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "deadwood-2004",
+      "label": "Deadwood",
+      "year": 2004,
+      "subtitle": "Creator: David Milch",
+      "description": "The lawless, dramatic struggles inside a growing South Dakota gold mining camp in the 1870s.",
+      "popularity": 86,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Western"
+      ]
+    },
+    {
+      "id": "the-office-us-2005",
+      "label": "The Office (US)",
+      "year": 2005,
+      "subtitle": "Creator: Greg Daniels",
+      "description": "A brilliant mockumentary following the everyday, comedic struggles of employees at Dunder Mifflin.",
+      "popularity": 90,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "how-i-met-your-mother-2005",
+      "label": "How I Met Your Mother",
+      "year": 2005,
+      "subtitle": "Creator: Carter Bays, Craig Thomas",
+      "description": "A father recounts the long, comedic story of how he met his children's mother.",
+      "popularity": 83,
+      "tags": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "avatar-the-last-airbender-2005",
+      "label": "Avatar: The Last Airbender",
+      "year": 2005,
+      "subtitle": "Creator: Michael Dante DiMartino",
+      "description": "A young boy must master four elemental powers to stop a brutal war and restore peace.",
+      "popularity": 93,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "greys-anatomy-2005",
+      "label": "Grey's Anatomy",
+      "year": 2005,
+      "subtitle": "Creator: Shonda Rhimes",
+      "description": "Surgical interns and residents balance life-or-death hospital operations with relationship drama.",
+      "popularity": 76,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "supernatural-2005",
+      "label": "Supernatural",
+      "year": 2005,
+      "subtitle": "Creator: Eric Kripke",
+      "description": "Two brothers travel across America hunting demons, ghosts, and supernatural threats.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ]
+    },
+    {
+      "id": "prison-break-2005",
+      "label": "Prison Break",
+      "year": 2005,
+      "subtitle": "Creator: Paul Scheuring",
+      "description": "An engineer deliberately gets sent to prison to break out his framed brother.",
+      "popularity": 83,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "doctor-who-modern-2005",
+      "label": "Doctor Who (Modern)",
+      "year": 2005,
+      "subtitle": "Creator: Russell T. Davies",
+      "description": "The revived, acclaimed adventures of the Time Lord traveling across the cosmos.",
+      "popularity": 86,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "my-name-is-earl-2005",
+      "label": "My Name Is Earl",
+      "year": 2005,
+      "subtitle": "Stars: Jason Lee, Ethan Suplee",
+      "description": "A reformed petty thief attempts to correct every bad deed he ever did to fix his karma.",
+      "popularity": 77,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "rome-2005",
+      "label": "Rome",
+      "year": 2005,
+      "subtitle": "Creator: Bruno Heller",
+      "description": "A gritty, dramatic look at the fall of the Roman Republic through the eyes of two soldiers.",
+      "popularity": 87,
+      "tags": [
+        "Action",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "dexter-2006",
+      "label": "Dexter",
+      "year": 2006,
+      "subtitle": "Stars: Michael C. Hall",
+      "description": "A forensic technician lives a double life as a vigilante serial killer targeting criminals.",
+      "popularity": 86,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "30-rock-2006",
+      "label": "30 Rock",
+      "year": 2006,
+      "subtitle": "Creator: Tina Fey",
+      "description": "A stressed head writer manages a chaotic late-night comedy show and her arrogant boss.",
+      "popularity": 82,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "friday-night-lights-2006",
+      "label": "Friday Night Lights",
+      "year": 2006,
+      "subtitle": "Creator: Peter Berg",
+      "description": "The dramatic, close-knit lives of players and coaches in a Texas high school football town.",
+      "popularity": 87,
+      "tags": [
+        "Drama",
+        "Sport"
+      ]
+    },
+    {
+      "id": "heroes-2006",
+      "label": "Heroes",
+      "year": 2006,
+      "subtitle": "Creator: Tim Kring",
+      "description": "Ordinary individuals discover they have superhuman abilities and unite to prevent a disaster.",
+      "popularity": 75,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "gossip-girl-2007",
+      "label": "Gossip Girl",
+      "year": 2007,
+      "subtitle": "Creator: Josh Schwartz, Stephanie Savage",
+      "description": "Privileged Upper East Side teenagers have their scandals broadcast by a mysterious blogger.",
+      "popularity": 75,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "mad-men-2007",
+      "label": "Mad Men",
+      "year": 2007,
+      "subtitle": "Creator: Matthew Weiner",
+      "description": "A brilliant, mysterious advertising executive navigates high-stakes New York office politics in the 1960s.",
+      "popularity": 87,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-big-bang-theory-2007",
+      "label": "The Big Bang Theory",
+      "year": 2007,
+      "subtitle": "Creator: Chuck Lorre, Bill Prady",
+      "description": "Two brilliant, socially awkward physicists have their lives disrupted by a free-spirited neighbor.",
+      "popularity": 82,
+      "tags": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "skins-2007",
+      "label": "Skins",
+      "year": 2007,
+      "subtitle": "Creator: Jamie Brittain, Bryan Elsley",
+      "description": "A gritty, dramatic look at a group of British teenagers dealing with serious life issues.",
+      "popularity": 82,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "californication-2007",
+      "label": "Californication",
+      "year": 2007,
+      "subtitle": "Stars: David Duchovny",
+      "description": "A troubled, hedonistic novelist struggles to raise his daughter and win back his ex.",
+      "popularity": 83,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "chuck-2007",
+      "label": "Chuck",
+      "year": 2007,
+      "subtitle": "Creator: Josh Schwartz",
+      "description": "An ordinary tech support guy accidentally downloads government secrets into his brain.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "breaking-bad-2008",
+      "label": "Breaking Bad",
+      "year": 2008,
+      "subtitle": "Creator: Vince Gilligan",
+      "description": "A dying chemistry teacher partners with a former student to manufacture meth to secure his family.",
+      "popularity": 95,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "the-mentalist-2008",
+      "label": "The Mentalist",
+      "year": 2008,
+      "subtitle": "Creator: Bruno Heller",
+      "description": "A former fake psychic uses his extreme observational skills to help police solve murders.",
+      "popularity": 82,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "sons-of-anarchy-2008",
+      "label": "Sons of Anarchy",
+      "year": 2008,
+      "subtitle": "Creator: Kurt Sutter",
+      "description": "A man struggles to balance his loyalty to an outlaw motorcycle club with raising his son.",
+      "popularity": 86,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "fringe-2008",
+      "label": "Fringe",
+      "year": 2008,
+      "subtitle": "Creator: J.J. Abrams",
+      "description": "An FBI agent partners with an institutionalized scientist to investigate fringe science anomalies.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "modern-family-2009",
+      "label": "Modern Family",
+      "year": 2009,
+      "subtitle": "Creator: Steven Levitan, Christopher Lloyd",
+      "description": "Three diverse, highly eccentric family branches are documented in a mockumentary style.",
+      "popularity": 85,
+      "tags": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "parks-and-recreation-2009",
+      "label": "Parks and Recreation",
+      "year": 2009,
+      "subtitle": "Creator: Greg Daniels, Michael Schur",
+      "description": "The hilarious exploits of a mid-level bureaucrat trying to improve a small Indiana town.",
+      "popularity": 86,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "community-2009",
+      "label": "Community",
+      "year": 2009,
+      "subtitle": "Creator: Dan Harmon",
+      "description": "A suspended lawyer is forced to attend a community college and forms a quirky study group.",
+      "popularity": 85,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "the-vampire-diaries-2009",
+      "label": "The Vampire Diaries",
+      "year": 2009,
+      "subtitle": "Creator: Julie Plec, Kevin Williamson",
+      "description": "A teenage girl falls in love with a vampire, drawing her into a dangerous supernatural world.",
+      "popularity": 77,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "glee-2009",
+      "label": "Glee",
+      "year": 2009,
+      "subtitle": "Creator: Ryan Murphy",
+      "description": "A passionate Spanish teacher attempts to revitalize a high school show choir.",
+      "popularity": 68,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ]
+    },
+    {
+      "id": "castle-2009",
+      "label": "Castle",
+      "year": 2009,
+      "subtitle": "Stars: Nathan Fillion, Stana Katic",
+      "description": "A mystery novelist shadows a homicide detective, helping her solve complex New York crimes.",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "archer-2009",
+      "label": "Archer",
+      "year": 2009,
+      "subtitle": "Creator: Adam Reed",
+      "description": "The animated, highly dysfunctional exploits of a suave, arrogant secret agent.",
+      "popularity": 83,
+      "tags": [
+        "Animation",
+        "Action",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "misfits-2009",
+      "label": "Misfits",
+      "year": 2009,
+      "subtitle": "Creator: Howard Overman",
+      "description": "A group of teenage offenders on community service get caught in a storm and gain superpowers.",
+      "popularity": 82,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "white-collar-2009",
+      "label": "White Collar",
+      "year": 2009,
+      "subtitle": "Creator: Jeff Eastin",
+      "description": "A brilliant con man partners with an FBI agent to solve high-end white collar crimes.",
+      "popularity": 82,
+      "tags": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "parks-and-rec-season-2-2009",
+      "label": "Parks and Rec (Season 2)",
+      "year": 2009,
+      "subtitle": "Stars: Amy Poehler, Nick Offerman",
+      "description": "Leslie Knope tries to turn a dirt pit into a park, dealing with local bureaucracy.",
+      "popularity": 84,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "sherlock-2010",
+      "label": "Sherlock",
+      "year": 2010,
+      "subtitle": "Stars: Benedict Cumberbatch, Martin Freeman",
+      "description": "A modern-day update of the classic detective solving baffling crimes in London.",
+      "popularity": 91,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ]
+    },
+    {
+      "id": "the-walking-dead-2010",
+      "label": "The Walking Dead",
+      "year": 2010,
+      "subtitle": "Creator: Frank Darabont",
+      "description": "Sheriff Rick Grimes leads a group of survivors in a dangerous world overrun by zombies.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "downton-abbey-2010",
+      "label": "Downton Abbey",
+      "year": 2010,
+      "subtitle": "Creator: Julian Fellowes",
+      "description": "The lives and scandals of a wealthy aristocratic family and their servants in the early 1900s.",
+      "popularity": 87,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "boardwalk-empire-2010",
+      "label": "Boardwalk Empire",
+      "year": 2010,
+      "subtitle": "Creator: Terence Winter",
+      "description": "A corrupt politician controls Atlantic City during the lucrative era of Prohibition.",
+      "popularity": 86,
+      "tags": [
+        "Crime",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "justified-2010",
+      "label": "Justified",
+      "year": 2010,
+      "subtitle": "Creator: Graham Yost",
+      "description": "A modern, quick-drawing U.S. Marshal is reassigned to enforce the law in his rural Kentucky home.",
+      "popularity": 86,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "game-of-thrones-2011",
+      "label": "Game of Thrones",
+      "year": 2011,
+      "subtitle": "Creator: David Benioff, D.B. Weiss",
+      "description": "Noble families wage a brutal war for control of the mythical land of Westeros.",
+      "popularity": 92,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "black-mirror-2011",
+      "label": "Black Mirror",
+      "year": 2011,
+      "subtitle": "Creator: Charlie Brooker",
+      "description": "A dark, satirical anthology series exploring the terrifying consequences of modern technology.",
+      "popularity": 87,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "suits-2011",
+      "label": "Suits",
+      "year": 2011,
+      "subtitle": "Creator: Aaron Korsh",
+      "description": "A brilliant college dropout with a photographic memory gets a job at a top law firm.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "homeland-2011",
+      "label": "Homeland",
+      "year": 2011,
+      "subtitle": "Creator: Gideon Raff",
+      "description": "A bipolar CIA officer suspects a rescued American war hero of being a turned terrorist cell.",
+      "popularity": 83,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "new-girl-2011",
+      "label": "New Girl",
+      "year": 2011,
+      "subtitle": "Stars: Zooey Deschanel, Jake Johnson",
+      "description": "An quirky schoolteacher moves into a loft with three single guys, changing their lives.",
+      "popularity": 78,
+      "tags": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "american-horror-story-2011",
+      "label": "American Horror Story",
+      "year": 2011,
+      "subtitle": "Creator: Ryan Murphy, Brad Falchuk",
+      "description": "An anthology series featuring different creepy, supernatural horror themes each season.",
+      "popularity": 80,
+      "tags": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "once-upon-a-time-2011",
+      "label": "Once Upon a Time",
+      "year": 2011,
+      "subtitle": "Creator: Edward Kitsis, Adam Horowitz",
+      "description": "A young woman arrives in a town where fairy tale characters are trapped with no memory.",
+      "popularity": 77,
+      "tags": [
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "shameless-us-2011",
+      "label": "Shameless (US)",
+      "year": 2011,
+      "subtitle": "Stars: William H. Macy, Emmy Rossum",
+      "description": "An alcoholic father neglects his six resilient kids, who must raise themselves in Chicago.",
+      "popularity": 85,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "arrow-2012",
+      "label": "Arrow",
+      "year": 2012,
+      "subtitle": "Creator: Greg Berlanti",
+      "description": "A billionaire returns home after shipwrecking on a remote island to fight crime as a vigilante.",
+      "popularity": 75,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ]
+    },
+    {
+      "id": "veep-2012",
+      "label": "Veep",
+      "year": 2012,
+      "subtitle": "Creator: Armando Iannucci",
+      "description": "The hilarious political blunders of a Vice President trying to secure her legacy.",
+      "popularity": 84,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "girls-2012",
+      "label": "Girls",
+      "year": 2012,
+      "subtitle": "Creator: Lena Dunham",
+      "description": "A realistic, comedic look at the struggles and relationships of four young women in New York.",
+      "popularity": 74,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "vikings-2013",
+      "label": "Vikings",
+      "year": 2013,
+      "subtitle": "Creator: Michael Hirst",
+      "description": "Ragnar Lothbrok rises to become a legendary king, leading his people to raid England and France.",
+      "popularity": 85,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "brooklyn-nine-nine-2013",
+      "label": "Brooklyn Nine-Nine",
+      "year": 2013,
+      "subtitle": "Creator: Dan Goor, Michael Schur",
+      "description": "A brilliant, childish detective clashes with his new, strict captain in a Brooklyn precinct.",
+      "popularity": 84,
+      "tags": [
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "id": "peaky-blinders-2013",
+      "label": "Peaky Blinders",
+      "year": 2013,
+      "subtitle": "Creator: Steven Knight",
+      "description": "A dangerous crime family rises to power in postwar Birmingham led by Tommy Shelby.",
+      "popularity": 88,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "rick-and-morty-2013",
+      "label": "Rick and Morty",
+      "year": 2013,
+      "subtitle": "Creator: Dan Harmon, Justin Roiland",
+      "description": "An eccentric, alcoholic scientist drags his bumbling grandson on infinite cosmic adventures.",
+      "popularity": 91,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "orange-is-the-new-black-2013",
+      "label": "Orange Is the New Black",
+      "year": 2013,
+      "subtitle": "Creator: Jenji Kohan",
+      "description": "A privileged woman is sent to a minimum-security federal prison, adapting to inmate life.",
+      "popularity": 80,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-blacklist-2013",
+      "label": "The Blacklist",
+      "year": 2013,
+      "subtitle": "Stars: James Spader, Megan Boone",
+      "description": "A brilliant fugitive surrenders to the FBI and offers to help catch dangerous criminals.",
+      "popularity": 80,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "hannibal-2013",
+      "label": "Hannibal",
+      "year": 2013,
+      "subtitle": "Creator: Bryan Fuller",
+      "description": "A gifted FBI criminal profiler is mentored by the brilliant, secretive cannibal psychiatrist.",
+      "popularity": 85,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ]
+    },
+    {
+      "id": "house-of-cards-2013",
+      "label": "House of Cards",
+      "year": 2013,
+      "subtitle": "Stars: Kevin Spacey, Robin Wright",
+      "description": "A ruthless, devious politician schemes his way to the presidency through betrayal.",
+      "popularity": 86,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "orphan-black-2013",
+      "label": "Orphan Black",
+      "year": 2013,
+      "subtitle": "Creator: Graeme Manson",
+      "description": "A street-smart woman discovers she is a clone and uncovers a massive corporate conspiracy.",
+      "popularity": 83,
+      "tags": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "true-detective-2014",
+      "label": "True Detective",
+      "year": 2014,
+      "subtitle": "Creator: Nic Pizzolatto",
+      "description": "Detectives investigate deeply disturbing, ritualistic murders across different eras.",
+      "popularity": 89,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "fargo-2014",
+      "label": "Fargo",
+      "year": 2014,
+      "subtitle": "Creator: Noah Hawley",
+      "description": "An anthology series following quirky crimes and eccentric police investigations in the Midwest.",
+      "popularity": 89,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "bojack-horseman-2014",
+      "label": "BoJack Horseman",
+      "year": 2014,
+      "subtitle": "Creator: Raphael Bob-Waksberg",
+      "description": "A washed-up, depressed 90s sitcom star horse tries to make a career comeback in LA.",
+      "popularity": 88,
+      "tags": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-flash-2014",
+      "label": "The Flash",
+      "year": 2014,
+      "subtitle": "Creator: Greg Berlanti",
+      "description": "A forensic scientist gains super-speed after a reactor explosion and protects Central City.",
+      "popularity": 75,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-leftovers-2014",
+      "label": "The Leftovers",
+      "year": 2014,
+      "subtitle": "Creator: Damon Lindelof, Tom Perrotta",
+      "description": "The global struggles of humanity after two percent of the world's population disappears.",
+      "popularity": 83,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "silicon-valley-2014",
+      "label": "Silicon Valley",
+      "year": 2014,
+      "subtitle": "Creator: Mike Judge",
+      "description": "A group of brilliant, socially awkward programmers try to launch a startup in California.",
+      "popularity": 85,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "gotham-2014",
+      "label": "Gotham",
+      "year": 2014,
+      "subtitle": "Stars: Ben McKenzie, Jada Pinkett Smith",
+      "description": "A young detective Jim Gordon investigates Gotham's crimes while Bruce Wayne grows up.",
+      "popularity": 78,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "outlander-2014",
+      "label": "Outlander",
+      "year": 2014,
+      "subtitle": "Creator: Ronald D. Moore",
+      "description": "A combat nurse is mysteriously swept back in time to 1743 Scotland, falling in love.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "better-call-saul-2015",
+      "label": "Better Call Saul",
+      "year": 2015,
+      "subtitle": "Creator: Vince Gilligan, Peter Gould",
+      "description": "The tragic, comedic transformation of a struggling lawyer into the slick Saul Goodman.",
+      "popularity": 90,
+      "tags": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "mr-robot-2015",
+      "label": "Mr. Robot",
+      "year": 2015,
+      "subtitle": "Creator: Sam Esmail",
+      "description": "A brilliant, mentally unstable cybersecurity engineer is recruited to bring down a conglomerate.",
+      "popularity": 86,
+      "tags": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "narcos-2015",
+      "label": "Narcos",
+      "year": 2015,
+      "subtitle": "Creator: Carlo Bernard",
+      "description": "A gritty, dramatic look at the rise and fall of drug kingpins like Pablo Escobar.",
+      "popularity": 88,
+      "tags": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "schitts-creek-2015",
+      "label": "Schitt's Creek",
+      "year": 2015,
+      "subtitle": "Creator: Eugene Levy, Daniel Levy",
+      "description": "A wealthy family loses their fortune and is forced to live in a run-down small town.",
+      "popularity": 85,
+      "tags": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "daredevil-2015",
+      "label": "Daredevil",
+      "year": 2015,
+      "subtitle": "Creator: Drew Goddard",
+      "description": "A blind lawyer uses his heightened senses to fight crime as a vigilante in Hell's Kitchen.",
+      "popularity": 86,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-expanse-2015",
+      "label": "The Expanse",
+      "year": 2015,
+      "subtitle": "Creator: Mark Fergus, Hawk Ostby",
+      "description": "A systemic conspiracy threatens a fragile peace between Earth, Mars, and the asteroid belt.",
+      "popularity": 85,
+      "tags": [
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "sense8-2015",
+      "label": "Sense8",
+      "year": 2015,
+      "subtitle": "Creator: The Wachowskis",
+      "description": "Eight strangers from around the world discover they are telepathically connected.",
+      "popularity": 82,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "stranger-things-2016",
+      "label": "Stranger Things",
+      "year": 2016,
+      "subtitle": "Creator: The Duffer Brothers",
+      "description": "A small town uncovers a secret government lab, a portal to a dark dimension, and monsters.",
+      "popularity": 87,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ]
+    },
+    {
+      "id": "the-crown-2016",
+      "label": "The Crown",
+      "year": 2016,
+      "subtitle": "Creator: Peter Morgan",
+      "description": "A lavish, dramatic chronicle of the political and personal reign of Queen Elizabeth II.",
+      "popularity": 86,
+      "tags": [
+        "Biography",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "westworld-2016",
+      "label": "Westworld",
+      "year": 2016,
+      "subtitle": "Creator: Jonathan Nolan, Lisa Joy",
+      "description": "A high-tech amusement park staffed by lifelike androids descends into violent rebellion.",
+      "popularity": 79,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "fleabag-2016",
+      "label": "Fleabag",
+      "year": 2016,
+      "subtitle": "Creator: Phoebe Waller-Bridge",
+      "description": "A witty, grief-stricken, and angry woman tries to navigate modern life and love in London.",
+      "popularity": 87,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "this-is-us-2016",
+      "label": "This Is Us",
+      "year": 2016,
+      "subtitle": "Creator: Dan Fogelman",
+      "description": "A heartwarming, emotional family drama following three siblings across different eras.",
+      "popularity": 87,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "atlanta-2016",
+      "label": "Atlanta",
+      "year": 2016,
+      "subtitle": "Creator: Donald Glover",
+      "description": "Two cousins try to break into the Atlanta rap scene, navigating surreal and bizarre challenges.",
+      "popularity": 86,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ]
+    },
+    {
+      "id": "lucifer-2016",
+      "label": "Lucifer",
+      "year": 2016,
+      "subtitle": "Stars: Tom Ellis, Lauren German",
+      "description": "The Devil gets bored of Hell, moves to Los Angeles, and helps police solve murders.",
+      "popularity": 81,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "the-good-place-2016",
+      "label": "The Good Place",
+      "year": 2016,
+      "subtitle": "Creator: Michael Schur",
+      "description": "A deceased woman is sent to a heaven-like afterlife by mistake, trying to hide her past.",
+      "popularity": 82,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "the-young-pope-2016",
+      "label": "The Young Pope",
+      "year": 2016,
+      "subtitle": "Creator: Paolo Sorrentino",
+      "description": "An eccentric, ultraconservative young American cardinal is elected Pope.",
+      "popularity": 83,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "ozark-2017",
+      "label": "Ozark",
+      "year": 2017,
+      "subtitle": "Stars: Jason Bateman, Laura Linney",
+      "description": "A financial advisor drags his family to the Ozarks to launder millions for a cartel.",
+      "popularity": 85,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "the-marvelous-mrs-maisel-2017",
+      "label": "The Marvelous Mrs. Maisel",
+      "year": 2017,
+      "subtitle": "Creator: Amy Sherman-Palladino",
+      "description": "A mid-century Jewish housewife discovers she has a hidden talent for stand-up comedy.",
+      "popularity": 87,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "money-heist-2017",
+      "label": "Money Heist",
+      "year": 2017,
+      "subtitle": "Creator: Alex Pina",
+      "description": "A mysterious mastermind recruits eight criminals to pull off a multi-billion euro bank heist.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-handmaids-tale-2017",
+      "label": "The Handmaid's Tale",
+      "year": 2017,
+      "subtitle": "Creator: Bruce Miller",
+      "description": "A woman struggles to survive as a concubine in a brutal, totalitarian religious regime.",
+      "popularity": 84,
+      "tags": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "mindhunter-2017",
+      "label": "Mindhunter",
+      "year": 2017,
+      "subtitle": "Producer: David Fincher",
+      "description": "FBI agents interview imprisoned serial killers to understand their psychology and solve active cases.",
+      "popularity": 86,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "big-little-lies-2017",
+      "label": "Big Little Lies",
+      "year": 2017,
+      "subtitle": "Creator: David E. Kelley",
+      "description": "The seemingly perfect lives of three wealthy mothers unravel, leading to a murder.",
+      "popularity": 85,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "dark-2017",
+      "label": "Dark",
+      "year": 2017,
+      "subtitle": "Creator: Baran bo Odar, Jantje Friese",
+      "description": "A child's disappearance in a German town uncovers a complex, mind-bending time travel conspiracy.",
+      "popularity": 87,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "succession-2018",
+      "label": "Succession",
+      "year": 2018,
+      "subtitle": "Creator: Jesse Armstrong",
+      "description": "A wealthy, dysfunctional family fights for control of a massive media empire.",
+      "popularity": 89,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "cobra-kai-2018",
+      "label": "Cobra Kai",
+      "year": 2018,
+      "subtitle": "Stars: Ralph Macchio, William Zabka",
+      "description": "A middle-aged Johnny Lawrence reopens the Cobra Kai karate dojo, reigniting his old rivalry.",
+      "popularity": 85,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "barry-2018",
+      "label": "Barry",
+      "year": 2018,
+      "subtitle": "Creator: Alec Berg, Bill Hader",
+      "description": "A depressed, low-rent hitman travels to LA for a job and falls in love with acting.",
+      "popularity": 84,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "yellowstone-2018",
+      "label": "Yellowstone",
+      "year": 2018,
+      "subtitle": "Creator: Taylor Sheridan",
+      "description": "A powerful ranching family defends their massive Montana borders from greedy developers.",
+      "popularity": 83,
+      "tags": [
+        "Drama",
+        "Western"
+      ]
+    },
+    {
+      "id": "the-haunting-of-hill-house-2018",
+      "label": "The Haunting of Hill House",
+      "year": 2018,
+      "subtitle": "Creator: Mike Flanagan",
+      "description": "A fractured family confronts terrifying, supernatural memories of their old haunted home.",
+      "popularity": 86,
+      "tags": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "chernobyl-2019",
+      "label": "Chernobyl",
+      "year": 2019,
+      "subtitle": "Creator: Craig Mazin",
+      "description": "A gritty, dramatic look at the catastrophic 1986 nuclear disaster and the cleanup.",
+      "popularity": 93,
+      "tags": [
+        "Drama",
+        "History",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "the-boys-2019",
+      "label": "The Boys",
+      "year": 2019,
+      "subtitle": "Creator: Eric Kripke",
+      "description": "A group of ordinary vigilantes sets out to expose and defeat corrupt, corporate superheroes.",
+      "popularity": 87,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-mandalorian-2019",
+      "label": "The Mandalorian",
+      "year": 2019,
+      "subtitle": "Creator: Jon Favreau",
+      "description": "A lone bounty hunter travels the outer reaches of the Star Wars galaxy protecting a child.",
+      "popularity": 86,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "euphoria-2019",
+      "label": "Euphoria",
+      "year": 2019,
+      "subtitle": "Stars: Zendaya, Sydney Sweeney",
+      "description": "A group of high school students navigate love, trauma, and identity in a modern world.",
+      "popularity": 83,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "sex-education-2019",
+      "label": "Sex Education",
+      "year": 2019,
+      "subtitle": "Creator: Laurie Nunn",
+      "description": "A socially awkward teenager starts an underground sex therapy clinic at his school.",
+      "popularity": 83,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "watchmen-2019",
+      "label": "Watchmen",
+      "year": 2019,
+      "subtitle": "Creator: Damon Lindelof",
+      "description": "A gritty, modern sequel to the classic graphic novel tackling deep political tension.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "what-we-do-in-the-shadows-2019",
+      "label": "What We Do in the Shadows",
+      "year": 2019,
+      "subtitle": "Creator: Jemaine Clement",
+      "description": "A hilarious mockumentary following the nightly lives of four traditional vampires in Staten Island.",
+      "popularity": 86,
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ]
+    },
+    {
+      "id": "fleabag-season-2-2019",
+      "label": "Fleabag (Season 2)",
+      "year": 2019,
+      "subtitle": "Stars: Phoebe Waller-Bridge, Andrew Scott",
+      "description": "Fleabag confronts her family and falls in love with an unconventional priest.",
+      "popularity": 90,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "ted-lasso-2020",
+      "label": "Ted Lasso",
+      "year": 2020,
+      "subtitle": "Creator: Jason Sudeikis, Bill Lawrence",
+      "description": "An optimistic American football coach is hired to manage a struggling British soccer club.",
+      "popularity": 88,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Sport"
+      ]
+    },
+    {
+      "id": "the-queens-gambit-2020",
+      "label": "The Queen's Gambit",
+      "year": 2020,
+      "subtitle": "Creator: Scott Frank, Allan Scott",
+      "description": "An orphaned chess prodigy struggles with addiction while striving to become the grandmaster.",
+      "popularity": 86,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "normal-people-2020",
+      "label": "Normal People",
+      "year": 2020,
+      "subtitle": "Creator: Lenny Abrahamson",
+      "description": "A deeply romantic, complex drama following two Irish teenagers as they grow up.",
+      "popularity": 86,
+      "tags": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "squid-game-2021",
+      "label": "Squid Game",
+      "year": 2021,
+      "subtitle": "Creator: Hwang Dong-hyuk",
+      "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games.",
+      "popularity": 80,
+      "tags": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "loki-2021",
+      "label": "Loki",
+      "year": 2021,
+      "subtitle": "Creator: Michael Waldron",
+      "description": "The mercurial God of Mischief is captured by a mysterious time bureau, repairing timelines.",
+      "popularity": 82,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "wandavision-2021",
+      "label": "WandaVision",
+      "year": 2021,
+      "subtitle": "Creator: Jac Schaeffer",
+      "description": "Two super-powered beings live their ideal suburban lives, suspecting not all is as it seems.",
+      "popularity": 79,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "arcane-2021",
+      "label": "Arcane",
+      "year": 2021,
+      "subtitle": "Creator: Christian Linke, Alex Yee",
+      "description": "Two sisters fight on opposite sides of a brutal war between a utopian city and a dark slum.",
+      "popularity": 90,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "mare-of-easttown-2021",
+      "label": "Mare of Easttown",
+      "year": 2021,
+      "subtitle": "Stars: Kate Winslet",
+      "description": "A small-town Pennsylvania detective investigates a local murder while her life falls apart.",
+      "popularity": 84,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "the-white-lotus-2021",
+      "label": "The White Lotus",
+      "year": 2021,
+      "subtitle": "Creator: Mike White",
+      "description": "A biting social satire following the exploits of employees and guests at an exclusive resort.",
+      "popularity": 79,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "severance-2022",
+      "label": "Severance",
+      "year": 2022,
+      "subtitle": "Creator: Dan Erickson",
+      "description": "Employees at a mysterious corporation undergo a procedure to separate their work and personal memories.",
+      "popularity": 87,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "the-bear-2022",
+      "label": "The Bear",
+      "year": 2022,
+      "subtitle": "Creator: Christopher Storer",
+      "description": "A young, fine-dining chef returns home to Chicago to run his family's gritty sandwich shop.",
+      "popularity": 86,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "wednesday-2022",
+      "label": "Wednesday",
+      "year": 2022,
+      "subtitle": "Director: Tim Burton",
+      "description": "Wednesday Addams investigates a series of supernatural murders at her new boarding school.",
+      "popularity": 81,
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "house-of-the-dragon-2022",
+      "label": "House of the Dragon",
+      "year": 2022,
+      "subtitle": "Creator: George R.R. Martin",
+      "description": "The epic rise and tragic civil war of the Targaryen dynasty 200 years before Game of Thrones.",
+      "popularity": 84,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "andor-2022",
+      "label": "Andor",
+      "year": 2022,
+      "subtitle": "Creator: Tony Gilroy",
+      "description": "A thief turns into a passionate rebel, embarking on a dangerous path to combat the Empire.",
+      "popularity": 84,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "1883-2021",
+      "label": "1883",
+      "year": 2021,
+      "subtitle": "Creator: Taylor Sheridan",
+      "description": "A post-Civil War generation of the Dutton family embarks on a dangerous journey west.",
+      "popularity": 87,
+      "tags": [
+        "Drama",
+        "Western"
+      ]
+    },
+    {
+      "id": "reacher-2022",
+      "label": "Reacher",
+      "year": 2022,
+      "subtitle": "Creator: Nick Santora",
+      "description": "A veteran military police investigator is framed for murder and begins fighting a conspiracy.",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "the-last-of-us-2023",
+      "label": "The Last of Us",
+      "year": 2023,
+      "subtitle": "Creator: Craig Mazin, Neil Druckmann",
+      "description": "A hardened survivor smuggles a young girl across a dangerous, post-apocalyptic America.",
+      "popularity": 88,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "beef-2023",
+      "label": "Beef",
+      "year": 2023,
+      "subtitle": "Creator: Lee Sung Jin",
+      "description": "A road rage incident between two strangers turns into a bitter, destructive feud.",
+      "popularity": 80,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "poker-face-2023",
+      "label": "Poker Face",
+      "year": 2023,
+      "subtitle": "Creator: Rian Johnson",
+      "description": "A woman with the extraordinary ability to detect lies hits the road, solving mysteries.",
+      "popularity": 79,
+      "tags": [
+        "Comedy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "shrinking-2023",
+      "label": "Shrinking",
+      "year": 2023,
+      "subtitle": "Creator: Bill Lawrence, Jason Sudeikis",
+      "description": "A grieving therapist begins telling his clients exactly what he thinks, causing chaos.",
+      "popularity": 80,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "silo-2023",
+      "label": "Silo",
+      "year": 2023,
+      "subtitle": "Creator: Graham Yost",
+      "description": "In a ruined, toxic future, a community exists in a giant underground silo governed by strict rules.",
+      "popularity": 81,
+      "tags": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "succession-final-season-2023",
+      "label": "Succession (Final Season)",
+      "year": 2023,
+      "subtitle": "Stars: Brian Cox, Jeremy Strong",
+      "description": "The Roy children engage in their final, high-stakes battle to secure the family empire.",
+      "popularity": 91,
+      "tags": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "shogun-2024",
+      "label": "Shōgun",
+      "year": 2024,
+      "subtitle": "Creator: Rachel Kondo, Justin Marks",
+      "description": "The epic clash of power, honor, and love in feudal Japan as a warlord fights for survival.",
+      "popularity": 88,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "fallout-2024",
+      "label": "Fallout",
+      "year": 2024,
+      "subtitle": "Creator: Jonathan Nolan",
+      "description": "The chaotic, violent adventures of survivors in a retro-futuristic post-apocalyptic wasteland.",
+      "popularity": 85,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "the-gentleman-2024",
+      "label": "The Gentleman",
+      "year": 2024,
+      "subtitle": "Creator: Guy Ritchie",
+      "description": "An aristocrat inherits his family estate and discovers it houses a massive weed empire.",
+      "popularity": 81,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "id": "avatar-the-last-airbender-live-action-2024",
+      "label": "Avatar: The Last Airbender (Live Action)",
+      "year": 2024,
+      "subtitle": "Stars: Gordon Cormier, Kiawentiio",
+      "description": "A young boy trains to master the elements to restore balance to a war-torn world.",
+      "popularity": 72,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "fargo-season-5-2023",
+      "label": "Fargo (Season 5)",
+      "year": 2023,
+      "subtitle": "Stars: Juno Temple, Jon Hamm",
+      "description": "A seemingly ordinary housewife runs from her past, clashing with a powerful local sheriff.",
+      "popularity": 87,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "3-body-problem-2024",
+      "label": "3 Body Problem",
+      "year": 2024,
+      "subtitle": "Creator: David Benioff, D.B. Weiss",
+      "description": "A fateful decision in 1960s China ripples across space and time, threatening humanity.",
+      "popularity": 76,
+      "tags": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "true-detective-night-country-2024",
+      "label": "True Detective: Night Country",
+      "year": 2024,
+      "subtitle": "Stars: Jodie Foster, Kali Reis",
+      "description": "Detectives investigate the mysterious disappearance of eight research scientists in Alaska.",
+      "popularity": 70,
+      "tags": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "the-bear-season-2-2023",
+      "label": "The Bear (Season 2)",
+      "year": 2023,
+      "subtitle": "Stars: Jeremy Allen White, Ebon Moss-Bachrach",
+      "description": "Carmy and his crew work to open their new, high-end fine dining restaurant.",
+      "popularity": 88,
+      "tags": [
+        "Comedy",
+        "Drama"
+      ]
+    }
+  ]
+}
