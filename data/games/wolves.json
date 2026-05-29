@@ -7,6 +7,10 @@
   "category": "Football",
   "subcategory": "Player Transfers",
   "sitePath": "/timeline/wolves",
+  "partner": {
+    "name": "VikingWolves",
+    "url": "https://vikingwolves.com"
+  },
   "theme": {
     "primary": "#FDB913",
     "secondary": "#000000",

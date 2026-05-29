@@ -28,6 +28,7 @@ export type TimelineGameData = {
   subcategory?: string;
   sitePath: string;
   theme: TimelineTheme;
+  partner?: { name: string; url: string };
   settings?: TimelineGameSettingsOverride;
   share: {
     title: string;

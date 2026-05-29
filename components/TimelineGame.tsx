@@ -496,16 +496,30 @@ export function TimelineGame({ game }: TimelineGameProps) {
       }
     >
       <header className="game-header">
-        <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-          <Link 
-            href="/" 
-            className="game-back-button" 
-            title="Gå tilbake til forsida"
-            data-umami-event="Back to Homepage"
-          >
-            ←
-          </Link>
-          <h1>{game.title}</h1>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '2px' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+            <Link
+              href="/"
+              className="game-back-button"
+              title="Gå tilbake til forsida"
+              data-umami-event="Back to Homepage"
+            >
+              ←
+            </Link>
+            <h1>{game.title}</h1>
+          </div>
+          {game.partner && (
+            <a
+              href={game.partner.url}
+              target="_blank"
+              rel="sponsored noopener noreferrer"
+              className="game-partner-badge"
+              data-umami-event="Partner Click"
+              data-umami-event-partner={game.partner.name}
+            >
+              presented by {game.partner.name} ↗
+            </a>
+          )}
         </div>
         <div className="score-grid">
           <span>

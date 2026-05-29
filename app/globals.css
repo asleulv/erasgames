@@ -270,7 +270,7 @@ a {
   color: var(--game-card-text);
 }
 
-.game-link h2 {
+.game-link h3 {
   margin: 0;
   font-size: 1.6rem;
   font-weight: 900;

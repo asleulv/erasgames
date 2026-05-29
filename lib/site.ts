@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Eras Games",
   url: "https://erasgames.com",
-  description: "Timeline quiz games built around football, music, history, and pop culture.",
+  description: "Free online timeline quiz games. Put football transfers, movie releases, and TV shows in the right chronological order.",
   defaultOgImage: "/opengraph-image"
 };
 
