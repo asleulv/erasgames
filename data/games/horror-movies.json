@@ -1,0 +1,3538 @@
+{
+  "id": "horror-movies",
+  "slug": "horror-movies",
+  "title": "Horror Movies Timeline",
+  "shortTitle": "Horror",
+  "description": "Place acclaimed horror movies in their correct release order.",
+  "category": "Movies & TV",
+  "subcategory": "Movies",
+  "sitePath": "/timeline/horror-movies",
+  "theme": {
+    "primary": "#B91C1C",
+    "secondary": "#111111",
+    "background": "#FFF1F2",
+    "text": "#111111"
+  },
+  "share": {
+    "title": "Horror Movies Timeline",
+    "description": "Can you place these acclaimed horror movies in their correct release order?",
+    "hashtags": [
+      "HorrorMovies",
+      "MovieQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Horror Movies Timeline Quiz - Eras Games",
+    "description": "Test your horror movie knowledge. Put acclaimed horror films in their correct release order in this addictive timeline game.",
+    "keywords": [
+      "horror movie quiz",
+      "horror timeline",
+      "movie timeline game",
+      "scary movies quiz",
+      "Eras Games"
+    ]
+  },
+  "items": [
+    {
+      "id": "the-exorcist-1973",
+      "label": "The Exorcist",
+      "year": 1973,
+      "subtitle": "Dir: William Friedkin",
+      "description": "#1 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 122m.",
+      "popularity": 100,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #1"
+      ],
+      "source": "https://www.imdb.com/title/tt0070047/"
+    },
+    {
+      "id": "the-shining-1980",
+      "label": "The Shining",
+      "year": 1980,
+      "subtitle": "Dir: Stanley Kubrick",
+      "description": "#2 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 144m.",
+      "popularity": 100,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #2"
+      ],
+      "source": "https://www.imdb.com/title/tt0081505/"
+    },
+    {
+      "id": "the-texas-chain-saw-massacre-1974",
+      "label": "The Texas Chain Saw Massacre",
+      "year": 1974,
+      "subtitle": "Dir: Tobe Hooper",
+      "description": "#3 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 83m.",
+      "popularity": 100,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #3"
+      ],
+      "source": "https://www.imdb.com/title/tt0072271/"
+    },
+    {
+      "id": "psycho-1960",
+      "label": "Psycho",
+      "year": 1960,
+      "subtitle": "Dir: Alfred Hitchcock",
+      "description": "#4 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from USA, 109m.",
+      "popularity": 100,
+      "tags": [
+        "Thriller",
+        "USA",
+        "TSZDT #4"
+      ],
+      "source": "https://www.imdb.com/title/tt0054215/"
+    },
+    {
+      "id": "halloween-1978",
+      "label": "Halloween",
+      "year": 1978,
+      "subtitle": "Dir: John Carpenter",
+      "description": "#5 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 91m.",
+      "popularity": 100,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #5"
+      ],
+      "source": "https://www.imdb.com/title/tt0077651/"
+    },
+    {
+      "id": "the-thing-1982",
+      "label": "The Thing",
+      "year": 1982,
+      "subtitle": "Dir: John Carpenter",
+      "description": "#6 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Body Horror horror from USA, 109m.",
+      "popularity": 100,
+      "tags": [
+        "Body Horror",
+        "USA",
+        "TSZDT #6"
+      ],
+      "source": "https://www.imdb.com/title/tt0084787/"
+    },
+    {
+      "id": "alien-1979",
+      "label": "Alien",
+      "year": 1979,
+      "subtitle": "Dir: Ridley Scott",
+      "description": "#7 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 116m.",
+      "popularity": 100,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #7"
+      ],
+      "source": "https://www.imdb.com/title/tt0078748/"
+    },
+    {
+      "id": "rosemary-s-baby-1968",
+      "label": "Rosemary's Baby",
+      "year": 1968,
+      "subtitle": "Dir: Roman Polanski",
+      "description": "#8 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 137m.",
+      "popularity": 100,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #8"
+      ],
+      "source": "https://www.imdb.com/title/tt0063522/"
+    },
+    {
+      "id": "night-of-the-living-dead-1968",
+      "label": "Night of the Living Dead",
+      "year": 1968,
+      "subtitle": "Dir: George A. Romero",
+      "description": "#9 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from USA, 96m.",
+      "popularity": 100,
+      "tags": [
+        "Zombie",
+        "USA",
+        "TSZDT #9"
+      ],
+      "source": "https://www.imdb.com/title/tt0063350/"
+    },
+    {
+      "id": "jaws-1975",
+      "label": "Jaws",
+      "year": 1975,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "#10 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Natural Horror horror from USA, 124m.",
+      "popularity": 100,
+      "tags": [
+        "Natural Horror",
+        "USA",
+        "TSZDT #10"
+      ],
+      "source": "https://www.imdb.com/title/tt0073195/"
+    },
+    {
+      "id": "a-nightmare-on-elm-street-1984",
+      "label": "A Nightmare on Elm Street",
+      "year": 1984,
+      "subtitle": "Dir: Wes Craven",
+      "description": "#11 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 91m.",
+      "popularity": 100,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #11"
+      ],
+      "source": "https://www.imdb.com/title/tt0087800/"
+    },
+    {
+      "id": "suspiria-1977",
+      "label": "Suspiria",
+      "year": 1977,
+      "subtitle": "Dir: Dario Argento",
+      "description": "#12 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Giallo horror from Italy, 98m.",
+      "popularity": 100,
+      "tags": [
+        "Giallo",
+        "Italy",
+        "TSZDT #12"
+      ],
+      "source": "https://www.imdb.com/title/tt0076786/"
+    },
+    {
+      "id": "dawn-of-the-dead-1978",
+      "label": "Dawn of the Dead",
+      "year": 1978,
+      "subtitle": "Dir: George A. Romero",
+      "description": "#13 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from USA, 127m.",
+      "popularity": 100,
+      "tags": [
+        "Zombie",
+        "USA",
+        "TSZDT #13"
+      ],
+      "source": "https://www.imdb.com/title/tt0077402/"
+    },
+    {
+      "id": "the-blair-witch-project-1999",
+      "label": "The Blair Witch Project",
+      "year": 1999,
+      "subtitle": "Dir: Daniel Myrick & Eduardo Sánchez",
+      "description": "#14 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Found Footage horror from USA, 81m.",
+      "popularity": 100,
+      "tags": [
+        "Found Footage",
+        "USA",
+        "TSZDT #14"
+      ],
+      "source": "https://www.imdb.com/title/tt0185937/"
+    },
+    {
+      "id": "carrie-1976",
+      "label": "Carrie",
+      "year": 1976,
+      "subtitle": "Dir: Brian De Palma",
+      "description": "#15 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 98m.",
+      "popularity": 100,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #15"
+      ],
+      "source": "https://www.imdb.com/title/tt0074285/"
+    },
+    {
+      "id": "nosferatu-eine-symphonie-des-grauens-1922",
+      "label": "Nosferatu, eine Symphonie des Grauens",
+      "year": 1922,
+      "subtitle": "Dir: F.W. Murnau",
+      "description": "#16 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from Germany, 94m.",
+      "popularity": 100,
+      "tags": [
+        "Vampire",
+        "Germany",
+        "TSZDT #16"
+      ],
+      "source": "https://www.imdb.com/title/tt0013442/"
+    },
+    {
+      "id": "bride-of-frankenstein-1935",
+      "label": "Bride of Frankenstein",
+      "year": 1935,
+      "subtitle": "Dir: James Whale",
+      "description": "#17 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from USA, 75m.",
+      "popularity": 100,
+      "tags": [
+        "Gothic",
+        "USA",
+        "TSZDT #17"
+      ],
+      "source": "https://www.imdb.com/title/tt0026138/"
+    },
+    {
+      "id": "the-silence-of-the-lambs-1991",
+      "label": "The Silence of the Lambs",
+      "year": 1991,
+      "subtitle": "Dir: Jonathan Demme",
+      "description": "#18 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from USA, 118m.",
+      "popularity": 100,
+      "tags": [
+        "Thriller",
+        "USA",
+        "TSZDT #18"
+      ],
+      "source": "https://www.imdb.com/title/tt0102926/"
+    },
+    {
+      "id": "an-american-werewolf-in-london-1981",
+      "label": "An American Werewolf in London",
+      "year": 1981,
+      "subtitle": "Dir: John Landis",
+      "description": "#19 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Werewolf horror from USA, 97m.",
+      "popularity": 100,
+      "tags": [
+        "Werewolf",
+        "USA",
+        "TSZDT #19"
+      ],
+      "source": "https://www.imdb.com/title/tt0082010/"
+    },
+    {
+      "id": "the-evil-dead-1981",
+      "label": "The Evil Dead",
+      "year": 1981,
+      "subtitle": "Dir: Sam Raimi",
+      "description": "#20 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Splatter horror from USA, 85m.",
+      "popularity": 100,
+      "tags": [
+        "Splatter",
+        "USA",
+        "TSZDT #20"
+      ],
+      "source": "https://www.imdb.com/title/tt0083907/"
+    },
+    {
+      "id": "the-haunting-1963",
+      "label": "The Haunting",
+      "year": 1963,
+      "subtitle": "Dir: Robert Wise",
+      "description": "#21 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 112m.",
+      "popularity": 100,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #21"
+      ],
+      "source": "https://www.imdb.com/title/tt0057129/"
+    },
+    {
+      "id": "don-t-look-now-1973",
+      "label": "Don't Look Now",
+      "year": 1973,
+      "subtitle": "Dir: Nicolas Roeg",
+      "description": "#22 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from UK, 110m.",
+      "popularity": 100,
+      "tags": [
+        "Mystery",
+        "UK",
+        "TSZDT #22"
+      ],
+      "source": "https://www.imdb.com/title/tt0069995/"
+    },
+    {
+      "id": "poltergeist-1982",
+      "label": "Poltergeist",
+      "year": 1982,
+      "subtitle": "Dir: Tobe Hooper",
+      "description": "#23 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 114m.",
+      "popularity": 100,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #23"
+      ],
+      "source": "https://www.imdb.com/title/tt0084516/"
+    },
+    {
+      "id": "frankenstein-1931",
+      "label": "Frankenstein",
+      "year": 1931,
+      "subtitle": "Dir: James Whale",
+      "description": "#24 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from USA, 70m.",
+      "popularity": 100,
+      "tags": [
+        "Gothic",
+        "USA",
+        "TSZDT #24"
+      ],
+      "source": "https://www.imdb.com/title/tt0021884/"
+    },
+    {
+      "id": "scream-1996",
+      "label": "Scream",
+      "year": 1996,
+      "subtitle": "Dir: Wes Craven",
+      "description": "#25 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 111m.",
+      "popularity": 100,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #25"
+      ],
+      "source": "https://www.imdb.com/title/tt0117571/"
+    },
+    {
+      "id": "the-fly-1986",
+      "label": "The Fly",
+      "year": 1986,
+      "subtitle": "Dir: David Cronenberg",
+      "description": "#26 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Body Horror horror from USA, 96m.",
+      "popularity": 95,
+      "tags": [
+        "Body Horror",
+        "USA",
+        "TSZDT #26"
+      ],
+      "source": "https://www.imdb.com/title/tt0091064/"
+    },
+    {
+      "id": "evil-dead-ii-1987",
+      "label": "Evil Dead II",
+      "year": 1987,
+      "subtitle": "Dir: Sam Raimi",
+      "description": "#27 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Comedy horror from USA, 84m.",
+      "popularity": 95,
+      "tags": [
+        "Comedy",
+        "USA",
+        "TSZDT #27"
+      ],
+      "source": "https://www.imdb.com/title/tt0092991/"
+    },
+    {
+      "id": "the-innocents-1961",
+      "label": "The Innocents",
+      "year": 1961,
+      "subtitle": "Dir: Jack Clayton",
+      "description": "#28 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from UK, 100m.",
+      "popularity": 95,
+      "tags": [
+        "Gothic",
+        "UK",
+        "TSZDT #28"
+      ],
+      "source": "https://www.imdb.com/title/tt0055018/"
+    },
+    {
+      "id": "the-omen-1976",
+      "label": "The Omen",
+      "year": 1976,
+      "subtitle": "Dir: Richard Donner",
+      "description": "#29 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 111m.",
+      "popularity": 95,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #29"
+      ],
+      "source": "https://www.imdb.com/title/tt0075005/"
+    },
+    {
+      "id": "odishon-1999",
+      "label": "Ôdishon",
+      "year": 1999,
+      "subtitle": "Dir: Takashi Miike",
+      "description": "#30 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from Japan, 115m.",
+      "popularity": 95,
+      "tags": [
+        "Psychological",
+        "Japan",
+        "TSZDT #30"
+      ],
+      "source": "https://www.imdb.com/title/tt0235198/"
+    },
+    {
+      "id": "the-wicker-man-1973",
+      "label": "The Wicker Man",
+      "year": 1973,
+      "subtitle": "Dir: Robin Hardy",
+      "description": "#31 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from UK, 88m.",
+      "popularity": 95,
+      "tags": [
+        "Mystery",
+        "UK",
+        "TSZDT #31"
+      ],
+      "source": "https://www.imdb.com/title/tt0070917/"
+    },
+    {
+      "id": "ringu-1998",
+      "label": "Ringu",
+      "year": 1998,
+      "subtitle": "Dir: Hideo Nakata",
+      "description": "#32 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from Japan, 96m.",
+      "popularity": 95,
+      "tags": [
+        "Supernatural",
+        "Japan",
+        "TSZDT #32"
+      ],
+      "source": "https://www.imdb.com/title/tt0178868/"
+    },
+    {
+      "id": "the-birds-1963",
+      "label": "The Birds",
+      "year": 1963,
+      "subtitle": "Dir: Alfred Hitchcock",
+      "description": "#33 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Natural Horror horror from USA, 119m.",
+      "popularity": 95,
+      "tags": [
+        "Natural Horror",
+        "USA",
+        "TSZDT #33"
+      ],
+      "source": "https://www.imdb.com/title/tt0056869/"
+    },
+    {
+      "id": "freaks-1932",
+      "label": "Freaks",
+      "year": 1932,
+      "subtitle": "Dir: Tod Browning",
+      "description": "#34 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Drama horror from USA, 64m.",
+      "popularity": 95,
+      "tags": [
+        "Drama",
+        "USA",
+        "TSZDT #34"
+      ],
+      "source": "https://www.imdb.com/title/tt0022913/"
+    },
+    {
+      "id": "les-yeux-sans-visage-1960",
+      "label": "Les yeux sans visage",
+      "year": 1960,
+      "subtitle": "Dir: Georges Franju",
+      "description": "#35 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from France, 90m.",
+      "popularity": 95,
+      "tags": [
+        "Psychological",
+        "France",
+        "TSZDT #35"
+      ],
+      "source": "https://www.imdb.com/title/tt0053459/"
+    },
+    {
+      "id": "peeping-tom-1960",
+      "label": "Peeping Tom",
+      "year": 1960,
+      "subtitle": "Dir: Michael Powell",
+      "description": "#36 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from UK, 101m.",
+      "popularity": 95,
+      "tags": [
+        "Psychological",
+        "UK",
+        "TSZDT #36"
+      ],
+      "source": "https://www.imdb.com/title/tt0054167/"
+    },
+    {
+      "id": "hellraiser-1987",
+      "label": "Hellraiser",
+      "year": 1987,
+      "subtitle": "Dir: Clive Barker",
+      "description": "#37 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from UK, 94m.",
+      "popularity": 95,
+      "tags": [
+        "Supernatural",
+        "UK",
+        "TSZDT #37"
+      ],
+      "source": "https://www.imdb.com/title/tt0093177/"
+    },
+    {
+      "id": "das-cabinet-des-dr-caligari-1920",
+      "label": "Das Cabinet des Dr. Caligari",
+      "year": 1920,
+      "subtitle": "Dir: Robert Wiene",
+      "description": "#38 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from Germany, 76m.",
+      "popularity": 95,
+      "tags": [
+        "Psychological",
+        "Germany",
+        "TSZDT #38"
+      ],
+      "source": "https://www.imdb.com/title/tt0010323/"
+    },
+    {
+      "id": "the-sixth-sense-1999",
+      "label": "The Sixth Sense",
+      "year": 1999,
+      "subtitle": "Dir: M. Night Shyamalan",
+      "description": "#39 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from USA, 107m.",
+      "popularity": 95,
+      "tags": [
+        "Mystery",
+        "USA",
+        "TSZDT #39"
+      ],
+      "source": "https://www.imdb.com/title/tt0167404/"
+    },
+    {
+      "id": "videodrome-1983",
+      "label": "Videodrome",
+      "year": 1983,
+      "subtitle": "Dir: David Cronenberg",
+      "description": "#40 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Body Horror horror from Canada, 87m.",
+      "popularity": 95,
+      "tags": [
+        "Body Horror",
+        "Canada",
+        "TSZDT #40"
+      ],
+      "source": "https://www.imdb.com/title/tt0086541/"
+    },
+    {
+      "id": "cat-people-1942",
+      "label": "Cat People",
+      "year": 1942,
+      "subtitle": "Dir: Jacques Tourneur",
+      "description": "#41 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from USA, 73m.",
+      "popularity": 95,
+      "tags": [
+        "Mystery",
+        "USA",
+        "TSZDT #41"
+      ],
+      "source": "https://www.imdb.com/title/tt0034587/"
+    },
+    {
+      "id": "repulsion-1965",
+      "label": "Repulsion",
+      "year": 1965,
+      "subtitle": "Dir: Roman Polanski",
+      "description": "#42 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from UK, 105m.",
+      "popularity": 95,
+      "tags": [
+        "Psychological",
+        "UK",
+        "TSZDT #42"
+      ],
+      "source": "https://www.imdb.com/title/tt0059646/"
+    },
+    {
+      "id": "dracula-1931",
+      "label": "Dracula",
+      "year": 1931,
+      "subtitle": "Dir: Tod Browning",
+      "description": "#43 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from USA, 75m.",
+      "popularity": 95,
+      "tags": [
+        "Vampire",
+        "USA",
+        "TSZDT #43"
+      ],
+      "source": "https://www.imdb.com/title/tt0021814/"
+    },
+    {
+      "id": "king-kong-1933",
+      "label": "King Kong",
+      "year": 1933,
+      "subtitle": "Dir: Merian C. Cooper & Ernest B. Schoedsack",
+      "description": "#44 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Monster horror from USA, 100m.",
+      "popularity": 95,
+      "tags": [
+        "Monster",
+        "USA",
+        "TSZDT #44"
+      ],
+      "source": "https://www.imdb.com/title/tt0024216/"
+    },
+    {
+      "id": "re-animator-1985",
+      "label": "Re-Animator",
+      "year": 1985,
+      "subtitle": "Dir: Stuart Gordon",
+      "description": "#45 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Splatter horror from USA, 105m.",
+      "popularity": 95,
+      "tags": [
+        "Splatter",
+        "USA",
+        "TSZDT #45"
+      ],
+      "source": "https://www.imdb.com/title/tt0089885/"
+    },
+    {
+      "id": "black-christmas-1974",
+      "label": "Black Christmas",
+      "year": 1974,
+      "subtitle": "Dir: Bob Clark",
+      "description": "#46 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from Canada, 98m.",
+      "popularity": 95,
+      "tags": [
+        "Slasher",
+        "Canada",
+        "TSZDT #46"
+      ],
+      "source": "https://www.imdb.com/title/tt0071222/"
+    },
+    {
+      "id": "dracula-1958",
+      "label": "Dracula",
+      "year": 1958,
+      "subtitle": "Dir: Terence Fisher",
+      "description": "#47 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from UK, 82m.",
+      "popularity": 95,
+      "tags": [
+        "Vampire",
+        "UK",
+        "TSZDT #47"
+      ],
+      "source": "https://www.imdb.com/title/tt0051554/"
+    },
+    {
+      "id": "candyman-1992",
+      "label": "Candyman",
+      "year": 1992,
+      "subtitle": "Dir: Bernard Rose",
+      "description": "#48 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 99m.",
+      "popularity": 95,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #48"
+      ],
+      "source": "https://www.imdb.com/title/tt0103919/"
+    },
+    {
+      "id": "invasion-of-the-body-snatchers-1978",
+      "label": "Invasion of the Body Snatchers",
+      "year": 1978,
+      "subtitle": "Dir: Philip Kaufman",
+      "description": "#49 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 115m.",
+      "popularity": 95,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #49"
+      ],
+      "source": "https://www.imdb.com/title/tt0077745/"
+    },
+    {
+      "id": "invasion-of-the-body-snatchers-1956",
+      "label": "Invasion of the Body Snatchers",
+      "year": 1956,
+      "subtitle": "Dir: Don Siegel",
+      "description": "#50 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 80m.",
+      "popularity": 95,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #50"
+      ],
+      "source": "https://www.imdb.com/title/tt0049366/"
+    },
+    {
+      "id": "the-changeling-1980",
+      "label": "The Changeling",
+      "year": 1980,
+      "subtitle": "Dir: Peter Medak",
+      "description": "#51 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from Canada, 107m.",
+      "popularity": 88,
+      "tags": [
+        "Supernatural",
+        "Canada",
+        "TSZDT #51"
+      ],
+      "source": "https://www.imdb.com/title/tt0080516/"
+    },
+    {
+      "id": "braindead-1992",
+      "label": "Braindead",
+      "year": 1992,
+      "subtitle": "Dir: Peter Jackson",
+      "description": "#52 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from New Zealand, 104m.",
+      "popularity": 88,
+      "tags": [
+        "Zombie",
+        "New Zealand",
+        "TSZDT #52"
+      ],
+      "source": "https://www.imdb.com/title/tt0103873/"
+    },
+    {
+      "id": "friday-the-13th-1980",
+      "label": "Friday the 13th",
+      "year": 1980,
+      "subtitle": "Dir: Sean S. Cunningham",
+      "description": "#53 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 95m.",
+      "popularity": 88,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #53"
+      ],
+      "source": "https://www.imdb.com/title/tt0080761/"
+    },
+    {
+      "id": "28-days-later-2002",
+      "label": "28 Days Later…",
+      "year": 2002,
+      "subtitle": "Dir: Danny Boyle",
+      "description": "#54 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from UK, 113m.",
+      "popularity": 88,
+      "tags": [
+        "Zombie",
+        "UK",
+        "TSZDT #54"
+      ],
+      "source": "https://www.imdb.com/title/tt0289043/"
+    },
+    {
+      "id": "carnival-of-souls-1962",
+      "label": "Carnival of Souls",
+      "year": 1962,
+      "subtitle": "Dir: Herk Harvey",
+      "description": "#55 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 78m.",
+      "popularity": 88,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #55"
+      ],
+      "source": "https://www.imdb.com/title/tt0055830/"
+    },
+    {
+      "id": "the-black-cat-1934",
+      "label": "The Black Cat",
+      "year": 1934,
+      "subtitle": "Dir: Edgar G. Ulmer",
+      "description": "#56 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from USA, 65m.",
+      "popularity": 88,
+      "tags": [
+        "Gothic",
+        "USA",
+        "TSZDT #56"
+      ],
+      "source": "https://www.imdb.com/title/tt0024894/"
+    },
+    {
+      "id": "dead-of-night-1945",
+      "label": "Dead of Night",
+      "year": 1945,
+      "subtitle": "Dir: Various",
+      "description": "#57 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Anthology horror from UK, 103m.",
+      "popularity": 88,
+      "tags": [
+        "Anthology",
+        "UK",
+        "TSZDT #57"
+      ],
+      "source": "https://www.imdb.com/title/tt0037635/"
+    },
+    {
+      "id": "possession-1981",
+      "label": "Possession",
+      "year": 1981,
+      "subtitle": "Dir: Andrzej Zulawski",
+      "description": "#58 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from France, 124m.",
+      "popularity": 88,
+      "tags": [
+        "Psychological",
+        "France",
+        "TSZDT #58"
+      ],
+      "source": "https://www.imdb.com/title/tt0082933/"
+    },
+    {
+      "id": "les-diaboliques-1955",
+      "label": "Les diaboliques",
+      "year": 1955,
+      "subtitle": "Dir: Henri-Georges Clouzot",
+      "description": "#59 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from France, 92m.",
+      "popularity": 88,
+      "tags": [
+        "Mystery",
+        "France",
+        "TSZDT #59"
+      ],
+      "source": "https://www.imdb.com/title/tt0046911/"
+    },
+    {
+      "id": "aliens-1986",
+      "label": "Aliens",
+      "year": 1986,
+      "subtitle": "Dir: James Cameron",
+      "description": "#60 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 137m.",
+      "popularity": 88,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #60"
+      ],
+      "source": "https://www.imdb.com/title/tt0090605/"
+    },
+    {
+      "id": "henry-portrait-of-a-serial-killer-1986",
+      "label": "Henry: Portrait of a Serial Killer",
+      "year": 1986,
+      "subtitle": "Dir: John McNaughton",
+      "description": "#61 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from USA, 83m.",
+      "popularity": 88,
+      "tags": [
+        "Thriller",
+        "USA",
+        "TSZDT #61"
+      ],
+      "source": "https://www.imdb.com/title/tt0099763/"
+    },
+    {
+      "id": "profondo-rosso-1975",
+      "label": "Profondo rosso",
+      "year": 1975,
+      "subtitle": "Dir: Dario Argento",
+      "description": "#62 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Giallo horror from Italy, 126m.",
+      "popularity": 88,
+      "tags": [
+        "Giallo",
+        "Italy",
+        "TSZDT #62"
+      ],
+      "source": "https://www.imdb.com/title/tt0073582/"
+    },
+    {
+      "id": "cannibal-holocaust-1980",
+      "label": "Cannibal Holocaust",
+      "year": 1980,
+      "subtitle": "Dir: Ruggero Deodato",
+      "description": "#63 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Exploitation horror from Italy, 95m.",
+      "popularity": 88,
+      "tags": [
+        "Exploitation",
+        "Italy",
+        "TSZDT #63"
+      ],
+      "source": "https://www.imdb.com/title/tt0078935/"
+    },
+    {
+      "id": "lat-den-ratte-komma-in-2008",
+      "label": "Låt den rätte komma in",
+      "year": 2008,
+      "subtitle": "Dir: Tomas Alfredson",
+      "description": "#64 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from Sweden, 115m.",
+      "popularity": 88,
+      "tags": [
+        "Vampire",
+        "Sweden",
+        "TSZDT #64"
+      ],
+      "source": "https://www.imdb.com/title/tt1139797/"
+    },
+    {
+      "id": "kaidan-1964",
+      "label": "Kaidan",
+      "year": 1964,
+      "subtitle": "Dir: Masaki Kobayashi",
+      "description": "#65 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Anthology horror from Japan, 183m.",
+      "popularity": 88,
+      "tags": [
+        "Anthology",
+        "Japan",
+        "TSZDT #65"
+      ],
+      "source": "https://www.imdb.com/title/tt0058279/"
+    },
+    {
+      "id": "the-descent-2005",
+      "label": "The Descent",
+      "year": 2005,
+      "subtitle": "Dir: Neil Marshall",
+      "description": "#66 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Natural Horror horror from UK, 99m.",
+      "popularity": 88,
+      "tags": [
+        "Natural Horror",
+        "UK",
+        "TSZDT #66"
+      ],
+      "source": "https://www.imdb.com/title/tt0435625/"
+    },
+    {
+      "id": "i-walked-with-a-zombie-1943",
+      "label": "I Walked with a Zombie",
+      "year": 1943,
+      "subtitle": "Dir: Jacques Tourneur",
+      "description": "#67 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from USA, 69m.",
+      "popularity": 88,
+      "tags": [
+        "Zombie",
+        "USA",
+        "TSZDT #67"
+      ],
+      "source": "https://www.imdb.com/title/tt0036027/"
+    },
+    {
+      "id": "la-maschera-del-demonio-1960",
+      "label": "La maschera del demonio",
+      "year": 1960,
+      "subtitle": "Dir: Mario Bava",
+      "description": "#68 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from Italy, 87m.",
+      "popularity": 88,
+      "tags": [
+        "Gothic",
+        "Italy",
+        "TSZDT #68"
+      ],
+      "source": "https://www.imdb.com/title/tt0054067/"
+    },
+    {
+      "id": "night-of-the-demon-1957",
+      "label": "Night of the Demon",
+      "year": 1957,
+      "subtitle": "Dir: Jacques Tourneur",
+      "description": "#69 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from UK, 95m.",
+      "popularity": 88,
+      "tags": [
+        "Supernatural",
+        "UK",
+        "TSZDT #69"
+      ],
+      "source": "https://www.imdb.com/title/tt0050766/"
+    },
+    {
+      "id": "near-dark-1987",
+      "label": "Near Dark",
+      "year": 1987,
+      "subtitle": "Dir: Kathryn Bigelow",
+      "description": "#70 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from USA, 94m.",
+      "popularity": 88,
+      "tags": [
+        "Vampire",
+        "USA",
+        "TSZDT #70"
+      ],
+      "source": "https://www.imdb.com/title/tt0093605/"
+    },
+    {
+      "id": "the-return-of-the-living-dead-1985",
+      "label": "The Return of the Living Dead",
+      "year": 1985,
+      "subtitle": "Dir: Dan O'Bannon",
+      "description": "#71 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from USA, 91m.",
+      "popularity": 88,
+      "tags": [
+        "Zombie",
+        "USA",
+        "TSZDT #71"
+      ],
+      "source": "https://www.imdb.com/title/tt0089907/"
+    },
+    {
+      "id": "jacob-s-ladder-1990",
+      "label": "Jacob's Ladder",
+      "year": 1990,
+      "subtitle": "Dir: Adrian Lyne",
+      "description": "#72 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 113m.",
+      "popularity": 88,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #72"
+      ],
+      "source": "https://www.imdb.com/title/tt0099871/"
+    },
+    {
+      "id": "se7en-1995",
+      "label": "Se7en",
+      "year": 1995,
+      "subtitle": "Dir: David Fincher",
+      "description": "#73 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from USA, 127m.",
+      "popularity": 88,
+      "tags": [
+        "Thriller",
+        "USA",
+        "TSZDT #73"
+      ],
+      "source": "https://www.imdb.com/title/tt0114369/"
+    },
+    {
+      "id": "vampyr-1932",
+      "label": "Vampyr",
+      "year": 1932,
+      "subtitle": "Dir: Carl Theodor Dreyer",
+      "description": "#74 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from Germany, 83m.",
+      "popularity": 88,
+      "tags": [
+        "Vampire",
+        "Germany",
+        "TSZDT #74"
+      ],
+      "source": "https://www.imdb.com/title/tt0023649/"
+    },
+    {
+      "id": "onibaba-1964",
+      "label": "Onibaba",
+      "year": 1964,
+      "subtitle": "Dir: Kaneto Shindô",
+      "description": "#75 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from Japan, 103m.",
+      "popularity": 88,
+      "tags": [
+        "Psychological",
+        "Japan",
+        "TSZDT #75"
+      ],
+      "source": "https://www.imdb.com/title/tt0058430/"
+    },
+    {
+      "id": "misery-1990",
+      "label": "Misery",
+      "year": 1990,
+      "subtitle": "Dir: Rob Reiner",
+      "description": "#76 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from USA, 107m.",
+      "popularity": 88,
+      "tags": [
+        "Thriller",
+        "USA",
+        "TSZDT #76"
+      ],
+      "source": "https://www.imdb.com/title/tt0100157/"
+    },
+    {
+      "id": "eraserhead-1977",
+      "label": "Eraserhead",
+      "year": 1977,
+      "subtitle": "Dir: David Lynch",
+      "description": "#77 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 89m.",
+      "popularity": 88,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #77"
+      ],
+      "source": "https://www.imdb.com/title/tt0074486/"
+    },
+    {
+      "id": "dracula-1992",
+      "label": "Dracula",
+      "year": 1992,
+      "subtitle": "Dir: Francis Ford Coppola",
+      "description": "#78 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from USA, 128m.",
+      "popularity": 88,
+      "tags": [
+        "Vampire",
+        "USA",
+        "TSZDT #78"
+      ],
+      "source": "https://www.imdb.com/title/tt0103874/"
+    },
+    {
+      "id": "phantasm-1979",
+      "label": "Phantasm",
+      "year": 1979,
+      "subtitle": "Dir: Don Coscarelli",
+      "description": "#79 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 88m.",
+      "popularity": 88,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #79"
+      ],
+      "source": "https://www.imdb.com/title/tt0079714/"
+    },
+    {
+      "id": "fright-night-1985",
+      "label": "Fright Night",
+      "year": 1985,
+      "subtitle": "Dir: Tom Holland",
+      "description": "#80 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from USA, 106m.",
+      "popularity": 88,
+      "tags": [
+        "Vampire",
+        "USA",
+        "TSZDT #80"
+      ],
+      "source": "https://www.imdb.com/title/tt0089175/"
+    },
+    {
+      "id": "e-tu-vivrai-nel-terrore-l-aldila-1981",
+      "label": "…E tu vivrai nel terrore! L'aldilà",
+      "year": 1981,
+      "subtitle": "Dir: Lucio Fulci",
+      "description": "#81 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from Italy, 87m.",
+      "popularity": 88,
+      "tags": [
+        "Supernatural",
+        "Italy",
+        "TSZDT #81"
+      ],
+      "source": "https://www.imdb.com/title/tt0082307/"
+    },
+    {
+      "id": "creature-from-the-black-lagoon-1954",
+      "label": "Creature from the Black Lagoon",
+      "year": 1954,
+      "subtitle": "Dir: Jack Arnold",
+      "description": "#82 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 79m.",
+      "popularity": 88,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #82"
+      ],
+      "source": "https://www.imdb.com/title/tt0046876/"
+    },
+    {
+      "id": "the-ring-2002",
+      "label": "The Ring",
+      "year": 2002,
+      "subtitle": "Dir: Gore Verbinski",
+      "description": "#83 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from USA, 115m.",
+      "popularity": 88,
+      "tags": [
+        "Mystery",
+        "USA",
+        "TSZDT #83"
+      ],
+      "source": "https://www.imdb.com/title/tt0298130/"
+    },
+    {
+      "id": "the-howling-1981",
+      "label": "The Howling",
+      "year": 1981,
+      "subtitle": "Dir: Joe Dante",
+      "description": "#84 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Werewolf horror from USA, 91m.",
+      "popularity": 88,
+      "tags": [
+        "Werewolf",
+        "USA",
+        "TSZDT #84"
+      ],
+      "source": "https://www.imdb.com/title/tt0082533/"
+    },
+    {
+      "id": "day-of-the-dead-1985",
+      "label": "Day of the Dead",
+      "year": 1985,
+      "subtitle": "Dir: George A. Romero",
+      "description": "#85 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from USA, 96m.",
+      "popularity": 88,
+      "tags": [
+        "Zombie",
+        "USA",
+        "TSZDT #85"
+      ],
+      "source": "https://www.imdb.com/title/tt0088993/"
+    },
+    {
+      "id": "the-night-of-the-hunter-1955",
+      "label": "The Night of the Hunter",
+      "year": 1955,
+      "subtitle": "Dir: Charles Laughton",
+      "description": "#86 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from USA, 92m.",
+      "popularity": 88,
+      "tags": [
+        "Thriller",
+        "USA",
+        "TSZDT #86"
+      ],
+      "source": "https://www.imdb.com/title/tt0048424/"
+    },
+    {
+      "id": "dr-jekyll-and-mr-hyde-1931",
+      "label": "Dr. Jekyll and Mr. Hyde",
+      "year": 1931,
+      "subtitle": "Dir: Rouben Mamoulian",
+      "description": "#87 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from USA, 98m.",
+      "popularity": 88,
+      "tags": [
+        "Gothic",
+        "USA",
+        "TSZDT #87"
+      ],
+      "source": "https://www.imdb.com/title/tt0022835/"
+    },
+    {
+      "id": "the-brood-1979",
+      "label": "The Brood",
+      "year": 1979,
+      "subtitle": "Dir: David Cronenberg",
+      "description": "#88 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Body Horror horror from Canada, 92m.",
+      "popularity": 88,
+      "tags": [
+        "Body Horror",
+        "Canada",
+        "TSZDT #88"
+      ],
+      "source": "https://www.imdb.com/title/tt0078908/"
+    },
+    {
+      "id": "funny-games-1997",
+      "label": "Funny Games",
+      "year": 1997,
+      "subtitle": "Dir: Michael Haneke",
+      "description": "#89 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from Austria, 108m.",
+      "popularity": 88,
+      "tags": [
+        "Thriller",
+        "Austria",
+        "TSZDT #89"
+      ],
+      "source": "https://www.imdb.com/title/tt0119167/"
+    },
+    {
+      "id": "the-old-dark-house-1932",
+      "label": "The Old Dark House",
+      "year": 1932,
+      "subtitle": "Dir: James Whale",
+      "description": "#90 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from USA, 72m.",
+      "popularity": 88,
+      "tags": [
+        "Gothic",
+        "USA",
+        "TSZDT #90"
+      ],
+      "source": "https://www.imdb.com/title/tt0023293/"
+    },
+    {
+      "id": "the-wolf-man-1941",
+      "label": "The Wolf Man",
+      "year": 1941,
+      "subtitle": "Dir: George Waggner",
+      "description": "#91 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Werewolf horror from USA, 70m.",
+      "popularity": 88,
+      "tags": [
+        "Werewolf",
+        "USA",
+        "TSZDT #91"
+      ],
+      "source": "https://www.imdb.com/title/tt0034398/"
+    },
+    {
+      "id": "the-others-2001",
+      "label": "The Others",
+      "year": 2001,
+      "subtitle": "Dir: Alejandro Amenábar",
+      "description": "#92 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 101m.",
+      "popularity": 88,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #92"
+      ],
+      "source": "https://www.imdb.com/title/tt0230600/"
+    },
+    {
+      "id": "creepshow-1982",
+      "label": "Creepshow",
+      "year": 1982,
+      "subtitle": "Dir: George A. Romero",
+      "description": "#93 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Anthology horror from USA, 120m.",
+      "popularity": 88,
+      "tags": [
+        "Anthology",
+        "USA",
+        "TSZDT #93"
+      ],
+      "source": "https://www.imdb.com/title/tt0083767/"
+    },
+    {
+      "id": "the-babadook-2014",
+      "label": "The Babadook",
+      "year": 2014,
+      "subtitle": "Dir: Jennifer Kent",
+      "description": "#94 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from Australia, 93m.",
+      "popularity": 88,
+      "tags": [
+        "Psychological",
+        "Australia",
+        "TSZDT #94"
+      ],
+      "source": "https://www.imdb.com/title/tt2321549/"
+    },
+    {
+      "id": "the-phantom-of-the-opera-1925",
+      "label": "The Phantom of the Opera",
+      "year": 1925,
+      "subtitle": "Dir: Rupert Julian",
+      "description": "#95 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from USA, 93m.",
+      "popularity": 88,
+      "tags": [
+        "Gothic",
+        "USA",
+        "TSZDT #95"
+      ],
+      "source": "https://www.imdb.com/title/tt0016220/"
+    },
+    {
+      "id": "the-mummy-1932",
+      "label": "The Mummy",
+      "year": 1932,
+      "subtitle": "Dir: Karl Freund",
+      "description": "#96 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 73m.",
+      "popularity": 88,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #96"
+      ],
+      "source": "https://www.imdb.com/title/tt0023245/"
+    },
+    {
+      "id": "the-invisible-man-1933",
+      "label": "The Invisible Man",
+      "year": 1933,
+      "subtitle": "Dir: James Whale",
+      "description": "#97 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 71m.",
+      "popularity": 88,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #97"
+      ],
+      "source": "https://www.imdb.com/title/tt0024184/"
+    },
+    {
+      "id": "le-locataire-1976",
+      "label": "Le locataire",
+      "year": 1976,
+      "subtitle": "Dir: Roman Polanski",
+      "description": "#98 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from France, 126m.",
+      "popularity": 88,
+      "tags": [
+        "Psychological",
+        "France",
+        "TSZDT #98"
+      ],
+      "source": "https://www.imdb.com/title/tt0074811/"
+    },
+    {
+      "id": "shaun-of-the-dead-2004",
+      "label": "Shaun of the Dead",
+      "year": 2004,
+      "subtitle": "Dir: Edgar Wright",
+      "description": "#99 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from UK, 99m.",
+      "popularity": 88,
+      "tags": [
+        "Zombie",
+        "UK",
+        "TSZDT #99"
+      ],
+      "source": "https://www.imdb.com/title/tt0365748/"
+    },
+    {
+      "id": "from-dusk-till-dawn-1996",
+      "label": "From Dusk Till Dawn",
+      "year": 1996,
+      "subtitle": "Dir: Robert Rodriguez",
+      "description": "#100 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from USA, 108m.",
+      "popularity": 88,
+      "tags": [
+        "Vampire",
+        "USA",
+        "TSZDT #100"
+      ],
+      "source": "https://www.imdb.com/title/tt0116367/"
+    },
+    {
+      "id": "rec-2007",
+      "label": "[Rec]",
+      "year": 2007,
+      "subtitle": "Dir: Jaume Balagueró & Paco Plaza",
+      "description": "#101 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from Spain, 78m.",
+      "popularity": 78,
+      "tags": [
+        "Zombie",
+        "Spain",
+        "TSZDT #101"
+      ],
+      "source": "https://www.imdb.com/title/tt1038988/"
+    },
+    {
+      "id": "martyrs-2008",
+      "label": "Martyrs",
+      "year": 2008,
+      "subtitle": "Dir: Pascal Laugier",
+      "description": "#102 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Splatter horror from France, 99m.",
+      "popularity": 78,
+      "tags": [
+        "Splatter",
+        "France",
+        "TSZDT #102"
+      ],
+      "source": "https://www.imdb.com/title/tt1029234/"
+    },
+    {
+      "id": "island-of-lost-souls-1932",
+      "label": "Island of Lost Souls",
+      "year": 1932,
+      "subtitle": "Dir: Erle C. Kenton",
+      "description": "#103 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 70m.",
+      "popularity": 78,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #103"
+      ],
+      "source": "https://www.imdb.com/title/tt0024188/"
+    },
+    {
+      "id": "quien-puede-matar-a-un-nino-1976",
+      "label": "¿Quién puede matar a un niño?",
+      "year": 1976,
+      "subtitle": "Dir: Narciso Ibáñez Serrador",
+      "description": "#104 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from Spain, 112m.",
+      "popularity": 78,
+      "tags": [
+        "Thriller",
+        "Spain",
+        "TSZDT #104"
+      ],
+      "source": "https://www.imdb.com/title/tt0075462/"
+    },
+    {
+      "id": "it-follows-2014",
+      "label": "It Follows",
+      "year": 2014,
+      "subtitle": "Dir: David Robert Mitchell",
+      "description": "#105 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 100m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #105"
+      ],
+      "source": "https://www.imdb.com/title/tt3235888/"
+    },
+    {
+      "id": "the-cabin-in-the-woods-2011",
+      "label": "The Cabin in the Woods",
+      "year": 2011,
+      "subtitle": "Dir: Drew Goddard",
+      "description": "#106 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 95m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #106"
+      ],
+      "source": "https://www.imdb.com/title/tt1259521/"
+    },
+    {
+      "id": "el-espinazo-del-diablo-2001",
+      "label": "El espinazo del diablo",
+      "year": 2001,
+      "subtitle": "Dir: Guillermo del Toro",
+      "description": "#107 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from Spain, 106m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "Spain",
+        "TSZDT #107"
+      ],
+      "source": "https://www.imdb.com/title/tt0256009/"
+    },
+    {
+      "id": "in-the-mouth-of-madness-1994",
+      "label": "In the Mouth of Madness",
+      "year": 1994,
+      "subtitle": "Dir: John Carpenter",
+      "description": "#108 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 95m.",
+      "popularity": 78,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #108"
+      ],
+      "source": "https://www.imdb.com/title/tt0113409/"
+    },
+    {
+      "id": "get-out-2017",
+      "label": "Get Out",
+      "year": 2017,
+      "subtitle": "Dir: Jordan Peele",
+      "description": "#109 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 104m.",
+      "popularity": 78,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #109"
+      ],
+      "source": "https://www.imdb.com/title/tt5052448/"
+    },
+    {
+      "id": "gremlins-1984",
+      "label": "Gremlins",
+      "year": 1984,
+      "subtitle": "Dir: Joe Dante",
+      "description": "#110 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Comedy horror from USA, 106m.",
+      "popularity": 78,
+      "tags": [
+        "Comedy",
+        "USA",
+        "TSZDT #110"
+      ],
+      "source": "https://www.imdb.com/title/tt0087363/"
+    },
+    {
+      "id": "dellamorte-dellamore-1994",
+      "label": "Dellamorte Dellamore",
+      "year": 1994,
+      "subtitle": "Dir: Michele Soavi",
+      "description": "#111 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from Italy, 105m.",
+      "popularity": 78,
+      "tags": [
+        "Zombie",
+        "Italy",
+        "TSZDT #111"
+      ],
+      "source": "https://www.imdb.com/title/tt0109592/"
+    },
+    {
+      "id": "the-fog-1980",
+      "label": "The Fog",
+      "year": 1980,
+      "subtitle": "Dir: John Carpenter",
+      "description": "#112 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 89m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #112"
+      ],
+      "source": "https://www.imdb.com/title/tt0080749/"
+    },
+    {
+      "id": "zombi-2-1979",
+      "label": "Zombi 2",
+      "year": 1979,
+      "subtitle": "Dir: Lucio Fulci",
+      "description": "#113 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from Italy, 91m.",
+      "popularity": 78,
+      "tags": [
+        "Zombie",
+        "Italy",
+        "TSZDT #113"
+      ],
+      "source": "https://www.imdb.com/title/tt0080057/"
+    },
+    {
+      "id": "pet-sematary-1989",
+      "label": "Pet Sematary",
+      "year": 1989,
+      "subtitle": "Dir: Mary Lambert",
+      "description": "#114 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 103m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #114"
+      ],
+      "source": "https://www.imdb.com/title/tt0098084/"
+    },
+    {
+      "id": "vargtimmen-1968",
+      "label": "Vargtimmen",
+      "year": 1968,
+      "subtitle": "Dir: Ingmar Bergman",
+      "description": "#115 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from Sweden, 90m.",
+      "popularity": 78,
+      "tags": [
+        "Psychological",
+        "Sweden",
+        "TSZDT #115"
+      ],
+      "source": "https://www.imdb.com/title/tt0063759/"
+    },
+    {
+      "id": "saw-2004",
+      "label": "Saw",
+      "year": 2004,
+      "subtitle": "Dir: James Wan",
+      "description": "#116 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Splatter horror from USA, 103m.",
+      "popularity": 78,
+      "tags": [
+        "Splatter",
+        "USA",
+        "TSZDT #116"
+      ],
+      "source": "https://www.imdb.com/title/tt0387564/"
+    },
+    {
+      "id": "child-s-play-1988",
+      "label": "Child's Play",
+      "year": 1988,
+      "subtitle": "Dir: Tom Holland",
+      "description": "#117 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 87m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #117"
+      ],
+      "source": "https://www.imdb.com/title/tt0094862/"
+    },
+    {
+      "id": "event-horizon-1997",
+      "label": "Event Horizon",
+      "year": 1997,
+      "subtitle": "Dir: Paul W.S. Anderson",
+      "description": "#118 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 96m.",
+      "popularity": 78,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #118"
+      ],
+      "source": "https://www.imdb.com/title/tt0119081/"
+    },
+    {
+      "id": "nosferatu-phantom-der-nacht-1979",
+      "label": "Nosferatu: Phantom der Nacht",
+      "year": 1979,
+      "subtitle": "Dir: Werner Herzog",
+      "description": "#119 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from Germany, 107m.",
+      "popularity": 78,
+      "tags": [
+        "Vampire",
+        "Germany",
+        "TSZDT #119"
+      ],
+      "source": "https://www.imdb.com/title/tt0079641/"
+    },
+    {
+      "id": "hereditary-2018",
+      "label": "Hereditary",
+      "year": 2018,
+      "subtitle": "Dir: Ari Aster",
+      "description": "#120 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 127m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #120"
+      ],
+      "source": "https://www.imdb.com/title/tt7784604/"
+    },
+    {
+      "id": "what-ever-happened-to-baby-jane-1962",
+      "label": "What Ever Happened to Baby Jane?",
+      "year": 1962,
+      "subtitle": "Dir: Robert Aldrich",
+      "description": "#121 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 134m.",
+      "popularity": 78,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #121"
+      ],
+      "source": "https://www.imdb.com/title/tt0056687/"
+    },
+    {
+      "id": "gojira-1954",
+      "label": "Gojira",
+      "year": 1954,
+      "subtitle": "Dir: Ishirô Honda",
+      "description": "#122 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Monster horror from Japan, 96m.",
+      "popularity": 78,
+      "tags": [
+        "Monster",
+        "Japan",
+        "TSZDT #122"
+      ],
+      "source": "https://www.imdb.com/title/tt0047034/"
+    },
+    {
+      "id": "spoorloos-1988",
+      "label": "Spoorloos",
+      "year": 1988,
+      "subtitle": "Dir: George Sluizer",
+      "description": "#123 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from Netherlands, 107m.",
+      "popularity": 78,
+      "tags": [
+        "Mystery",
+        "Netherlands",
+        "TSZDT #123"
+      ],
+      "source": "https://www.imdb.com/title/tt0096163/"
+    },
+    {
+      "id": "cronos-1993",
+      "label": "Cronos",
+      "year": 1993,
+      "subtitle": "Dir: Guillermo del Toro",
+      "description": "#124 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from Mexico, 94m.",
+      "popularity": 78,
+      "tags": [
+        "Vampire",
+        "Mexico",
+        "TSZDT #124"
+      ],
+      "source": "https://www.imdb.com/title/tt0104029/"
+    },
+    {
+      "id": "the-conjuring-2013",
+      "label": "The Conjuring",
+      "year": 2013,
+      "subtitle": "Dir: James Wan",
+      "description": "#125 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 112m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #125"
+      ],
+      "source": "https://www.imdb.com/title/tt1457767/"
+    },
+    {
+      "id": "the-vvitch-a-new-england-folktale-2015",
+      "label": "The VVitch: A New-England Folktale",
+      "year": 2015,
+      "subtitle": "Dir: Robert Eggers",
+      "description": "#126 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 92m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #126"
+      ],
+      "source": "https://www.imdb.com/title/tt4263482/"
+    },
+    {
+      "id": "the-devils-1971",
+      "label": "The Devils",
+      "year": 1971,
+      "subtitle": "Dir: Ken Russell",
+      "description": "#127 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from UK, 111m.",
+      "popularity": 78,
+      "tags": [
+        "Psychological",
+        "UK",
+        "TSZDT #127"
+      ],
+      "source": "https://www.imdb.com/title/tt0066993/"
+    },
+    {
+      "id": "the-last-house-on-the-left-1972",
+      "label": "The Last House on the Left",
+      "year": 1972,
+      "subtitle": "Dir: Wes Craven",
+      "description": "#128 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Exploitation horror from USA, 84m.",
+      "popularity": 78,
+      "tags": [
+        "Exploitation",
+        "USA",
+        "TSZDT #128"
+      ],
+      "source": "https://www.imdb.com/title/tt0068833/"
+    },
+    {
+      "id": "el-orfanato-2007",
+      "label": "El orfanato",
+      "year": 2007,
+      "subtitle": "Dir: J.A. Bayona",
+      "description": "#129 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from Spain, 105m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "Spain",
+        "TSZDT #129"
+      ],
+      "source": "https://www.imdb.com/title/tt0464141/"
+    },
+    {
+      "id": "the-amityville-horror-1979",
+      "label": "The Amityville Horror",
+      "year": 1979,
+      "subtitle": "Dir: Stuart Rosenberg",
+      "description": "#130 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 117m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #130"
+      ],
+      "source": "https://www.imdb.com/title/tt0078767/"
+    },
+    {
+      "id": "the-lost-boys-1987",
+      "label": "The Lost Boys",
+      "year": 1987,
+      "subtitle": "Dir: Joel Schumacher",
+      "description": "#131 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from USA, 97m.",
+      "popularity": 78,
+      "tags": [
+        "Vampire",
+        "USA",
+        "TSZDT #131"
+      ],
+      "source": "https://www.imdb.com/title/tt0093437/"
+    },
+    {
+      "id": "ginger-snaps-2000",
+      "label": "Ginger Snaps",
+      "year": 2000,
+      "subtitle": "Dir: John Fawcett",
+      "description": "#132 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Werewolf horror from Canada, 108m.",
+      "popularity": 78,
+      "tags": [
+        "Werewolf",
+        "Canada",
+        "TSZDT #132"
+      ],
+      "source": "https://www.imdb.com/title/tt0210070/"
+    },
+    {
+      "id": "hausu-1977",
+      "label": "Hausu",
+      "year": 1977,
+      "subtitle": "Dir: Nobuhiko Ôbayashi",
+      "description": "#133 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from Japan, 88m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "Japan",
+        "TSZDT #133"
+      ],
+      "source": "https://www.imdb.com/title/tt0076162/"
+    },
+    {
+      "id": "inferno-1980",
+      "label": "Inferno",
+      "year": 1980,
+      "subtitle": "Dir: Dario Argento",
+      "description": "#134 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Giallo horror from Italy, 107m.",
+      "popularity": 78,
+      "tags": [
+        "Giallo",
+        "Italy",
+        "TSZDT #134"
+      ],
+      "source": "https://www.imdb.com/title/tt0080923/"
+    },
+    {
+      "id": "martin-1977",
+      "label": "Martin",
+      "year": 1977,
+      "subtitle": "Dir: George A. Romero",
+      "description": "#135 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from USA, 95m.",
+      "popularity": 78,
+      "tags": [
+        "Vampire",
+        "USA",
+        "TSZDT #135"
+      ],
+      "source": "https://www.imdb.com/title/tt0077914/"
+    },
+    {
+      "id": "6-donne-per-l-assassino-1964",
+      "label": "6 donne per l'assassino",
+      "year": 1964,
+      "subtitle": "Dir: Mario Bava",
+      "description": "#136 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Giallo horror from Italy, 88m.",
+      "popularity": 78,
+      "tags": [
+        "Giallo",
+        "Italy",
+        "TSZDT #136"
+      ],
+      "source": "https://www.imdb.com/title/tt0058567/"
+    },
+    {
+      "id": "the-exorcist-iii-1990",
+      "label": "The Exorcist III",
+      "year": 1990,
+      "subtitle": "Dir: William Peter Blatty",
+      "description": "#137 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 110m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #137"
+      ],
+      "source": "https://www.imdb.com/title/tt0099528/"
+    },
+    {
+      "id": "witchfinder-general-1968",
+      "label": "Witchfinder General",
+      "year": 1968,
+      "subtitle": "Dir: Michael Reeves",
+      "description": "#138 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Drama horror from UK, 86m.",
+      "popularity": 78,
+      "tags": [
+        "Drama",
+        "UK",
+        "TSZDT #138"
+      ],
+      "source": "https://www.imdb.com/title/tt0063285/"
+    },
+    {
+      "id": "les-levres-rouges-1971",
+      "label": "Les lèvres rouges",
+      "year": 1971,
+      "subtitle": "Dir: Harry Kümel",
+      "description": "#139 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from Belgium, 87m.",
+      "popularity": 78,
+      "tags": [
+        "Vampire",
+        "Belgium",
+        "TSZDT #139"
+      ],
+      "source": "https://www.imdb.com/title/tt0067690/"
+    },
+    {
+      "id": "the-body-snatcher-1945",
+      "label": "The Body Snatcher",
+      "year": 1945,
+      "subtitle": "Dir: Robert Wise",
+      "description": "#140 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from USA, 77m.",
+      "popularity": 78,
+      "tags": [
+        "Gothic",
+        "USA",
+        "TSZDT #140"
+      ],
+      "source": "https://www.imdb.com/title/tt0037549/"
+    },
+    {
+      "id": "bud-abbott-lou-costello-meet-frankenstein-1948",
+      "label": "Bud Abbott Lou Costello Meet Frankenstein",
+      "year": 1948,
+      "subtitle": "Dir: Charles Barton",
+      "description": "#141 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Comedy horror from USA, 83m.",
+      "popularity": 78,
+      "tags": [
+        "Comedy",
+        "USA",
+        "TSZDT #141"
+      ],
+      "source": "https://www.imdb.com/title/tt0040068/"
+    },
+    {
+      "id": "the-uninvited-1944",
+      "label": "The Uninvited",
+      "year": 1944,
+      "subtitle": "Dir: Lewis Allen",
+      "description": "#142 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 99m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #142"
+      ],
+      "source": "https://www.imdb.com/title/tt0037415/"
+    },
+    {
+      "id": "picnic-at-hanging-rock-1975",
+      "label": "Picnic at Hanging Rock",
+      "year": 1975,
+      "subtitle": "Dir: Peter Weir",
+      "description": "#143 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from Australia, 115m.",
+      "popularity": 78,
+      "tags": [
+        "Mystery",
+        "Australia",
+        "TSZDT #143"
+      ],
+      "source": "https://www.imdb.com/title/tt0073540/"
+    },
+    {
+      "id": "the-devil-rides-out-1968",
+      "label": "The Devil Rides Out",
+      "year": 1968,
+      "subtitle": "Dir: Terence Fisher",
+      "description": "#144 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from UK, 96m.",
+      "popularity": 78,
+      "tags": [
+        "Supernatural",
+        "UK",
+        "TSZDT #144"
+      ],
+      "source": "https://www.imdb.com/title/tt0062885/"
+    },
+    {
+      "id": "paranormal-activity-2007",
+      "label": "Paranormal Activity",
+      "year": 2007,
+      "subtitle": "Dir: Oren Peli",
+      "description": "#145 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Found Footage horror from USA, 86m.",
+      "popularity": 78,
+      "tags": [
+        "Found Footage",
+        "USA",
+        "TSZDT #145"
+      ],
+      "source": "https://www.imdb.com/title/tt1179904/"
+    },
+    {
+      "id": "the-hills-have-eyes-1977",
+      "label": "The Hills Have Eyes",
+      "year": 1977,
+      "subtitle": "Dir: Wes Craven",
+      "description": "#146 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 89m.",
+      "popularity": 78,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #146"
+      ],
+      "source": "https://www.imdb.com/title/tt0077681/"
+    },
+    {
+      "id": "white-zombie-1932",
+      "label": "White Zombie",
+      "year": 1932,
+      "subtitle": "Dir: Victor Halperin",
+      "description": "#147 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from USA, 69m.",
+      "popularity": 78,
+      "tags": [
+        "Zombie",
+        "USA",
+        "TSZDT #147"
+      ],
+      "source": "https://www.imdb.com/title/tt0023694/"
+    },
+    {
+      "id": "i-tre-volti-della-paura-1963",
+      "label": "I tre volti della paura",
+      "year": 1963,
+      "subtitle": "Dir: Mario Bava",
+      "description": "#148 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Anthology horror from Italy, 92m.",
+      "popularity": 78,
+      "tags": [
+        "Anthology",
+        "Italy",
+        "TSZDT #148"
+      ],
+      "source": "https://www.imdb.com/title/tt0057603/"
+    },
+    {
+      "id": "the-thing-from-another-world-1951",
+      "label": "The Thing from Another World",
+      "year": 1951,
+      "subtitle": "Dir: Christian Nyby",
+      "description": "#149 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 87m.",
+      "popularity": 78,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #149"
+      ],
+      "source": "https://www.imdb.com/title/tt0044121/"
+    },
+    {
+      "id": "dead-ringers-1988",
+      "label": "Dead Ringers",
+      "year": 1988,
+      "subtitle": "Dir: David Cronenberg",
+      "description": "#150 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from Canada, 116m.",
+      "popularity": 78,
+      "tags": [
+        "Psychological",
+        "Canada",
+        "TSZDT #150"
+      ],
+      "source": "https://www.imdb.com/title/tt0094964/"
+    },
+    {
+      "id": "kairo-2001",
+      "label": "Kairo",
+      "year": 2001,
+      "subtitle": "Dir: Kiyoshi Kurosawa",
+      "description": "#151 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from Japan, 119m.",
+      "popularity": 68,
+      "tags": [
+        "Supernatural",
+        "Japan",
+        "TSZDT #151"
+      ],
+      "source": "https://www.imdb.com/title/tt0286751/"
+    },
+    {
+      "id": "it-1990",
+      "label": "It",
+      "year": 1990,
+      "subtitle": "Dir: Tommy Lee Wallace",
+      "description": "#152 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 192m.",
+      "popularity": 68,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #152"
+      ],
+      "source": "https://www.imdb.com/title/tt0099864/"
+    },
+    {
+      "id": "society-1989",
+      "label": "Society",
+      "year": 1989,
+      "subtitle": "Dir: Brian Yuzna",
+      "description": "#153 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Body Horror horror from USA, 99m.",
+      "popularity": 68,
+      "tags": [
+        "Body Horror",
+        "USA",
+        "TSZDT #153"
+      ],
+      "source": "https://www.imdb.com/title/tt0098354/"
+    },
+    {
+      "id": "house-on-haunted-hill-1959",
+      "label": "House on Haunted Hill",
+      "year": 1959,
+      "subtitle": "Dir: William Castle",
+      "description": "#154 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 75m.",
+      "popularity": 68,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #154"
+      ],
+      "source": "https://www.imdb.com/title/tt0051744/"
+    },
+    {
+      "id": "tenebre-1982",
+      "label": "Tenebre",
+      "year": 1982,
+      "subtitle": "Dir: Dario Argento",
+      "description": "#155 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Giallo horror from Italy, 101m.",
+      "popularity": 68,
+      "tags": [
+        "Giallo",
+        "Italy",
+        "TSZDT #155"
+      ],
+      "source": "https://www.imdb.com/title/tt0084777/"
+    },
+    {
+      "id": "session-9-2001",
+      "label": "Session 9",
+      "year": 2001,
+      "subtitle": "Dir: Brad Anderson",
+      "description": "#156 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 100m.",
+      "popularity": 68,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #156"
+      ],
+      "source": "https://www.imdb.com/title/tt0261983/"
+    },
+    {
+      "id": "the-abominable-dr-phibes-1971",
+      "label": "The Abominable Dr. Phibes",
+      "year": 1971,
+      "subtitle": "Dir: Robert Fuest",
+      "description": "#157 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Comedy horror from USA, 94m.",
+      "popularity": 68,
+      "tags": [
+        "Comedy",
+        "USA",
+        "TSZDT #157"
+      ],
+      "source": "https://www.imdb.com/title/tt0066740/"
+    },
+    {
+      "id": "let-s-scare-jessica-to-death-1971",
+      "label": "Let's Scare Jessica to Death",
+      "year": 1971,
+      "subtitle": "Dir: John D. Hancock",
+      "description": "#158 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 89m.",
+      "popularity": 68,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #158"
+      ],
+      "source": "https://www.imdb.com/title/tt0067341/"
+    },
+    {
+      "id": "operazione-paura-1966",
+      "label": "Operazione paura",
+      "year": 1966,
+      "subtitle": "Dir: Mario Bava",
+      "description": "#159 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from Italy, 85m.",
+      "popularity": 68,
+      "tags": [
+        "Gothic",
+        "Italy",
+        "TSZDT #159"
+      ],
+      "source": "https://www.imdb.com/title/tt0060794/"
+    },
+    {
+      "id": "ju-on-2002",
+      "label": "Ju-on",
+      "year": 2002,
+      "subtitle": "Dir: Takashi Shimizu",
+      "description": "#160 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from Japan, 92m.",
+      "popularity": 68,
+      "tags": [
+        "Supernatural",
+        "Japan",
+        "TSZDT #160"
+      ],
+      "source": "https://www.imdb.com/title/tt0364385/"
+    },
+    {
+      "id": "shivers-1975",
+      "label": "Shivers",
+      "year": 1975,
+      "subtitle": "Dir: David Cronenberg",
+      "description": "#161 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Body Horror horror from Canada, 87m.",
+      "popularity": 68,
+      "tags": [
+        "Body Horror",
+        "Canada",
+        "TSZDT #161"
+      ],
+      "source": "https://www.imdb.com/title/tt0073705/"
+    },
+    {
+      "id": "janghwa-hongryeon-2003",
+      "label": "Janghwa, Hongryeon",
+      "year": 2003,
+      "subtitle": "Dir: Kim Jee-woon",
+      "description": "#162 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from South Korea, 115m.",
+      "popularity": 68,
+      "tags": [
+        "Psychological",
+        "South Korea",
+        "TSZDT #162"
+      ],
+      "source": "https://www.imdb.com/title/tt0365376/"
+    },
+    {
+      "id": "tremors-1990",
+      "label": "Tremors",
+      "year": 1990,
+      "subtitle": "Dir: Ron Underwood",
+      "description": "#163 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Monster horror from USA, 96m.",
+      "popularity": 68,
+      "tags": [
+        "Monster",
+        "USA",
+        "TSZDT #163"
+      ],
+      "source": "https://www.imdb.com/title/tt0100814/"
+    },
+    {
+      "id": "the-masque-of-the-red-death-1964",
+      "label": "The Masque of the Red Death",
+      "year": 1964,
+      "subtitle": "Dir: Roger Corman",
+      "description": "#164 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from USA, 89m.",
+      "popularity": 68,
+      "tags": [
+        "Gothic",
+        "USA",
+        "TSZDT #164"
+      ],
+      "source": "https://www.imdb.com/title/tt0058333/"
+    },
+    {
+      "id": "a-l-interieur-2007",
+      "label": "À l'intérieur",
+      "year": 2007,
+      "subtitle": "Dir: Alexandre Bustillo & Julien Maury",
+      "description": "#165 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Splatter horror from France, 82m.",
+      "popularity": 68,
+      "tags": [
+        "Splatter",
+        "France",
+        "TSZDT #165"
+      ],
+      "source": "https://www.imdb.com/title/tt0856288/"
+    },
+    {
+      "id": "tetsuo-1989",
+      "label": "Tetsuo",
+      "year": 1989,
+      "subtitle": "Dir: Shin'ya Tsukamoto",
+      "description": "#166 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Body Horror horror from Japan, 67m.",
+      "popularity": 68,
+      "tags": [
+        "Body Horror",
+        "Japan",
+        "TSZDT #166"
+      ],
+      "source": "https://www.imdb.com/title/tt0096251/"
+    },
+    {
+      "id": "haute-tension-2003",
+      "label": "Haute tension",
+      "year": 2003,
+      "subtitle": "Dir: Alexandre Aja",
+      "description": "#167 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from France, 91m.",
+      "popularity": 68,
+      "tags": [
+        "Slasher",
+        "France",
+        "TSZDT #167"
+      ],
+      "source": "https://www.imdb.com/title/tt0338095/"
+    },
+    {
+      "id": "the-hitcher-1986",
+      "label": "The Hitcher",
+      "year": 1986,
+      "subtitle": "Dir: Robert Harmon",
+      "description": "#168 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from USA, 97m.",
+      "popularity": 68,
+      "tags": [
+        "Thriller",
+        "USA",
+        "TSZDT #168"
+      ],
+      "source": "https://www.imdb.com/title/tt0091209/"
+    },
+    {
+      "id": "sleepaway-camp-1983",
+      "label": "Sleepaway Camp",
+      "year": 1983,
+      "subtitle": "Dir: Robert Hiltzik",
+      "description": "#169 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 84m.",
+      "popularity": 68,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #169"
+      ],
+      "source": "https://www.imdb.com/title/tt0086320/"
+    },
+    {
+      "id": "the-curse-of-frankenstein-1957",
+      "label": "The Curse of Frankenstein",
+      "year": 1957,
+      "subtitle": "Dir: Terence Fisher",
+      "description": "#170 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from UK, 82m.",
+      "popularity": 68,
+      "tags": [
+        "Gothic",
+        "UK",
+        "TSZDT #170"
+      ],
+      "source": "https://www.imdb.com/title/tt0050280/"
+    },
+    {
+      "id": "wolf-creek-2005",
+      "label": "Wolf Creek",
+      "year": 2005,
+      "subtitle": "Dir: Greg Mclean",
+      "description": "#171 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from Australia, 99m.",
+      "popularity": 68,
+      "tags": [
+        "Slasher",
+        "Australia",
+        "TSZDT #171"
+      ],
+      "source": "https://www.imdb.com/title/tt0416315/"
+    },
+    {
+      "id": "ravenous-1999",
+      "label": "Ravenous",
+      "year": 1999,
+      "subtitle": "Dir: Antonia Bird",
+      "description": "#172 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Western horror from UK, 101m.",
+      "popularity": 68,
+      "tags": [
+        "Western",
+        "UK",
+        "TSZDT #172"
+      ],
+      "source": "https://www.imdb.com/title/tt0129332/"
+    },
+    {
+      "id": "american-psycho-2000",
+      "label": "American Psycho",
+      "year": 2000,
+      "subtitle": "Dir: Mary Harron",
+      "description": "#173 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from USA, 102m.",
+      "popularity": 68,
+      "tags": [
+        "Thriller",
+        "USA",
+        "TSZDT #173"
+      ],
+      "source": "https://www.imdb.com/title/tt0144084/"
+    },
+    {
+      "id": "village-of-the-damned-1960",
+      "label": "Village of the Damned",
+      "year": 1960,
+      "subtitle": "Dir: Wolf Rilla",
+      "description": "#174 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from UK, 77m.",
+      "popularity": 68,
+      "tags": [
+        "Science Fiction",
+        "UK",
+        "TSZDT #174"
+      ],
+      "source": "https://www.imdb.com/title/tt0054443/"
+    },
+    {
+      "id": "the-legend-of-hell-house-1973",
+      "label": "The Legend of Hell House",
+      "year": 1973,
+      "subtitle": "Dir: John Hough",
+      "description": "#175 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from UK, 95m.",
+      "popularity": 68,
+      "tags": [
+        "Supernatural",
+        "UK",
+        "TSZDT #175"
+      ],
+      "source": "https://www.imdb.com/title/tt0070294/"
+    },
+    {
+      "id": "house-of-wax-1953",
+      "label": "House of Wax",
+      "year": 1953,
+      "subtitle": "Dir: André De Toth",
+      "description": "#176 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from USA, 88m.",
+      "popularity": 68,
+      "tags": [
+        "Gothic",
+        "USA",
+        "TSZDT #176"
+      ],
+      "source": "https://www.imdb.com/title/tt0045888/"
+    },
+    {
+      "id": "haxan-1922",
+      "label": "Häxan",
+      "year": 1922,
+      "subtitle": "Dir: Benjamin Christensen",
+      "description": "#177 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Documentary horror from Sweden, 91m.",
+      "popularity": 68,
+      "tags": [
+        "Documentary",
+        "Sweden",
+        "TSZDT #177"
+      ],
+      "source": "https://www.imdb.com/title/tt0013257/"
+    },
+    {
+      "id": "insidious-2010",
+      "label": "Insidious",
+      "year": 2010,
+      "subtitle": "Dir: James Wan",
+      "description": "#178 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 103m.",
+      "popularity": 68,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #178"
+      ],
+      "source": "https://www.imdb.com/title/tt1591095/"
+    },
+    {
+      "id": "busanhaeng-2016",
+      "label": "Busanhaeng",
+      "year": 2016,
+      "subtitle": "Dir: Sang-ho Yeon",
+      "description": "#179 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from South Korea, 118m.",
+      "popularity": 68,
+      "tags": [
+        "Zombie",
+        "South Korea",
+        "TSZDT #179"
+      ],
+      "source": "https://www.imdb.com/title/tt5700672/"
+    },
+    {
+      "id": "the-mist-2007",
+      "label": "The Mist",
+      "year": 2007,
+      "subtitle": "Dir: Frank Darabont",
+      "description": "#180 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Monster horror from USA, 126m.",
+      "popularity": 68,
+      "tags": [
+        "Monster",
+        "USA",
+        "TSZDT #180"
+      ],
+      "source": "https://www.imdb.com/title/tt0884328/"
+    },
+    {
+      "id": "army-of-darkness-1992",
+      "label": "Army of Darkness",
+      "year": 1992,
+      "subtitle": "Dir: Sam Raimi",
+      "description": "#181 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Comedy horror from USA, 81m.",
+      "popularity": 68,
+      "tags": [
+        "Comedy",
+        "USA",
+        "TSZDT #181"
+      ],
+      "source": "https://www.imdb.com/title/tt0106308/"
+    },
+    {
+      "id": "a-nightmare-on-elm-street-3-dream-warriors-1987",
+      "label": "A Nightmare on Elm Street 3: Dream Warriors",
+      "year": 1987,
+      "subtitle": "Dir: Chuck Russell",
+      "description": "#182 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 96m.",
+      "popularity": 68,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #182"
+      ],
+      "source": "https://www.imdb.com/title/tt0093629/"
+    },
+    {
+      "id": "sleepy-hollow-1999",
+      "label": "Sleepy Hollow",
+      "year": 1999,
+      "subtitle": "Dir: Tim Burton",
+      "description": "#183 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from USA, 105m.",
+      "popularity": 68,
+      "tags": [
+        "Mystery",
+        "USA",
+        "TSZDT #183"
+      ],
+      "source": "https://www.imdb.com/title/tt0162661/"
+    },
+    {
+      "id": "salo-o-le-120-giornate-di-sodoma-1975",
+      "label": "Salò o le 120 giornate di Sodoma",
+      "year": 1975,
+      "subtitle": "Dir: Pier Paolo Pasolini",
+      "description": "#184 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Drama horror from Italy, 117m.",
+      "popularity": 68,
+      "tags": [
+        "Drama",
+        "Italy",
+        "TSZDT #184"
+      ],
+      "source": "https://www.imdb.com/title/tt0073650/"
+    },
+    {
+      "id": "prince-of-darkness-1987",
+      "label": "Prince of Darkness",
+      "year": 1987,
+      "subtitle": "Dir: John Carpenter",
+      "description": "#185 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 102m.",
+      "popularity": 68,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #185"
+      ],
+      "source": "https://www.imdb.com/title/tt0093777/"
+    },
+    {
+      "id": "the-people-under-the-stairs-1991",
+      "label": "The People Under the Stairs",
+      "year": 1991,
+      "subtitle": "Dir: Wes Craven",
+      "description": "#186 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Comedy horror from USA, 102m.",
+      "popularity": 68,
+      "tags": [
+        "Comedy",
+        "USA",
+        "TSZDT #186"
+      ],
+      "source": "https://www.imdb.com/title/tt0105121/"
+    },
+    {
+      "id": "cure-1997",
+      "label": "Cure",
+      "year": 1997,
+      "subtitle": "Dir: Kiyoshi Kurosawa",
+      "description": "#187 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from Japan, 111m.",
+      "popularity": 68,
+      "tags": [
+        "Psychological",
+        "Japan",
+        "TSZDT #187"
+      ],
+      "source": "https://www.imdb.com/title/tt0123948/"
+    },
+    {
+      "id": "cube-1997",
+      "label": "Cube",
+      "year": 1997,
+      "subtitle": "Dir: Vincenzo Natali",
+      "description": "#188 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from Canada, 90m.",
+      "popularity": 68,
+      "tags": [
+        "Science Fiction",
+        "Canada",
+        "TSZDT #188"
+      ],
+      "source": "https://www.imdb.com/title/tt0123755/"
+    },
+    {
+      "id": "m-eine-stadt-sucht-einen-morder-1931",
+      "label": "M - Eine Stadt sucht einen Mörder",
+      "year": 1931,
+      "subtitle": "Dir: Fritz Lang",
+      "description": "#189 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from Germany, 117m.",
+      "popularity": 68,
+      "tags": [
+        "Thriller",
+        "Germany",
+        "TSZDT #189"
+      ],
+      "source": "https://www.imdb.com/title/tt0022100/"
+    },
+    {
+      "id": "salem-s-lot-1979",
+      "label": "Salem's Lot",
+      "year": 1979,
+      "subtitle": "Dir: Tobe Hooper",
+      "description": "#190 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from USA, 187m.",
+      "popularity": 68,
+      "tags": [
+        "Vampire",
+        "USA",
+        "TSZDT #190"
+      ],
+      "source": "https://www.imdb.com/title/tt0079844/"
+    },
+    {
+      "id": "the-entity-1982",
+      "label": "The Entity",
+      "year": 1982,
+      "subtitle": "Dir: Sidney J. Furie",
+      "description": "#191 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 125m.",
+      "popularity": 68,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #191"
+      ],
+      "source": "https://www.imdb.com/title/tt0082334/"
+    },
+    {
+      "id": "twin-peaks-fire-walk-with-me-1992",
+      "label": "Twin Peaks: Fire Walk with Me",
+      "year": 1992,
+      "subtitle": "Dir: David Lynch",
+      "description": "#192 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from USA, 135m.",
+      "popularity": 68,
+      "tags": [
+        "Mystery",
+        "USA",
+        "TSZDT #192"
+      ],
+      "source": "https://www.imdb.com/title/tt0105665/"
+    },
+    {
+      "id": "young-frankenstein-1974",
+      "label": "Young Frankenstein",
+      "year": 1974,
+      "subtitle": "Dir: Mel Brooks",
+      "description": "#193 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Comedy horror from USA, 106m.",
+      "popularity": 68,
+      "tags": [
+        "Comedy",
+        "USA",
+        "TSZDT #193"
+      ],
+      "source": "https://www.imdb.com/title/tt0072431/"
+    },
+    {
+      "id": "sinister-2012",
+      "label": "Sinister",
+      "year": 2012,
+      "subtitle": "Dir: Scott Derrickson",
+      "description": "#194 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 110m.",
+      "popularity": 68,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #194"
+      ],
+      "source": "https://www.imdb.com/title/tt1922777/"
+    },
+    {
+      "id": "ecologia-del-delitto-1971",
+      "label": "Ecologia del delitto",
+      "year": 1971,
+      "subtitle": "Dir: Mario Bava",
+      "description": "#195 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Giallo horror from Italy, 84m.",
+      "popularity": 68,
+      "tags": [
+        "Giallo",
+        "Italy",
+        "TSZDT #195"
+      ],
+      "source": "https://www.imdb.com/title/tt0067656/"
+    },
+    {
+      "id": "pafekuto-buru-1997",
+      "label": "Pâfekuto burû",
+      "year": 1997,
+      "subtitle": "Dir: Satoshi Kon",
+      "description": "#196 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from Japan, 81m.",
+      "popularity": 68,
+      "tags": [
+        "Psychological",
+        "Japan",
+        "TSZDT #196"
+      ],
+      "source": "https://www.imdb.com/title/tt0156887/"
+    },
+    {
+      "id": "the-strangers-2008",
+      "label": "The Strangers",
+      "year": 2008,
+      "subtitle": "Dir: Bryan Bertino",
+      "description": "#197 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from USA, 86m.",
+      "popularity": 68,
+      "tags": [
+        "Thriller",
+        "USA",
+        "TSZDT #197"
+      ],
+      "source": "https://www.imdb.com/title/tt0482606/"
+    },
+    {
+      "id": "the-fly-1958",
+      "label": "The Fly",
+      "year": 1958,
+      "subtitle": "Dir: Kurt Neumann",
+      "description": "#198 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 94m.",
+      "popularity": 68,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #198"
+      ],
+      "source": "https://www.imdb.com/title/tt0051622/"
+    },
+    {
+      "id": "no-profanar-el-sueno-de-los-muertos-1974",
+      "label": "No profanar el sueño de los muertos",
+      "year": 1974,
+      "subtitle": "Dir: Jorge Grau",
+      "description": "#199 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from Italy, 93m.",
+      "popularity": 68,
+      "tags": [
+        "Zombie",
+        "Italy",
+        "TSZDT #199"
+      ],
+      "source": "https://www.imdb.com/title/tt0071431/"
+    },
+    {
+      "id": "trick-r-treat-2007",
+      "label": "Trick ‘r Treat",
+      "year": 2007,
+      "subtitle": "Dir: Michael Dougherty",
+      "description": "#200 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Anthology horror from USA, 82m.",
+      "popularity": 68,
+      "tags": [
+        "Anthology",
+        "USA",
+        "TSZDT #200"
+      ],
+      "source": "https://www.imdb.com/title/tt0862856/"
+    },
+    {
+      "id": "santa-sangre-1989",
+      "label": "Santa Sangre",
+      "year": 1989,
+      "subtitle": "Dir: Alejandro Jodorowsky",
+      "description": "#201 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from Mexico, 123m.",
+      "popularity": 58,
+      "tags": [
+        "Psychological",
+        "Mexico",
+        "TSZDT #201"
+      ],
+      "source": "https://www.imdb.com/title/tt0098253/"
+    },
+    {
+      "id": "drag-me-to-hell-2009",
+      "label": "Drag Me to Hell",
+      "year": 2009,
+      "subtitle": "Dir: Sam Raimi",
+      "description": "#202 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 99m.",
+      "popularity": 58,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #202"
+      ],
+      "source": "https://www.imdb.com/title/tt1127180/"
+    },
+    {
+      "id": "angel-heart-1987",
+      "label": "Angel Heart",
+      "year": 1987,
+      "subtitle": "Dir: Alan Parker",
+      "description": "#203 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from USA, 113m.",
+      "popularity": 58,
+      "tags": [
+        "Mystery",
+        "USA",
+        "TSZDT #203"
+      ],
+      "source": "https://www.imdb.com/title/tt0092563/"
+    },
+    {
+      "id": "night-of-the-creeps-1986",
+      "label": "Night of the Creeps",
+      "year": 1986,
+      "subtitle": "Dir: Fred Dekker",
+      "description": "#204 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from USA, 88m.",
+      "popularity": 58,
+      "tags": [
+        "Zombie",
+        "USA",
+        "TSZDT #204"
+      ],
+      "source": "https://www.imdb.com/title/tt0091630/"
+    },
+    {
+      "id": "maniac-1980",
+      "label": "Maniac",
+      "year": 1980,
+      "subtitle": "Dir: William Lustig",
+      "description": "#205 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 87m.",
+      "popularity": 58,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #205"
+      ],
+      "source": "https://www.imdb.com/title/tt0081114/"
+    },
+    {
+      "id": "interview-with-the-vampire-the-vampire-chronicles-1994",
+      "label": "Interview with the Vampire: The Vampire Chronicles",
+      "year": 1994,
+      "subtitle": "Dir: Neil Jordan",
+      "description": "#206 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from USA, 123m.",
+      "popularity": 58,
+      "tags": [
+        "Vampire",
+        "USA",
+        "TSZDT #206"
+      ],
+      "source": "https://www.imdb.com/title/tt0110148/"
+    },
+    {
+      "id": "mad-love-1935",
+      "label": "Mad Love",
+      "year": 1935,
+      "subtitle": "Dir: Karl Freund",
+      "description": "#207 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 68m.",
+      "popularity": 58,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #207"
+      ],
+      "source": "https://www.imdb.com/title/tt0026663/"
+    },
+    {
+      "id": "yabu-no-naka-no-kuroneko-1968",
+      "label": "Yabu no naka no kuroneko",
+      "year": 1968,
+      "subtitle": "Dir: Kaneto Shindô",
+      "description": "#208 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from Japan, 99m.",
+      "popularity": 58,
+      "tags": [
+        "Supernatural",
+        "Japan",
+        "TSZDT #208"
+      ],
+      "source": "https://www.imdb.com/title/tt0122136/"
+    },
+    {
+      "id": "it-2017",
+      "label": "It",
+      "year": 2017,
+      "subtitle": "Dir: Andy Muschietti",
+      "description": "#209 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 135m.",
+      "popularity": 58,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #209"
+      ],
+      "source": "https://www.imdb.com/title/tt1396484/"
+    },
+    {
+      "id": "from-beyond-1986",
+      "label": "From Beyond",
+      "year": 1986,
+      "subtitle": "Dir: Stuart Gordon",
+      "description": "#210 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Body Horror horror from USA, 85m.",
+      "popularity": 58,
+      "tags": [
+        "Body Horror",
+        "USA",
+        "TSZDT #210"
+      ],
+      "source": "https://www.imdb.com/title/tt0091083/"
+    },
+    {
+      "id": "dawn-of-the-dead-2004",
+      "label": "Dawn of the Dead",
+      "year": 2004,
+      "subtitle": "Dir: Zack Snyder",
+      "description": "#211 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Zombie horror from USA, 101m.",
+      "popularity": 58,
+      "tags": [
+        "Zombie",
+        "USA",
+        "TSZDT #211"
+      ],
+      "source": "https://www.imdb.com/title/tt0363547/"
+    },
+    {
+      "id": "final-destination-2000",
+      "label": "Final Destination",
+      "year": 2000,
+      "subtitle": "Dir: James Wong",
+      "description": "#212 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 98m.",
+      "popularity": 58,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #212"
+      ],
+      "source": "https://www.imdb.com/title/tt0195714/"
+    },
+    {
+      "id": "the-house-of-the-devil-2009",
+      "label": "The House of the Devil",
+      "year": 2009,
+      "subtitle": "Dir: Ti West",
+      "description": "#213 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Supernatural horror from USA, 95m.",
+      "popularity": 58,
+      "tags": [
+        "Supernatural",
+        "USA",
+        "TSZDT #213"
+      ],
+      "source": "https://www.imdb.com/title/tt1172994/"
+    },
+    {
+      "id": "may-2002",
+      "label": "May",
+      "year": 2002,
+      "subtitle": "Dir: Lucky McKee",
+      "description": "#214 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 93m.",
+      "popularity": 58,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #214"
+      ],
+      "source": "https://www.imdb.com/title/tt0303361/"
+    },
+    {
+      "id": "son-of-frankenstein-1939",
+      "label": "Son of Frankenstein",
+      "year": 1939,
+      "subtitle": "Dir: Rowland V. Lee",
+      "description": "#215 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from USA, 99m.",
+      "popularity": 58,
+      "tags": [
+        "Gothic",
+        "USA",
+        "TSZDT #215"
+      ],
+      "source": "https://www.imdb.com/title/tt0031951/"
+    },
+    {
+      "id": "the-hunger-1983",
+      "label": "The Hunger",
+      "year": 1983,
+      "subtitle": "Dir: Tony Scott",
+      "description": "#216 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from UK, 97m.",
+      "popularity": 58,
+      "tags": [
+        "Vampire",
+        "UK",
+        "TSZDT #216"
+      ],
+      "source": "https://www.imdb.com/title/tt0085701/"
+    },
+    {
+      "id": "midsommar-2019",
+      "label": "Midsommar",
+      "year": 2019,
+      "subtitle": "Dir: Ari Aster",
+      "description": "#217 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 148m.",
+      "popularity": 58,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #217"
+      ],
+      "source": "https://www.imdb.com/title/tt8772262/"
+    },
+    {
+      "id": "ang-ma-reul-bo-at-da-2010",
+      "label": "Ang-ma-reul bo-at-da",
+      "year": 2010,
+      "subtitle": "Dir: Kim Jee-woon",
+      "description": "#218 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from South Korea, 142m.",
+      "popularity": 58,
+      "tags": [
+        "Thriller",
+        "South Korea",
+        "TSZDT #218"
+      ],
+      "source": "https://www.imdb.com/title/tt1588170/"
+    },
+    {
+      "id": "the-company-of-wolves-1984",
+      "label": "The Company of Wolves",
+      "year": 1984,
+      "subtitle": "Dir: Neil Jordan",
+      "description": "#219 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Werewolf horror from UK, 95m.",
+      "popularity": 58,
+      "tags": [
+        "Werewolf",
+        "UK",
+        "TSZDT #219"
+      ],
+      "source": "https://www.imdb.com/title/tt0087075/"
+    },
+    {
+      "id": "demoni-1985",
+      "label": "Dèmoni",
+      "year": 1985,
+      "subtitle": "Dir: Lamberto Bava",
+      "description": "#220 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Splatter horror from Italy, 88m.",
+      "popularity": 58,
+      "tags": [
+        "Splatter",
+        "Italy",
+        "TSZDT #220"
+      ],
+      "source": "https://www.imdb.com/title/tt0089013/"
+    },
+    {
+      "id": "the-brides-of-dracula-1960",
+      "label": "The Brides of Dracula",
+      "year": 1960,
+      "subtitle": "Dir: Terence Fisher",
+      "description": "#221 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Vampire horror from UK, 85m.",
+      "popularity": 58,
+      "tags": [
+        "Vampire",
+        "UK",
+        "TSZDT #221"
+      ],
+      "source": "https://www.imdb.com/title/tt0053677/"
+    },
+    {
+      "id": "the-unknown-1927",
+      "label": "The Unknown",
+      "year": 1927,
+      "subtitle": "Dir: Tod Browning",
+      "description": "#222 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Drama horror from USA, 63m.",
+      "popularity": 58,
+      "tags": [
+        "Drama",
+        "USA",
+        "TSZDT #222"
+      ],
+      "source": "https://www.imdb.com/title/tt0018528/"
+    },
+    {
+      "id": "pit-and-the-pendulum-1961",
+      "label": "Pit and the Pendulum",
+      "year": 1961,
+      "subtitle": "Dir: Roger Corman",
+      "description": "#223 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Gothic horror from USA, 80m.",
+      "popularity": 58,
+      "tags": [
+        "Gothic",
+        "USA",
+        "TSZDT #223"
+      ],
+      "source": "https://www.imdb.com/title/tt0055304/"
+    },
+    {
+      "id": "when-a-stranger-calls-1979",
+      "label": "When a Stranger Calls",
+      "year": 1979,
+      "subtitle": "Dir: Fred Walton",
+      "description": "#224 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from USA, 97m.",
+      "popularity": 58,
+      "tags": [
+        "Thriller",
+        "USA",
+        "TSZDT #224"
+      ],
+      "source": "https://www.imdb.com/title/tt0080130/"
+    },
+    {
+      "id": "nekromantik-1987",
+      "label": "Nekromantik",
+      "year": 1987,
+      "subtitle": "Dir: Jörg Buttgereit",
+      "description": "#225 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Exploitation horror from Germany, 75m.",
+      "popularity": 58,
+      "tags": [
+        "Exploitation",
+        "Germany",
+        "TSZDT #225"
+      ],
+      "source": "https://www.imdb.com/title/tt0093608/"
+    },
+    {
+      "id": "spider-baby-or-the-maddest-story-ever-told-1967",
+      "label": "Spider Baby or, the Maddest Story Ever Told",
+      "year": 1967,
+      "subtitle": "Dir: Jack Hill",
+      "description": "#226 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Comedy horror from USA, 81m.",
+      "popularity": 58,
+      "tags": [
+        "Comedy",
+        "USA",
+        "TSZDT #226"
+      ],
+      "source": "https://www.imdb.com/title/tt0058606/"
+    },
+    {
+      "id": "der-golem-wie-er-in-die-welt-kam-1920",
+      "label": "Der Golem, wie er in die Welt kam",
+      "year": 1920,
+      "subtitle": "Dir: Carl Boese & Paul Wegener",
+      "description": "#227 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Fantasy horror from Germany, 91m.",
+      "popularity": 58,
+      "tags": [
+        "Fantasy",
+        "Germany",
+        "TSZDT #227"
+      ],
+      "source": "https://www.imdb.com/title/tt0011237/"
+    },
+    {
+      "id": "dressed-to-kill-1980",
+      "label": "Dressed to Kill",
+      "year": 1980,
+      "subtitle": "Dir: Brian De Palma",
+      "description": "#228 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 105m.",
+      "popularity": 58,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #228"
+      ],
+      "source": "https://www.imdb.com/title/tt0080661/"
+    },
+    {
+      "id": "communion-1976",
+      "label": "Communion",
+      "year": 1976,
+      "subtitle": "Dir: Alfred Sole",
+      "description": "#229 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 98m.",
+      "popularity": 58,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #229"
+      ],
+      "source": "https://www.imdb.com/title/tt0076150/"
+    },
+    {
+      "id": "scanners-1981",
+      "label": "Scanners",
+      "year": 1981,
+      "subtitle": "Dir: David Cronenberg",
+      "description": "#230 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from Canada, 103m.",
+      "popularity": 58,
+      "tags": [
+        "Science Fiction",
+        "Canada",
+        "TSZDT #230"
+      ],
+      "source": "https://www.imdb.com/title/tt0081455/"
+    },
+    {
+      "id": "a-bucket-of-blood-1959",
+      "label": "A Bucket of Blood",
+      "year": 1959,
+      "subtitle": "Dir: Roger Corman",
+      "description": "#231 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Comedy horror from USA, 66m.",
+      "popularity": 58,
+      "tags": [
+        "Comedy",
+        "USA",
+        "TSZDT #231"
+      ],
+      "source": "https://www.imdb.com/title/tt0052655/"
+    },
+    {
+      "id": "the-loved-ones-2009",
+      "label": "The Loved Ones",
+      "year": 2009,
+      "subtitle": "Dir: Sean Byrne",
+      "description": "#232 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from Australia, 84m.",
+      "popularity": 58,
+      "tags": [
+        "Thriller",
+        "Australia",
+        "TSZDT #232"
+      ],
+      "source": "https://www.imdb.com/title/tt1316536/"
+    },
+    {
+      "id": "long-weekend-1978",
+      "label": "Long Weekend",
+      "year": 1978,
+      "subtitle": "Dir: Colin Eggleston",
+      "description": "#233 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Natural Horror horror from Australia, 97m.",
+      "popularity": 58,
+      "tags": [
+        "Natural Horror",
+        "Australia",
+        "TSZDT #233"
+      ],
+      "source": "https://www.imdb.com/title/tt0079482/"
+    },
+    {
+      "id": "altered-states-1980",
+      "label": "Altered States",
+      "year": 1980,
+      "subtitle": "Dir: Ken Russell",
+      "description": "#234 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 102m.",
+      "popularity": 58,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #234"
+      ],
+      "source": "https://www.imdb.com/title/tt0080360/"
+    },
+    {
+      "id": "lake-mungo-2008",
+      "label": "Lake Mungo",
+      "year": 2008,
+      "subtitle": "Dir: Joel Anderson",
+      "description": "#235 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Found Footage horror from Australia, 87m.",
+      "popularity": 58,
+      "tags": [
+        "Found Footage",
+        "Australia",
+        "TSZDT #235"
+      ],
+      "source": "https://www.imdb.com/title/tt0816556/"
+    },
+    {
+      "id": "you-re-next-2011",
+      "label": "You're Next",
+      "year": 2011,
+      "subtitle": "Dir: Adam Wingard",
+      "description": "#236 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from USA, 95m.",
+      "popularity": 58,
+      "tags": [
+        "Thriller",
+        "USA",
+        "TSZDT #236"
+      ],
+      "source": "https://www.imdb.com/title/tt1853739/"
+    },
+    {
+      "id": "the-bad-seed-1956",
+      "label": "The Bad Seed",
+      "year": 1956,
+      "subtitle": "Dir: Mervyn LeRoy",
+      "description": "#237 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Psychological horror from USA, 129m.",
+      "popularity": 58,
+      "tags": [
+        "Psychological",
+        "USA",
+        "TSZDT #237"
+      ],
+      "source": "https://www.imdb.com/title/tt0048977/"
+    },
+    {
+      "id": "silent-night-deadly-night-1984",
+      "label": "Silent Night, Deadly Night",
+      "year": 1984,
+      "subtitle": "Dir: Charles E. Sellier Jr.",
+      "description": "#238 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 79m.",
+      "popularity": 58,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #238"
+      ],
+      "source": "https://www.imdb.com/title/tt0088117/"
+    },
+    {
+      "id": "kill-list-2011",
+      "label": "Kill List",
+      "year": 2011,
+      "subtitle": "Dir: Ben Wheatley",
+      "description": "#239 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Thriller horror from UK, 95m.",
+      "popularity": 58,
+      "tags": [
+        "Thriller",
+        "UK",
+        "TSZDT #239"
+      ],
+      "source": "https://www.imdb.com/title/tt1788391/"
+    },
+    {
+      "id": "the-blob-1988",
+      "label": "The Blob",
+      "year": 1988,
+      "subtitle": "Dir: Chuck Russell",
+      "description": "#240 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Body Horror horror from USA, 95m.",
+      "popularity": 58,
+      "tags": [
+        "Body Horror",
+        "USA",
+        "TSZDT #240"
+      ],
+      "source": "https://www.imdb.com/title/tt0094761/"
+    },
+    {
+      "id": "el-laberinto-del-fauno-2006",
+      "label": "El laberinto del fauno",
+      "year": 2006,
+      "subtitle": "Dir: Guillermo del Toro",
+      "description": "#241 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Fantasy horror from Spain, 118m.",
+      "popularity": 58,
+      "tags": [
+        "Fantasy",
+        "Spain",
+        "TSZDT #241"
+      ],
+      "source": "https://www.imdb.com/title/tt0457430/"
+    },
+    {
+      "id": "the-curse-of-the-werewolf-1961",
+      "label": "The Curse of the Werewolf",
+      "year": 1961,
+      "subtitle": "Dir: Terence Fisher",
+      "description": "#242 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Werewolf horror from UK, 93m.",
+      "popularity": 58,
+      "tags": [
+        "Werewolf",
+        "UK",
+        "TSZDT #242"
+      ],
+      "source": "https://www.imdb.com/title/tt0054777/"
+    },
+    {
+      "id": "a-quiet-place-2018",
+      "label": "A Quiet Place",
+      "year": 2018,
+      "subtitle": "Dir: John Krasinski",
+      "description": "#243 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from USA, 90m.",
+      "popularity": 58,
+      "tags": [
+        "Science Fiction",
+        "USA",
+        "TSZDT #243"
+      ],
+      "source": "https://www.imdb.com/title/tt6644200/"
+    },
+    {
+      "id": "gwoemul-2006",
+      "label": "Gwoemul",
+      "year": 2006,
+      "subtitle": "Dir: Joon-ho Bong",
+      "description": "#244 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Monster horror from South Korea, 120m.",
+      "popularity": 58,
+      "tags": [
+        "Monster",
+        "South Korea",
+        "TSZDT #244"
+      ],
+      "source": "https://www.imdb.com/title/tt0468492/"
+    },
+    {
+      "id": "faust-eine-deutsche-volkssage-1926",
+      "label": "Faust: Eine deutsche Volkssage",
+      "year": 1926,
+      "subtitle": "Dir: F.W. Murnau",
+      "description": "#245 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Fantasy horror from Germany, 85m.",
+      "popularity": 58,
+      "tags": [
+        "Fantasy",
+        "Germany",
+        "TSZDT #245"
+      ],
+      "source": "https://www.imdb.com/title/tt0016847/"
+    },
+    {
+      "id": "beetle-juice-1988",
+      "label": "Beetle Juice",
+      "year": 1988,
+      "subtitle": "Dir: Tim Burton",
+      "description": "#246 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Fantasy horror from USA, 92m.",
+      "popularity": 58,
+      "tags": [
+        "Fantasy",
+        "USA",
+        "TSZDT #246"
+      ],
+      "source": "https://www.imdb.com/title/tt0094721/"
+    },
+    {
+      "id": "wes-craven-s-new-nightmare-1994",
+      "label": "Wes Craven's New Nightmare",
+      "year": 1994,
+      "subtitle": "Dir: Wes Craven",
+      "description": "#247 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Slasher horror from USA, 112m.",
+      "popularity": 58,
+      "tags": [
+        "Slasher",
+        "USA",
+        "TSZDT #247"
+      ],
+      "source": "https://www.imdb.com/title/tt0111686/"
+    },
+    {
+      "id": "them-1954",
+      "label": "Them!",
+      "year": 1954,
+      "subtitle": "Dir: Gordon Douglas",
+      "description": "#248 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Natural Horror horror from USA, 94m.",
+      "popularity": 58,
+      "tags": [
+        "Natural Horror",
+        "USA",
+        "TSZDT #248"
+      ],
+      "source": "https://www.imdb.com/title/tt0047573/"
+    },
+    {
+      "id": "under-the-skin-2013",
+      "label": "Under the Skin",
+      "year": 2013,
+      "subtitle": "Dir: Jonathan Glazer",
+      "description": "#249 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Science Fiction horror from UK, 108m.",
+      "popularity": 58,
+      "tags": [
+        "Science Fiction",
+        "UK",
+        "TSZDT #249"
+      ],
+      "source": "https://www.imdb.com/title/tt1441395/"
+    },
+    {
+      "id": "mulholland-dr-2001",
+      "label": "Mulholland Dr.",
+      "year": 2001,
+      "subtitle": "Dir: David Lynch",
+      "description": "#250 in They Shoot Zombies, Don't They?'s 1,000 Greatest Horror Films. Mystery horror from USA, 147m.",
+      "popularity": 58,
+      "tags": [
+        "Mystery",
+        "USA",
+        "TSZDT #250"
+      ],
+      "source": "https://www.imdb.com/title/tt0166924/"
+    }
+  ]
+}

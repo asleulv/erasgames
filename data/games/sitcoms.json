@@ -1,0 +1,1805 @@
+{
+  "id": "sitcoms",
+  "slug": "sitcoms",
+  "title": "Sitcoms Timeline",
+  "shortTitle": "Sitcoms",
+  "description": "Place iconic sitcoms in their correct premiere order.",
+  "category": "Movies & TV",
+  "subcategory": "TV Shows",
+  "sitePath": "/timeline/sitcoms",
+  "theme": {
+    "primary": "#10B981",
+    "secondary": "#111827",
+    "background": "#ECFDF5",
+    "text": "#111827"
+  },
+  "share": {
+    "title": "Sitcoms Timeline",
+    "description": "Can you place these iconic sitcoms in their correct premiere order?",
+    "hashtags": [
+      "Sitcoms",
+      "TVQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Sitcoms Timeline Quiz - Eras Games",
+    "description": "Test your sitcom knowledge. Put iconic comedy TV series in their correct premiere order in this addictive timeline game.",
+    "keywords": [
+      "sitcom quiz",
+      "TV comedy quiz",
+      "TV timeline game",
+      "Eras Games"
+    ]
+  },
+  "items": [
+    {
+      "id": "the-big-bang-theory-2007",
+      "label": "The Big Bang Theory",
+      "year": 2007,
+      "subtitle": "Created by: Chuck Lorre",
+      "description": "The Big Bang Theory premiered in 2007. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 113"
+      ],
+      "source": "http://www.wikidata.org/entity/Q8539"
+    },
+    {
+      "id": "how-i-met-your-mother-2005",
+      "label": "How I Met Your Mother",
+      "year": 2005,
+      "subtitle": "Created by: Carter Bays",
+      "description": "How I Met Your Mother premiered in 2005. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 89"
+      ],
+      "source": "http://www.wikidata.org/entity/Q147235"
+    },
+    {
+      "id": "the-office-2005",
+      "label": "The Office",
+      "year": 2005,
+      "description": "The Office premiered in 2005. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 83"
+      ],
+      "source": "http://www.wikidata.org/entity/Q23831"
+    },
+    {
+      "id": "mr-bean-1990",
+      "label": "Mr Bean",
+      "year": 1990,
+      "subtitle": "Created by: Rowan Atkinson",
+      "description": "Mr Bean premiered in 1990. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 81"
+      ],
+      "source": "http://www.wikidata.org/entity/Q484020"
+    },
+    {
+      "id": "sex-and-the-city-1998",
+      "label": "Sex and the City",
+      "year": 1998,
+      "subtitle": "Created by: Darren Star",
+      "description": "Sex and the City premiered in 1998. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 67"
+      ],
+      "source": "http://www.wikidata.org/entity/Q35791"
+    },
+    {
+      "id": "two-and-a-half-men-2003",
+      "label": "Two and a Half Men",
+      "year": 2003,
+      "subtitle": "Created by: Chuck Lorre",
+      "description": "Two and a Half Men premiered in 2003. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 65"
+      ],
+      "source": "http://www.wikidata.org/entity/Q189267"
+    },
+    {
+      "id": "modern-family-2009",
+      "label": "Modern Family",
+      "year": 2009,
+      "subtitle": "Created by: Steven Levitan",
+      "description": "Modern Family premiered in 2009. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 63"
+      ],
+      "source": "http://www.wikidata.org/entity/Q16756"
+    },
+    {
+      "id": "seinfeld-1989",
+      "label": "Seinfeld",
+      "year": 1989,
+      "subtitle": "Created by: Larry David",
+      "description": "Seinfeld premiered in 1989. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 57"
+      ],
+      "source": "http://www.wikidata.org/entity/Q23733"
+    },
+    {
+      "id": "scrubs-2001",
+      "label": "Scrubs",
+      "year": 2001,
+      "subtitle": "Created by: Bill Lawrence",
+      "description": "Scrubs premiered in 2001. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 56"
+      ],
+      "source": "http://www.wikidata.org/entity/Q485668"
+    },
+    {
+      "id": "brooklyn-nine-nine-2013",
+      "label": "Brooklyn Nine-Nine",
+      "year": 2013,
+      "subtitle": "Created by: Michael Schur",
+      "description": "Brooklyn Nine-Nine premiered in 2013. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 55"
+      ],
+      "source": "http://www.wikidata.org/entity/Q13417244"
+    },
+    {
+      "id": "alf-1986",
+      "label": "ALF",
+      "year": 1986,
+      "subtitle": "Created by: Paul Fusco",
+      "description": "ALF premiered in 1986. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 52"
+      ],
+      "source": "http://www.wikidata.org/entity/Q264221"
+    },
+    {
+      "id": "el-chavo-del-8-1973",
+      "label": "El Chavo del 8",
+      "year": 1973,
+      "subtitle": "Created by: Chespirito",
+      "description": "El Chavo del 8 premiered in 1973. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 52"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1323981"
+    },
+    {
+      "id": "young-sheldon-2017",
+      "label": "Young Sheldon",
+      "year": 2017,
+      "subtitle": "Created by: Chuck Lorre",
+      "description": "Young Sheldon premiered in 2017. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 48"
+      ],
+      "source": "http://www.wikidata.org/entity/Q30014613"
+    },
+    {
+      "id": "married-with-children-1987",
+      "label": "Married... with Children",
+      "year": 1987,
+      "subtitle": "Created by: Ron Leavitt",
+      "description": "Married... with Children premiered in 1987. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 48"
+      ],
+      "source": "http://www.wikidata.org/entity/Q208647"
+    },
+    {
+      "id": "will-grace-1998",
+      "label": "Will & Grace",
+      "year": 1998,
+      "subtitle": "Created by: David Kohan",
+      "description": "Will & Grace premiered in 1998. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 48"
+      ],
+      "source": "http://www.wikidata.org/entity/Q212135"
+    },
+    {
+      "id": "malcolm-in-the-middle-2000",
+      "label": "Malcolm in the Middle",
+      "year": 2000,
+      "subtitle": "Created by: Linwood Boomer",
+      "description": "Malcolm in the Middle premiered in 2000. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 48"
+      ],
+      "source": "http://www.wikidata.org/entity/Q242596"
+    },
+    {
+      "id": "frasier-1993",
+      "label": "Frasier",
+      "year": 1993,
+      "subtitle": "Created by: David Angell",
+      "description": "Frasier premiered in 1993. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 46"
+      ],
+      "source": "http://www.wikidata.org/entity/Q209282"
+    },
+    {
+      "id": "new-girl-2011",
+      "label": "New Girl",
+      "year": 2011,
+      "subtitle": "Created by: Elizabeth Meriwether",
+      "description": "New Girl premiered in 2011. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 44"
+      ],
+      "source": "http://www.wikidata.org/entity/Q844059"
+    },
+    {
+      "id": "2-broke-girls-2011",
+      "label": "2 Broke Girls",
+      "year": 2011,
+      "subtitle": "Created by: Michael Patrick King",
+      "description": "2 Broke Girls premiered in 2011. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 43"
+      ],
+      "source": "http://www.wikidata.org/entity/Q32488"
+    },
+    {
+      "id": "the-office-2001",
+      "label": "The Office",
+      "year": 2001,
+      "subtitle": "Created by: Ricky Gervais",
+      "description": "The Office premiered in 2001. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 100,
+      "tags": [
+        "Wikidata sitelinks: 42"
+      ],
+      "source": "http://www.wikidata.org/entity/Q23829"
+    },
+    {
+      "id": "everybody-loves-raymond-1996",
+      "label": "Everybody Loves Raymond",
+      "year": 1996,
+      "subtitle": "Created by: Philip Rosenthal",
+      "description": "Everybody Loves Raymond premiered in 1996. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 42"
+      ],
+      "source": "http://www.wikidata.org/entity/Q208568"
+    },
+    {
+      "id": "community-2009",
+      "label": "Community",
+      "year": 2009,
+      "subtitle": "Created by: Dan Harmon",
+      "description": "Community premiered in 2009. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 40"
+      ],
+      "source": "http://www.wikidata.org/entity/Q728553"
+    },
+    {
+      "id": "30-rock-2006",
+      "label": "30 Rock",
+      "year": 2006,
+      "subtitle": "Created by: Tina Fey",
+      "description": "30 Rock premiered in 2006. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 40"
+      ],
+      "source": "http://www.wikidata.org/entity/Q189350"
+    },
+    {
+      "id": "fawlty-towers-1975",
+      "label": "Fawlty Towers",
+      "year": 1975,
+      "subtitle": "Created by: John Cleese",
+      "description": "Fawlty Towers premiered in 1975. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 40"
+      ],
+      "source": "http://www.wikidata.org/entity/Q212731"
+    },
+    {
+      "id": "parks-and-recreation-2009",
+      "label": "Parks and Recreation",
+      "year": 2009,
+      "subtitle": "Created by: Greg Daniels",
+      "description": "Parks and Recreation premiered in 2009. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 39"
+      ],
+      "source": "http://www.wikidata.org/entity/Q218035"
+    },
+    {
+      "id": "good-luck-charlie-2010",
+      "label": "Good Luck Charlie",
+      "year": 2010,
+      "subtitle": "Created by: Phil Baker",
+      "description": "Good Luck Charlie premiered in 2010. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 39"
+      ],
+      "source": "http://www.wikidata.org/entity/Q366375"
+    },
+    {
+      "id": "roseanne-1988",
+      "label": "Roseanne",
+      "year": 1988,
+      "subtitle": "Created by: Matt Williams",
+      "description": "Roseanne premiered in 1988. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 38"
+      ],
+      "source": "http://www.wikidata.org/entity/Q575373"
+    },
+    {
+      "id": "my-name-is-earl-2005",
+      "label": "My Name Is Earl",
+      "year": 2005,
+      "subtitle": "Created by: Greg Garcia",
+      "description": "My Name Is Earl premiered in 2005. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 38"
+      ],
+      "source": "http://www.wikidata.org/entity/Q34659"
+    },
+    {
+      "id": "the-it-crowd-2006",
+      "label": "The IT Crowd",
+      "year": 2006,
+      "subtitle": "Created by: Graham Linehan",
+      "description": "The IT Crowd premiered in 2006. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 38"
+      ],
+      "source": "http://www.wikidata.org/entity/Q239672"
+    },
+    {
+      "id": "curb-your-enthusiasm-2000",
+      "label": "Curb Your Enthusiasm",
+      "year": 2000,
+      "subtitle": "Created by: Larry David",
+      "description": "Curb Your Enthusiasm premiered in 2000. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 37"
+      ],
+      "source": "http://www.wikidata.org/entity/Q23722"
+    },
+    {
+      "id": "the-golden-girls-1985",
+      "label": "The Golden Girls",
+      "year": 1985,
+      "subtitle": "Created by: Susan Harris",
+      "description": "The Golden Girls premiered in 1985. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 37"
+      ],
+      "source": "http://www.wikidata.org/entity/Q912467"
+    },
+    {
+      "id": "sabrina-the-teenage-witch-1996",
+      "label": "Sabrina the Teenage Witch",
+      "year": 1996,
+      "subtitle": "Created by: Nell Scovell",
+      "description": "Sabrina the Teenage Witch premiered in 1996. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 37"
+      ],
+      "source": "http://www.wikidata.org/entity/Q383104"
+    },
+    {
+      "id": "the-nanny-1993",
+      "label": "The Nanny",
+      "year": 1993,
+      "subtitle": "Created by: Fran Drescher",
+      "description": "The Nanny premiered in 1993. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 37"
+      ],
+      "source": "http://www.wikidata.org/entity/Q464865"
+    },
+    {
+      "id": "full-house-1987",
+      "label": "Full House",
+      "year": 1987,
+      "subtitle": "Created by: Jeff Franklin",
+      "description": "Full House premiered in 1987. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 37"
+      ],
+      "source": "http://www.wikidata.org/entity/Q465472"
+    },
+    {
+      "id": "i-love-lucy-1951",
+      "label": "I Love Lucy",
+      "year": 1951,
+      "description": "I Love Lucy premiered in 1951. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 36"
+      ],
+      "source": "http://www.wikidata.org/entity/Q181943"
+    },
+    {
+      "id": "the-fresh-prince-of-bel-air-1990",
+      "label": "The Fresh Prince of Bel-Air",
+      "year": 1990,
+      "subtitle": "Created by: Andy Borowitz",
+      "description": "The Fresh Prince of Bel-Air premiered in 1990. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 36"
+      ],
+      "source": "http://www.wikidata.org/entity/Q309063"
+    },
+    {
+      "id": "3rd-rock-from-the-sun-1996",
+      "label": "3rd Rock from the Sun",
+      "year": 1996,
+      "subtitle": "Created by: Bonnie and Terry Turner",
+      "description": "3rd Rock from the Sun premiered in 1996. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 36"
+      ],
+      "source": "http://www.wikidata.org/entity/Q870490"
+    },
+    {
+      "id": "it-s-always-sunny-in-philadelphia-2005",
+      "label": "It's Always Sunny in Philadelphia",
+      "year": 2005,
+      "subtitle": "Created by: Rob McElhenney",
+      "description": "It's Always Sunny in Philadelphia premiered in 2005. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 35"
+      ],
+      "source": "http://www.wikidata.org/entity/Q23670"
+    },
+    {
+      "id": "big-time-rush-2009",
+      "label": "Big Time Rush",
+      "year": 2009,
+      "subtitle": "Created by: Scott Fellows",
+      "description": "Big Time Rush premiered in 2009. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 35"
+      ],
+      "source": "http://www.wikidata.org/entity/Q794761"
+    },
+    {
+      "id": "jane-the-virgin-2014",
+      "label": "Jane the Virgin",
+      "year": 2014,
+      "subtitle": "Created by: Perla Farías",
+      "description": "Jane the Virgin premiered in 2014. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 35"
+      ],
+      "source": "http://www.wikidata.org/entity/Q16913682"
+    },
+    {
+      "id": "a-n-t-farm-2011",
+      "label": "A.N.T. Farm",
+      "year": 2011,
+      "subtitle": "Created by: Dan Signer",
+      "description": "A.N.T. Farm premiered in 2011. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 34"
+      ],
+      "source": "http://www.wikidata.org/entity/Q278375"
+    },
+    {
+      "id": "spin-city-1996",
+      "label": "Spin City",
+      "year": 1996,
+      "subtitle": "Created by: Gary David Goldberg",
+      "description": "Spin City premiered in 1996. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 33"
+      ],
+      "source": "http://www.wikidata.org/entity/Q256527"
+    },
+    {
+      "id": "the-thundermans-2013",
+      "label": "The Thundermans",
+      "year": 2013,
+      "subtitle": "Created by: Jed Spingarn",
+      "description": "The Thundermans premiered in 2013. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 33"
+      ],
+      "source": "http://www.wikidata.org/entity/Q9197118"
+    },
+    {
+      "id": "everybody-hates-chris-2005",
+      "label": "Everybody Hates Chris",
+      "year": 2005,
+      "description": "Everybody Hates Chris premiered in 2005. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 32"
+      ],
+      "source": "http://www.wikidata.org/entity/Q33323"
+    },
+    {
+      "id": "henry-danger-2014",
+      "label": "Henry Danger",
+      "year": 2014,
+      "subtitle": "Created by: Nathan Kress",
+      "description": "Henry Danger premiered in 2014. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 31"
+      ],
+      "source": "http://www.wikidata.org/entity/Q17328326"
+    },
+    {
+      "id": "all-in-the-family-1971",
+      "label": "All in the Family",
+      "year": 1971,
+      "subtitle": "Created by: Norman Lear",
+      "description": "All in the Family premiered in 1971. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 31"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1048856"
+    },
+    {
+      "id": "mom-2013",
+      "label": "Mom",
+      "year": 2013,
+      "subtitle": "Created by: Chuck Lorre",
+      "description": "Mom premiered in 2013. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 31"
+      ],
+      "source": "http://www.wikidata.org/entity/Q13417213"
+    },
+    {
+      "id": "cougar-town-2009",
+      "label": "Cougar Town",
+      "year": 2009,
+      "subtitle": "Created by: Bill Lawrence",
+      "description": "Cougar Town premiered in 2009. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 30"
+      ],
+      "source": "http://www.wikidata.org/entity/Q575696"
+    },
+    {
+      "id": "mad-about-you-1992",
+      "label": "Mad About You",
+      "year": 1992,
+      "subtitle": "Created by: Paul Reiser",
+      "description": "Mad About You premiered in 1992. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 30"
+      ],
+      "source": "http://www.wikidata.org/entity/Q752365"
+    },
+    {
+      "id": "superstore-2015",
+      "label": "Superstore",
+      "year": 2015,
+      "description": "Superstore premiered in 2015. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 92,
+      "tags": [
+        "Wikidata sitelinks: 29"
+      ],
+      "source": "http://www.wikidata.org/entity/Q19863018"
+    },
+    {
+      "id": "the-king-of-queens-1998",
+      "label": "The King of Queens",
+      "year": 1998,
+      "description": "The King of Queens premiered in 1998. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 29"
+      ],
+      "source": "http://www.wikidata.org/entity/Q826594"
+    },
+    {
+      "id": "the-middle-2009",
+      "label": "The Middle",
+      "year": 2009,
+      "description": "The Middle premiered in 2009. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 28"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1138000"
+    },
+    {
+      "id": "dharma-greg-1997",
+      "label": "Dharma & Greg",
+      "year": 1997,
+      "subtitle": "Created by: Dottie Zicklin",
+      "description": "Dharma & Greg premiered in 1997. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 28"
+      ],
+      "source": "http://www.wikidata.org/entity/Q672169"
+    },
+    {
+      "id": "derry-girls-2018",
+      "label": "Derry Girls",
+      "year": 2018,
+      "subtitle": "Created by: Lisa McGee",
+      "description": "Derry Girls premiered in 2018. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 28"
+      ],
+      "source": "http://www.wikidata.org/entity/Q47090557"
+    },
+    {
+      "id": "the-last-man-on-earth-2015",
+      "label": "The Last Man on Earth",
+      "year": 2015,
+      "subtitle": "Created by: Will Forte",
+      "description": "The Last Man on Earth premiered in 2015. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 28"
+      ],
+      "source": "http://www.wikidata.org/entity/Q17052281"
+    },
+    {
+      "id": "k-c-undercover-2015",
+      "label": "K.C. Undercover",
+      "year": 2015,
+      "subtitle": "Created by: Corinne Marshall",
+      "description": "K.C. Undercover premiered in 2015. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 27"
+      ],
+      "source": "http://www.wikidata.org/entity/Q17635847"
+    },
+    {
+      "id": "unbreakable-kimmy-schmidt-2015",
+      "label": "Unbreakable Kimmy Schmidt",
+      "year": 2015,
+      "subtitle": "Created by: Tina Fey",
+      "description": "Unbreakable Kimmy Schmidt premiered in 2015. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 27"
+      ],
+      "source": "http://www.wikidata.org/entity/Q16889037"
+    },
+    {
+      "id": "what-i-like-about-you-2002",
+      "label": "What I Like About You",
+      "year": 2002,
+      "subtitle": "Created by: Wil Calhoun",
+      "description": "What I Like About You premiered in 2002. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 26"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1160221"
+    },
+    {
+      "id": "only-fools-and-horses-1981",
+      "label": "Only Fools and Horses",
+      "year": 1981,
+      "subtitle": "Created by: John Sullivan",
+      "description": "Only Fools and Horses premiered in 1981. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 26"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1247858"
+    },
+    {
+      "id": "grace-and-frankie-2015",
+      "label": "Grace and Frankie",
+      "year": 2015,
+      "subtitle": "Created by: Marta Kauffman",
+      "description": "Grace and Frankie premiered in 2015. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 26"
+      ],
+      "source": "http://www.wikidata.org/entity/Q18150372"
+    },
+    {
+      "id": "according-to-jim-2001",
+      "label": "According to Jim",
+      "year": 2001,
+      "subtitle": "Created by: Tracy Newman",
+      "description": "According to Jim premiered in 2001. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 26"
+      ],
+      "source": "http://www.wikidata.org/entity/Q757318"
+    },
+    {
+      "id": "growing-pains-1985",
+      "label": "Growing Pains",
+      "year": 1985,
+      "subtitle": "Created by: Neal Marlens",
+      "description": "Growing Pains premiered in 1985. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 26"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1061246"
+    },
+    {
+      "id": "home-improvement-1991",
+      "label": "Home Improvement",
+      "year": 1991,
+      "subtitle": "Created by: Carmen Finestra",
+      "description": "Home Improvement premiered in 1991. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 26"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1337212"
+    },
+    {
+      "id": "young-hungry-2014",
+      "label": "Young & Hungry",
+      "year": 2014,
+      "subtitle": "Created by: David Holden",
+      "description": "Young & Hungry premiered in 2014. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 26"
+      ],
+      "source": "http://www.wikidata.org/entity/Q16739279"
+    },
+    {
+      "id": "father-ted-1995",
+      "label": "Father Ted",
+      "year": 1995,
+      "description": "Father Ted premiered in 1995. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 25"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1366945"
+    },
+    {
+      "id": "dog-with-a-blog-2012",
+      "label": "Dog with a Blog",
+      "year": 2012,
+      "description": "Dog with a Blog premiered in 2012. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 25"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1571652"
+    },
+    {
+      "id": "mike-molly-2010",
+      "label": "Mike & Molly",
+      "year": 2010,
+      "description": "Mike & Molly premiered in 2010. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 25"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1575230"
+    },
+    {
+      "id": "rules-of-engagement-2007",
+      "label": "Rules of Engagement",
+      "year": 2007,
+      "description": "Rules of Engagement premiered in 2007. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 25"
+      ],
+      "source": "http://www.wikidata.org/entity/Q498569"
+    },
+    {
+      "id": "anger-management-2012",
+      "label": "Anger Management",
+      "year": 2012,
+      "subtitle": "Created by: Bruce Helford",
+      "description": "Anger Management premiered in 2012. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 25"
+      ],
+      "source": "http://www.wikidata.org/entity/Q537952"
+    },
+    {
+      "id": "how-i-met-your-father-2022",
+      "label": "How I Met Your Father",
+      "year": 2022,
+      "description": "How I Met Your Father premiered in 2022. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 25"
+      ],
+      "source": "http://www.wikidata.org/entity/Q108619693"
+    },
+    {
+      "id": "nicky-ricky-dicky-dawn-2014",
+      "label": "Nicky, Ricky, Dicky & Dawn",
+      "year": 2014,
+      "description": "Nicky, Ricky, Dicky & Dawn premiered in 2014. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 25"
+      ],
+      "source": "http://www.wikidata.org/entity/Q18152910"
+    },
+    {
+      "id": "keeping-up-appearances-1990",
+      "label": "Keeping Up Appearances",
+      "year": 1990,
+      "subtitle": "Created by: Roy Clarke",
+      "description": "Keeping Up Appearances premiered in 1990. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 25"
+      ],
+      "source": "http://www.wikidata.org/entity/Q922616"
+    },
+    {
+      "id": "melissa-joey-2010",
+      "label": "Melissa & Joey",
+      "year": 2010,
+      "subtitle": "Created by: Bob Young",
+      "description": "Melissa & Joey premiered in 2010. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 25"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1064803"
+    },
+    {
+      "id": "hot-in-cleveland-2010",
+      "label": "Hot in Cleveland",
+      "year": 2010,
+      "subtitle": "Created by: Suzanne Martin",
+      "description": "Hot in Cleveland premiered in 2010. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 24"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1374755"
+    },
+    {
+      "id": "bunk-d-2015",
+      "label": "Bunk'd",
+      "year": 2015,
+      "subtitle": "Created by: Pamela Eells O'Connell",
+      "description": "Bunk'd premiered in 2015. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 24"
+      ],
+      "source": "http://www.wikidata.org/entity/Q19903191"
+    },
+    {
+      "id": "school-of-rock-2016",
+      "label": "School of Rock",
+      "year": 2016,
+      "description": "School of Rock premiered in 2016. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 24"
+      ],
+      "source": "http://www.wikidata.org/entity/Q20016120"
+    },
+    {
+      "id": "cory-in-the-house-2007",
+      "label": "Cory in the House",
+      "year": 2007,
+      "subtitle": "Created by: Marc Warren",
+      "description": "Cory in the House premiered in 2007. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 24"
+      ],
+      "source": "http://www.wikidata.org/entity/Q842118"
+    },
+    {
+      "id": "black-ish-2014",
+      "label": "Black-ish",
+      "year": 2014,
+      "description": "Black-ish premiered in 2014. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 24"
+      ],
+      "source": "http://www.wikidata.org/entity/Q16868584"
+    },
+    {
+      "id": "episodes-2011",
+      "label": "Episodes",
+      "year": 2011,
+      "subtitle": "Created by: David Crane",
+      "description": "Episodes premiered in 2011. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 23"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1164742"
+    },
+    {
+      "id": "raising-hope-2010",
+      "label": "Raising Hope",
+      "year": 2010,
+      "subtitle": "Created by: Greg Garcia",
+      "description": "Raising Hope premiered in 2010. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 23"
+      ],
+      "source": "http://www.wikidata.org/entity/Q34669"
+    },
+    {
+      "id": "the-addams-family-1964",
+      "label": "The Addams Family",
+      "year": 1964,
+      "description": "The Addams Family premiered in 1964. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 23"
+      ],
+      "source": "http://www.wikidata.org/entity/Q266532"
+    },
+    {
+      "id": "last-man-standing-2011",
+      "label": "Last Man Standing",
+      "year": 2011,
+      "subtitle": "Created by: Jack Burditt",
+      "description": "Last Man Standing premiered in 2011. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 23"
+      ],
+      "source": "http://www.wikidata.org/entity/Q944698"
+    },
+    {
+      "id": "taxi-1978",
+      "label": "Taxi",
+      "year": 1978,
+      "subtitle": "Created by: James L. Brooks",
+      "description": "Taxi premiered in 1978. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 23"
+      ],
+      "source": "http://www.wikidata.org/entity/Q427529"
+    },
+    {
+      "id": "just-shoot-me-1997",
+      "label": "Just Shoot Me!",
+      "year": 1997,
+      "subtitle": "Created by: Steven Levitan",
+      "description": "Just Shoot Me! premiered in 1997. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 22"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1419644"
+    },
+    {
+      "id": "8-simple-rules-2002",
+      "label": "8 Simple Rules",
+      "year": 2002,
+      "description": "8 Simple Rules premiered in 2002. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 22"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1111300"
+    },
+    {
+      "id": "family-matters-1989",
+      "label": "Family Matters",
+      "year": 1989,
+      "description": "Family Matters premiered in 1989. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 22"
+      ],
+      "source": "http://www.wikidata.org/entity/Q593838"
+    },
+    {
+      "id": "lab-rats-2012",
+      "label": "Lab Rats",
+      "year": 2012,
+      "description": "Lab Rats premiered in 2012. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 22"
+      ],
+      "source": "http://www.wikidata.org/entity/Q2699347"
+    },
+    {
+      "id": "game-shakers-2015",
+      "label": "Game Shakers",
+      "year": 2015,
+      "subtitle": "Created by: Dan Schneider",
+      "description": "Game Shakers premiered in 2015. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 22"
+      ],
+      "source": "http://www.wikidata.org/entity/Q20897314"
+    },
+    {
+      "id": "pair-of-kings-2010",
+      "label": "Pair of Kings",
+      "year": 2010,
+      "description": "Pair of Kings premiered in 2010. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 22"
+      ],
+      "source": "http://www.wikidata.org/entity/Q18904"
+    },
+    {
+      "id": "icarly-2021",
+      "label": "iCarly",
+      "year": 2021,
+      "subtitle": "Created by: Dan Schneider",
+      "description": "iCarly premiered in 2021. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 22"
+      ],
+      "source": "http://www.wikidata.org/entity/Q106091490"
+    },
+    {
+      "id": "best-friends-whenever-2015",
+      "label": "Best Friends Whenever",
+      "year": 2015,
+      "description": "Best Friends Whenever premiered in 2015. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 22"
+      ],
+      "source": "http://www.wikidata.org/entity/Q19966827"
+    },
+    {
+      "id": "baby-daddy-2012",
+      "label": "Baby Daddy",
+      "year": 2012,
+      "subtitle": "Created by: Daniel Berendsen",
+      "description": "Baby Daddy premiered in 2012. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 22"
+      ],
+      "source": "http://www.wikidata.org/entity/Q797839"
+    },
+    {
+      "id": "my-wife-and-kids-2001",
+      "label": "My Wife and Kids",
+      "year": 2001,
+      "subtitle": "Created by: Don Reo",
+      "description": "My Wife and Kids premiered in 2001. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 22"
+      ],
+      "source": "http://www.wikidata.org/entity/Q391425"
+    },
+    {
+      "id": "fresh-off-the-boat-2015",
+      "label": "Fresh Off the Boat",
+      "year": 2015,
+      "description": "Fresh Off the Boat premiered in 2015. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 22"
+      ],
+      "source": "http://www.wikidata.org/entity/Q16919664"
+    },
+    {
+      "id": "taarak-mehta-ka-ooltah-chashmah-2008",
+      "label": "Taarak Mehta Ka Ooltah Chashmah",
+      "year": 2008,
+      "description": "Taarak Mehta Ka Ooltah Chashmah premiered in 2008. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q2719817"
+    },
+    {
+      "id": "fuller-house-2016",
+      "label": "Fuller House",
+      "year": 2016,
+      "subtitle": "Created by: Jeff Franklin",
+      "description": "Fuller House premiered in 2016. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q20714712"
+    },
+    {
+      "id": "don-t-trust-the-b-in-apartment-23-2012",
+      "label": "Don't Trust the B---- in Apartment 23",
+      "year": 2012,
+      "description": "Don't Trust the B---- in Apartment 23 premiered in 2012. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q4380"
+    },
+    {
+      "id": "extras-2005",
+      "label": "Extras",
+      "year": 2005,
+      "subtitle": "Created by: Ricky Gervais",
+      "description": "Extras premiered in 2005. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q23826"
+    },
+    {
+      "id": "diff-rent-strokes-1978",
+      "label": "Diff'rent Strokes",
+      "year": 1978,
+      "subtitle": "Created by: Bernie Kukoff",
+      "description": "Diff'rent Strokes premiered in 1978. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q2478848"
+    },
+    {
+      "id": "mind-your-language-1977",
+      "label": "Mind Your Language",
+      "year": 1977,
+      "subtitle": "Created by: Vince Powell",
+      "description": "Mind Your Language premiered in 1977. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 82,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q2512029"
+    },
+    {
+      "id": "100-things-to-do-before-high-school-2014",
+      "label": "100 Things to Do Before High School",
+      "year": 2014,
+      "subtitle": "Created by: Scott Fellows",
+      "description": "100 Things to Do Before High School premiered in 2014. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q18673004"
+    },
+    {
+      "id": "my-family-2000",
+      "label": "My Family",
+      "year": 2000,
+      "subtitle": "Created by: Fred Barron",
+      "description": "My Family premiered in 2000. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q909557"
+    },
+    {
+      "id": "saved-by-the-bell-1989",
+      "label": "Saved by the Bell",
+      "year": 1989,
+      "subtitle": "Created by: Sam Bobrick",
+      "description": "Saved by the Bell premiered in 1989. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1026823"
+    },
+    {
+      "id": "kitchen-2012",
+      "label": "Kitchen",
+      "year": 2012,
+      "subtitle": "Created by: Vital Shlyappo",
+      "description": "Kitchen premiered in 2012. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q4249828"
+    },
+    {
+      "id": "absolutely-fabulous-1992",
+      "label": "Absolutely Fabulous",
+      "year": 1992,
+      "subtitle": "Created by: Jennifer Saunders",
+      "description": "Absolutely Fabulous premiered in 1992. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q332554"
+    },
+    {
+      "id": "younger-2015",
+      "label": "Younger",
+      "year": 2015,
+      "subtitle": "Created by: Darren Star",
+      "description": "Younger premiered in 2015. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 21"
+      ],
+      "source": "http://www.wikidata.org/entity/Q16943567"
+    },
+    {
+      "id": "peep-show-2003",
+      "label": "Peep Show",
+      "year": 2003,
+      "subtitle": "Created by: Andrew O'Connor",
+      "description": "Peep Show premiered in 2003. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1519256"
+    },
+    {
+      "id": "ned-s-declassified-school-survival-guide-2004",
+      "label": "Ned's Declassified School Survival Guide",
+      "year": 2004,
+      "subtitle": "Created by: Scott Fellows",
+      "description": "Ned's Declassified School Survival Guide premiered in 2004. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1535338"
+    },
+    {
+      "id": "happy-endings-2011",
+      "label": "Happy Endings",
+      "year": 2011,
+      "subtitle": "Created by: David Caspe",
+      "description": "Happy Endings premiered in 2011. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1584299"
+    },
+    {
+      "id": "daddy-s-daughters-2007",
+      "label": "Daddy's Daughters",
+      "year": 2007,
+      "subtitle": "Created by: Alexander Rodnyansky",
+      "description": "Daddy's Daughters premiered in 2007. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1969810"
+    },
+    {
+      "id": "the-mary-tyler-moore-show-1970",
+      "label": "The Mary Tyler Moore Show",
+      "year": 1970,
+      "subtitle": "Created by: James L. Brooks",
+      "description": "The Mary Tyler Moore Show premiered in 1970. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q615944"
+    },
+    {
+      "id": "man-with-a-plan-2016",
+      "label": "Man with a Plan",
+      "year": 2016,
+      "description": "Man with a Plan premiered in 2016. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q24200837"
+    },
+    {
+      "id": "suburgatory-2011",
+      "label": "Suburgatory",
+      "year": 2011,
+      "subtitle": "Created by: Emily Kapnek",
+      "description": "Suburgatory premiered in 2011. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q53641"
+    },
+    {
+      "id": "the-mindy-project-2012",
+      "label": "The Mindy Project",
+      "year": 2012,
+      "subtitle": "Created by: Mindy Kaling",
+      "description": "The Mindy Project premiered in 2012. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q62564"
+    },
+    {
+      "id": "10-things-i-hate-about-you-2009",
+      "label": "10 Things I Hate About You",
+      "year": 2009,
+      "description": "10 Things I Hate About You premiered in 2009. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q169074"
+    },
+    {
+      "id": "bella-and-the-bulldogs-2015",
+      "label": "Bella and the Bulldogs",
+      "year": 2015,
+      "description": "Bella and the Bulldogs premiered in 2015. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q18148736"
+    },
+    {
+      "id": "the-inbetweeners-2008",
+      "label": "The Inbetweeners",
+      "year": 2008,
+      "subtitle": "Created by: Damon Beesley",
+      "description": "The Inbetweeners premiered in 2008. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q978011"
+    },
+    {
+      "id": "hope-faith-2003",
+      "label": "Hope & Faith",
+      "year": 2003,
+      "subtitle": "Created by: Joanna Johnson",
+      "description": "Hope & Faith premiered in 2003. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1053983"
+    },
+    {
+      "id": "the-goldbergs-2013",
+      "label": "The Goldbergs",
+      "year": 2013,
+      "subtitle": "Created by: Adam Frederick Goldberg",
+      "description": "The Goldbergs premiered in 2013. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q13100312"
+    },
+    {
+      "id": "i-didn-t-do-it-2014",
+      "label": "I Didn't Do It",
+      "year": 2014,
+      "description": "I Didn't Do It premiered in 2014. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 20"
+      ],
+      "source": "http://www.wikidata.org/entity/Q13564523"
+    },
+    {
+      "id": "interns-2010",
+      "label": "Interns",
+      "year": 2010,
+      "subtitle": "Created by: Vyacheslav Dusmukhametov",
+      "description": "Interns premiered in 2010. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1668081"
+    },
+    {
+      "id": "coupling-2000",
+      "label": "Coupling",
+      "year": 2000,
+      "subtitle": "Created by: Steven Moffat",
+      "description": "Coupling premiered in 2000. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1137587"
+    },
+    {
+      "id": "becker-1998",
+      "label": "Becker",
+      "year": 1998,
+      "subtitle": "Created by: David Hackel",
+      "description": "Becker premiered in 1998. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q540864"
+    },
+    {
+      "id": "the-partridge-family-1970",
+      "label": "The Partridge Family",
+      "year": 1970,
+      "subtitle": "Created by: Bernard Slade",
+      "description": "The Partridge Family premiered in 1970. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q654652"
+    },
+    {
+      "id": "dad-s-army-1968",
+      "label": "Dad's Army",
+      "year": 1968,
+      "subtitle": "Created by: Jimmy Perry",
+      "description": "Dad's Army premiered in 1968. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q659575"
+    },
+    {
+      "id": "yes-dear-2000",
+      "label": "Yes, Dear",
+      "year": 2000,
+      "subtitle": "Created by: Alan Kirschenbaum",
+      "description": "Yes, Dear premiered in 2000. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q738447"
+    },
+    {
+      "id": "the-bernie-mac-show-2001",
+      "label": "The Bernie Mac Show",
+      "year": 2001,
+      "subtitle": "Created by: Larry Wilmore",
+      "description": "The Bernie Mac Show premiered in 2001. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q2699963"
+    },
+    {
+      "id": "what-we-do-in-the-shadows-2019",
+      "label": "What We Do in the Shadows",
+      "year": 2019,
+      "subtitle": "Created by: Jemaine Clement",
+      "description": "What We Do in the Shadows premiered in 2019. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q55637582"
+    },
+    {
+      "id": "spaced-1999",
+      "label": "Spaced",
+      "year": 1999,
+      "subtitle": "Created by: Simon Pegg",
+      "description": "Spaced premiered in 1999. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q114231"
+    },
+    {
+      "id": "i-dream-of-jeannie-1965",
+      "label": "I Dream of Jeannie",
+      "year": 1965,
+      "subtitle": "Created by: Sidney Sheldon",
+      "description": "I Dream of Jeannie premiered in 1965. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q127337"
+    },
+    {
+      "id": "reba-2001",
+      "label": "Reba",
+      "year": 2001,
+      "subtitle": "Created by: Chuck Lorre",
+      "description": "Reba premiered in 2001. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q762739"
+    },
+    {
+      "id": "blue-mountain-state-2010",
+      "label": "Blue Mountain State",
+      "year": 2010,
+      "description": "Blue Mountain State premiered in 2010. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q885807"
+    },
+    {
+      "id": "police-squad-1982",
+      "label": "Police Squad!",
+      "year": 1982,
+      "subtitle": "Created by: Jerry Zucker",
+      "description": "Police Squad! premiered in 1982. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q974857"
+    },
+    {
+      "id": "mork-mindy-1978",
+      "label": "Mork & Mindy",
+      "year": 1978,
+      "subtitle": "Created by: Garry Marshall",
+      "description": "Mork & Mindy premiered in 1978. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q988037"
+    },
+    {
+      "id": "samantha-who-2007",
+      "label": "Samantha Who?",
+      "year": 2007,
+      "subtitle": "Created by: Cecelia Ahern",
+      "description": "Samantha Who? premiered in 2007. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1344341"
+    },
+    {
+      "id": "kenan-kel-1996",
+      "label": "Kenan & Kel",
+      "year": 1996,
+      "description": "Kenan & Kel premiered in 1996. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1065187"
+    },
+    {
+      "id": "the-munsters-1964",
+      "label": "The Munsters",
+      "year": 1964,
+      "description": "The Munsters premiered in 1964. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 19"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1086390"
+    },
+    {
+      "id": "the-new-adventures-of-old-christine-2006",
+      "label": "The New Adventures of Old Christine",
+      "year": 2006,
+      "subtitle": "Created by: Kari Lizer",
+      "description": "The New Adventures of Old Christine premiered in 2006. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 18"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1247170"
+    },
+    {
+      "id": "the-andy-griffith-show-1960",
+      "label": "The Andy Griffith Show",
+      "year": 1960,
+      "subtitle": "Created by: Sheldon Leonard",
+      "description": "The Andy Griffith Show premiered in 1960. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 18"
+      ],
+      "source": "http://www.wikidata.org/entity/Q526035"
+    },
+    {
+      "id": "the-dick-van-dyke-show-1961",
+      "label": "The Dick Van Dyke Show",
+      "year": 1961,
+      "subtitle": "Created by: Carl Reiner",
+      "description": "The Dick Van Dyke Show premiered in 1961. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 18"
+      ],
+      "source": "http://www.wikidata.org/entity/Q530706"
+    },
+    {
+      "id": "unfabulous-2004",
+      "label": "Unfabulous",
+      "year": 2004,
+      "subtitle": "Created by: Sue Rose",
+      "description": "Unfabulous premiered in 2004. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 18"
+      ],
+      "source": "http://www.wikidata.org/entity/Q745464"
+    },
+    {
+      "id": "ellen-1994",
+      "label": "Ellen",
+      "year": 1994,
+      "subtitle": "Created by: Neal Marlens",
+      "description": "Ellen premiered in 1994. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 18"
+      ],
+      "source": "http://www.wikidata.org/entity/Q82226"
+    },
+    {
+      "id": "danger-force-2020",
+      "label": "Danger Force",
+      "year": 2020,
+      "description": "Danger Force premiered in 2020. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 18"
+      ],
+      "source": "http://www.wikidata.org/entity/Q85664642"
+    },
+    {
+      "id": "the-beverly-hillbillies-1962",
+      "label": "The Beverly Hillbillies",
+      "year": 1962,
+      "subtitle": "Created by: Paul Henning",
+      "description": "The Beverly Hillbillies premiered in 1962. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 18"
+      ],
+      "source": "http://www.wikidata.org/entity/Q941737"
+    },
+    {
+      "id": "miranda-2009",
+      "label": "Miranda",
+      "year": 2009,
+      "subtitle": "Created by: Miranda Hart",
+      "description": "Miranda premiered in 2009. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 18"
+      ],
+      "source": "http://www.wikidata.org/entity/Q966191"
+    },
+    {
+      "id": "mighty-med-2013",
+      "label": "Mighty Med",
+      "year": 2013,
+      "description": "Mighty Med premiered in 2013. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 18"
+      ],
+      "source": "http://www.wikidata.org/entity/Q15110517"
+    },
+    {
+      "id": "mr-sunshine-2011",
+      "label": "Mr. Sunshine",
+      "year": 2011,
+      "subtitle": "Created by: Matthew Perry",
+      "description": "Mr. Sunshine premiered in 2011. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 17"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1508139"
+    },
+    {
+      "id": "the-thin-blue-line-1995",
+      "label": "The Thin Blue Line",
+      "year": 1995,
+      "subtitle": "Created by: Ben Elton",
+      "description": "The Thin Blue Line premiered in 1995. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 17"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1816205"
+    },
+    {
+      "id": "crank-yankers-2002",
+      "label": "Crank Yankers",
+      "year": 2002,
+      "subtitle": "Created by: Adam Carolla",
+      "description": "Crank Yankers premiered in 2002. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 17"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1138905"
+    },
+    {
+      "id": "dinosaurs-1991",
+      "label": "Dinosaurs",
+      "year": 1991,
+      "subtitle": "Created by: Michael Jacobs",
+      "description": "Dinosaurs premiered in 1991. Ranked by Wikidata notability signals for this timeline dataset.",
+      "popularity": 70,
+      "tags": [
+        "Wikidata sitelinks: 17"
+      ],
+      "source": "http://www.wikidata.org/entity/Q1211977"
+    }
+  ]
+}

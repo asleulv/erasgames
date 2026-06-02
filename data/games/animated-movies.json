@@ -1,0 +1,1049 @@
+{
+  "id": "animated-movies",
+  "slug": "animated-movies",
+  "title": "Animated Movies Timeline",
+  "shortTitle": "Animation",
+  "description": "Place acclaimed animated movies in their correct release order.",
+  "category": "Movies & TV",
+  "subcategory": "Movies",
+  "sitePath": "/timeline/animated-movies",
+  "theme": {
+    "primary": "#F59E0B",
+    "secondary": "#1F2937",
+    "background": "#FFF7ED",
+    "text": "#1F2937"
+  },
+  "share": {
+    "title": "Animated Movies Timeline",
+    "description": "Can you place these acclaimed animated movies in their correct release order?",
+    "hashtags": [
+      "AnimatedMovies",
+      "MovieQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Animated Movies Timeline Quiz - Eras Games",
+    "description": "Test your animated movie knowledge. Put acclaimed animated films in their correct release order in this addictive timeline game.",
+    "keywords": [
+      "animated movie quiz",
+      "animation movies",
+      "movie timeline game",
+      "Eras Games"
+    ]
+  },
+  "items": [
+    {
+      "id": "wall-e-2008",
+      "label": "WALL·E",
+      "year": 2008,
+      "subtitle": "Dir: Andrew Stanton",
+      "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "up-2009",
+      "label": "Up",
+      "year": 2009,
+      "subtitle": "Dir: Pete Docter",
+      "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "toy-story-3-2010",
+      "label": "Toy Story 3",
+      "year": 2010,
+      "subtitle": "Dir: Lee Unkrich",
+      "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "toy-story-1995",
+      "label": "Toy Story",
+      "year": 1995,
+      "subtitle": "Dir: John Lasseter",
+      "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "tonari-no-totoro-1990",
+      "label": "Tonari no Totoro",
+      "year": 1990,
+      "subtitle": "Dir: Hayao Miyazaki",
+      "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "the-lion-king-1994",
+      "label": "The Lion King",
+      "year": 1994,
+      "subtitle": "Dir: Roger Allers",
+      "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "the-iron-giant-1999",
+      "label": "The Iron Giant",
+      "year": 1999,
+      "subtitle": "Dir: Brad Bird",
+      "description": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "the-incredibles-2004",
+      "label": "The Incredibles",
+      "year": 2004,
+      "subtitle": "Dir: Brad Bird",
+      "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "spider-man-into-the-spider-verse-2018",
+      "label": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "subtitle": "Dir: Bob Persichetti",
+      "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "sen-to-chihiro-no-kamikakushi-2003",
+      "label": "Sen to Chihiro no kamikakushi",
+      "year": 2003,
+      "subtitle": "Dir: Hayao Miyazaki",
+      "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "ratatouille-2007",
+      "label": "Ratatouille",
+      "year": 2007,
+      "subtitle": "Dir: Brad Bird",
+      "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "monsters-inc-2001",
+      "label": "Monsters, Inc.",
+      "year": 2001,
+      "subtitle": "Dir: Pete Docter",
+      "description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "mononoke-hime-1997",
+      "label": "Mononoke-hime",
+      "year": 1997,
+      "subtitle": "Dir: Hayao Miyazaki",
+      "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "mary-and-max-2010",
+      "label": "Mary and Max.",
+      "year": 2010,
+      "subtitle": "Dir: Adam Elliot",
+      "description": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "klaus-2019",
+      "label": "Klaus",
+      "year": 2019,
+      "subtitle": "Dir: Sergio Pablos",
+      "description": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "kimi-no-na-wa-2017",
+      "label": "Kimi no Na wa.",
+      "year": 2017,
+      "subtitle": "Dir: Makoto Shinkai",
+      "description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "inside-out-2015",
+      "label": "Inside Out",
+      "year": 2015,
+      "subtitle": "Dir: Pete Docter",
+      "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "how-to-train-your-dragon-2010",
+      "label": "How to Train Your Dragon",
+      "year": 2010,
+      "subtitle": "Dir: Dean DeBlois",
+      "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "hotaru-no-haka-1989",
+      "label": "Hotaru no haka",
+      "year": 1989,
+      "subtitle": "Dir: Isao Takahata",
+      "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Drama",
+        "War"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "hauru-no-ugoku-shiro-2005",
+      "label": "Hauru no ugoku shiro",
+      "year": 2005,
+      "subtitle": "Dir: Hayao Miyazaki",
+      "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+      "popularity": 100,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "finding-nemo-2003",
+      "label": "Finding Nemo",
+      "year": 2003,
+      "subtitle": "Dir: Andrew Stanton",
+      "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "popularity": 92,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "coco-2017",
+      "label": "Coco",
+      "year": 2017,
+      "subtitle": "Dir: Lee Unkrich",
+      "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      "popularity": 92,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "aladdin-1992",
+      "label": "Aladdin",
+      "year": 1992,
+      "subtitle": "Dir: Ron Clements",
+      "description": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+      "popularity": 92,
+      "tags": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "source": "data/games/movie-classics.json"
+    },
+    {
+      "id": "a-silent-voice-2016",
+      "label": "A Silent Voice",
+      "year": 2016,
+      "subtitle": "Dir: Naoko Yamada",
+      "description": "After transferring into a new school, a deaf girl, Shoko Nishimiya, is bullied by the popular Shoya Ishida. As Shoya continues to bully Shoko, the... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/a_silent_voice"
+    },
+    {
+      "id": "boy-and-the-world-2013",
+      "label": "Boy and the World",
+      "year": 2013,
+      "subtitle": "Dir: Alê Abreu",
+      "description": "A boy without a father leaves his village and explores a strange world.",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/boy_and_the_world"
+    },
+    {
+      "id": "how-to-train-your-dragon-the-hidden-world-2019",
+      "label": "How to Train Your Dragon: The Hidden World",
+      "year": 2019,
+      "subtitle": "Dir: Dean DeBlois",
+      "description": "When the sudden appearance of a female Light Fury coincides with the darkest threat their village has ever faced, Hiccup and Toothless must journey to... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/how_to_train_your_dragon_the_hidden_world"
+    },
+    {
+      "id": "wreck-it-ralph-2012",
+      "label": "Wreck-It Ralph",
+      "year": 2012,
+      "subtitle": "Dir: Rich Moore",
+      "description": "Arcade-game character Wreck-It Ralph is tired of always being the bad guy and losing to his good guy opponent, Fix-It Felix. Finally, after decades of... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/wreck_it_ralph"
+    },
+    {
+      "id": "the-secret-of-kells-2009",
+      "label": "The Secret of Kells",
+      "year": 2009,
+      "subtitle": "Dir: Tomm Moore",
+      "description": "In the remote Irish woods, Cellach (Brendan Gleeson) prepares a fortress for an impending attack by a Viking war party. Unbeknown to Cellach, his young... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the-secret-of-kells"
+    },
+    {
+      "id": "the-great-mouse-detective-1986",
+      "label": "The Great Mouse Detective",
+      "year": 1986,
+      "subtitle": "Dir: John Musker",
+      "description": "Rodent supersleuth Basil and his bumbling partner must thwart evil Ratigan's plot to depose the Mouse Queen.",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the-great-mouse-detective"
+    },
+    {
+      "id": "fantastic-planet-1973",
+      "label": "Fantastic Planet",
+      "year": 1973,
+      "subtitle": "Dir: René Laloux",
+      "description": "This animated tale follows the relationship between the small human-like Oms and their much larger blue-skinned oppressors, the Draags, who rule the planet of Ygam.... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/fantastic_planet"
+    },
+    {
+      "id": "the-jungle-book-1967",
+      "label": "The Jungle Book",
+      "year": 1967,
+      "subtitle": "Dir: Wolfgang Reitherman",
+      "description": "In this classic Walt Disney animation based on Rudyard Kipling's book, Mowgli, an abandoned child raised by wolves, has his peaceful existence threatened by the... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1031385-jungle_book"
+    },
+    {
+      "id": "a-scanner-darkly-2006",
+      "label": "A Scanner Darkly",
+      "year": 2006,
+      "subtitle": "Dir: Richard Linklater",
+      "description": "In the near future, as America virtually loses the war on drugs, Robert Arctor, a narcotics cop in Orange County, Calif., becomes an addict when... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/scanner_darkly"
+    },
+    {
+      "id": "belladonna-of-sadness-1973",
+      "label": "Belladonna of Sadness",
+      "year": 1973,
+      "subtitle": "Dir: Eiichi Yamamoto",
+      "description": "A peasant woman is banished from her village and makes a deal with the devil to gain magical powers.",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/belladonna_of_sadness"
+    },
+    {
+      "id": "the-sword-in-the-stone-1963",
+      "label": "The Sword in the Stone",
+      "year": 1963,
+      "subtitle": "Dir: Wolfgang Reitherman",
+      "description": "This Disney adaptation of the classic fable chronicles King Arthur's humble beginnings. As an orphaned child, Arthur, who was then known as Wart, wants to... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/sword_in_the_stone"
+    },
+    {
+      "id": "allegro-non-troppo-1976",
+      "label": "Allegro non Troppo",
+      "year": 1976,
+      "subtitle": "Dir: Bruno Bozzetto",
+      "description": "Italy's response to the Disney classical music/animation hybrid \"Fantasia,\" this film features a series of cartoon shorts set to the likes of Claude Debussy, Joseph-Maurice... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/allegro_non_troppo_1979"
+    },
+    {
+      "id": "lilo-stitch-2002",
+      "label": "Lilo & Stitch",
+      "year": 2002,
+      "subtitle": "Dir: Christopher Sanders",
+      "description": "A tale of a young girl's close encounter with the galaxy's most wanted extraterrestrial. Lilo is a lonely Hawaiian girl who adopts a small ugly... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/lilo_and_stitch"
+    },
+    {
+      "id": "paprika-2006",
+      "label": "Paprika",
+      "year": 2006,
+      "subtitle": "Dir: Satoshi Kon",
+      "description": "Dr. Atsuko Chiba works as a scientist by day and, under the code name \"Paprika,\" is a dream detective at night. Atsuko and her colleagues... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/paprika"
+    },
+    {
+      "id": "watership-down-1978",
+      "label": "Watership Down",
+      "year": 1978,
+      "subtitle": "Dir: Martin Rosen",
+      "description": "When a young rabbit named Fiver has a prophetic vision that the end of his warren is near, he persuades seven other rabbits to leave... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/watership_down"
+    },
+    {
+      "id": "mulan-1998",
+      "label": "Mulan",
+      "year": 1998,
+      "subtitle": "Dir: Barry Cook",
+      "description": "Fearful that her ailing father will be drafted into the Chinese military, Mulan takes his spot -- though, as a girl living under a patriarchal... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/mulan"
+    },
+    {
+      "id": "perfect-blue-1997",
+      "label": "Perfect Blue",
+      "year": 1997,
+      "subtitle": "Dir: Satoshi Kon",
+      "description": "A mysterious figure stalks a pop star when she becomes an actor on a television show.",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/perfect_blue_1999"
+    },
+    {
+      "id": "summer-wars-2009",
+      "label": "Summer Wars",
+      "year": 2009,
+      "subtitle": "Dir: Mamoru Hosoda",
+      "description": "Kenji is a shy, part-time moderator for OZ, the virtual reality world that powers everyday life, until pretty and popular Natsuki recruits him to be... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/summer-wars"
+    },
+    {
+      "id": "anomalisa-2015",
+      "label": "Anomalisa",
+      "year": 2015,
+      "subtitle": "Dir: Charlie Kaufman",
+      "description": "An inspirational speaker (David Thewlis) becomes reinvigorated after meeting a lively woman (Jennifer Jason Leigh) who shakes up his mundane existence.",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/anomalisa"
+    },
+    {
+      "id": "kubo-and-the-two-strings-2016",
+      "label": "Kubo and the Two Strings",
+      "year": 2016,
+      "subtitle": "Dir: Travis Knight",
+      "description": "Young Kubo's peaceful existence comes crashing down when he accidentally summons a vengeful spirit from the past. Now on the run, Kubo joins forces with... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/kubo_and_the_two_strings_2016"
+    },
+    {
+      "id": "vampire-hunter-d-1985",
+      "label": "Vampire Hunter D",
+      "year": 1985,
+      "subtitle": "Dir: Toyoo Ashida",
+      "description": "In this animated film, the future is bleak for the world's remaining humans, who inhabit a vast wasteland and spend the majority of their time... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/vampire_hunter_d"
+    },
+    {
+      "id": "an-american-tail-1986",
+      "label": "An American Tail",
+      "year": 1986,
+      "subtitle": "Dir: Don Bluth",
+      "description": "A young mouse named Fievel Mousekewitz (Phillip Glasser) and his family emigrate from Russia to the United States by boat after their home is destroyed... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/american_tail"
+    },
+    {
+      "id": "le-roman-de-renard-1930",
+      "label": "Le Roman de Renard",
+      "year": 1930,
+      "subtitle": "Dir: Irene Starewicz",
+      "description": "King Lion orders Master Fox arrested for tricking animals.",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the-tale-of-the-fox-le-roman-de-renard"
+    },
+    {
+      "id": "the-land-before-time-1988",
+      "label": "The Land Before Time",
+      "year": 1988,
+      "subtitle": "Dir: Don Bluth",
+      "description": "Littlefoot, a young plant-eating dinosaur, is orphaned after his mother perishes while protecting him from a vicious carnivore. With her last breath, she tells him... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/land_before_time"
+    },
+    {
+      "id": "tangled-2010",
+      "label": "Tangled",
+      "year": 2010,
+      "subtitle": "Dir: Nathan Greno",
+      "description": "When the kingdom's most-wanted bandit, Flynn Rider (Zachary Levi), hides in a convenient tower, he immediately becomes a captive of Rapunzel (Mandy Moore), the spire's... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/tangled"
+    },
+    {
+      "id": "loving-vincent-2017",
+      "label": "Loving Vincent",
+      "year": 2017,
+      "subtitle": "Dir: DK Welchman",
+      "description": "Mystery surrounds the death of famed painter Vincent van Gogh in 1890 France.",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/loving_vincent"
+    },
+    {
+      "id": "the-night-is-short-walk-on-girl-2017",
+      "label": "The Night Is Short, Walk On Girl",
+      "year": 2017,
+      "subtitle": "Dir: Masaaki Yuasa",
+      "description": "A young girl embarks on an insanely long night of partying where she interacts with an increasingly eccentric cast of characters.",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_night_is_short_walk_on_girl"
+    },
+    {
+      "id": "cowboy-bebop-the-movie-2001",
+      "label": "Cowboy Bebop: The Movie",
+      "year": 2001,
+      "subtitle": "Dir: Shinichirô Watanabe",
+      "description": "Cocky Spike Spiegel and the crew of his spaceship, Bebop, an intrepid band of bounty hunters, land on Mars in the year 2071 chasing an... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/cowboy_bebop_the_movie_2"
+    },
+    {
+      "id": "big-fish-begonia-2016",
+      "label": "Big Fish & Begonia",
+      "year": 2016,
+      "subtitle": "Dir: Xuan Liang",
+      "description": "A 16-year-old girl embarks on a fantastical and dangerous adventure after transforming into a dolphin. When a boy sacrifices himself to save her, she uses... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/big_fish_and_begonia"
+    },
+    {
+      "id": "the-place-promised-in-our-early-days-2004",
+      "label": "The Place Promised in Our Early Days",
+      "year": 2004,
+      "subtitle": "Dir: Makoto Shinkai",
+      "description": "The feature film debut from Makoto Shinkai, the acclaimed director of Weathering With You and Your Name., is a haunting and beautiful story of friendship... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_place_promised_in_our_early_days"
+    },
+    {
+      "id": "hercules-1997",
+      "label": "Hercules",
+      "year": 1997,
+      "subtitle": "Dir: Ron Clements",
+      "description": "Disney tackles Greek mythology in this animated feature. Hercules (Tate Donovan), a son of gods, was snatched as a baby by Hades (James Woods) and... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/hercules"
+    },
+    {
+      "id": "cloudy-with-a-chance-of-meatballs-2009",
+      "label": "Cloudy With a Chance of Meatballs",
+      "year": 2009,
+      "subtitle": "Dir: Christopher Miller",
+      "description": "When hard times hit Swallow Falls, its townspeople can only afford to eat sardines. Flint Lockwood, a failed inventor, thinks he has the answer to... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1196077-cloudy_with_a_chance_of_meatballs"
+    },
+    {
+      "id": "despicable-me-2010",
+      "label": "Despicable Me",
+      "year": 2010,
+      "subtitle": "Dir: Chris Renaud",
+      "description": "Supervillain Gru, a man who delights in all things wicked, hatches a plan to steal the moon. Surrounded by an army of little yellow minions... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/despicable_me"
+    },
+    {
+      "id": "south-park-bigger-longer-uncut-1999",
+      "label": "South Park: Bigger, Longer & Uncut",
+      "year": 1999,
+      "subtitle": "Dir: Trey Parker",
+      "description": "In this feature film based on the hit animated series, the third-graders of South Park sneak into an R-rated film by ultra-vulgar Canadian television personalities... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/south_park_bigger_longer_and_uncut"
+    },
+    {
+      "id": "long-way-north-2015",
+      "label": "Long Way North",
+      "year": 2015,
+      "subtitle": "Dir: Rémi Chayé",
+      "description": "In the 19th century, a young Russian girl (Christa Théret) embarks on an adventure-filled quest to find her grandfather at the North Pole.",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/long_way_north"
+    },
+    {
+      "id": "dragon-ball-super-broly-2018",
+      "label": "Dragon Ball Super: Broly",
+      "year": 2018,
+      "subtitle": "Dir: Tatsuya Nagamine",
+      "description": "Goku and Vegeta encounter Broly, a Saiyan warrior.",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/dragon_ball_super_broly"
+    },
+    {
+      "id": "my-dog-tulip-2009",
+      "label": "My Dog Tulip",
+      "year": 2009,
+      "subtitle": "Dir: Paul Fierlinger",
+      "description": "Despite a lack of affinity for dogs, a confirmed bachelor (Christopher Plummer) adopts an Alsatian and forms a close bond with his new companion.",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/my-dog-tulip"
+    },
+    {
+      "id": "peter-pan-1953",
+      "label": "Peter Pan",
+      "year": 1953,
+      "subtitle": "Dir: Clyde Geronimi",
+      "description": "In this Disney animated film, Wendy and her two brothers are amazed when a magical boy named Peter Pan flies into their bedroom, supposedly in... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/peter_pan_1953"
+    },
+    {
+      "id": "waking-life-2001",
+      "label": "Waking Life",
+      "year": 2001,
+      "subtitle": "Dir: Richard Linklater",
+      "description": "Transcending the boundaries of technology and imagination, \"Waking Life\" is a revolutionary breakthrough in film animation. In \"Waking Life,\" Wiley Wiggins (\"Dazed and Confused\") travels... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/waking_life"
+    },
+    {
+      "id": "brave-2012",
+      "label": "Brave",
+      "year": 2012,
+      "subtitle": "Dir: Mark Andrews",
+      "description": "Merida (Kelly Macdonald), the impetuous but courageous daughter of Scottish King Fergus (Billy Connolly) and Queen Elinor (Emma Thompson), is a skilled archer who wants... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/brave"
+    },
+    {
+      "id": "whisper-of-the-heart-1995",
+      "label": "Whisper of the Heart",
+      "year": 1995,
+      "subtitle": "Dir: Yoshifumi Kondo",
+      "description": "Based on the manga with the same title, this animated film follows Shizuku, an inquisitive young girl and a voracious reader, who longs to be... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/whisper-of-the-heart"
+    },
+    {
+      "id": "alice-in-wonderland-1951",
+      "label": "Alice in Wonderland",
+      "year": 1951,
+      "subtitle": "Dir: Clyde Geronimi",
+      "description": "Lewis Carroll's beloved fantasy tale is brought to life in this Disney animated classic. When Alice (Kathryn Beaumont), a restless young British girl, falls down... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/alice_in_wonderland_1951"
+    },
+    {
+      "id": "ice-age-2002",
+      "label": "Ice Age",
+      "year": 2002,
+      "subtitle": "Dir: Chris Wedge",
+      "description": "Twenty-thousand years ago, Earth was a wondrous, prehistoric world filled with great danger, not the least of which is the beginning of the Ice Age.... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/ice_age"
+    },
+    {
+      "id": "the-princess-and-the-frog-2009",
+      "label": "The Princess and the Frog",
+      "year": 2009,
+      "subtitle": "Dir: Ron Clements",
+      "description": "Hardworking and ambitious, Tiana dreams of one day opening the finest restaurant in New Orleans. Her dream takes a slight detour when she meets Prince... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1196003-princess_and_the_frog"
+    },
+    {
+      "id": "happy-feet-2006",
+      "label": "Happy Feet",
+      "year": 2006,
+      "subtitle": "Dir: George Miller",
+      "description": "Mumble (Elijah Wood), a young emperor penguin, lives in Antarctica. Like others of his kind, he needs to be able to sing to attract a... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/happy_feet"
+    },
+    {
+      "id": "the-castle-of-cagliostro-1979",
+      "label": "The Castle of Cagliostro",
+      "year": 1979,
+      "subtitle": "Dir: Hayao Miyazaki",
+      "description": "In this animated feature, Arsene Lupin III, the world's most daring thief, pulls off a heist at a Monte Carlo casino. But, when he discovers... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/lupin_iii_the_castle_of_cagliostro"
+    },
+    {
+      "id": "my-life-as-a-zucchini-2016",
+      "label": "My Life as a Zucchini",
+      "year": 2016,
+      "subtitle": "Dir: Claude Barras",
+      "description": "A police officer (Nick Offerman) and some new friends help an orphan adjust to life at a foster home.",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/my_life_as_a_zucchini"
+    },
+    {
+      "id": "the-last-unicorn-1982",
+      "label": "The Last Unicorn",
+      "year": 1982,
+      "subtitle": "Dir: Jules Bass",
+      "description": "In this animated musical, the villainous King Haggard (Christopher Lee) plots to destroy all the world's unicorns. When a young unicorn (Mia Farrow) learns that... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/last_unicorn"
+    },
+    {
+      "id": "james-and-the-giant-peach-1996",
+      "label": "James and the Giant Peach",
+      "year": 1996,
+      "subtitle": "Dir: Henry Selick",
+      "description": "Featuring stop-motion animation and live action, this inventive adaptation of Roald Dahl's beloved children's tale follows the adventures of James (Paul Terry), an orphaned young... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/james_and_the_giant_peach"
+    },
+    {
+      "id": "wolf-children-2012",
+      "label": "Wolf Children",
+      "year": 2012,
+      "subtitle": "Dir: Mamoru Hosoda",
+      "description": "College student Hana falls in love with a \"wolf man\" and together they have two half-human, half-wolf children, Ame and Yuki. The young family's happy... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/wolf_children"
+    },
+    {
+      "id": "heavy-metal-1981",
+      "label": "Heavy Metal",
+      "year": 1981,
+      "subtitle": "Dir: Gerald Potterton",
+      "description": "Adventures from deep space to futuristic New York, and beyond. Each world and story is dominated by the presence of the Loch'nar -- the sum... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1068461-heavy_metal"
+    },
+    {
+      "id": "big-hero-6-2014",
+      "label": "Big Hero 6",
+      "year": 2014,
+      "subtitle": "Dir: Don Hall",
+      "description": "Robotics prodigy Hiro lives in the city of San Fransokyo. Next to his older brother, Tadashi, Hiro's closest companion is Baymax, a robot whose sole... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/big_hero_6"
+    },
+    {
+      "id": "a-bug-s-life-1998",
+      "label": "A Bug's Life",
+      "year": 1998,
+      "subtitle": "Dir: John Lasseter",
+      "description": "Flik is an inventive ant who's always messing things up for his colony. His latest mishap was destroying the food stores that were supposed to... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/a_bugs_life"
+    },
+    {
+      "id": "the-peanuts-movie-2015",
+      "label": "The Peanuts Movie",
+      "year": 2015,
+      "subtitle": "Dir: Steve Martino",
+      "description": "Life always seems complicated for good ol' Charlie Brown (Noah Schnapp), the boy who always tries his best against seemingly impossible odds. When the Little... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_peanuts_movie"
+    },
+    {
+      "id": "metropolis-2001",
+      "label": "Metropolis",
+      "year": 2001,
+      "subtitle": "Dir: Rintaro",
+      "description": "Visually stunning Japanese anime interpretation of Fritz Lang's classic film, also based on Osamu Tezuka's outstanding 1945 illustrations. A Japanese detective and his young nephew... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/metropolis_2001"
+    },
+    {
+      "id": "the-simpsons-movie-2007",
+      "label": "The Simpsons Movie",
+      "year": 2007,
+      "subtitle": "Dir: David Silverman",
+      "description": "The combination of Homer (Dan Castellaneta), his new pet pig, and a leaky silo full of excrement triggers a disaster that threatens not just Springfield... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_simpsons_movie"
+    },
+    {
+      "id": "wizards-1977",
+      "label": "Wizards",
+      "year": 1977,
+      "subtitle": "Dir: Ralph Bakshi",
+      "description": "After the death of his mother, the evil mutant wizard Blackwolf (Steve Gravers) discovers some long-lost military technologies. Full of ego and ambition, Blackwolf claims... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/wizards"
+    },
+    {
+      "id": "shrek-2-2004",
+      "label": "Shrek 2",
+      "year": 2004,
+      "subtitle": "Dir: Andrew Adamson",
+      "description": "After returning from their honeymoon and showing home movies to their friends, Shrek and Fiona learn that her parents have heard that she has married... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/shrek_2"
+    },
+    {
+      "id": "antz-1998",
+      "label": "Antz",
+      "year": 1998,
+      "subtitle": "Dir: Eric Darnell",
+      "description": "Z the worker ant (Woody Allen) strives to reconcile his own individuality with the communal work-ethic of the ant colony. He falls in love with... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/antz"
+    },
+    {
+      "id": "fritz-the-cat-1972",
+      "label": "Fritz the Cat",
+      "year": 1972,
+      "subtitle": "Dir: Ralph Bakshi",
+      "description": "Fritz, a college-age cat, dabbles in drugs, radical politics and hedonism, as he goes on a cross country adventure from New York City to the... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/fritz_the_cat"
+    },
+    {
+      "id": "jin-roh-the-wolf-brigade-1999",
+      "label": "Jin-Roh: The Wolf Brigade",
+      "year": 1999,
+      "subtitle": "Dir: Hiroyuki Okiura",
+      "description": "The movie \"Jin-Roh\" is about those in society who are predators among prey. But these \"beasts\" never bother to change their shape; like Red Riding... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/jin_roh_the_wolf_brigade"
+    },
+    {
+      "id": "the-girl-who-leapt-through-time-2006",
+      "label": "The Girl Who Leapt Through Time",
+      "year": 2006,
+      "subtitle": "Dir: Mamoru Hosoda",
+      "description": "Makoto is a typical teenage girl who spends most of her days slacking off with friends. One day while rushing to meet her aunt, she... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_girl_who_leapt_through_time"
+    },
+    {
+      "id": "tower-2016",
+      "label": "Tower",
+      "year": 2016,
+      "subtitle": "Dir: Keith Maitland",
+      "description": "On Aug. 1, 1966, a sniper rode the elevator to the top floor of the University of Texas Tower and opened fire, holding the campus... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/tower_2016"
+    },
+    {
+      "id": "tekkonkinkreet-2006",
+      "label": "Tekkonkinkreet",
+      "year": 2006,
+      "subtitle": "Dir: Michael Arias",
+      "description": "Black, a boy who seeks to bend the city to his will through strength, and White, his innocent counterpart, are two orphaned street kids living... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/tekkonkinkreet"
+    },
+    {
+      "id": "paranorman-2012",
+      "label": "ParaNorman",
+      "year": 2012,
+      "subtitle": "Dir: Chris Butler",
+      "description": "Young Norman Babcock (Kodi Smit-McPhee) has the ability to speak with the dead -- and he often prefers their company to that of the living.... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/paranorman"
+    },
+    {
+      "id": "anastasia-1997",
+      "label": "Anastasia",
+      "year": 1997,
+      "subtitle": "Dir: Don Bluth",
+      "description": "The evil wizard Rasputin puts a hex on the royal Romanovs and young Anastasia disappears when their palace is overrun. Years later, the Grand Duchess... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1079818-anastasia"
+    },
+    {
+      "id": "monster-house-2006",
+      "label": "Monster House",
+      "year": 2006,
+      "subtitle": "Dir: Gil Kenan",
+      "description": "No adults believe three youths' (Mitchel Musso, Spencer Locke, Sam Lerner) assertion that a neighboring residence is a living creature that means them harm. With... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/monster_house"
+    },
+    {
+      "id": "the-thief-and-the-cobbler-1993",
+      "label": "The Thief and the Cobbler",
+      "year": 1993,
+      "subtitle": "Dir: Richard Williams",
+      "description": "Three gold orbs must shine from a minaret to keep ancient Baghdad safe from an evil warrior and his hordes.",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_princess_and_the_cobbler"
+    },
+    {
+      "id": "redline-2009",
+      "label": "Redline",
+      "year": 2009,
+      "subtitle": "Dir: Takeshi Koike",
+      "description": "A daredevil driver falls for an alluring woman as he tries to win a race that occurs only once every five years.",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/redline_2011"
+    }
+  ]
+}

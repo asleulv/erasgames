@@ -2,7 +2,7 @@
 
 import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
-import { resolveTimelineSettings, yearGapForScore } from "@/lib/timeline-settings";
+import { getTimelineSettingsProfile, resolveTimelineSettings, yearGapForScore } from "@/lib/timeline-settings";
 import { createRng, getPlayableItems, makeSeed, pickWeighted } from "@/lib/timeline-engine";
 import type { TimelineGameData, TimelineItem } from "@/lib/timeline-types";
 import type { TimelineGameSettings } from "@/lib/timeline-settings";
@@ -103,7 +103,12 @@ export function TimelineGame({ game }: TimelineGameProps) {
   const [showResult, setShowResult] = useState(false);
   const activeRef = useRef<HTMLDivElement | null>(null);
   const pendingFlipRef = useRef<FlipSnapshot | null>(null);
-  const settings = useMemo(() => resolveTimelineSettings(game.settings), [game.settings]);
+  const todayDateStr = useMemo(() => new Date().toLocaleDateString("en-CA"), []);
+  const settingsProfile = useMemo(
+    () => getTimelineSettingsProfile(game.category, game.subcategory, todayDateStr),
+    [game.category, game.subcategory, todayDateStr]
+  );
+  const settings = useMemo(() => resolveTimelineSettings(settingsProfile, game.settings), [settingsProfile, game.settings]);
   const isMedia = game.category === "Movies" || game.category === "Movies & TV";
   const isTV = game.subcategory === "TV Shows" || game.subcategory === "TV Series" || game.id.includes("tv");
   const mediaNoun = isTV ? "show" : "movie";

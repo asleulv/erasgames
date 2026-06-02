@@ -1476,7 +1476,13 @@ body.dark .leaderboard-table th {
   border-color: rgba(255, 248, 229, 0.15) !important;
 }
 
+body.dark .leaderboard-table-wrapper {
+  background: #12110e !important;
+  border-color: rgba(255, 248, 229, 0.15) !important;
+}
+
 body.dark .leaderboard-table td {
+  color: rgba(255, 248, 229, 0.82) !important;
   border-color: rgba(255, 248, 229, 0.15) !important;
 }
 
@@ -1486,6 +1492,25 @@ body.dark .leaderboard-table tr.row-highlight {
 
 body.dark .col-player {
   color: #fff8e5 !important;
+}
+
+body.dark .col-rank,
+body.dark .col-date {
+  color: rgba(255, 248, 229, 0.68) !important;
+}
+
+body.dark .col-score {
+  color: #12110e !important;
+}
+
+body.dark .leaderboard-table td.col-score {
+  color: #12110e !important;
+}
+
+body.dark .leaderboard-table td.col-score {
+  background: var(--game-active-accent, var(--game-primary)) !important;
+  border-bottom-color: rgba(18, 17, 14, 0.35) !important;
+  box-shadow: inset 0 0 0 999px rgba(255, 248, 229, 0.08);
 }
 
 /* In-game Game Over Banner & Countdown Styles */

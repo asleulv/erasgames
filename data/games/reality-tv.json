@@ -1,0 +1,1597 @@
+{
+  "id": "reality-tv",
+  "slug": "reality-tv",
+  "title": "Reality TV Timeline",
+  "shortTitle": "Reality TV",
+  "description": "Place iconic reality TV shows in their correct premiere order.",
+  "category": "Movies & TV",
+  "subcategory": "TV Shows",
+  "sitePath": "/timeline/reality-tv",
+  "theme": {
+    "primary": "#EC4899",
+    "secondary": "#18181B",
+    "background": "#FDF2F8",
+    "text": "#18181B"
+  },
+  "share": {
+    "title": "Reality TV Timeline",
+    "description": "Can you place these iconic reality TV shows in their correct premiere order?",
+    "hashtags": [
+      "RealityTV",
+      "TVQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Reality TV Timeline Quiz - Eras Games",
+    "description": "Test your reality TV knowledge. Put iconic reality shows in their correct premiere order in this addictive timeline game.",
+    "keywords": [
+      "reality TV quiz",
+      "reality show quiz",
+      "TV timeline game",
+      "Eras Games"
+    ]
+  },
+  "items": [
+    {
+      "id": "survivor-2000",
+      "label": "Survivor",
+      "year": 2000,
+      "subtitle": "Reality TV",
+      "description": "#1 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #1",
+        "(2000-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-amazing-race-2001",
+      "label": "The Amazing Race",
+      "year": 2001,
+      "subtitle": "Reality TV",
+      "description": "#2 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #2",
+        "(2001-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "rupaul-s-drag-race-2009",
+      "label": "RuPaul's Drag Race",
+      "year": 2009,
+      "subtitle": "Reality TV",
+      "description": "#3 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #3",
+        "(2009-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-real-world-1992",
+      "label": "The Real World",
+      "year": 1992,
+      "subtitle": "Reality TV",
+      "description": "#4 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #4",
+        "(1992-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-great-british-baking-show-2010",
+      "label": "The Great British Baking Show",
+      "year": 2010,
+      "subtitle": "Reality TV",
+      "description": "#5 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #5",
+        "(2010-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-real-housewives-2006",
+      "label": "The Real Housewives",
+      "year": 2006,
+      "subtitle": "Reality TV",
+      "description": "#6 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #6",
+        "(2006-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "big-brother-2000",
+      "label": "Big Brother",
+      "year": 2000,
+      "subtitle": "Reality TV",
+      "description": "#7 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #7",
+        "(2000-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "project-runway-2004",
+      "label": "Project Runway",
+      "year": 2004,
+      "subtitle": "Reality TV",
+      "description": "#8 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #8",
+        "(2004-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-bachelor-2002",
+      "label": "The Bachelor",
+      "year": 2002,
+      "subtitle": "Reality TV",
+      "description": "#9 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #9",
+        "(2002-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "america-s-next-top-model-2003",
+      "label": "America's Next Top Model",
+      "year": 2003,
+      "subtitle": "Reality TV",
+      "description": "#10 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #10",
+        "(2003-2018)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "top-chef-2006",
+      "label": "Top Chef",
+      "year": 2006,
+      "subtitle": "Reality TV",
+      "description": "#11 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #11",
+        "(2006-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "american-idol-2002",
+      "label": "American Idol",
+      "year": 2002,
+      "subtitle": "Reality TV",
+      "description": "#12 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #12",
+        "(2002-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "keeping-up-with-the-kardashians-2007",
+      "label": "Keeping Up with the Kardashians",
+      "year": 2007,
+      "subtitle": "Reality TV",
+      "description": "#13 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #13",
+        "(2007-2021)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "queer-eye-2018",
+      "label": "Queer Eye",
+      "year": 2018,
+      "subtitle": "Reality TV",
+      "description": "#14 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #14",
+        "(2018-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-voice-2011",
+      "label": "The Voice",
+      "year": 2011,
+      "subtitle": "Reality TV",
+      "description": "#15 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #15",
+        "(2011-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-traitors-2023",
+      "label": "The Traitors",
+      "year": 2023,
+      "subtitle": "Reality TV",
+      "description": "#16 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #16",
+        "(2023-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "shark-tank-2009",
+      "label": "Shark Tank",
+      "year": 2009,
+      "subtitle": "Reality TV",
+      "description": "#17 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #17",
+        "(2009-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "90-day-fiance-2014",
+      "label": "90 Day Fiancé",
+      "year": 2014,
+      "subtitle": "Reality TV",
+      "description": "#18 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #18",
+        "(2014-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "love-island-2015",
+      "label": "Love Island",
+      "year": 2015,
+      "subtitle": "Reality TV",
+      "description": "#19 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #19",
+        "(2015-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "jersey-shore-2009",
+      "label": "Jersey Shore",
+      "year": 2009,
+      "subtitle": "Reality TV",
+      "description": "#20 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 100,
+      "tags": [
+        "List Obsession #20",
+        "(2009-2012)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "love-is-blind-2020",
+      "label": "Love Is Blind",
+      "year": 2020,
+      "subtitle": "Reality TV",
+      "description": "#21 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #21",
+        "(2020-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-circle-2020",
+      "label": "The Circle",
+      "year": 2020,
+      "subtitle": "Reality TV",
+      "description": "#22 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #22",
+        "(2020-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "masterchef-junior-2013",
+      "label": "MasterChef Junior",
+      "year": 2013,
+      "subtitle": "Reality TV",
+      "description": "#23 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #23",
+        "(2013-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-hills-2006",
+      "label": "The Hills",
+      "year": 2006,
+      "subtitle": "Reality TV",
+      "description": "#24 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #24",
+        "(2006-2010)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "selling-sunset-2019",
+      "label": "Selling Sunset",
+      "year": 2019,
+      "subtitle": "Reality TV",
+      "description": "#25 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #25",
+        "(2019-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-bachelorette-2003",
+      "label": "The Bachelorette",
+      "year": 2003,
+      "subtitle": "Reality TV",
+      "description": "#26 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #26",
+        "(2003-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "hell-s-kitchen-2005",
+      "label": "Hell's Kitchen",
+      "year": 2005,
+      "subtitle": "Reality TV",
+      "description": "#27 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #27",
+        "(2005-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "catfish-the-tv-show-2012",
+      "label": "Catfish: The TV Show",
+      "year": 2012,
+      "subtitle": "Reality TV",
+      "description": "#28 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #28",
+        "(2012-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "flavor-of-love-2006",
+      "label": "Flavor of Love",
+      "year": 2006,
+      "subtitle": "Reality TV",
+      "description": "#29 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #29",
+        "(2006-2008)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "alone-2015",
+      "label": "Alone",
+      "year": 2015,
+      "subtitle": "Reality TV",
+      "description": "#30 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #30",
+        "(2015-2025)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "boston-med-2010",
+      "label": "Boston Med",
+      "year": 2010,
+      "subtitle": "Reality TV",
+      "description": "#31 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #31",
+        "(2010)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "siren-survive-the-island-2023",
+      "label": "Siren: Survive the Island",
+      "year": 2023,
+      "subtitle": "Reality TV",
+      "description": "#32 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #32",
+        "(2023)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-simple-life-2003",
+      "label": "The Simple Life",
+      "year": 2003,
+      "subtitle": "Reality TV",
+      "description": "#33 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #33",
+        "(2003-2007)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "love-and-hip-hop-new-york-2010",
+      "label": "Love and Hip Hop: New York",
+      "year": 2010,
+      "subtitle": "Reality TV",
+      "description": "#34 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #34",
+        "(2010-2020)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "vanderpump-rules-2013",
+      "label": "Vanderpump Rules",
+      "year": 2013,
+      "subtitle": "Reality TV",
+      "description": "#35 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #35",
+        "(2013-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "masterchef-usa-2010",
+      "label": "MasterChef USA",
+      "year": 2010,
+      "subtitle": "Reality TV",
+      "description": "#36 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #36",
+        "(2010-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-mole-2001",
+      "label": "The Mole",
+      "year": 2001,
+      "subtitle": "Reality TV",
+      "description": "#37 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #37",
+        "(2001-2008)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "say-yes-to-the-dress-2007",
+      "label": "Say Yes to the Dress",
+      "year": 2007,
+      "subtitle": "Reality TV",
+      "description": "#38 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #38",
+        "(2007-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-challenge-1998",
+      "label": "The Challenge",
+      "year": 1998,
+      "subtitle": "Reality TV",
+      "description": "#39 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #39",
+        "(1998-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "dancing-with-the-stars-2005",
+      "label": "Dancing with the Stars",
+      "year": 2005,
+      "subtitle": "Reality TV",
+      "description": "#40 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #40",
+        "(2005-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "below-deck-2013",
+      "label": "Below Deck",
+      "year": 2013,
+      "subtitle": "Reality TV",
+      "description": "#41 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #41",
+        "(2013-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "bachelor-in-paradise-2011",
+      "label": "Bachelor in Paradise",
+      "year": 2011,
+      "subtitle": "Reality TV",
+      "description": "#42 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #42",
+        "(2011-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "jackass-2000",
+      "label": "Jackass",
+      "year": 2000,
+      "subtitle": "Reality TV",
+      "description": "#43 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #43",
+        "(2000-2007)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-osbournes-2002",
+      "label": "The Osbournes",
+      "year": 2002,
+      "subtitle": "Reality TV",
+      "description": "#44 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #44",
+        "(2002-2005)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "project-greenlight-2001",
+      "label": "Project Greenlight",
+      "year": 2001,
+      "subtitle": "Reality TV",
+      "description": "#45 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #45",
+        "(2001-2023)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "intervention-2005",
+      "label": "Intervention",
+      "year": 2005,
+      "subtitle": "Reality TV",
+      "description": "#46 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #46",
+        "(2005-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "diners-drive-ins-and-dives-2006",
+      "label": "Diners, Drive-Ins and Dives",
+      "year": 2006,
+      "subtitle": "Reality TV",
+      "description": "#47 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #47",
+        "(2006-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "impractical-jokers-2011",
+      "label": "Impractical Jokers",
+      "year": 2011,
+      "subtitle": "Reality TV",
+      "description": "#48 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #48",
+        "(2011-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "million-dollar-listing-los-angeles-2006",
+      "label": "Million Dollar Listing Los Angeles",
+      "year": 2006,
+      "subtitle": "Reality TV",
+      "description": "#49 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #49",
+        "(2006-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "so-you-think-you-can-dance-2005",
+      "label": "So You Think You Can Dance",
+      "year": 2005,
+      "subtitle": "Reality TV",
+      "description": "#50 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 92,
+      "tags": [
+        "List Obsession #50",
+        "(2005-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-real-housewives-of-beverly-hills-2010",
+      "label": "The Real Housewives of Beverly Hills",
+      "year": 2010,
+      "subtitle": "Reality TV",
+      "description": "#51 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #51",
+        "(2010-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "fear-factor-2001",
+      "label": "Fear Factor",
+      "year": 2001,
+      "subtitle": "Reality TV",
+      "description": "#52 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #52",
+        "(2001-2012)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-traitors-uk-2022",
+      "label": "The Traitors UK",
+      "year": 2022,
+      "subtitle": "Reality TV",
+      "description": "#53 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #53",
+        "(2022-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "my-super-sweet-16-2005",
+      "label": "My Super Sweet 16",
+      "year": 2005,
+      "subtitle": "Reality TV",
+      "description": "#54 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #54",
+        "(2005-2017)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "married-at-first-sight-2014",
+      "label": "Married at First Sight",
+      "year": 2014,
+      "subtitle": "Reality TV",
+      "description": "#55 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #55",
+        "(2014-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "painting-with-john-2021",
+      "label": "Painting with John",
+      "year": 2021,
+      "subtitle": "Reality TV",
+      "description": "#56 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #56",
+        "(2021-2023)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-office-u-s-2005",
+      "label": "The Office (U.S.)",
+      "year": 2005,
+      "subtitle": "Reality TV",
+      "description": "#57 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #57",
+        "(2005-2013)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "pawn-stars-2009",
+      "label": "Pawn Stars",
+      "year": 2009,
+      "subtitle": "Reality TV",
+      "description": "#58 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #58",
+        "(2009-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "wife-swap-2004",
+      "label": "Wife Swap",
+      "year": 2004,
+      "subtitle": "Reality TV",
+      "description": "#59 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #59",
+        "(2004-2010)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "chopped-2007",
+      "label": "Chopped",
+      "year": 2007,
+      "subtitle": "Reality TV",
+      "description": "#60 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #60",
+        "(2007-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "mythbusters-2003",
+      "label": "MythBusters",
+      "year": 2003,
+      "subtitle": "Reality TV",
+      "description": "#61 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #61",
+        "(2003-2018)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "undercover-boss-2010",
+      "label": "Undercover Boss",
+      "year": 2010,
+      "subtitle": "Reality TV",
+      "description": "#62 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #62",
+        "(2010-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "clarkson-s-farm-2021",
+      "label": "Clarkson's Farm",
+      "year": 2021,
+      "subtitle": "Reality TV",
+      "description": "#63 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #63",
+        "(2021-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "physical-100-2023",
+      "label": "Physical: 100",
+      "year": 2023,
+      "subtitle": "Reality TV",
+      "description": "#64 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #64",
+        "(2023-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "kitchen-nightmares-2007",
+      "label": "Kitchen Nightmares",
+      "year": 2007,
+      "subtitle": "Reality TV",
+      "description": "#65 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #65",
+        "(2007-2025)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-real-world-homecoming-2021",
+      "label": "The Real World Homecoming",
+      "year": 2021,
+      "subtitle": "Reality TV",
+      "description": "#66 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #66",
+        "(2021-2022)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "welcome-to-wrexham-2022",
+      "label": "Welcome to Wrexham",
+      "year": 2022,
+      "subtitle": "Reality TV",
+      "description": "#67 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #67",
+        "(2022-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "too-hot-to-handle-2020",
+      "label": "Too Hot to Handle",
+      "year": 2020,
+      "subtitle": "Reality TV",
+      "description": "#68 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #68",
+        "(2020-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "nailed-it-2018",
+      "label": "Nailed It!",
+      "year": 2018,
+      "subtitle": "Reality TV",
+      "description": "#69 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #69",
+        "(2018-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "love-island-usa-2019",
+      "label": "Love Island USA",
+      "year": 2019,
+      "subtitle": "Reality TV",
+      "description": "#70 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #70",
+        "(2019-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "love-on-the-spectrum-u-s-2022",
+      "label": "Love on the Spectrum U.S.",
+      "year": 2022,
+      "subtitle": "Reality TV",
+      "description": "#71 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #71",
+        "(2022-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "what-would-you-do-2009",
+      "label": "What Would You Do?",
+      "year": 2009,
+      "subtitle": "Reality TV",
+      "description": "#72 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #72",
+        "(2009-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "laguna-beach-the-real-orange-county-2004",
+      "label": "Laguna Beach: The Real Orange County",
+      "year": 2004,
+      "subtitle": "Reality TV",
+      "description": "#73 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #73",
+        "(2004-2006)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "taxicab-confessions-1995",
+      "label": "Taxicab Confessions",
+      "year": 1995,
+      "subtitle": "Reality TV",
+      "description": "#74 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #74",
+        "(1995-2010)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "making-the-band-2000",
+      "label": "Making the Band",
+      "year": 2000,
+      "subtitle": "Reality TV",
+      "description": "#75 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #75",
+        "(2000-2002)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-biggest-loser-2004",
+      "label": "The Biggest Loser",
+      "year": 2004,
+      "subtitle": "Reality TV",
+      "description": "#76 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #76",
+        "(2004-2020)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "are-you-sure-2024",
+      "label": "Are You Sure?!",
+      "year": 2024,
+      "subtitle": "Reality TV",
+      "description": "#77 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #77",
+        "(2024-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "light-magic-2022",
+      "label": "Light & Magic",
+      "year": 2022,
+      "subtitle": "Reality TV",
+      "description": "#78 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #78",
+        "(2022-2025)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "dance-moms-2011",
+      "label": "Dance Moms",
+      "year": 2011,
+      "subtitle": "Reality TV",
+      "description": "#79 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #79",
+        "(2011-2019)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "bands-on-the-run-2001",
+      "label": "Bands on the Run",
+      "year": 2001,
+      "subtitle": "Reality TV",
+      "description": "#80 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #80",
+        "(2001-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "cops-1989",
+      "label": "Cops",
+      "year": 1989,
+      "subtitle": "Reality TV",
+      "description": "#81 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #81",
+        "(1989-2005)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "little-people-big-world-2006",
+      "label": "Little People, Big World",
+      "year": 2006,
+      "subtitle": "Reality TV",
+      "description": "#82 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #82",
+        "(2006-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "extreme-makeover-home-edition-2004",
+      "label": "Extreme Makeover: Home Edition",
+      "year": 2004,
+      "subtitle": "Reality TV",
+      "description": "#83 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #83",
+        "(2004-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "next-2005",
+      "label": "NEXT",
+      "year": 2005,
+      "subtitle": "Reality TV",
+      "description": "#84 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #84",
+        "(2005-2008)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "come-dine-with-me-2005",
+      "label": "Come Dine With Me",
+      "year": 2005,
+      "subtitle": "Reality TV",
+      "description": "#85 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #85",
+        "(2005-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "extreme-makeover-2002",
+      "label": "Extreme Makeover",
+      "year": 2002,
+      "subtitle": "Reality TV",
+      "description": "#86 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #86",
+        "(2002-2007)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-apprentice-2004",
+      "label": "The Apprentice",
+      "year": 2004,
+      "subtitle": "Reality TV",
+      "description": "#87 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #87",
+        "(2004-2017)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "true-life-1998",
+      "label": "True Life",
+      "year": 1998,
+      "subtitle": "Reality TV",
+      "description": "#88 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #88",
+        "(1998-2020)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "hoarders-2009",
+      "label": "Hoarders",
+      "year": 2009,
+      "subtitle": "Reality TV",
+      "description": "#89 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #89",
+        "(2009-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "my-unorthodox-life-2021",
+      "label": "My Unorthodox Life",
+      "year": 2021,
+      "subtitle": "Reality TV",
+      "description": "#90 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #90",
+        "(2021-2022)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "america-s-got-talent-2006",
+      "label": "America's Got Talent",
+      "year": 2006,
+      "subtitle": "Reality TV",
+      "description": "#91 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #91",
+        "(2006-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "ramsay-s-kitchen-nightmares-2004",
+      "label": "Ramsay's Kitchen Nightmares",
+      "year": 2004,
+      "subtitle": "Reality TV",
+      "description": "#92 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #92",
+        "(2004-2014)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "born-this-way-2015",
+      "label": "Born This Way",
+      "year": 2015,
+      "subtitle": "Reality TV",
+      "description": "#93 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #93",
+        "(2015-2019)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "jerrod-carmichael-reality-show-2024",
+      "label": "Jerrod Carmichael Reality Show",
+      "year": 2024,
+      "subtitle": "Reality TV",
+      "description": "#94 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #94",
+        "(2024)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "offline-love-2025",
+      "label": "Offline Love",
+      "year": 2025,
+      "subtitle": "Reality TV",
+      "description": "#95 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #95",
+        "(2025-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "deadliest-catch-2005",
+      "label": "Deadliest Catch",
+      "year": 2005,
+      "subtitle": "Reality TV",
+      "description": "#96 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #96",
+        "(2005-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "wipeout-2008",
+      "label": "Wipeout",
+      "year": 2008,
+      "subtitle": "Reality TV",
+      "description": "#97 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #97",
+        "(2008-2014, 2021-2025)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "bling-empire-2021",
+      "label": "Bling Empire",
+      "year": 2021,
+      "subtitle": "Reality TV",
+      "description": "#98 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #98",
+        "(2021-2022)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "jon-kate-plus-8-2007",
+      "label": "Jon & Kate Plus 8",
+      "year": 2007,
+      "subtitle": "Reality TV",
+      "description": "#99 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #99",
+        "(2007-2009)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-masked-singer-2019",
+      "label": "The Masked Singer",
+      "year": 2019,
+      "subtitle": "Reality TV",
+      "description": "#100 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 82,
+      "tags": [
+        "List Obsession #100",
+        "(2019-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "bad-girls-club-2006",
+      "label": "Bad Girls Club",
+      "year": 2006,
+      "subtitle": "Reality TV",
+      "description": "#101 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #101",
+        "(2006-2017)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "love-after-lockup-2018",
+      "label": "Love After Lockup",
+      "year": 2018,
+      "subtitle": "Reality TV",
+      "description": "#102 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #102",
+        "(2018-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-boyfriend-2024",
+      "label": "The Boyfriend",
+      "year": 2024,
+      "subtitle": "Reality TV",
+      "description": "#103 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #103",
+        "(2024-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "are-you-the-one-2014",
+      "label": "Are You the One?",
+      "year": 2014,
+      "subtitle": "Reality TV",
+      "description": "#104 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #104",
+        "(2014-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "man-vs-wild-2006",
+      "label": "Man vs. Wild",
+      "year": 2006,
+      "subtitle": "Reality TV",
+      "description": "#105 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #105",
+        "(2006-2020)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "teen-mom-og-2009",
+      "label": "Teen Mom OG",
+      "year": 2009,
+      "subtitle": "Reality TV",
+      "description": "#106 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #106",
+        "(2009-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "naked-and-afraid-2013",
+      "label": "Naked and Afraid",
+      "year": 2013,
+      "subtitle": "Reality TV",
+      "description": "#107 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #107",
+        "(2013-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-kardashians-2022",
+      "label": "The Kardashians",
+      "year": 2022,
+      "subtitle": "Reality TV",
+      "description": "#108 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #108",
+        "(2022-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "dirty-jobs-2005",
+      "label": "Dirty Jobs",
+      "year": 2005,
+      "subtitle": "Reality TV",
+      "description": "#109 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #109",
+        "(2005-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "antiques-roadshow-1979",
+      "label": "Antiques Roadshow",
+      "year": 1979,
+      "subtitle": "Reality TV",
+      "description": "#110 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #110",
+        "(1979-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "manor-house-2002",
+      "label": "Manor House",
+      "year": 2002,
+      "subtitle": "Reality TV",
+      "description": "#111 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #111",
+        "(2002)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "our-great-national-parks-2022",
+      "label": "Our Great National Parks",
+      "year": 2022,
+      "subtitle": "Reality TV",
+      "description": "#112 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #112",
+        "(2022)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "duck-dynasty-2012",
+      "label": "Duck Dynasty",
+      "year": 2012,
+      "subtitle": "Reality TV",
+      "description": "#113 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #113",
+        "(2012-2017)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "the-ultimatum-queer-love-2023",
+      "label": "The Ultimatum: Queer Love",
+      "year": 2023,
+      "subtitle": "Reality TV",
+      "description": "#114 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #114",
+        "(2023-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "newlyweds-nick-jessica-2003",
+      "label": "Newlyweds: Nick & Jessica",
+      "year": 2003,
+      "subtitle": "Reality TV",
+      "description": "#115 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #115",
+        "(2003-2005)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "face-off-2011",
+      "label": "Face Off",
+      "year": 2011,
+      "subtitle": "Reality TV",
+      "description": "#116 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #116",
+        "(2011-2018)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "next-in-fashion-2020",
+      "label": "Next in Fashion",
+      "year": 2020,
+      "subtitle": "Reality TV",
+      "description": "#117 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #117",
+        "(2020-2023)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "basketball-wives-2010",
+      "label": "Basketball Wives",
+      "year": 2010,
+      "subtitle": "Reality TV",
+      "description": "#118 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #118",
+        "(2010-present)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "circus-2010",
+      "label": "Circus",
+      "year": 2010,
+      "subtitle": "Reality TV",
+      "description": "#119 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #119",
+        "(2010)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    },
+    {
+      "id": "love-on-the-spectrum-australia-2019",
+      "label": "Love on the Spectrum Australia",
+      "year": 2019,
+      "subtitle": "Reality TV",
+      "description": "#120 in List Obsession's aggregated Best TV Reality Shows of All Time list, compiled from 28 ranked lists.",
+      "popularity": 70,
+      "tags": [
+        "List Obsession #120",
+        "(2019-2021)"
+      ],
+      "source": "https://www.listobsession.com/?p=11204"
+    }
+  ]
+}

@@ -1,0 +1,1517 @@
+{
+  "id": "sci-fi-movies",
+  "slug": "sci-fi-movies",
+  "title": "Sci-Fi Movies Timeline",
+  "shortTitle": "Sci-Fi",
+  "description": "Place essential science fiction movies in their correct release order.",
+  "category": "Movies & TV",
+  "subcategory": "Movies",
+  "sitePath": "/timeline/sci-fi-movies",
+  "theme": {
+    "primary": "#2563EB",
+    "secondary": "#111827",
+    "background": "#EEF5FF",
+    "text": "#111827"
+  },
+  "share": {
+    "title": "Sci-Fi Movies Timeline",
+    "description": "Can you place these essential sci-fi movies in their correct release order?",
+    "hashtags": [
+      "SciFiMovies",
+      "MovieQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Sci-Fi Movies Timeline Quiz - Eras Games",
+    "description": "Test your science fiction movie knowledge. Put essential sci-fi films in their correct release order in this addictive timeline game.",
+    "keywords": [
+      "sci-fi movie quiz",
+      "science fiction movies",
+      "movie timeline game",
+      "Eras Games"
+    ]
+  },
+  "items": [
+    {
+      "id": "2001-a-space-odyssey-1968",
+      "label": "2001: A Space Odyssey",
+      "year": 1968,
+      "subtitle": "Dir: Stanley Kubrick",
+      "description": "An imposing black structure provides a connection between the past and the future in this enigmatic adaptation of a short story by revered sci-fi author... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/2001_a_space_odyssey"
+    },
+    {
+      "id": "back-to-the-future-1985",
+      "label": "Back to the Future",
+      "year": 1985,
+      "subtitle": "Dir: Robert Zemeckis",
+      "description": "In this 1980s sci-fi classic, small-town California teen Marty McFly is thrown back into the '50s when an experiment by his eccentric scientist friend Doc... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/back_to_the_future"
+    },
+    {
+      "id": "blade-runner-1982",
+      "label": "Blade Runner",
+      "year": 1982,
+      "subtitle": "Dir: Ridley Scott",
+      "description": "Deckard (Harrison Ford) is forced by the police Boss (M. Emmet Walsh) to continue his old job as Replicant Hunter. His assignment: eliminate four escaped... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/blade_runner"
+    },
+    {
+      "id": "metropolis-1927",
+      "label": "Metropolis",
+      "year": 1927,
+      "subtitle": "Dir: Fritz Lang",
+      "description": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/metropolis"
+    },
+    {
+      "id": "star-wars-episode-iv-a-new-hope-1977",
+      "label": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "subtitle": "Dir: George Lucas",
+      "description": "The Imperial Forces -- under orders from cruel Darth Vader (David Prowse) -- hold Princess Leia (Carrie Fisher) hostage, in their efforts to quell the... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/star_wars_episode_iv_a_new_hope"
+    },
+    {
+      "id": "the-matrix-1999",
+      "label": "The Matrix",
+      "year": 1999,
+      "subtitle": "Dir: Lilly Wachowski",
+      "description": "Neo believes that Morpheus, an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/matrix"
+    },
+    {
+      "id": "inception-2010",
+      "label": "Inception",
+      "year": 2010,
+      "subtitle": "Dir: Christopher Nolan",
+      "description": "Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/inception"
+    },
+    {
+      "id": "terminator-2-judgment-day-1991",
+      "label": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "subtitle": "Dir: James Cameron",
+      "description": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/terminator_2_judgment_day"
+    },
+    {
+      "id": "alien-1979",
+      "label": "Alien",
+      "year": 1979,
+      "subtitle": "Dir: Ridley Scott",
+      "description": "In deep space, the crew of the commercial starship Nostromo is awakened from their cryo-sleep capsules halfway through their journey home to investigate a distress... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/alien"
+    },
+    {
+      "id": "mad-max-fury-road-2015",
+      "label": "Mad Max: Fury Road",
+      "year": 2015,
+      "subtitle": "Dir: George Miller",
+      "description": "Years after the collapse of civilization, the tyrannical Immortan Joe enslaves apocalypse survivors inside the desert fortress the Citadel. When the warrior Imperator Furiosa leads... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/mad_max_fury_road"
+    },
+    {
+      "id": "the-thing-1982",
+      "label": "The Thing",
+      "year": 1982,
+      "subtitle": "Dir: John Carpenter",
+      "description": "In remote Antarctica, a group of American research scientists are disturbed at their base camp by a helicopter shooting at a sled dog. When they... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1021244-thing"
+    },
+    {
+      "id": "star-wars-episode-v-the-empire-strikes-back-1980",
+      "label": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "subtitle": "Dir: Irvin Kershner",
+      "description": "The adventure continues in this \"Star Wars\" sequel. Luke Skywalker (Mark Hamill), Han Solo (Harrison Ford), Princess Leia (Carrie Fisher) and Chewbacca (Peter Mayhew) face... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/star_wars_episode_v_the_empire_strikes_back"
+    },
+    {
+      "id": "aliens-1986",
+      "label": "Aliens",
+      "year": 1986,
+      "subtitle": "Dir: James Cameron",
+      "description": "After floating in space for 57 years, Lt. Ripley's shuttle is found by a deep space salvage team. Upon arriving at LV-426, the marines find... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1000617-aliens"
+    },
+    {
+      "id": "edge-of-tomorrow-2014",
+      "label": "Edge of Tomorrow",
+      "year": 2014,
+      "subtitle": "Dir: Doug Liman",
+      "description": "When Earth falls under attack from invincible aliens, no military unit in the world is able to beat them. Maj. William Cage (Tom Cruise), an... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/live_die_repeat_edge_of_tomorrow"
+    },
+    {
+      "id": "the-terminator-1984",
+      "label": "The Terminator",
+      "year": 1984,
+      "subtitle": "Dir: James Cameron",
+      "description": "Disguised as a human, a cyborg assassin known as a Terminator (Arnold Schwarzenegger) travels from 2029 to 1984 to kill Sarah Connor (Linda Hamilton). Sent... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/terminator"
+    },
+    {
+      "id": "children-of-men-2006",
+      "label": "Children of Men",
+      "year": 2006,
+      "subtitle": "Dir: Alfonso Cuarón",
+      "description": "When infertility threatens mankind with extinction and the last child born has perished, a disillusioned bureaucrat (Clive Owen) becomes the unlikely champion in the fight... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/children_of_men"
+    },
+    {
+      "id": "akira-1988",
+      "label": "Akira",
+      "year": 1988,
+      "subtitle": "Dir: Katsuhiro Ohtomo",
+      "description": "In 1988 the Japanese government drops an atomic bomb on Tokyo after ESP experiments on children go awry. In 2019, 31 years after nuking the... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/akira"
+    },
+    {
+      "id": "the-day-the-earth-stood-still-1951",
+      "label": "The Day the Earth Stood Still",
+      "year": 1951,
+      "subtitle": "Dir: Robert Wise",
+      "description": "When a UFO lands in Washington, D.C., bearing a message for Earth's leaders, all of humanity stands still. Klaatu has come on behalf of alien... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1005371-day_the_earth_stood_still"
+    },
+    {
+      "id": "robocop-1987",
+      "label": "RoboCop",
+      "year": 1987,
+      "subtitle": "Dir: Paul Verhoeven",
+      "description": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1017712-robocop"
+    },
+    {
+      "id": "a-clockwork-orange-1971",
+      "label": "A Clockwork Orange",
+      "year": 1971,
+      "subtitle": "Dir: Stanley Kubrick",
+      "description": "In an England of the future, Alex and his \"Droogs\" spend their nights getting high at the Korova Milkbar before embarking on \"a little of... View Full Synopsis",
+      "popularity": 100,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/clockwork_orange"
+    },
+    {
+      "id": "district-9-2009",
+      "label": "District 9",
+      "year": 2009,
+      "subtitle": "Dir: Neill Blomkamp",
+      "description": "Thirty years ago, aliens arrive on Earth -- not to conquer or give aid, but -- to find refuge from their dying planet. Separated from... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/district_9"
+    },
+    {
+      "id": "star-trek-ii-the-wrath-of-khan-1982",
+      "label": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
+      "subtitle": "Dir: Nicholas Meyer",
+      "description": "As Adm. James T. Kirk (William Shatner) and Capt. Spock (Leonard Nimoy) monitor trainees at Starfleet Academy, another vessel from the United Federation of Planets... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/star_trek_ii_the_wrath_of_khan"
+    },
+    {
+      "id": "brazil-1985",
+      "label": "Brazil",
+      "year": 1985,
+      "subtitle": "Dir: Terry Gilliam",
+      "description": "Low-level bureaucrat Sam Lowry (Jonathan Pryce) escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1003033-brazil"
+    },
+    {
+      "id": "ghost-in-the-shell-1995",
+      "label": "Ghost in the Shell",
+      "year": 1995,
+      "subtitle": "Dir: Mamoru Oshii",
+      "description": "In this Japanese animation, cyborg federal agent Maj. Motoko Kusanagi (Mimi Woods) trails \"The Puppet Master\" (Abe Lasser), who illegally hacks into the computerized minds... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/ghost_in_the_shell"
+    },
+    {
+      "id": "gattaca-1997",
+      "label": "Gattaca",
+      "year": 1997,
+      "subtitle": "Dir: Andrew Niccol",
+      "description": "Vincent Freeman has always fantasized about traveling into outer space, but is grounded by his status as a genetically inferior in-valid. He decides to fight... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/gattaca"
+    },
+    {
+      "id": "stalker-1979",
+      "label": "Stalker",
+      "year": 1979,
+      "subtitle": "Dir: Andrei Tarkovsky",
+      "description": "In an unnamed country at an unspecified time, there is a fiercely protected post-apocalyptic wasteland known as The Zone. An illegal guide (Aleksandr Kajdanovsky), whose... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1043378-stalker"
+    },
+    {
+      "id": "primer-2004",
+      "label": "Primer",
+      "year": 2004,
+      "subtitle": "Dir: Shane Carruth",
+      "description": "Intellectual engineers Aaron (Shane Carruth) and Abe (David Sullivan) build and sell error-checking technology with the help of their friends Robert (Casey Gooden) and Phillip... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/primer"
+    },
+    {
+      "id": "jurassic-park-1993",
+      "label": "Jurassic Park",
+      "year": 1993,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "In Steven Spielberg's massive blockbuster, paleontologists Alan Grant (Sam Neill) and Ellie Sattler (Laura Dern) and mathematician Ian Malcolm (Jeff Goldblum) are among a select... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/jurassic_park"
+    },
+    {
+      "id": "12-monkeys-1995",
+      "label": "12 Monkeys",
+      "year": 1995,
+      "subtitle": "Dir: Terry Gilliam",
+      "description": "Traveling back in time isn't simple, as James Cole (Bruce Willis) learns the hard way. Imprisoned in the 2030s, James is recruited for a mission... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/12_monkeys"
+    },
+    {
+      "id": "forbidden-planet-1956",
+      "label": "Forbidden Planet",
+      "year": 1956,
+      "subtitle": "Dir: Fred M. Wilcox",
+      "description": "In this sci-fi classic, a spacecraft travels to the distant planet Altair IV to discover the fate of a group of scientists sent there decades... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/forbidden_planet"
+    },
+    {
+      "id": "godzilla-1954",
+      "label": "Godzilla",
+      "year": 1954,
+      "subtitle": "Dir: Ishirô Honda",
+      "description": "A fire-breathing behemoth terrorizes Japan after an atomic bomb awakens it from its centuries-old sleep.",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/godzilla_1956"
+    },
+    {
+      "id": "e-t-the-extra-terrestrial-1982",
+      "label": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott. Bringing the extraterrestrial into his... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/et_the_extraterrestrial"
+    },
+    {
+      "id": "wall-e-2008",
+      "label": "WALL-E",
+      "year": 2008,
+      "subtitle": "Dir: Andrew Stanton",
+      "description": "WALL-E, short for Waste Allocation Load Lifter Earth-class, is the last robot left on Earth. He spends his days tidying up the planet, one piece... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/wall_e"
+    },
+    {
+      "id": "ex-machina-2014",
+      "label": "Ex Machina",
+      "year": 2014,
+      "subtitle": "Dir: Alex Garland",
+      "description": "Caleb Smith (Domhnall Gleeson) a programmer at a huge Internet company, wins a contest that enables him to spend a week at the private estate... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/ex_machina"
+    },
+    {
+      "id": "arrival-2016",
+      "label": "Arrival",
+      "year": 2016,
+      "subtitle": "Dir: Denis Villeneuve",
+      "description": "Linguistics professor Louise Banks leads an elite team of investigators when gigantic spaceships touch down in 12 locations around the world. As nations teeter on... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/arrival_2016"
+    },
+    {
+      "id": "close-encounters-of-the-third-kind-1977",
+      "label": "Close Encounters of the Third Kind",
+      "year": 1977,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "Science fiction adventure about a group of people who attempt to contact alien intelligence. Roy Neary (Richard Dreyfuss) witnesses an unidentified flying object, and even... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/close_encounters_of_the_third_kind"
+    },
+    {
+      "id": "looper-2012",
+      "label": "Looper",
+      "year": 2012,
+      "subtitle": "Dir: Rian Johnson",
+      "description": "In a future society, time-travel exists, but it's only available to those with the means to pay for it on the black market. When the... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/looper"
+    },
+    {
+      "id": "interstellar-2014",
+      "label": "Interstellar",
+      "year": 2014,
+      "subtitle": "Dir: Christopher Nolan",
+      "description": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist,... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/interstellar_2014"
+    },
+    {
+      "id": "gravity-2013",
+      "label": "Gravity",
+      "year": 2013,
+      "subtitle": "Dir: Alfonso Cuarón",
+      "description": "Dr. Ryan Stone is a medical engineer on her first shuttle mission. Her commander is veteran astronaut Matt Kowalsky, helming his last flight before retirement.... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/gravity_2013"
+    },
+    {
+      "id": "the-martian-2015",
+      "label": "The Martian",
+      "year": 2015,
+      "subtitle": "Dir: Ridley Scott",
+      "description": "When astronauts blast off from the planet Mars, they leave behind Mark Watney, presumed dead after a fierce storm. With only a meager amount of... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_martian"
+    },
+    {
+      "id": "moon-2009",
+      "label": "Moon",
+      "year": 2009,
+      "subtitle": "Dir: Duncan Jones",
+      "description": "Astronaut Sam Bell's (Sam Rockwell) three-year shift at a lunar mine is finally coming to an end, and he's looking forward to his reunion with... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/moon"
+    },
+    {
+      "id": "total-recall-1990",
+      "label": "Total Recall",
+      "year": 1990,
+      "subtitle": "Dir: Paul Verhoeven",
+      "description": "Douglas Quaid is a bored construction worker in the year 2084 who dreams of visiting colonized Mars. He visits \"Rekall,\" a company that plants false... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/total_recall"
+    },
+    {
+      "id": "fantastic-planet-1973",
+      "label": "Fantastic Planet",
+      "year": 1973,
+      "subtitle": "Dir: René Laloux",
+      "description": "This animated tale follows the relationship between the small human-like Oms and their much larger blue-skinned oppressors, the Draags, who rule the planet of Ygam.... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/fantastic_planet"
+    },
+    {
+      "id": "the-iron-giant-1999",
+      "label": "The Iron Giant",
+      "year": 1999,
+      "subtitle": "Dir: Brad Bird",
+      "description": "In this animated adaptation of Ted Hughes' Cold War fable, a giant alien robot crash-lands near the small town of Rockwell, Maine, in 1957. Exploring... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/iron_giant"
+    },
+    {
+      "id": "her-2013",
+      "label": "Her",
+      "year": 2013,
+      "subtitle": "Dir: Spike Jonze",
+      "description": "A sensitive and soulful man earns a living by writing personal letters for other people. Left heartbroken after his marriage ends, Theodore (Joaquin Phoenix) becomes... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/her"
+    },
+    {
+      "id": "solaris-1972",
+      "label": "Solaris",
+      "year": 1972,
+      "subtitle": "Dir: Andrei Tarkovsky",
+      "description": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/solaris_1976"
+    },
+    {
+      "id": "fantastic-voyage-1966",
+      "label": "Fantastic Voyage",
+      "year": 1966,
+      "subtitle": "Dir: Richard Fleischer",
+      "description": "The brilliant scientist Jan Benes develops a way to shrink humans, and other objects, for brief periods of time. Benes, who is working in communist... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/fantastic_voyage"
+    },
+    {
+      "id": "galaxy-quest-1999",
+      "label": "Galaxy Quest",
+      "year": 1999,
+      "subtitle": "Dir: Dean Parisot",
+      "description": "The stars of a 1970s sci-fi show -- now scraping a living through re-runs and sci-fi conventions are beamed aboard an alien spacecraft. Believing the... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/galaxy_quest"
+    },
+    {
+      "id": "blade-runner-2049-2017",
+      "label": "Blade Runner 2049",
+      "year": 2017,
+      "subtitle": "Dir: Denis Villeneuve",
+      "description": "Officer K (Ryan Gosling), a new Blade Runner for the Los Angeles Police Department, unearths a long-buried secret that has the potential to plunge what's... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/blade_runner_2049"
+    },
+    {
+      "id": "the-war-of-the-worlds-1953",
+      "label": "The War of the Worlds",
+      "year": 1953,
+      "subtitle": "Dir: Byron Haskin",
+      "description": "Scientist Clayton Forrester (Gene Barry) and Sylvia Van Buren (Ann Robinson) are the first to arrive at the site of a meteorite crash. Soon after,... View Full Synopsis",
+      "popularity": 92,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_war_of_the_worlds"
+    },
+    {
+      "id": "escape-from-new-york-1981",
+      "label": "Escape From New York",
+      "year": 1981,
+      "subtitle": "Dir: John Carpenter",
+      "description": "In 1997, a major war between the United States and the Soviet Union is concluding, and the entire island of Manhattan has been converted into... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1006717-escape_from_new_york"
+    },
+    {
+      "id": "star-trek-2009",
+      "label": "Star Trek",
+      "year": 2009,
+      "subtitle": "Dir: J.J. Abrams",
+      "description": "Aboard the USS Enterprise, the most-sophisticated starship ever built, a novice crew embarks on its maiden voyage. Their path takes them on a collision course... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/star_trek_11"
+    },
+    {
+      "id": "mad-max-2-the-road-warrior-1981",
+      "label": "Mad Max 2: The Road Warrior",
+      "year": 1981,
+      "subtitle": "Dir: George Miller",
+      "description": "After avenging the death of his wife and young son at the hands of a vicious gang leader, Max drives the post-apocalyptic highways of the... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/mad_max_2_the_road_warrior"
+    },
+    {
+      "id": "planet-of-the-apes-1968",
+      "label": "Planet of the Apes",
+      "year": 1968,
+      "subtitle": "Dir: Franklin J. Schaffner",
+      "description": "Complex sociological themes run through this science-fiction classic about three astronauts marooned on a futuristic planet where apes rule and humans are slaves. The stunned... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1016397-planet_of_the_apes"
+    },
+    {
+      "id": "predator-1987",
+      "label": "Predator",
+      "year": 1987,
+      "subtitle": "Dir: John McTiernan",
+      "description": "Dutch, a soldier of fortune, is hired by the U.S. government to secretly rescue a group of politicians trapped in Guatemala. But when Dutch and... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/predator"
+    },
+    {
+      "id": "invasion-of-the-body-snatchers-1956",
+      "label": "Invasion of the Body Snatchers",
+      "year": 1956,
+      "subtitle": "Dir: Don Siegel",
+      "description": "In Santa Mira, California, Dr. Miles Bennell (Kevin McCarthy) is baffled when all his patients come to him with the same complaint: their loved ones... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1010678-invasion_of_the_body_snatchers"
+    },
+    {
+      "id": "snowpiercer-2013",
+      "label": "Snowpiercer",
+      "year": 2013,
+      "subtitle": "Dir: Bong Joon Ho",
+      "description": "A post-apocalyptic ice age forces humanity's last survivors aboard a globe-spanning supertrain. One man will risk everything to lead a revolt for control of the... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/snowpiercer"
+    },
+    {
+      "id": "videodrome-1983",
+      "label": "Videodrome",
+      "year": 1983,
+      "subtitle": "Dir: David Cronenberg",
+      "description": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/videodrome"
+    },
+    {
+      "id": "them-1954",
+      "label": "Them!",
+      "year": 1954,
+      "subtitle": "Dir: Gordon Douglas",
+      "description": "While investigating a series of mysterious deaths, Sergeant Ben Peterson (James Whitmore) finds a young girl (Sandy Descher) who is unable to speak. As Peterson... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1021186-them"
+    },
+    {
+      "id": "alphaville-1965",
+      "label": "Alphaville",
+      "year": 1965,
+      "subtitle": "Dir: Jean-Luc Godard",
+      "description": "Government agent Lemmy Caution (Eddie Constantine) is dispatched on a secret mission to Alphaville, a dystopian metropolis in a distant corner of the galaxy. Caution... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/alphaville"
+    },
+    {
+      "id": "minority-report-2002",
+      "label": "Minority Report",
+      "year": 2002,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "Based on a story by famed science fiction writer Philip K. Dick, \"Minority Report\" is an action-detective thriller set in Washington D.C. in 2054, where... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/minority_report"
+    },
+    {
+      "id": "avatar-2009",
+      "label": "Avatar",
+      "year": 2009,
+      "subtitle": "Dir: James Cameron",
+      "description": "James Cameron's Academy Award®-winning 2009 epic adventure \"Avatar\", returns to theaters September 23 in stunning 4K High Dynamic Range. On the lush alien world of... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/avatar"
+    },
+    {
+      "id": "the-hunger-games-2012",
+      "label": "The Hunger Games",
+      "year": 2012,
+      "subtitle": "Dir: Gary Ross",
+      "description": "In what was once North America, the Capitol of Panem maintains its hold on its 12 districts by forcing them each to select a boy... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_hunger_games"
+    },
+    {
+      "id": "20-000-leagues-under-the-sea-1954",
+      "label": "20,000 Leagues Under the Sea",
+      "year": 1954,
+      "subtitle": "Dir: Richard Fleischer",
+      "description": "In 1866, Professor Pierre M. Aronnax (Paul Lukas) and his assistant Conseil (Peter Lorre), stranded in San Francisco by reports of a giant sea monster... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1000079-20000_leagues_under_the_sea"
+    },
+    {
+      "id": "soylent-green-1973",
+      "label": "Soylent Green",
+      "year": 1973,
+      "subtitle": "Dir: Richard Fleischer",
+      "description": "In a densely overpopulated, starving New York City of the future, NYPD detective Robert Thorn investigates the murder of an executive at rations manufacturer Soylent... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/soylent_green"
+    },
+    {
+      "id": "seconds-1966",
+      "label": "Seconds",
+      "year": 1966,
+      "subtitle": "Dir: John Frankenheimer",
+      "description": "Banker Arthur Hamilton (John Randolph) gets a call one day from a friend he thought was dead. It turns out that the friend is not... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/seconds"
+    },
+    {
+      "id": "they-live-1988",
+      "label": "They Live",
+      "year": 1988,
+      "subtitle": "Dir: John Carpenter",
+      "description": "Nada (Roddy Piper), a wanderer without meaning in his life, discovers a pair of sunglasses capable of showing the world the way it truly is.... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/they_live"
+    },
+    {
+      "id": "predestination-2014",
+      "label": "Predestination",
+      "year": 2014,
+      "subtitle": "Dir: Michael Spierig",
+      "description": "A temporal agent (Ethan Hawke) embarks on a final time-traveling assignment to prevent an elusive criminal from launching an attack that kills thousands of people.",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/predestination"
+    },
+    {
+      "id": "altered-states-1980",
+      "label": "Altered States",
+      "year": 1980,
+      "subtitle": "Dir: Ken Russell",
+      "description": "Respected scientist and psychology professor Edward Jessup (William Hurt) decides to combine his experiments in sensory deprivation tanks with powerful hallucinogenic drugs, convinced that it... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/altered_states"
+    },
+    {
+      "id": "rise-of-the-planet-of-the-apes-2011",
+      "label": "Rise of the Planet of the Apes",
+      "year": 2011,
+      "subtitle": "Dir: Rupert Wyatt",
+      "description": "Will Rodman, a scientist in San Francisco, is experimenting with a drug that he hopes will cure his father's Alzheimer's disease. After his work is... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/rise_of_the_planet_of_the_apes"
+    },
+    {
+      "id": "the-abyss-1989",
+      "label": "The Abyss",
+      "year": 1989,
+      "subtitle": "Dir: James Cameron",
+      "description": "Ed Harris and Mary Elizabeth Mastrantonio are formerly married petroleum engineers who still have some issues to work out. They are drafted to assist a... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/abyss"
+    },
+    {
+      "id": "source-code-2011",
+      "label": "Source Code",
+      "year": 2011,
+      "subtitle": "Dir: Duncan Jones",
+      "description": "Helicopter pilot Colter Stevens (Jake Gyllenhaal) is part of a top-secret military operation that enables him to experience the last few minutes in the life... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/source_code"
+    },
+    {
+      "id": "a-scanner-darkly-2006",
+      "label": "A Scanner Darkly",
+      "year": 2006,
+      "subtitle": "Dir: Richard Linklater",
+      "description": "In the near future, as America virtually loses the war on drugs, Robert Arctor, a narcotics cop in Orange County, Calif., becomes an addict when... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/scanner_darkly"
+    },
+    {
+      "id": "demolition-man-1993",
+      "label": "Demolition Man",
+      "year": 1993,
+      "subtitle": "Dir: Marco Brambilla",
+      "description": "With innocent victims caught in the crossfire in Los Angeles' intensifying war on crime, both cop John Spartan (Sylvester Stallone) and violent thug Simon Phoenix... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/demolition_man"
+    },
+    {
+      "id": "fahrenheit-451-1966",
+      "label": "Fahrenheit 451",
+      "year": 1966,
+      "subtitle": "Dir: François Truffaut",
+      "description": "Adaptation of the Ray Bradbury novel about a future society that has banned all reading material and the job of the firemen is to keep... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1007003-fahrenheit_451"
+    },
+    {
+      "id": "idiocracy-2006",
+      "label": "Idiocracy",
+      "year": 2006,
+      "subtitle": "Dir: Mike Judge",
+      "description": "In 2005, average in every way private Joe Bowers (Luke Wilson) is selected to take part in a secret military experiment to put him in... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/idiocracy"
+    },
+    {
+      "id": "pacific-rim-2013",
+      "label": "Pacific Rim",
+      "year": 2013,
+      "subtitle": "Dir: Guillermo del Toro",
+      "description": "Long ago, legions of monstrous creatures called Kaiju arose from the sea, bringing with them all-consuming war. To fight the Kaiju, mankind developed giant robots... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/pacific_rim_2013"
+    },
+    {
+      "id": "donnie-darko-2001",
+      "label": "Donnie Darko",
+      "year": 2001,
+      "subtitle": "Dir: Richard Kelly",
+      "description": "In a funny, moving and distinctly mind-bending journey through suburban America, one extraordinary but disenchanted teenager is about to take Time's Arrow for a ride.... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/donnie_darko"
+    },
+    {
+      "id": "barbarella-1968",
+      "label": "Barbarella",
+      "year": 1968,
+      "subtitle": "Dir: Roger Vadim",
+      "description": "Barbarella (Jane Fonda) roams 41st-century space with her blind guardian angel, Pygar (John Phillip Law).",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/barbarella"
+    },
+    {
+      "id": "independence-day-1996",
+      "label": "Independence Day",
+      "year": 1996,
+      "subtitle": "Dir: Roland Emmerich",
+      "description": "In the epic adventure film \"Independence Day,\" strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1071806-independence_day"
+    },
+    {
+      "id": "bumblebee-2018",
+      "label": "Bumblebee",
+      "year": 2018,
+      "subtitle": "Dir: Travis Knight",
+      "description": "On the run in the year 1987, Bumblebee the Autobot seeks refuge in a junkyard in a small California beach town. Charlie, on the brink... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/bumblebee"
+    },
+    {
+      "id": "tron-1982",
+      "label": "Tron",
+      "year": 1982,
+      "subtitle": "Dir: Steven Lisberger",
+      "description": "When talented computer engineer Kevin Flynn (Jeff Bridges) finds out that Ed Dillinger (David Warner), an executive at his company, has been stealing his work,... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/tron"
+    },
+    {
+      "id": "men-in-black-1997",
+      "label": "Men in Black",
+      "year": 1997,
+      "subtitle": "Dir: Barry Sonnenfeld",
+      "description": "Working for a highly funded yet unofficial government agency, Kay and Jay are the Men in Black, providers of immigration services and regulators of all... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/men_in_black"
+    },
+    {
+      "id": "cloverfield-2008",
+      "label": "Cloverfield",
+      "year": 2008,
+      "subtitle": "Dir: Matt Reeves",
+      "description": "As a group of New Yorkers (Michael Stahl-David, Mike Vogel, Odette Yustman) enjoy a going-away party, little do they know that they will soon face... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/cloverfield"
+    },
+    {
+      "id": "the-fly-1986",
+      "label": "The Fly",
+      "year": 1986,
+      "subtitle": "Dir: David Cronenberg",
+      "description": "When scientist Seth Brundle completes his teleportation device, he decides to test its abilities on himself. Unbeknownst to him, a housefly slips in during the... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1007602-fly"
+    },
+    {
+      "id": "the-man-who-fell-to-earth-1976",
+      "label": "The Man Who Fell to Earth",
+      "year": 1976,
+      "subtitle": "Dir: Nicolas Roeg",
+      "description": "Thomas Jerome Newton (David Bowie) is an alien who has come to Earth in search of water to save his home planet. Aided by lawyer... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/man_who_fell_to_earth"
+    },
+    {
+      "id": "under-the-skin-2013",
+      "label": "Under the Skin",
+      "year": 2013,
+      "subtitle": "Dir: Jonathan Glazer",
+      "description": "Disguising herself as a human female, an extraterrestrial (Scarlett Johansson) drives around Scotland and tries to lure unsuspecting men into her van.",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/under_the_skin_2013"
+    },
+    {
+      "id": "dark-city-1998",
+      "label": "Dark City",
+      "year": 1998,
+      "subtitle": "Dir: Alex Proyas",
+      "description": "John Murdoch (Rufus Sewell) awakens alone in a strange hotel to find that he is wanted for a series of brutal murders. The problem is... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/dark_city"
+    },
+    {
+      "id": "the-adventures-of-buckaroo-banzai-across-the-eighth-dimension-1984",
+      "label": "The Adventures of Buckaroo Banzai Across the Eighth Dimension",
+      "year": 1984,
+      "subtitle": "Dir: W.D. Richter",
+      "description": "Buckaroo Banzai is caught with his trusted allies, the Hong Kong Cavaliers, in a battle to the death between evil red aliens and good black... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_adventures_of_buckaroo_banzai"
+    },
+    {
+      "id": "the-brother-from-another-planet-1984",
+      "label": "The Brother From Another Planet",
+      "year": 1984,
+      "subtitle": "Dir: John Sayles",
+      "description": "The Brother (Joe Morton) is an alien and escaped slave on the run from his home planet. After he lands in New York City, he... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_brother_from_another_planet"
+    },
+    {
+      "id": "dredd-2012",
+      "label": "Dredd",
+      "year": 2012,
+      "subtitle": "Dir: Pete Travis",
+      "description": "Mega City One is a vast, violent metropolis where felons rule the streets. The only law lies with cops called \"judges,\" who act as judge,... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/dredd"
+    },
+    {
+      "id": "v-for-vendetta-2005",
+      "label": "V for Vendetta",
+      "year": 2005,
+      "subtitle": "Dir: James McTeigue",
+      "description": "Following the world war, London is a police state occupied by a fascist government, and a vigilante known only as V uses terrorist tactics to... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/v_for_vendetta"
+    },
+    {
+      "id": "the-fifth-element-1997",
+      "label": "The Fifth Element",
+      "year": 1997,
+      "subtitle": "Dir: Luc Besson",
+      "description": "The Earth is about to be destroyed by a huge ball of fire racing toward the planet. Cornelius, an old monk, knows how to stop... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/fifth_element"
+    },
+    {
+      "id": "starship-troopers-1997",
+      "label": "Starship Troopers",
+      "year": 1997,
+      "subtitle": "Dir: Paul Verhoeven",
+      "description": "In the distant future, the Earth is at war with a race of giant alien insects. Little is known about the Bugs except that they... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/starship_troopers"
+    },
+    {
+      "id": "repo-man-1984",
+      "label": "Repo Man",
+      "year": 1984,
+      "subtitle": "Dir: Alex Cox",
+      "description": "After being fired from his job, Los Angeles slacker and punk rocker Otto (Emilio Estevez) lands a gig working for an eccentric repossession agent named... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/repo_man"
+    },
+    {
+      "id": "star-wars-the-force-awakens-2015",
+      "label": "Star Wars: The Force Awakens",
+      "year": 2015,
+      "subtitle": "Dir: J.J. Abrams",
+      "description": "Thirty years after the defeat of the Galactic Empire, the galaxy faces a new threat from the evil Kylo Ren (Adam Driver) and the First... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/star_wars_episode_vii_the_force_awakens"
+    },
+    {
+      "id": "a-quiet-place-2018",
+      "label": "A Quiet Place",
+      "year": 2018,
+      "subtitle": "Dir: John Krasinski",
+      "description": "If they hear you, they hunt you. A family must live in silence to avoid mysterious creatures that hunt by sound. Knowing that even the... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/a_quiet_place_2018"
+    },
+    {
+      "id": "the-host-2006",
+      "label": "The Host",
+      "year": 2006,
+      "subtitle": "Dir: Bong Joon Ho",
+      "description": "Careless American military personnel dump chemicals into South Korea's Han River. Several years later, a creature emerges from the tainted waters and sinks its ravenous... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_host_2007"
+    },
+    {
+      "id": "invasion-of-the-body-snatchers-1978",
+      "label": "Invasion of the Body Snatchers",
+      "year": 1978,
+      "subtitle": "Dir: Philip Kaufman",
+      "description": "This remake of the classic horror film is set in San Francisco. Matthew Bennell assumes that when a friend complains of her husband's strange mood,... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1010679-invasion_of_the_body_snatchers"
+    },
+    {
+      "id": "the-world-s-end-2013",
+      "label": "The World's End",
+      "year": 2013,
+      "subtitle": "Dir: Edgar Wright",
+      "description": "Gary King (Simon Pegg) is an immature 40-year-old who's dying to take another stab at an epic pub-crawl that he last attempted 20 years earlier.... View Full Synopsis",
+      "popularity": 82,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_worlds_end"
+    },
+    {
+      "id": "star-trek-first-contact-1996",
+      "label": "Star Trek: First Contact",
+      "year": 1996,
+      "subtitle": "Dir: Jonathan Frakes",
+      "description": "The Enterprise and its crew follow a Borg ship through a time warp to prevent the Borg from taking over the Earth in a past... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/star_trek_first_contact"
+    },
+    {
+      "id": "upgrade-2018",
+      "label": "Upgrade",
+      "year": 2018,
+      "subtitle": "Dir: Leigh Whannell",
+      "description": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure -- an... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/upgrade_2018"
+    },
+    {
+      "id": "attack-the-block-2011",
+      "label": "Attack the Block",
+      "year": 2011,
+      "subtitle": "Dir: Joe Cornish",
+      "description": "South London teenagers (John Boyega, Alex Esmail, Leeon Jones) defend their neighborhood from malevolent extraterrestrials.",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/attack_the_block"
+    },
+    {
+      "id": "thx-1138-1971",
+      "label": "THX 1138",
+      "year": 1971,
+      "subtitle": "Dir: George Lucas",
+      "description": "In the future, mankind lives in vast underground cities and free will is outlawed by means of mandatory medication that controls human emotion. But when... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/thx_1138"
+    },
+    {
+      "id": "turbo-kid-2015",
+      "label": "Turbo Kid",
+      "year": 2015,
+      "subtitle": "Dir: Anouk Whissell",
+      "description": "In a post-apocalyptic wasteland, an orphaned teen (Munro Chambers) must battle a ruthless warlord (Michael Ironside) to save the girl (Laurence Leboeuf) of his dreams.",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/turbo_kid"
+    },
+    {
+      "id": "serenity-2005",
+      "label": "Serenity",
+      "year": 2005,
+      "subtitle": "Dir: Joss Whedon",
+      "description": "In this continuation of the television series \"Firefly,\" a group of rebels travels the outskirts of space aboard their ship, Serenity, outside the reach of... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/serenity"
+    },
+    {
+      "id": "paprika-2006",
+      "label": "Paprika",
+      "year": 2006,
+      "subtitle": "Dir: Satoshi Kon",
+      "description": "Dr. Atsuko Chiba works as a scientist by day and, under the code name \"Paprika,\" is a dream detective at night. Atsuko and her colleagues... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/paprika"
+    },
+    {
+      "id": "open-your-eyes-1997",
+      "label": "Open Your Eyes",
+      "year": 1997,
+      "subtitle": "Dir: Alejandro Amenábar",
+      "description": "Handsome 25-year-old Cesar (Eduardo Noriega) had it all -- a successful career, expensive cars, a swank bachelor's pad, and an endless string of beautiful and... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/open_your_eyes_1999"
+    },
+    {
+      "id": "dark-star-1974",
+      "label": "Dark Star",
+      "year": 1974,
+      "subtitle": "Dir: John Carpenter",
+      "description": "A satiric look at the problems experienced by a crew of bumbling astronauts on a mission to destroy rogue planets.",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/dark_star"
+    },
+    {
+      "id": "liquid-sky-1982",
+      "label": "Liquid Sky",
+      "year": 1982,
+      "subtitle": "Dir: Slava Tsukerman",
+      "description": "An alien creature invades New York's punk subculture in its search for an opiate released by the brain during orgasm.",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/liquid_sky"
+    },
+    {
+      "id": "sunshine-2007",
+      "label": "Sunshine",
+      "year": 2007,
+      "subtitle": "Dir: Danny Boyle",
+      "description": "In the not-too-distant future, Earth's dying sun spells the end for humanity. In a last-ditch effort to save the planet, a crew of eight men... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/sunshine"
+    },
+    {
+      "id": "when-worlds-collide-1951",
+      "label": "When Worlds Collide",
+      "year": 1951,
+      "subtitle": "Dir: Rudolph Maté",
+      "description": "After Dr. Bronson (Hayden Rorke) discovers Zyra, a new planet, fellow astronomer Dr. Hendron (Larry Keating) checks Bronson's data and reaches the horrifying conclusion that... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/when_worlds_collide"
+    },
+    {
+      "id": "the-day-of-the-triffids-1963",
+      "label": "The Day of the Triffids",
+      "year": 1963,
+      "subtitle": "Dir: Steve Sekely",
+      "description": "After meteors enter Earth's atmosphere, blinding much of the planet's population in the process, plantlike creatures known as Triffids emerge from the craters and begin... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_day_of_the_triffids_1963"
+    },
+    {
+      "id": "a-i-artificial-intelligence-2001",
+      "label": "A.I.: Artificial Intelligence",
+      "year": 2001,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "A robotic boy, the first programmed to love, David is adopted as a test case by a Cybertronics employee and his wife. Though he gradually... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/ai_artificial_intelligence"
+    },
+    {
+      "id": "a-boy-and-his-dog-1975",
+      "label": "A Boy and His Dog",
+      "year": 1975,
+      "subtitle": "Dir: L.Q. Jones",
+      "description": "Vic is a libidinous 18-year-old traversing the post-apocalyptic desert of 2024, in the company of his telepathic dog, Blood. When the pair encounter an underground... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/boy_and_his_dog"
+    },
+    {
+      "id": "heavy-metal-1981",
+      "label": "Heavy Metal",
+      "year": 1981,
+      "subtitle": "Dir: Gerald Potterton",
+      "description": "Adventures from deep space to futuristic New York, and beyond. Each world and story is dominated by the presence of the Loch'nar -- the sum... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1068461-heavy_metal"
+    },
+    {
+      "id": "strange-days-1995",
+      "label": "Strange Days",
+      "year": 1995,
+      "subtitle": "Dir: Kathryn Bigelow",
+      "description": "Former policeman Lenny Nero (Ralph Fiennes) has moved into a more lucrative trade: the illegal sale of virtual reality-like recordings that allow users to experience... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/strange_days"
+    },
+    {
+      "id": "cube-1997",
+      "label": "Cube",
+      "year": 1997,
+      "subtitle": "Dir: Vincenzo Natali",
+      "description": "Without remembering how they got there, several strangers awaken in a prison of cubic cells, some of them booby-trapped. There's onetime cop Quentin (Maurice Dean... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/cube"
+    },
+    {
+      "id": "things-to-come-1936",
+      "label": "Things to Come",
+      "year": 1936,
+      "subtitle": "Dir: William Cameron Menzies",
+      "description": "It's Christmas 1940, and Everytown resident John Cabal (Raymond Massey) fears that war is imminent. When it breaks out, the war lasts 30 years, destroying... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/things_to_come"
+    },
+    {
+      "id": "scanners-1981",
+      "label": "Scanners",
+      "year": 1981,
+      "subtitle": "Dir: David Cronenberg",
+      "description": "Scanners are men and women born with incredible telepathic and telekinetic powers. There are many who exercise the benefits of their special gifts in a... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1018315-scanners"
+    },
+    {
+      "id": "the-blob-1958",
+      "label": "The Blob",
+      "year": 1958,
+      "subtitle": "Dir: Irvin S. Yeaworth Jr.",
+      "description": "A drive-in favorite, this sci-fi classic follows teenagers Steve (Steven McQueen) and his best girl, Jane (Aneta Corseaut), as they try to protect their hometown... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_blob"
+    },
+    {
+      "id": "logan-s-run-1976",
+      "label": "Logan's Run",
+      "year": 1976,
+      "subtitle": "Dir: Michael Anderson",
+      "description": "In the year 2274, young residents enjoy an idyllic, hedonistic lifestyle within the protective confines of a domed city. The general belief is that when... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/logans_run"
+    },
+    {
+      "id": "the-fountain-2006",
+      "label": "The Fountain",
+      "year": 2006,
+      "subtitle": "Dir: Darren Aronofsky",
+      "description": "A man (Hugh Jackman) travels through time on a quest for immortality and to save the woman (Rachel Weisz) he loves. As a 16th-century conquistador,... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_fountain"
+    },
+    {
+      "id": "rogue-one-a-star-wars-story-2016",
+      "label": "Rogue One: A Star Wars Story",
+      "year": 2016,
+      "subtitle": "Dir: Gareth Edwards",
+      "description": "Former scientist Galen Erso lives on a farm with his wife and young daughter, Jyn. His peaceful existence comes crashing down when the evil Orson... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/rogue_one_a_star_wars_story"
+    },
+    {
+      "id": "star-trek-iii-the-search-for-spock-1984",
+      "label": "Star Trek III: The Search for Spock",
+      "year": 1984,
+      "subtitle": "Dir: Leonard Nimoy",
+      "description": "Adm. James T. Kirk (William Shatner) has defeated his archenemy but at great cost. His friend Spock has apparently been killed, the USS Enterprise is... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/star_trek_iii_the_search_for_spock"
+    },
+    {
+      "id": "shin-godzilla-2016",
+      "label": "Shin Godzilla",
+      "year": 2016,
+      "subtitle": "Dir: Hideaki Anno",
+      "description": "Something has surfaced in Tokyo Bay. As the Prime Minister of Japan pleads with the public to remain calm, a horrific creature of tremendous size... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/godzilla_resurgence"
+    },
+    {
+      "id": "metropolis-2001",
+      "label": "Metropolis",
+      "year": 2001,
+      "subtitle": "Dir: Rintaro",
+      "description": "Visually stunning Japanese anime interpretation of Fritz Lang's classic film, also based on Osamu Tezuka's outstanding 1945 illustrations. A Japanese detective and his young nephew... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/metropolis_2001"
+    },
+    {
+      "id": "war-of-the-worlds-2005",
+      "label": "War of the Worlds",
+      "year": 2005,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "Dockworker Ray Ferrier (Tom Cruise) struggles to build a positive relationship with his two children, Rachel (Dakota Fanning) and Robbie (Justin Chatwin). When his ex-wife,... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/war_of_the_worlds"
+    },
+    {
+      "id": "silent-running-1972",
+      "label": "Silent Running",
+      "year": 1972,
+      "subtitle": "Dir: Douglas Trumbull",
+      "description": "After the end of all botanical life on Earth, ecologist Freeman Lowell (Bruce Dern) maintains a greenhouse on a space station in order to preserve... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/silent_running"
+    },
+    {
+      "id": "rollerball-1975",
+      "label": "Rollerball",
+      "year": 1975,
+      "subtitle": "Dir: Norman Jewison",
+      "description": "The year is 2018 in a futuristic society where corporations have replaced countries. A violent futuristic game known as Rollerball is the recreational sport of... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/rollerball"
+    },
+    {
+      "id": "plan-9-from-outer-space-1959",
+      "label": "Plan 9 From Outer Space",
+      "year": 1959,
+      "subtitle": "Dir: Edward D. Wood Jr.",
+      "description": "Residents of California's San Fernando Valley are under attack by flying saucers from outer space. The aliens, led by Eros (Dudley Manlove) and his assistant,... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/plan-9-from-outer-space"
+    },
+    {
+      "id": "ready-player-one-2018",
+      "label": "Ready Player One",
+      "year": 2018,
+      "subtitle": "Dir: Steven Spielberg",
+      "description": "In 2045, the creator of a virtual reality universe promises his fortune to the first person to discover a digital Easter egg. Soon, young Wade... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/ready_player_one"
+    },
+    {
+      "id": "alita-battle-angel-2019",
+      "label": "Alita: Battle Angel",
+      "year": 2019,
+      "subtitle": "Dir: Robert Rodriguez",
+      "description": "Set several centuries in the future, the abandoned Alita is found in the scrapyard of Iron City by Ido, a compassionate cyber-doctor who takes the... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/alita_battle_angel"
+    },
+    {
+      "id": "little-shop-of-horrors-1986",
+      "label": "Little Shop of Horrors",
+      "year": 1986,
+      "subtitle": "Dir: Frank Oz",
+      "description": "Meek flower shop assistant Seymour (Rick Moranis) pines for co-worker Audrey (Ellen Greene). During a total eclipse, he discovers an unusual plant he names Audrey... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1012515-little_shop_of_horrors"
+    },
+    {
+      "id": "flight-of-the-navigator-1986",
+      "label": "Flight of the Navigator",
+      "year": 1986,
+      "subtitle": "Dir: Randal Kleiser",
+      "description": "This 1978 Disney adventure tells the story of 12-year-old David (Joey Cramer) who lives with his family in Fort Lauderdale, Fla. When he awakens from... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/flight_of_the_navigator"
+    },
+    {
+      "id": "the-congress-2013",
+      "label": "The Congress",
+      "year": 2013,
+      "subtitle": "Dir: Ari Folman",
+      "description": "An aging actress agrees to preserve her digital likeness for a studio to use in any future films it likes.",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_congress"
+    },
+    {
+      "id": "contact-1997",
+      "label": "Contact",
+      "year": 1997,
+      "subtitle": "Dir: Robert Zemeckis",
+      "description": "In this Zemeckis-directed adaptation of the Carl Sagan novel, Dr. Ellie Arroway races to interpret a possible message originating from the Vega star system. Once... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/1078021-contact"
+    },
+    {
+      "id": "annihilation-2018",
+      "label": "Annihilation",
+      "year": 2018,
+      "subtitle": "Dir: Alex Garland",
+      "description": "Lena, a biologist and former soldier, joins a mission to uncover what happened to her husband inside Area X -- a sinister and mysterious phenomenon... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/annihilation"
+    },
+    {
+      "id": "wizards-1977",
+      "label": "Wizards",
+      "year": 1977,
+      "subtitle": "Dir: Ralph Bakshi",
+      "description": "After the death of his mother, the evil mutant wizard Blackwolf (Steve Gravers) discovers some long-lost military technologies. Full of ego and ambition, Blackwolf claims... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/wizards"
+    },
+    {
+      "id": "midnight-special-2016",
+      "label": "Midnight Special",
+      "year": 2016,
+      "subtitle": "Dir: Jeff Nichols",
+      "description": "The government and a group of religious extremists pursue a man (Michael Shannon) and his son (Jaeden Lieberher), a young boy who possesses special powers.",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/midnight_special_2015"
+    },
+    {
+      "id": "the-rocky-horror-picture-show-1975",
+      "label": "The Rocky Horror Picture Show",
+      "year": 1975,
+      "subtitle": "Dir: Jim Sharman",
+      "description": "In this cult classic, sweethearts Brad (Barry Bostwick) and Janet (Susan Sarandon), stuck with a flat tire during a storm, discover the eerie mansion of... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/rocky_horror_picture_show"
+    },
+    {
+      "id": "coherence-2013",
+      "label": "Coherence",
+      "year": 2013,
+      "subtitle": "Dir: James Ward Byrkit",
+      "description": "Eight friends at a dinner party experience a troubling chain of events due to the malevolent influence of a passing comet.",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/coherence_2013"
+    },
+    {
+      "id": "high-life-2018",
+      "label": "High Life",
+      "year": 2018,
+      "subtitle": "Dir: Claire Denis",
+      "description": "Monte and his baby daughter are the last survivors of a damned and dangerous mission to the outer reaches of the solar system. They must... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/high_life_2019"
+    },
+    {
+      "id": "westworld-1973",
+      "label": "Westworld",
+      "year": 1973,
+      "subtitle": "Dir: Michael Crichton",
+      "description": "Westworld is a futuristic theme park where paying guests can pretend to be gunslingers in an artificial Wild West populated by androids. After paying a... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/westworld"
+    },
+    {
+      "id": "ad-astra-2019",
+      "label": "Ad Astra",
+      "year": 2019,
+      "subtitle": "Dir: James Gray",
+      "description": "Thirty years ago, Clifford McBride led a voyage into deep space, but the ship and crew were never heard from again. Now his son --... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/ad_astra"
+    },
+    {
+      "id": "timecrimes-2007",
+      "label": "Timecrimes",
+      "year": 2007,
+      "subtitle": "Dir: Nacho Vigalondo",
+      "description": "Nacho Vigalondo's time-travel thriller opens with Hector spying on a beautiful woman undressing in the woods near his property. Investigating, he finds her assaulted and... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/time_crimes"
+    },
+    {
+      "id": "the-endless-2017",
+      "label": "The Endless",
+      "year": 2017,
+      "subtitle": "Dir: Justin Benson",
+      "description": "Two brothers receive a cryptic video message inspiring them to revisit the UFO death cult they escaped a decade earlier. Hoping to find the closure... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/the_endless"
+    },
+    {
+      "id": "the-hitchhiker-s-guide-to-the-galaxy-2005",
+      "label": "The Hitchhiker's Guide to the Galaxy",
+      "year": 2005,
+      "subtitle": "Dir: Garth Jennings",
+      "description": "Arthur Dent (Martin Freeman) is trying to prevent his house from being bulldozed when his friend Ford Prefect (Mos Def) whisks him into outer space.... View Full Synopsis",
+      "popularity": 70,
+      "tags": [],
+      "source": "https://www.rottentomatoes.com/m/hitchhikers_guide_to_the_galaxy"
+    }
+  ]
+}
