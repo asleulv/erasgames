@@ -1,0 +1,741 @@
+{
+  "id": "sports-events",
+  "slug": "sports-events",
+  "title": "Sports Events Timeline",
+  "shortTitle": "Sports",
+  "description": "Place legendary sports moments and achievements in their correct chronological order.",
+  "category": "Major Events",
+  "subcategory": "Sports History",
+  "sitePath": "/timeline/sports-events",
+  "itemNoun": "event",
+  "verbNoun": "happen",
+  "theme": {
+    "primary": "#0284C7",
+    "secondary": "#0F172A",
+    "background": "#F0F9FF",
+    "text": "#0F172A"
+  },
+  "share": {
+    "title": "Sports Events Timeline",
+    "description": "Can you place these legendary sports moments in the correct chronological order?",
+    "hashtags": [
+      "Sports",
+      "SportsQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Sports Events Timeline Quiz - Historic Moments Game",
+    "description": "Play a free online sports timeline quiz. Guess the order of legendary sports milestones, from the first World Cup to Usain Bolt's record, and build a streak.",
+    "keywords": [
+      "sports quiz",
+      "sports timeline",
+      "olympics history",
+      "world cup history",
+      "chronology game",
+      "Eras Games"
+    ]
+  },
+  "items": [
+    {
+      "id": "inaugural-fa-cup-1872",
+      "label": "Inaugural FA Cup Final",
+      "year": 1872,
+      "subtitle": "London, England",
+      "description": "Wanderers F.C. defeats Royal Engineers 1-0 in the first-ever FA Cup final at the Kennington Oval.",
+      "popularity": 80,
+      "tags": ["Football", "UK"],
+      "source": "https://en.wikipedia.org/wiki/1872_FA_Cup_Final"
+    },
+    {
+      "id": "first-wimbledon-championship-1877",
+      "label": "First Wimbledon Championship",
+      "year": 1877,
+      "subtitle": "London, England",
+      "description": "Spencer Gore wins the inaugural gentlemen's singles championship, defeating William Marshall.",
+      "popularity": 80,
+      "tags": ["Tennis", "UK"],
+      "source": "https://en.wikipedia.org/wiki/1877_Wimbledon_Championship"
+    },
+    {
+      "id": "first-modern-olympics-1896",
+      "label": "First Modern Olympic Games",
+      "year": 1896,
+      "subtitle": "Athens, Greece",
+      "description": "The Olympic Games are officially reborn in Athens, featuring 241 athletes from 14 nations.",
+      "popularity": 95,
+      "tags": ["Olympics", "Greece"],
+      "source": "https://en.wikipedia.org/wiki/1896_Summer_Olympics"
+    },
+    {
+      "id": "first-boston-marathon-1897",
+      "label": "First Boston Marathon",
+      "year": 1897,
+      "subtitle": "Boston, USA",
+      "description": "John J. McDermott wins the first running of the oldest annual marathon in the world.",
+      "popularity": 80,
+      "tags": ["Athletics", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Boston_Marathon"
+    },
+    {
+      "id": "first-tour-de-france-1903",
+      "label": "First Tour de France",
+      "year": 1903,
+      "subtitle": "France",
+      "description": "Maurice Garin wins the inaugural six-stage bicycle race, covering 2,428 kilometers.",
+      "popularity": 85,
+      "tags": ["Cycling", "France"],
+      "source": "https://en.wikipedia.org/wiki/1903_Tour_de_France"
+    },
+    {
+      "id": "first-world-series-1903",
+      "label": "First Modern World Series",
+      "year": 1903,
+      "subtitle": "Boston, USA",
+      "description": "The Boston Americans defeat the Pittsburgh Pirates in the first modern championship series of Major League Baseball.",
+      "popularity": 80,
+      "tags": ["Baseball", "USA"],
+      "source": "https://en.wikipedia.org/wiki/1903_World_Series"
+    },
+    {
+      "id": "first-nhl-stanley-cup-1918",
+      "label": "First Stanley Cup of NHL Era",
+      "year": 1918,
+      "subtitle": "Toronto, Canada",
+      "description": "The Toronto Arenas win the first Stanley Cup championship after the founding of the National Hockey League.",
+      "popularity": 80,
+      "tags": ["Hockey", "Canada"],
+      "source": "https://en.wikipedia.org/wiki/1917%E2%80%9318_NHL_season"
+    },
+    {
+      "id": "first-fifa-world-cup-1930",
+      "label": "First FIFA World Cup",
+      "year": 1930,
+      "subtitle": "Montevideo, Uruguay",
+      "description": "Uruguay defeats Argentina 4-2 in the final to win the first-ever FIFA World Cup.",
+      "popularity": 100,
+      "tags": ["Football", "Global"],
+      "source": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup"
+    },
+    {
+      "id": "babe-didrikson-olympics-1932",
+      "label": "Babe Didrikson Wins Two Golds",
+      "year": 1932,
+      "subtitle": "Los Angeles Olympics",
+      "description": "Mildred 'Babe' Didrikson wins gold in javelin and 80m hurdles, and silver in the high jump.",
+      "popularity": 75,
+      "tags": ["Olympics", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Babe_Didrikson_Zaharias"
+    },
+    {
+      "id": "jesse-owens-berlin-1936",
+      "label": "Jesse Owens Wins 4 Gold Medals",
+      "year": 1936,
+      "subtitle": "Berlin, Germany",
+      "description": "African-American athlete Jesse Owens wins four gold medals, defying Nazi racial theories.",
+      "popularity": 95,
+      "tags": ["Olympics", "Athletics"],
+      "source": "https://en.wikipedia.org/wiki/Jesse_Owens"
+    },
+    {
+      "id": "jackie-robinson- Dodgers-1947",
+      "label": "Jackie Robinson Breaks Color Barrier",
+      "year": 1947,
+      "subtitle": "Brooklyn, New York, USA",
+      "description": "Robinson starts at first base for the Brooklyn Dodgers, ending racial segregation in Major League Baseball.",
+      "popularity": 95,
+      "tags": ["Baseball", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Jackie_Robinson"
+    },
+    {
+      "id": "don-bradman-retires-1948",
+      "label": "Don Bradman Retires",
+      "year": 1948,
+      "subtitle": "The Oval, London",
+      "description": "The legendary Australian cricketer is bowled for a duck in his final innings, finishing with a career average of 99.94.",
+      "popularity": 85,
+      "tags": ["Cricket", "Australia"],
+      "source": "https://en.wikipedia.org/wiki/Don_Bradman"
+    },
+    {
+      "id": "inaugural-formula1-gp-1950",
+      "label": "First Formula 1 Championship Race",
+      "year": 1950,
+      "subtitle": "Silverstone, United Kingdom",
+      "description": "Giuseppe Farina wins the British Grand Prix, the first official race of the new Formula One World Championship.",
+      "popularity": 90,
+      "tags": ["Motorsport", "UK"],
+      "source": "https://en.wikipedia.org/wiki/1950_British_Grand_Prix"
+    },
+    {
+      "id": "roger-bannister-mile-1954",
+      "label": "Bannister Breaks 4-Minute Mile",
+      "year": 1954,
+      "subtitle": "Oxford, United Kingdom",
+      "description": "Roger Bannister becomes the first person to run a mile in under four minutes, finishing in 3:59.4.",
+      "popularity": 95,
+      "tags": ["Athletics", "UK"],
+      "source": "https://en.wikipedia.org/wiki/Four-minute_mile"
+    },
+    {
+      "id": "pele-first-world-cup-1958",
+      "label": "Pelé Wins First World Cup",
+      "year": 1958,
+      "subtitle": "Solna, Sweden",
+      "description": "A teenage Pelé (age 17) scores twice in the final to lead Brazil to victory over Sweden.",
+      "popularity": 100,
+      "tags": ["Football", "Brazil"],
+      "source": "https://en.wikipedia.org/wiki/Pel%C3%A9"
+    },
+    {
+      "id": "wilt-chamberlain-100points-1962",
+      "label": "Wilt Chamberlain Scores 100 Points",
+      "year": 1962,
+      "subtitle": "Hershey, Pennsylvania, USA",
+      "description": "Chamberlain sets the NBA single-game scoring record as the Philadelphia Warriors defeat the New York Knicks.",
+      "popularity": 95,
+      "tags": ["Basketball", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Wilt_Chamberlain%27s_100-point_game"
+    },
+    {
+      "id": "ali-liston-championship-1964",
+      "label": "Muhammad Ali Beats Sonny Liston",
+      "year": 1964,
+      "subtitle": "Miami Beach, Florida, USA",
+      "description": "Cassius Clay (later Muhammad Ali) wins the World Heavyweight Championship after Liston retires on his stool.",
+      "popularity": 95,
+      "tags": ["Boxing", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Muhammad_Ali_vs._Sonny_Liston"
+    },
+    {
+      "id": "england-world-cup-1966",
+      "label": "England Wins the World Cup",
+      "year": 1966,
+      "subtitle": "Wembley Stadium, London",
+      "description": "England defeats West Germany 4-2 after extra time, marked by Geoff Hurst's famous hat-trick.",
+      "popularity": 95,
+      "tags": ["Football", "UK"],
+      "source": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup"
+    },
+    {
+      "id": "first-super-bowl-1967",
+      "label": "First Super Bowl Played",
+      "year": 1967,
+      "subtitle": "Los Angeles, California, USA",
+      "description": "The Green Bay Packers of the NFL defeat the Kansas City Chiefs of the AFL 35-10 in the first Championship Game.",
+      "popularity": 90,
+      "tags": ["American Football", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Super_Bowl_I"
+    },
+    {
+      "id": "bob-beamon-longjump-1968",
+      "label": "Bob Beamon's Historic Jump",
+      "year": 1968,
+      "subtitle": "Mexico City Olympics",
+      "description": "Beamon shatters the world record by 55 cm with a jump of 8.90 meters, which stood for 23 years.",
+      "popularity": 90,
+      "tags": ["Olympics", "Athletics"],
+      "source": "https://en.wikipedia.org/wiki/Bob_Beamon"
+    },
+    {
+      "id": "arthur-ashe-usopen-1968",
+      "label": "Arthur Ashe Wins US Open",
+      "year": 1968,
+      "subtitle": "Forest Hills, New York, USA",
+      "description": "Ashe becomes the first Black man to win a Grand Slam singles title, defeating Tom Okker in the final.",
+      "popularity": 85,
+      "tags": ["Tennis", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Arthur_Ashe"
+    },
+    {
+      "id": "mark-spitz-7golds-1972",
+      "label": "Mark Spitz Wins 7 Gold Medals",
+      "year": 1972,
+      "subtitle": "Munich, West Germany",
+      "description": "American swimmer Mark Spitz wins seven gold medals, setting a world record in every single event.",
+      "popularity": 90,
+      "tags": ["Olympics", "Swimming"],
+      "source": "https://en.wikipedia.org/wiki/Mark_Spitz"
+    },
+    {
+      "id": "battle-of-sexes-tennis-1973",
+      "label": "Battle of the Sexes Tennis Match",
+      "year": 1973,
+      "subtitle": "Houston, Texas, USA",
+      "description": "Billie Jean King defeats Bobby Riggs in straight sets, a milestone for women's sports and equality.",
+      "popularity": 95,
+      "tags": ["Tennis", "Women"],
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Sexes_(tennis)"
+    },
+    {
+      "id": "rumble-in-jungle-1974",
+      "label": "The Rumble in the Jungle",
+      "year": 1974,
+      "subtitle": "Kinshasa, Zaire",
+      "description": "Muhammad Ali defeats George Foreman using his 'rope-a-dope' strategy to regain the heavyweight title.",
+      "popularity": 95,
+      "tags": ["Boxing", "Global"],
+      "source": "https://en.wikipedia.org/wiki/The_Rumble_in_the_Jungle"
+    },
+    {
+      "id": "thrilla-in-manila-1975",
+      "label": "The Thrilla in Manila",
+      "year": 1975,
+      "subtitle": "Manila, Philippines",
+      "description": "Muhammad Ali defeats Joe Frazier in their brutal third and final bout after Frazier's trainer stops the fight.",
+      "popularity": 95,
+      "tags": ["Boxing", "Global"],
+      "source": "https://en.wikipedia.org/wiki/Thrilla_in_Manila"
+    },
+    {
+      "id": "nadia-comaneci-perfect10-1976",
+      "label": "Nadia Comăneci Scores Perfect 10",
+      "year": 1976,
+      "subtitle": "Montreal, Canada",
+      "description": "The 14-year-old Romanian gymnast receives the first-ever perfect 10.0 score on the uneven bars.",
+      "popularity": 95,
+      "tags": ["Olympics", "Gymnastics"],
+      "source": "https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci"
+    },
+    {
+      "id": "nba-triple-overtime-1976",
+      "label": "NBA Triple Overtime Finals Game",
+      "year": 1976,
+      "subtitle": "Boston, Massachusetts, USA",
+      "description": "The Boston Celtics defeat the Phoenix Suns in a triple-overtime thriller in Game 5 of the Finals.",
+      "popularity": 80,
+      "tags": ["Basketball", "USA"],
+      "source": "https://en.wikipedia.org/wiki/1976_NBA_Finals"
+    },
+    {
+      "id": "miracle-on-ice-1980",
+      "label": "Miracle on Ice",
+      "year": 1980,
+      "subtitle": "Lake Placid, New York, USA",
+      "description": "A team of US college players pulls off a monumental upset, defeating the dominant Soviet Olympic hockey team.",
+      "popularity": 95,
+      "tags": ["Olympics", "Hockey"],
+      "source": "https://en.wikipedia.org/wiki/Miracle_on_Ice"
+    },
+    {
+      "id": "borg-mcenroe-wimbledon-1980",
+      "label": "Borg defeats McEnroe in Epic Final",
+      "year": 1980,
+      "subtitle": "Wimbledon, London",
+      "description": "Björn Borg wins his fifth consecutive Wimbledon title in a five-set match famous for its 18-16 tiebreaker.",
+      "popularity": 90,
+      "tags": ["Tennis", "UK"],
+      "source": "https://en.wikipedia.org/wiki/Borg%E2%80%93McEnroe_rivalry"
+    },
+    {
+      "id": "first-athletics-worldchamps-1983",
+      "label": "First Athletics World Championships",
+      "year": 1983,
+      "subtitle": "Helsinki, Finland",
+      "description": "The first-ever World Championships in Athletics are held, separate from the Olympic Games.",
+      "popularity": 80,
+      "tags": ["Athletics", "Global"],
+      "source": "https://en.wikipedia.org/wiki/1983_World_Championships_in_Athletics"
+    },
+    {
+      "id": "maradona-handofgod-1986",
+      "label": "Maradona's Hand of God Goal",
+      "year": 1986,
+      "subtitle": "Mexico City, Mexico",
+      "description": "Diego Maradona scores two iconic goals against England (Hand of God and Goal of the Century) in the World Cup.",
+      "popularity": 100,
+      "tags": ["Football", "Global"],
+      "source": "https://en.wikipedia.org/wiki/Argentina_v_England_(1986_FIFA_World_Cup)"
+    },
+    {
+      "id": "ben-johnson-disqualified-1988",
+      "label": "Ben Johnson Stripped of Gold",
+      "year": 1988,
+      "subtitle": "Seoul, South Korea",
+      "description": "Canadian sprinter Ben Johnson is stripped of his 100m gold medal after testing positive for anabolic steroids.",
+      "popularity": 90,
+      "tags": ["Olympics", "Doping"],
+      "source": "https://en.wikipedia.org/wiki/Ben_Johnson_(sprinter)"
+    },
+    {
+      "id": "steffi-graf-golden-slam-1988",
+      "label": "Steffi Graf Wins Golden Slam",
+      "year": 1988,
+      "subtitle": "Seoul Olympics & Slams",
+      "description": "Graf becomes the only tennis player to win all four Grand Slam singles titles and Olympic gold in the same calendar year.",
+      "popularity": 90,
+      "tags": ["Tennis", "Olympics"],
+      "source": "https://en.wikipedia.org/wiki/Steffi_Graf"
+    },
+    {
+      "id": "flo-jo-100m-record-1988",
+      "label": "Florence Griffith-Joyner 100m Record",
+      "year": 1988,
+      "subtitle": "Indianapolis, USA",
+      "description": "Flo-Jo runs the 100m in an astonishing, still-unbroken world record time of 10.49 seconds.",
+      "popularity": 90,
+      "tags": ["Athletics", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Florence_Griffith-Joyner"
+    },
+    {
+      "id": "jordan-first-nba-title-1991",
+      "label": "Jordan Wins First NBA Championship",
+      "year": 1991,
+      "subtitle": "Chicago, Illinois, USA",
+      "description": "The Chicago Bulls defeat the Los Angeles Lakers in the Finals, starting Michael Jordan's first championship run.",
+      "popularity": 95,
+      "tags": ["Basketball", "USA"],
+      "source": "https://en.wikipedia.org/wiki/1991_NBA_Finals"
+    },
+    {
+      "id": "barcelona-dream-team-1992",
+      "label": "Barcelona Olympics Dream Team",
+      "year": 1992,
+      "subtitle": "Barcelona, Spain",
+      "description": "The first USA Olympic basketball team to feature active NBA superstars cruises to the gold medal.",
+      "popularity": 95,
+      "tags": ["Basketball", "Olympics"],
+      "source": "https://en.wikipedia.org/wiki/1992_United_States_men%27s_Olympic_basketball_team"
+    },
+    {
+      "id": "denmark-euro-champions-1992",
+      "label": "Denmark's Miracle Euro Triumph",
+      "year": 1992,
+      "subtitle": "Gothenburg, Sweden",
+      "description": "Denmark, who failed to qualify and were only invited after Yugoslavia's exclusion, win the European Championship.",
+      "popularity": 90,
+      "tags": ["Football", "Europe"],
+      "source": "https://en.wikipedia.org/wiki/UEFA_Euro_1992"
+    },
+    {
+      "id": "ayrton-senna-death-1994",
+      "label": "Fatal Crash of Ayrton Senna",
+      "year": 1994,
+      "subtitle": "Imola, Italy",
+      "description": "Three-time Formula One World Champion Ayrton Senna dies after crashing at the San Marino Grand Prix.",
+      "popularity": 95,
+      "tags": ["Motorsport", "Europe"],
+      "source": "https://en.wikipedia.org/wiki/Death_of_Ayrton_Senna"
+    },
+    {
+      "id": "jordan-flu-game-1997",
+      "label": "Michael Jordan's 'Flu Game'",
+      "year": 1997,
+      "subtitle": "Salt Lake City, Utah, USA",
+      "description": "Jordan scores 38 points in Game 5 of the NBA Finals despite battling severe dehydration and flu-like symptoms.",
+      "popularity": 95,
+      "tags": ["Basketball", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Flu_Game"
+    },
+    {
+      "id": "tiger-woods-masters-1997",
+      "label": "Tiger Woods Wins Masters by 12",
+      "year": 1997,
+      "subtitle": "Augusta, Georgia, USA",
+      "description": "At age 21, Tiger Woods becomes the youngest and first non-white golfer to win the Masters by a record margin.",
+      "popularity": 95,
+      "tags": ["Golf", "USA"],
+      "source": "https://en.wikipedia.org/wiki/1997_Masters_Tournament"
+    },
+    {
+      "id": "france-first-world-cup-1998",
+      "label": "France Wins First World Cup",
+      "year": 1998,
+      "subtitle": "Saint-Denis, France",
+      "description": "Zinedine Zidane scores twice as host nation France defeats Brazil 3-0 in the final.",
+      "popularity": 95,
+      "tags": ["Football", "France"],
+      "source": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup"
+    },
+    {
+      "id": "brandi-chastain-celebration-1999",
+      "label": "Brandi Chastain's Celebration",
+      "year": 1999,
+      "subtitle": "Pasadena, California, USA",
+      "description": "Chastain scores the winning penalty for the USA in the Women's World Cup and celebrates in iconic fashion.",
+      "popularity": 90,
+      "tags": ["Football", "Women"],
+      "source": "https://en.wikipedia.org/wiki/Brandi_Chastain"
+    },
+    {
+      "id": "schumacher-ferrari-title-2000",
+      "label": "Schumacher Wins Ferrari Title",
+      "year": 2000,
+      "subtitle": "Suzuka, Japan",
+      "description": "Michael Schumacher wins the Japanese GP to secure Ferrari's first Drivers' Championship in 21 years.",
+      "popularity": 90,
+      "tags": ["Motorsport", "Global"],
+      "source": "https://en.wikipedia.org/wiki/Michael_Schumacher"
+    },
+    {
+      "id": "goran-ivanisevic-wildcard-2001",
+      "label": "Goran Ivanišević Wins Wimbledon",
+      "year": 2001,
+      "subtitle": "Wimbledon, London",
+      "description": "Ranked 125th, Ivanišević becomes the first-ever wildcard to win a Grand Slam singles title.",
+      "popularity": 85,
+      "tags": ["Tennis", "UK"],
+      "source": "https://en.wikipedia.org/wiki/Goran_Ivani%C5%A1evi%C4%87"
+    },
+    {
+      "id": "federer-first-slam-2003",
+      "label": "Roger Federer Wins First Grand Slam",
+      "year": 2003,
+      "subtitle": "Wimbledon, London",
+      "description": "Federer defeats Mark Philippoussis to win Wimbledon, launching his decade-long era of dominance.",
+      "popularity": 95,
+      "tags": ["Tennis", "UK"],
+      "source": "https://en.wikipedia.org/wiki/Roger_Federer"
+    },
+    {
+      "id": "greece-euro-champions-2004",
+      "label": "Greece's Shock Euro Triumph",
+      "year": 2004,
+      "subtitle": "Lisbon, Portugal",
+      "description": "Underdog Greece pulls off one of the greatest surprises in football history by defeating Portugal 1-0 in the final.",
+      "popularity": 90,
+      "tags": ["Football", "Europe"],
+      "source": "https://en.wikipedia.org/wiki/UEFA_Euro_2004"
+    },
+    {
+      "id": "miracle-of-istanbul-2005",
+      "label": "The Miracle of Istanbul",
+      "year": 2005,
+      "subtitle": "Istanbul, Turkey",
+      "description": "Liverpool recovers from 3-0 down at half-time to defeat AC Milan on penalties in the Champions League final.",
+      "popularity": 95,
+      "tags": ["Football", "Europe"],
+      "source": "https://en.wikipedia.org/wiki/2005_UEFA_Champions_League_Final"
+    },
+    {
+      "id": "zidane-world-cup-headbutt-2006",
+      "label": "Zidane Headbutt in World Cup Final",
+      "year": 2006,
+      "subtitle": "Berlin, Germany",
+      "description": "Zinedine Zidane is red-carded in his final professional match for headbutting Marco Materazzi, and Italy wins the cup.",
+      "popularity": 100,
+      "tags": ["Football", "Disaster"],
+      "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final"
+    },
+    {
+      "id": "phelps-8golds-beijing-2008",
+      "label": "Michael Phelps Wins 8 Golds",
+      "year": 2008,
+      "subtitle": "Beijing, China",
+      "description": "Phelps wins eight gold medals, breaking Mark Spitz's 1972 record for most gold medals in a single Olympics.",
+      "popularity": 95,
+      "tags": ["Olympics", "Swimming"],
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps"
+    },
+    {
+      "id": "usain-bolt-958s-record-2009",
+      "label": "Usain Bolt Runs 9.58 Seconds",
+      "year": 2009,
+      "subtitle": "Berlin, Germany",
+      "description": "Usain Bolt sets the still-unbroken 100m world record at the World Athletics Championships.",
+      "popularity": 100,
+      "tags": ["Athletics", "Global"],
+      "source": "https://en.wikipedia.org/wiki/100_metres"
+    },
+    {
+      "id": "federer-roddick-wimbledon-2009",
+      "label": "Federer wins 77-Game Final",
+      "year": 2009,
+      "subtitle": "Wimbledon, London",
+      "description": "Roger Federer defeats Andy Roddick 16-14 in the fifth set to win his 15th Grand Slam, surpassing Pete Sampras.",
+      "popularity": 90,
+      "tags": ["Tennis", "UK"],
+      "source": "https://en.wikipedia.org/wiki/2009_Wimbledon_Championships_%E2%80%93_Men%27s_singles_final"
+    },
+    {
+      "id": "isner-mahut-longest-match-2010",
+      "label": "Longest Tennis Match Ever Played",
+      "year": 2010,
+      "subtitle": "Wimbledon, London",
+      "description": "John Isner defeats Nicolas Mahut in a match lasting 11 hours and 5 minutes over three days (70-68 in the fifth set).",
+      "popularity": 95,
+      "tags": ["Tennis", "UK"],
+      "source": "https://en.wikipedia.org/wiki/Isner%E2%80%93Mahut_match_at_the_2010_Wimbledon_Championships"
+    },
+    {
+      "id": "spain-first-world-cup-2010",
+      "label": "Spain Wins First World Cup",
+      "year": 2010,
+      "subtitle": "Johannesburg, South Africa",
+      "description": "Andrés Iniesta scores in the 116th minute to lead Spain to a 1-0 victory over the Netherlands.",
+      "popularity": 95,
+      "tags": ["Football", "Global"],
+      "source": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final"
+    },
+    {
+      "id": "japan-women-world-cup-2011",
+      "label": "Japan Wins Women's World Cup",
+      "year": 2011,
+      "subtitle": "Frankfurt, Germany",
+      "description": "Japan defeats the USA on penalties, becoming the first Asian nation to win a FIFA World Cup.",
+      "popularity": 90,
+      "tags": ["Football", "Women"],
+      "source": "https://en.wikipedia.org/wiki/2011_FIFA_Women%27s_World_Cup"
+    },
+    {
+      "id": "armstrong-stripped-titles-2012",
+      "label": "Lance Armstrong Stripped of Titles",
+      "year": 2012,
+      "subtitle": "Austin, Texas, USA",
+      "description": "The US Anti-Doping Agency disqualifies Armstrong from all his 7 Tour de France wins due to systemic doping.",
+      "popularity": 95,
+      "tags": ["Cycling", "Doping"],
+      "source": "https://en.wikipedia.org/wiki/Lance_Armstrong"
+    },
+    {
+      "id": "teamgb-super-saturday-2012",
+      "label": "Team GB Super Saturday",
+      "year": 2012,
+      "subtitle": "London, United Kingdom",
+      "description": "Great Britain wins three gold medals in athletics within 44 minutes through Ennis, Rutherford, and Farah.",
+      "popularity": 80,
+      "tags": ["Olympics", "UK"],
+      "source": "https://en.wikipedia.org/wiki/Super_Saturday_(2012_Olympics)"
+    },
+    {
+      "id": "germany-brazil-seven-one-2014",
+      "label": "Germany Defeats Brazil 7-1",
+      "year": 2014,
+      "subtitle": "Belo Horizonte, Brazil",
+      "description": "Germany inflicts the heaviest defeat ever on a World Cup host, scoring five goals in the first 29 minutes.",
+      "popularity": 100,
+      "tags": ["Football", "Global"],
+      "source": "https://en.wikipedia.org/wiki/Brazil_v_Germany_(2014_FIFA_World_Cup)"
+    },
+    {
+      "id": "leicester-city-premier-league-2016",
+      "label": "Leicester City Wins Premier League",
+      "year": 2016,
+      "subtitle": "Leicester, United Kingdom",
+      "description": "Underdogs Leicester City complete the most improbable title run in English football history at 5000-1 odds.",
+      "popularity": 100,
+      "tags": ["Football", "UK"],
+      "source": "https://en.wikipedia.org/wiki/2015%E2%80%9316_Leicester_City_F.C._season"
+    },
+    {
+      "id": "phelps-28medals-retirement-2016",
+      "label": "Michael Phelps Retires with 28 Medals",
+      "year": 2016,
+      "subtitle": "Rio de Janeiro, Brazil",
+      "description": "Phelps wins his final gold medal at the Rio Olympics, cementing his record as the most decorated Olympian of all time.",
+      "popularity": 95,
+      "tags": ["Olympics", "Swimming"],
+      "source": "https://en.wikipedia.org/wiki/Michael_Phelps"
+    },
+    {
+      "id": "patriots-super-bowl-comeback-2017",
+      "label": "Patriots' 25-Point Comeback",
+      "year": 2017,
+      "subtitle": "Houston, Texas, USA",
+      "description": "Tom Brady leads the Patriots back from a 28-3 deficit to defeat the Atlanta Falcons 34-28 in overtime.",
+      "popularity": 90,
+      "tags": ["American Football", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Super_Bowl_LI"
+    },
+    {
+      "id": "kipchoge-sub2-marathon-2019",
+      "label": "Eliud Kipchoge Sub-2-Hour Marathon",
+      "year": 2019,
+      "subtitle": "Vienna, Austria",
+      "description": "Kipchoge becomes the first person to run a marathon distance in under two hours, clocking 1:59:40 in a special event.",
+      "popularity": 90,
+      "tags": ["Athletics", "Global"],
+      "source": "https://en.wikipedia.org/wiki/Ineos_1:59_Challenge"
+    },
+    {
+      "id": "hamilton-7titles-schumacher-2020",
+      "label": "Lewis Hamilton Equals Schumacher Record",
+      "year": 2020,
+      "subtitle": "Istanbul, Turkey",
+      "description": "Hamilton wins the Turkish Grand Prix to secure his seventh Formula 1 World Championship, matching Michael Schumacher.",
+      "popularity": 95,
+      "tags": ["Motorsport", "Global"],
+      "source": "https://en.wikipedia.org/wiki/Lewis_Hamilton"
+    },
+    {
+      "id": "messi-world-cup-argentina-2022",
+      "label": "Lionel Messi Wins World Cup",
+      "year": 2022,
+      "subtitle": "Lusail, Qatar",
+      "description": "Messi leads Argentina to victory over France on penalties in one of the greatest finals in World Cup history.",
+      "popularity": 100,
+      "tags": ["Football", "Global"],
+      "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_final"
+    },
+    {
+      "id": "lebron-james-nba-record-2023",
+      "label": "LeBron James NBA Scoring Record",
+      "year": 2023,
+      "subtitle": "Los Angeles, California, USA",
+      "description": "LeBron James surpasses Kareem Abdul-Jabbar's career record of 38,387 points.",
+      "popularity": 95,
+      "tags": ["Basketball", "USA"],
+      "source": "https://en.wikipedia.org/wiki/LeBron_James"
+    },
+    {
+      "id": "djokovic-24th-grand-slam-2023",
+      "label": "Novak Djokovic Wins 24th Slam",
+      "year": 2023,
+      "subtitle": "New York City, USA",
+      "description": "Djokovic defeats Daniil Medvedev at the US Open, tying Margaret Court for the most singles majors in tennis history.",
+      "popularity": 95,
+      "tags": ["Tennis", "Global"],
+      "source": "https://en.wikipedia.org/wiki/Novak_Djokovic"
+    },
+    {
+      "id": "haaland-premier-league-record-2023",
+      "label": "Haaland Single-Season Goal Record",
+      "year": 2023,
+      "subtitle": "Manchester, England",
+      "description": "Erling Haaland scores his 36th league goal of the season for Manchester City, breaking the 38-game era record.",
+      "popularity": 90,
+      "tags": ["Football", "UK"],
+      "source": "https://en.wikipedia.org/wiki/Erling_Haaland"
+    },
+    {
+      "id": "coco-gauff-first-grand-slam-2023",
+      "label": "Coco Gauff Wins First Slam",
+      "year": 2023,
+      "subtitle": "New York City, USA",
+      "description": "The 19-year-old American defeats Aryna Sabalenka in the US Open final.",
+      "popularity": 85,
+      "tags": ["Tennis", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Coco_Gauff"
+    },
+    {
+      "id": "chiefs-backtoback-super-bowls-2024",
+      "label": "Kansas City Chiefs Back-to-Back",
+      "year": 2024,
+      "subtitle": "Las Vegas, Nevada, USA",
+      "description": "Patrick Mahomes leads the Chiefs to an overtime victory against the San Francisco 49ers in Super Bowl LVIII.",
+      "popularity": 90,
+      "tags": ["American Football", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Super_Bowl_LVIII"
+    },
+    {
+      "id": "pogacar-tour-giro-double-2024",
+      "label": "Tadej Pogačar Tour & Giro Double",
+      "year": 2024,
+      "subtitle": "Nice, France / Rome, Italy",
+      "description": "Pogačar becomes the first cyclist since Marco Pantani in 1998 to win both Grand Tours in the same season.",
+      "popularity": 85,
+      "tags": ["Cycling", "Europe"],
+      "source": "https://en.wikipedia.org/wiki/Tadej_Poga%C4%8D_ar"
+    },
+    {
+      "id": "simone-biles-paris-olympics-2024",
+      "label": "Simone Biles Wins 3 Golds in Paris",
+      "year": 2024,
+      "subtitle": "Paris, France",
+      "description": "Biles dominates the gymnastics events, completing her comeback and bringing her total Olympic golds to 7.",
+      "popularity": 95,
+      "tags": ["Olympics", "Gymnastics"],
+      "source": "https://en.wikipedia.org/wiki/Simone_Biles"
+    }
+  ]
+}

@@ -54,6 +54,12 @@ function getSubcategoryDescription(subcategory: string): string {
     case "historic events":
     case "historical events":
       return "Place major historical events in their correct chronological order.";
+    case "sports":
+    case "sports history":
+    case "sports events":
+    case "historic moments":
+    case "sports achievements":
+      return "Place legendary sports moments and achievements in chronological order.";
     default:
       return "";
   }
