@@ -112,8 +112,9 @@ export function TimelineGame({ game }: TimelineGameProps) {
   const isMedia = game.category === "Movies" || game.category === "Movies & TV";
   const isTV = game.subcategory === "TV Shows" || game.subcategory === "TV Series" || game.id.includes("tv");
   const mediaNoun = isTV ? "show" : "movie";
-  const itemNoun = (game as any).itemNoun || (isMedia ? mediaNoun : "player");
-  const verbNoun = (game as any).verbNoun || (isMedia ? "release" : "join");
+  const itemNoun = game.itemNoun || (isMedia ? mediaNoun : "player");
+  const verbNoun = game.verbNoun || (isMedia ? "release" : "join");
+  const verbPast = verbNoun === "join" ? "joined" : verbNoun === "release" ? "released" : verbNoun === "happen" ? "happened" : `${verbNoun}ed`;
 
   const [isDailyCompleted, setIsDailyCompleted] = useState(false);
   const [timeUntilMidnight, setTimeUntilMidnight] = useState("");
@@ -222,7 +223,7 @@ export function TimelineGame({ game }: TimelineGameProps) {
       setIsResolving(false);
       window.setTimeout(() => setShowResult(true), 700);
       setMessage(
-        `${formatPlayerLabel(candidate.label)} joined ${cameBefore ? "before" : "after"} ${formatPlayerLabel(pivot.label)}. ${candidate.year} versus ${pivot.year}.`
+        `${formatPlayerLabel(candidate.label)} ${verbPast} ${cameBefore ? "before" : "after"} ${formatPlayerLabel(pivot.label)}. ${candidate.year} versus ${pivot.year}.`
       );
       return;
     }
@@ -236,7 +237,7 @@ export function TimelineGame({ game }: TimelineGameProps) {
       localStorage.setItem(`eras:${game.id}:best`, String(nextBest));
       return nextBest;
     });
-    setMessage(`Correct. ${formatPlayerLabel(answered.label)} joined in ${answered.year}.`);
+    setMessage(`Correct. ${formatPlayerLabel(answered.label)} ${verbPast} in ${answered.year}.`);
     window.setTimeout(() => {
       pendingFlipRef.current = captureFlipSnapshot(answered.id);
       setTimeline(nextTimeline);
@@ -446,7 +447,7 @@ export function TimelineGame({ game }: TimelineGameProps) {
       setFailedPivotCard(pivot);
       saveDailyRun(score, timeline, candidate, null, pivot);
       window.setTimeout(() => setShowResult(true), 700);
-      setMessage(`Time's up! You took too long to decide if ${formatPlayerLabel(candidate.label)} joined before or after ${formatPlayerLabel(pivot.label)}'s year.`);
+      setMessage(`Time's up! You took too long to decide if ${formatPlayerLabel(candidate.label)} ${verbPast} before or after ${formatPlayerLabel(pivot.label)}'s year.`);
     }, 10000);
 
     return () => {

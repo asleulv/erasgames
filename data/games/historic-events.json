@@ -1,0 +1,1020 @@
+{
+  "id": "historic-events",
+  "slug": "historic-events",
+  "title": "Historic Events Timeline",
+  "shortTitle": "History",
+  "description": "Place major historic milestones in their correct chronological order.",
+  "category": "History",
+  "subcategory": "Historic Events",
+  "sitePath": "/timeline/historic-events",
+  "itemNoun": "event",
+  "verbNoun": "happen",
+  "theme": {
+    "primary": "#C5A059",
+    "secondary": "#111827",
+    "background": "#FAF7F2",
+    "text": "#1F2937"
+  },
+  "share": {
+    "title": "Historic Events Timeline",
+    "description": "Can you place these major historic events in the correct chronological order?",
+    "hashtags": [
+      "History",
+      "HistoryQuiz",
+      "TimelineQuiz"
+    ]
+  },
+  "seo": {
+    "title": "Historic Events Timeline Quiz - World History Game",
+    "description": "Play a free online history timeline quiz. Guess the order of major historical events, from the printing press to the moon landing, and build a streak.",
+    "keywords": [
+      "history quiz",
+      "world history timeline",
+      "historic events game",
+      "chronology quiz",
+      "Eras Games"
+    ]
+  },
+  "items": [
+    {
+      "id": "foundation-baghdad-762",
+      "label": "Foundation of Baghdad",
+      "year": 762,
+      "subtitle": "Baghdad, Abbasid Caliphate",
+      "description": "Caliph Al-Mansur founds Baghdad, which becomes a hub of the Islamic Golden Age and the House of Wisdom.",
+      "popularity": 70,
+      "tags": ["Iraq", "Middle Ages"],
+      "source": "https://en.wikipedia.org/wiki/Baghdad"
+    },
+    {
+      "id": "viking-raid-lindisfarne-793",
+      "label": "Viking Raid on Lindisfarne",
+      "year": 793,
+      "subtitle": "Northumberland, England",
+      "description": "Viking raiders sack the monastery of Lindisfarne, traditionally marked as the beginning of the Viking Age in Europe.",
+      "popularity": 85,
+      "tags": ["Viking", "England"],
+      "source": "https://en.wikipedia.org/wiki/Lindisfarne"
+    },
+    {
+      "id": "coronation-charlemagne-800",
+      "label": "Coronation of Charlemagne",
+      "year": 800,
+      "subtitle": "Rome, Holy Roman Empire",
+      "description": "Charlemagne is crowned Emperor of the Romans by Pope Leo III, establishing the Holy Roman Empire.",
+      "popularity": 80,
+      "tags": ["Europe", "Middle Ages"],
+      "source": "https://en.wikipedia.org/wiki/Charlemagne"
+    },
+    {
+      "id": "great-schism-1054",
+      "label": "Schism of East and West",
+      "year": 1054,
+      "subtitle": "Rome & Constantinople",
+      "description": "The Christian Church splits into the Eastern Orthodox Church and the Roman Catholic Church.",
+      "popularity": 80,
+      "tags": ["Religion", "Europe"],
+      "source": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism"
+    },
+    {
+      "id": "battle-of-hastings-1066",
+      "label": "Battle of Hastings",
+      "year": 1066,
+      "subtitle": "East Sussex, England",
+      "description": "William the Conqueror defeats Harold Godwinson, leading to the Norman conquest of England.",
+      "popularity": 90,
+      "tags": ["England", "War"],
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Hastings"
+    },
+    {
+      "id": "first-crusade-jerusalem-1099",
+      "label": "First Crusade Captures Jerusalem",
+      "year": 1099,
+      "subtitle": "Jerusalem",
+      "description": "European crusaders capture Jerusalem after a siege, establishing the Kingdom of Jerusalem.",
+      "popularity": 85,
+      "tags": ["Crusades", "War"],
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)"
+    },
+    {
+      "id": "magna-carta-1215",
+      "label": "Signing of the Magna Carta",
+      "year": 1215,
+      "subtitle": "Runnymede, England",
+      "description": "King John of England signs the Great Charter, establishing the principle that everyone, including the king, is subject to the law.",
+      "popularity": 90,
+      "tags": ["Politics", "Law"],
+      "source": "https://en.wikipedia.org/wiki/Magna_Carta"
+    },
+    {
+      "id": "black-death-1347",
+      "label": "Black Death Arrives in Europe",
+      "year": 1347,
+      "subtitle": "Messina, Sicily",
+      "description": "Genoese ships arrive in Sicily carrying the bubonic plague, initiating a pandemic that wiped out up to 60% of Europe's population.",
+      "popularity": 95,
+      "tags": ["Health", "Disaster"],
+      "source": "https://en.wikipedia.org/wiki/Black_Death"
+    },
+    {
+      "id": "treaty-windsor-1386",
+      "label": "Signing of Treaty of Windsor",
+      "year": 1386,
+      "subtitle": "Windsor, England",
+      "description": "The alliance between England and Portugal is sealed, becoming the world's oldest active diplomatic alliance.",
+      "popularity": 70,
+      "tags": ["Politics", "Europe"],
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Windsor_(1386)"
+    },
+    {
+      "id": "joan-of-arc-orleans-1429",
+      "label": "Joan of Arc Lifts Siege of Orléans",
+      "year": 1429,
+      "subtitle": "Orléans, France",
+      "description": "The teenage peasant girl leads French forces to break the English siege of Orléans during the Hundred Years' War.",
+      "popularity": 90,
+      "tags": ["France", "War"],
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Orl%C3%A9ans"
+    },
+    {
+      "id": "gutenberg-press-1440",
+      "label": "Invention of the Printing Press",
+      "year": 1440,
+      "subtitle": "Mainz, Germany",
+      "description": "Johannes Gutenberg invents the movable-type printing press, sparking a European information revolution.",
+      "popularity": 95,
+      "tags": ["Invention", "Technology"],
+      "source": "https://en.wikipedia.org/wiki/Printing_press"
+    },
+    {
+      "id": "fall-of-constantinople-1453",
+      "label": "Fall of Constantinople",
+      "year": 1453,
+      "subtitle": "Constantinople (Istanbul)",
+      "description": "The Byzantine Empire ends as Sultan Mehmed II captures the city, establishing Ottoman dominance in the region.",
+      "popularity": 85,
+      "tags": ["Conflict", "Empire"],
+      "source": "https://en.wikipedia.org/wiki/Fall_of_Constantinople"
+    },
+    {
+      "id": "columbus-americas-1492",
+      "label": "Columbus Reaches the Americas",
+      "year": 1492,
+      "subtitle": "Bahamas, Caribbean",
+      "description": "Italian explorer Christopher Columbus makes landfall in the Caribbean, starting centuries of transatlantic contact.",
+      "popularity": 100,
+      "tags": ["Exploration", "Americas"],
+      "source": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+    },
+    {
+      "id": "last-supper-completed-1498",
+      "label": "The Last Supper Completed",
+      "year": 1498,
+      "subtitle": "Milan, Italy",
+      "description": "Leonardo da Vinci completes his famous mural painting in the convent of Santa Maria delle Grazie.",
+      "popularity": 90,
+      "tags": ["Art", "Renaissance"],
+      "source": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)"
+    },
+    {
+      "id": "vasco-da-gama-india-1502",
+      "label": "Vasco da Gama Reaches India",
+      "year": 1502,
+      "subtitle": "Calicut, India",
+      "description": "Portuguese explorer Vasco da Gama lands in Calicut, opening the first sea route from Europe to Asia.",
+      "popularity": 85,
+      "tags": ["Exploration", "Asia"],
+      "source": "https://en.wikipedia.org/wiki/Vasco_da_Gama"
+    },
+    {
+      "id": "sistine-chapel-ceiling-1512",
+      "label": "Sistine Chapel Ceiling Completed",
+      "year": 1512,
+      "subtitle": "Vatican City",
+      "description": "Michelangelo unveils the completed ceiling frescoes, representing a high point of High Renaissance art.",
+      "popularity": 85,
+      "tags": ["Art", "Renaissance"],
+      "source": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling"
+    },
+    {
+      "id": "martin-luther-theses-1517",
+      "label": "Martin Luther Posts 95 Theses",
+      "year": 1517,
+      "subtitle": "Wittenberg, Germany",
+      "description": "Luther posts his propositions protesting clerical abuses, igniting the Protestant Reformation.",
+      "popularity": 90,
+      "tags": ["Religion", "Europe"],
+      "source": "https://en.wikipedia.org/wiki/Ninety-five_Theses"
+    },
+    {
+      "id": "magellan-circumnavigation-1522",
+      "label": "Magellan Expedition Completes Tour",
+      "year": 1522,
+      "subtitle": "Spain",
+      "description": "The ship Victoria returns to Spain, completing the first recorded circumnavigation of the Earth.",
+      "popularity": 90,
+      "tags": ["Exploration", "Global"],
+      "source": "https://en.wikipedia.org/wiki/Magellan_circumnavigation"
+    },
+    {
+      "id": "henry-viii-break-rome-1534",
+      "label": "Henry VIII Breaks with Rome",
+      "year": 1534,
+      "subtitle": "London, England",
+      "description": "The Act of Supremacy declares King Henry VIII the Supreme Head of the Church of England, separating from the Pope.",
+      "popularity": 90,
+      "tags": ["Politics", "Religion"],
+      "source": "https://en.wikipedia.org/wiki/English_Reformation"
+    },
+    {
+      "id": "elizabeth-i-queen-1558",
+      "label": "Elizabeth I Becomes Queen",
+      "year": 1558,
+      "subtitle": "London, England",
+      "description": "Elizabeth Tudor ascends the throne, initiating the Elizabethan Era and a golden age of English culture.",
+      "popularity": 90,
+      "tags": ["England", "Politics"],
+      "source": "https://en.wikipedia.org/wiki/Elizabeth_I"
+    },
+    {
+      "id": "defeat-spanish-armada-1588",
+      "label": "Defeat of the Spanish Armada",
+      "year": 1588,
+      "subtitle": "English Channel",
+      "description": "England defeats King Philip II of Spain's fleet, halting Spain's invasion plans and shifting naval power.",
+      "popularity": 80,
+      "tags": ["War", "Naval"],
+      "source": "https://en.wikipedia.org/wiki/Spanish_Armada"
+    },
+    {
+      "id": "voc-chartered-1602",
+      "label": "Dutch East India Company Founded",
+      "year": 1602,
+      "subtitle": "Amsterdam, Netherlands",
+      "description": "The Dutch East India Company (VOC) is chartered, establishing the world's first publicly traded corporation.",
+      "popularity": 75,
+      "tags": ["Economy", "Trade"],
+      "source": "https://en.wikipedia.org/wiki/Dutch_East_India_Company"
+    },
+    {
+      "id": "founding-jamestown-1607",
+      "label": "Founding of Jamestown",
+      "year": 1607,
+      "subtitle": "Virginia, North America",
+      "description": "Jamestown is established as the first permanent English settlement in North America.",
+      "popularity": 85,
+      "tags": ["Americas", "Colonialism"],
+      "source": "https://en.wikipedia.org/wiki/Jamestown,_Virginia"
+    },
+    {
+      "id": "galileo-starry-messenger-1610",
+      "label": "Galileo Publishes Starry Messenger",
+      "year": 1610,
+      "subtitle": "Venice, Italy",
+      "description": "Galileo publishes his observations made with a telescope, including Jupiter's moons, revolutionizing astronomy.",
+      "popularity": 80,
+      "tags": ["Science", "Space"],
+      "source": "https://en.wikipedia.org/wiki/Sidereus_Nuncius"
+    },
+    {
+      "id": "shakespeare-first-folio-1623",
+      "label": "Shakespeare's First Folio Published",
+      "year": 1623,
+      "subtitle": "London, England",
+      "description": "A collection of 36 of Shakespeare's plays is published, preserving plays like Macbeth and The Tempest.",
+      "popularity": 80,
+      "tags": ["Literature", "England"],
+      "source": "https://en.wikipedia.org/wiki/First_Folio"
+    },
+    {
+      "id": "taj-mahal-completed-1648",
+      "label": "Taj Mahal Completed",
+      "year": 1648,
+      "subtitle": "Agra, India",
+      "description": "Emperor Shah Jahan completes the white marble mausoleum built in memory of his favorite wife, Mumtaz Mahal.",
+      "popularity": 90,
+      "tags": ["Architecture", "Asia"],
+      "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    },
+    {
+      "id": "great-fire-london-1666",
+      "label": "Great Fire of London",
+      "year": 1666,
+      "subtitle": "London, England",
+      "description": "A major conflagration sweeps through the city, destroying the medieval City of London inside the old Roman wall.",
+      "popularity": 90,
+      "tags": ["Disaster", "England"],
+      "source": "https://en.wikipedia.org/wiki/Great_Fire_of_London"
+    },
+    {
+      "id": "newton-principia-1687",
+      "label": "Newton Publishes Principia Mathematica",
+      "year": 1687,
+      "subtitle": "London, England",
+      "description": "Isaac Newton lays the foundations of classical mechanics and the law of universal gravitation.",
+      "popularity": 95,
+      "tags": ["Science", "Physics"],
+      "source": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica"
+    },
+    {
+      "id": "peter-the-great-tsar-1696",
+      "label": "Peter the Great Becomes Sole Tsar",
+      "year": 1696,
+      "subtitle": "Moscow, Russia",
+      "description": "Peter the Great begins modernizing and westernizing Russia, making it a major European power.",
+      "popularity": 80,
+      "tags": ["Russia", "Politics"],
+      "source": "https://en.wikipedia.org/wiki/Peter_the_Great"
+    },
+    {
+      "id": "steam-engine-invented-1712",
+      "label": "Invention of the Steam Engine",
+      "year": 1712,
+      "subtitle": "Staffordshire, England",
+      "description": "Thomas Newcomen builds the first practical atmospheric steam engine, starting the industrial age.",
+      "popularity": 85,
+      "tags": ["Invention", "Industry"],
+      "source": "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine"
+    },
+    {
+      "id": "lisbon-earthquake-1755",
+      "label": "Lisbon Earthquake and Tsunami",
+      "year": 1755,
+      "subtitle": "Lisbon, Portugal",
+      "description": "A massive earthquake, tsunami, and fire destroy Lisbon, raising major philosophical questions during the Enlightenment.",
+      "popularity": 80,
+      "tags": ["Disaster", "Europe"],
+      "source": "https://en.wikipedia.org/wiki/1755_Lisbon_earthquake"
+    },
+    {
+      "id": "spinning-jenny-invented-1764",
+      "label": "Invention of the Spinning Jenny",
+      "year": 1764,
+      "subtitle": "Lancashire, England",
+      "description": "James Hargreaves invents the spinning jenny, revolutionizing the textile industry and paving the way for the Industrial Revolution.",
+      "popularity": 80,
+      "tags": ["Invention", "Industry"],
+      "source": "https://en.wikipedia.org/wiki/Spinning_jenny"
+    },
+    {
+      "id": "boston-tea-party-1773",
+      "label": "Boston Tea Party",
+      "year": 1773,
+      "subtitle": "Boston, North America",
+      "description": "American colonists dump chests of tea into Boston Harbor in protest against British taxation without representation.",
+      "popularity": 95,
+      "tags": ["USA", "Protest"],
+      "source": "https://en.wikipedia.org/wiki/Boston_Tea_Party"
+    },
+    {
+      "id": "us-declaration-independence-1776",
+      "label": "US Declaration of Independence",
+      "year": 1776,
+      "subtitle": "Philadelphia, USA",
+      "description": "The Second Continental Congress adopts the document, declaring the thirteen American colonies free from British rule.",
+      "popularity": 100,
+      "tags": ["Politics", "USA"],
+      "source": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence"
+    },
+    {
+      "id": "first-fleet-australia-1788",
+      "label": "First Fleet Arrives in Botany Bay",
+      "year": 1788,
+      "subtitle": "New South Wales, Australia",
+      "description": "British ships arrive in Australia to establish the first European penal colony on the continent.",
+      "popularity": 85,
+      "tags": ["Australia", "Colonialism"],
+      "source": "https://en.wikipedia.org/wiki/First_Fleet"
+    },
+    {
+      "id": "storming-bastille-1789",
+      "label": "Storming of the Bastille",
+      "year": 1789,
+      "subtitle": "Paris, France",
+      "description": "Revolutionaries storm the royal fortress and prison, marking a pivotal moment of the French Revolution.",
+      "popularity": 100,
+      "tags": ["Revolution", "France"],
+      "source": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille"
+    },
+    {
+      "id": "smallpox-vaccine-1796",
+      "label": "Smallpox Vaccine Discovered",
+      "year": 1796,
+      "subtitle": "Gloucestershire, England",
+      "description": "Edward Jenner inoculates a boy with cowpox to protect him from smallpox, creating the world's first vaccine.",
+      "popularity": 90,
+      "tags": ["Science", "Medicine"],
+      "source": "https://en.wikipedia.org/wiki/Smallpox_vaccine"
+    },
+    {
+      "id": "louisiana-purchase-1803",
+      "label": "Louisiana Purchase",
+      "year": 1803,
+      "subtitle": "Paris, France / Washington D.C., USA",
+      "description": "The United States purchases the Louisiana Territory from France for $15 million, doubling the size of the nation.",
+      "popularity": 90,
+      "tags": ["USA", "Politics"],
+      "source": "https://en.wikipedia.org/wiki/Louisiana_Purchase"
+    },
+    {
+      "id": "coronation-napoleon-1804",
+      "label": "Coronation of Napoleon",
+      "year": 1804,
+      "subtitle": "Notre-Dame, Paris",
+      "description": "Napoleon crowns himself Emperor of the French, signaling the end of the French Republic.",
+      "popularity": 95,
+      "tags": ["France", "Empire"],
+      "source": "https://en.wikipedia.org/wiki/Coronation_of_Napoleon_I"
+    },
+    {
+      "id": "battle-of-waterloo-1815",
+      "label": "Battle of Waterloo",
+      "year": 1815,
+      "subtitle": "Waterloo, Belgium",
+      "description": "Napoleon Bonaparte is decisively defeated by coalition forces led by the Duke of Wellington.",
+      "popularity": 95,
+      "tags": ["War", "Europe"],
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
+    },
+    {
+      "id": "stockton-darlington-railway-1825",
+      "label": "First Public Passenger Steam Railway",
+      "year": 1825,
+      "subtitle": "County Durham, England",
+      "description": "The world's first public railway to use steam locomotives opens to passengers and goods.",
+      "popularity": 80,
+      "tags": ["Industry", "Transport"],
+      "source": "https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway"
+    },
+    {
+      "id": "queen-victoria-ascends-1837",
+      "label": "Queen Victoria Ascends Throne",
+      "year": 1837,
+      "subtitle": "London, England",
+      "description": "Victoria becomes queen at age 18, beginning the Victorian Era of major industrial, cultural, and political change.",
+      "popularity": 90,
+      "tags": ["England", "Politics"],
+      "source": "https://en.wikipedia.org/wiki/Queen_Victoria"
+    },
+    {
+      "id": "photography-invented-1839",
+      "label": "Invention of Photography",
+      "year": 1839,
+      "subtitle": "Paris, France",
+      "description": "Louis Daguerre publicly introduces his practical photographic process, the daguerreotype.",
+      "popularity": 85,
+      "tags": ["Invention", "Art"],
+      "source": "https://en.wikipedia.org/wiki/Daguerreotype"
+    },
+    {
+      "id": "first-telegraph-message-1844",
+      "label": "First Telegraph Message Sent",
+      "year": 1844,
+      "subtitle": "Washington D.C. to Baltimore, USA",
+      "description": "Samuel Morse sends the first official telegraph message: 'What hath God wrought?'",
+      "popularity": 85,
+      "tags": ["Technology", "Communication"],
+      "source": "https://en.wikipedia.org/wiki/Telegraphy"
+    },
+    {
+      "id": "communist-manifesto-1848",
+      "label": "Publication of Communist Manifesto",
+      "year": 1848,
+      "subtitle": "London, England",
+      "description": "Karl Marx and Friedrich Engels publish their pamphlet describing the class struggle and theory of communism.",
+      "popularity": 90,
+      "tags": ["Politics", "Philosophy"],
+      "source": "https://en.wikipedia.org/wiki/The_Communist_Manifesto"
+    },
+    {
+      "id": "california-gold-rush-1848",
+      "label": "California Gold Rush Begins",
+      "year": 1848,
+      "subtitle": "Coloma, California",
+      "description": "Gold is discovered at Sutter's Mill, leading to a massive migration of over 300,000 people to California.",
+      "popularity": 90,
+      "tags": ["USA", "Migration"],
+      "source": "https://en.wikipedia.org/wiki/California_Gold_Rush"
+    },
+    {
+      "id": "darwin-origin-species-1859",
+      "label": "Darwin Publishes Origin of Species",
+      "year": 1859,
+      "subtitle": "London, England",
+      "description": "Charles Darwin introduces the scientific theory of evolution through natural selection.",
+      "popularity": 95,
+      "tags": ["Science", "Biology"],
+      "source": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species"
+    },
+    {
+      "id": "assassination-lincoln-1865",
+      "label": "Assassination of Abraham Lincoln",
+      "year": 1865,
+      "subtitle": "Ford's Theatre, Washington D.C.",
+      "description": "Lincoln is shot by John Wilkes Booth, just days after the American Civil War ends.",
+      "popularity": 95,
+      "tags": ["Assassination", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln"
+    },
+    {
+      "id": "invention-telephone-bell-1876",
+      "label": "Invention of the Telephone",
+      "year": 1876,
+      "subtitle": "Boston, Massachusetts",
+      "description": "Alexander Graham Bell makes the first successful telephone call to his assistant: 'Mr. Watson, come here, I want to see you.'",
+      "popularity": 95,
+      "tags": ["Invention", "Technology"],
+      "source": "https://en.wikipedia.org/wiki/Telephone"
+    },
+    {
+      "id": "invention-lightbulb-edison-1879",
+      "label": "Edison Invents the Lightbulb",
+      "year": 1879,
+      "subtitle": "Menlo Park, New Jersey",
+      "description": "Thomas Edison invents a commercially viable incandescent light bulb, lighting up the modern world.",
+      "popularity": 95,
+      "tags": ["Invention", "Technology"],
+      "source": "https://en.wikipedia.org/wiki/Incandescent_light_bulb"
+    },
+    {
+      "id": "krakatoa-eruption-1883",
+      "label": "Krakatoa Volcanic Eruption",
+      "year": 1883,
+      "subtitle": "Sunda Strait, Indonesia",
+      "description": "The cataclysmic eruption of Krakatoa destroys over 70% of the island, creating one of the loudest sounds in history.",
+      "popularity": 85,
+      "tags": ["Disaster", "Nature"],
+      "source": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa"
+    },
+    {
+      "id": "xrays-discovered-1895",
+      "label": "Discovery of X-Rays",
+      "year": 1895,
+      "subtitle": "Würzburg, Germany",
+      "description": "Wilhelm Röntgen discovers electromagnetic radiation in a wavelength range known as X-rays.",
+      "popularity": 85,
+      "tags": ["Science", "Medicine"],
+      "source": "https://en.wikipedia.org/wiki/X-ray"
+    },
+    {
+      "id": "first-modern-olympics-1896",
+      "label": "First Modern Olympic Games",
+      "year": 1896,
+      "subtitle": "Athens, Greece",
+      "description": "The Olympic Games are reborn in Athens, featuring athletes from 14 nations.",
+      "popularity": 90,
+      "tags": ["Sports", "Greece"],
+      "source": "https://en.wikipedia.org/wiki/1896_Summer_Olympics"
+    },
+    {
+      "id": "wright-brothers-flight-1903",
+      "label": "Wright Brothers' First Flight",
+      "year": 1903,
+      "subtitle": "Kitty Hawk, North Carolina",
+      "description": "Orville and Wilbur Wright make the first controlled, sustained flight of a powered aircraft.",
+      "popularity": 95,
+      "tags": ["Invention", "Aviation"],
+      "source": "https://en.wikipedia.org/wiki/Wright_flyer"
+    },
+    {
+      "id": "special-relativity-1905",
+      "label": "Special Theory of Relativity Published",
+      "year": 1905,
+      "subtitle": "Bern, Switzerland",
+      "description": "Albert Einstein publishes his paper introducing the relationship between space, time, and relative motion.",
+      "popularity": 95,
+      "tags": ["Science", "Physics"],
+      "source": "https://en.wikipedia.org/wiki/Special_relativity"
+    },
+    {
+      "id": "sinking-titanic-1912",
+      "label": "Sinking of the Titanic",
+      "year": 1912,
+      "subtitle": "North Atlantic Ocean",
+      "description": "The British passenger liner sinks on her maiden voyage after striking an iceberg, claiming over 1,500 lives.",
+      "popularity": 100,
+      "tags": ["Disaster", "Maritime"],
+      "source": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic"
+    },
+    {
+      "id": "assassination-franz-ferdinand-1914",
+      "label": "Assassination of Franz Ferdinand",
+      "year": 1914,
+      "subtitle": "Sarajevo, Bosnia",
+      "description": "The heir to the Austro-Hungarian throne is assassinated, triggering the outbreak of World War I.",
+      "popularity": 95,
+      "tags": ["Assassination", "War"],
+      "source": "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand"
+    },
+    {
+      "id": "russian-october-revolution-1917",
+      "label": "Russian October Revolution",
+      "year": 1917,
+      "subtitle": "Petrograd, Russia",
+      "description": "The Bolsheviks led by Vladimir Lenin overthrow the Russian Government, establishing Soviet Russia.",
+      "popularity": 90,
+      "tags": ["Revolution", "Russia"],
+      "source": "https://en.wikipedia.org/wiki/October_Revolution"
+    },
+    {
+      "id": "treaty-versailles-1919",
+      "label": "Signing of the Treaty of Versailles",
+      "year": 1919,
+      "subtitle": "Versailles, France",
+      "description": "The peace treaty officially ending World War I is signed, imposing heavy penalties on Germany.",
+      "popularity": 90,
+      "tags": ["Politics", "War"],
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Versailles"
+    },
+    {
+      "id": "tutankhamun-tomb-discovered-1922",
+      "label": "Discovery of Tutankhamun's Tomb",
+      "year": 1922,
+      "subtitle": "Valley of the Kings, Egypt",
+      "description": "Howard Carter discovers the intact tomb of Pharaoh Tutankhamun, sparking worldwide interest.",
+      "popularity": 95,
+      "tags": ["Archaeology", "Egypt"],
+      "source": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun"
+    },
+    {
+      "id": "television-demonstrated-1926",
+      "label": "First Television Demonstration",
+      "year": 1926,
+      "subtitle": "London, England",
+      "description": "John Logie Baird demonstrates the first working television system to members of the Royal Institution.",
+      "popularity": 90,
+      "tags": ["Invention", "Technology"],
+      "source": "https://en.wikipedia.org/wiki/John_Logie_Baird"
+    },
+    {
+      "id": "first-talkie-movie-1927",
+      "label": "First Talkie Movie Released",
+      "year": 1927,
+      "subtitle": "New York City, USA",
+      "description": "The release of the first feature-length motion picture with synchronized speech (The Jazz Singer) ends the silent film era.",
+      "popularity": 80,
+      "tags": ["Cinema", "Art"],
+      "source": "https://en.wikipedia.org/wiki/The_Jazz_Singer"
+    },
+    {
+      "id": "discovery-penicillin-1928",
+      "label": "Fleming Discovers Penicillin",
+      "year": 1928,
+      "subtitle": "London, England",
+      "description": "Alexander Fleming accidentally discovers the antibiotic properties of penicillin, transforming medicine.",
+      "popularity": 90,
+      "tags": ["Science", "Medicine"],
+      "source": "https://en.wikipedia.org/wiki/History_of_penicillin"
+    },
+    {
+      "id": "wall-street-crash-1929",
+      "label": "Wall Street Crash",
+      "year": 1929,
+      "subtitle": "New York City, USA",
+      "description": "The stock market crashes on Black Tuesday, triggering the onset of the Great Depression.",
+      "popularity": 95,
+      "tags": ["Economy", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Wall_Street_Crash_of_1929"
+    },
+    {
+      "id": "amelia-earhart-atlantic-1932",
+      "label": "Amelia Earhart Flies Atlantic Solo",
+      "year": 1932,
+      "subtitle": "Newfoundland to Northern Ireland",
+      "description": "Earhart becomes the first woman to fly nonstop and solo across the Atlantic Ocean.",
+      "popularity": 90,
+      "tags": ["Aviation", "Adventure"],
+      "source": "https://en.wikipedia.org/wiki/Amelia_Earhart"
+    },
+    {
+      "id": "nuclear-fission-discovered-1938",
+      "label": "Discovery of Nuclear Fission",
+      "year": 1938,
+      "subtitle": "Berlin, Germany",
+      "description": "Otto Hahn and Fritz Strassmann split the uranium atom, leading to the development of nuclear energy and weapons.",
+      "popularity": 85,
+      "tags": ["Science", "Physics"],
+      "source": "https://en.wikipedia.org/wiki/Discovery_of_nuclear_fission"
+    },
+    {
+      "id": "invasion-poland-1939",
+      "label": "Invasion of Poland",
+      "year": 1939,
+      "subtitle": "Poland",
+      "description": "Nazi Germany invades Poland, prompting Britain and France to declare war and initiating World War II.",
+      "popularity": 100,
+      "tags": ["War", "WWII"],
+      "source": "https://en.wikipedia.org/wiki/Invasion_of_Poland"
+    },
+    {
+      "id": "attack-pearl-harbor-1941",
+      "label": "Attack on Pearl Harbor",
+      "year": 1941,
+      "subtitle": "Hawaii, USA",
+      "description": "Japan launches a surprise military strike on the US naval base at Pearl Harbor, bringing the US into World War II.",
+      "popularity": 95,
+      "tags": ["War", "WWII"],
+      "source": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor"
+    },
+    {
+      "id": "dday-landings-1944",
+      "label": "D-Day Landings in Normandy",
+      "year": 1944,
+      "subtitle": "Normandy, France",
+      "description": "Allied forces launch the largest amphibious invasion in history, turning the tide on the Western Front.",
+      "popularity": 95,
+      "tags": ["War", "WWII"],
+      "source": "https://en.wikipedia.org/wiki/Normandy_landings"
+    },
+    {
+      "id": "atomic-bombings-japan-1945",
+      "label": "Atomic Bombings of Japan",
+      "year": 1945,
+      "subtitle": "Hiroshima & Nagasaki, Japan",
+      "description": "The United States drops atomic bombs on the Japanese cities, leading to the end of World War II.",
+      "popularity": 100,
+      "tags": ["War", "WWII"],
+      "source": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+    },
+    {
+      "id": "founding-united-nations-1945",
+      "label": "Founding of the United Nations",
+      "year": 1945,
+      "subtitle": "San Francisco, USA",
+      "description": "The UN is officially established to prevent future world conflicts, replacing the League of Nations.",
+      "popularity": 95,
+      "tags": ["Politics", "Global"],
+      "source": "https://en.wikipedia.org/wiki/United_Nations"
+    },
+    {
+      "id": "eniac-completed-1945",
+      "label": "First Computer Completed",
+      "year": 1945,
+      "subtitle": "Philadelphia, Pennsylvania",
+      "description": "The Electronic Numerical Integrator and Computer (ENIAC), the first general-purpose digital computer, is completed.",
+      "popularity": 90,
+      "tags": ["Technology", "Invention"],
+      "source": "https://en.wikipedia.org/wiki/ENIAC"
+    },
+    {
+      "id": "partition-of-india-1947",
+      "label": "Indian Independence and Partition",
+      "year": 1947,
+      "subtitle": "India & Pakistan",
+      "description": "India gains independence from British rule, resulting in the partition of India and Pakistan.",
+      "popularity": 90,
+      "tags": ["Politics", "Asia"],
+      "source": "https://en.wikipedia.org/wiki/Partition_of_India"
+    },
+    {
+      "id": "yuri-gagarin-space-1961",
+      "label": "First Human in Space",
+      "year": 1961,
+      "subtitle": "Vostok 1, USSR",
+      "description": "Soviet cosmonaut Yuri Gagarin becomes the first human in outer space, completing one orbit of Earth.",
+      "popularity": 95,
+      "tags": ["Space", "Cold War"],
+      "source": "https://en.wikipedia.org/wiki/Vostok_1"
+    },
+    {
+      "id": "assassination-jfk-1963",
+      "label": "Assassination of JFK",
+      "year": 1963,
+      "subtitle": "Dallas, Texas",
+      "description": "The 35th President of the United States, John F. Kennedy, is shot and killed by Lee Harvey Oswald.",
+      "popularity": 100,
+      "tags": ["Assassination", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy"
+    },
+    {
+      "id": "first-heart-transplant-1967",
+      "label": "First Successful Heart Transplant",
+      "year": 1967,
+      "subtitle": "Cape Town, South Africa",
+      "description": "Christiaan Barnard performs the world's first human-to-human heart transplant on Louis Washkansky.",
+      "popularity": 90,
+      "tags": ["Science", "Medicine"],
+      "source": "https://en.wikipedia.org/wiki/Heart_transplantation"
+    },
+    {
+      "id": "apollo11-moon-landing-1969",
+      "label": "Apollo 11 Moon Landing",
+      "year": 1969,
+      "subtitle": "Apollo 11, The Moon",
+      "description": "Neil Armstrong and Buzz Aldrin become the first humans to land on the Moon.",
+      "popularity": 100,
+      "tags": ["Space", "Science"],
+      "source": "https://en.wikipedia.org/wiki/Apollo_11"
+    },
+    {
+      "id": "intel-microprocessor-1971",
+      "label": "First Microprocessor Released",
+      "year": 1971,
+      "subtitle": "Santa Clara, California",
+      "description": "Intel introduces the first commercially available single-chip microprocessor (Intel 4004), enabling personal computers.",
+      "popularity": 80,
+      "tags": ["Technology", "Invention"],
+      "source": "https://en.wikipedia.org/wiki/Intel_4004"
+    },
+    {
+      "id": "watergate-nixon-resigns-1974",
+      "label": "Nixon Resigns Due to Watergate",
+      "year": 1974,
+      "subtitle": "Washington D.C., USA",
+      "description": "Richard Nixon becomes the first and only US President to resign from office due to the Watergate cover-up.",
+      "popularity": 95,
+      "tags": ["Politics", "USA"],
+      "source": "https://en.wikipedia.org/wiki/Resignation_of_Richard_Nixon"
+    },
+    {
+      "id": "smallpox-eradicated-1980",
+      "label": "Eradication of Smallpox Declared",
+      "year": 1980,
+      "subtitle": "Geneva, Switzerland",
+      "description": "The World Health Organization officially declares smallpox eradicated, the first disease eliminated by human effort.",
+      "popularity": 90,
+      "tags": ["Health", "Science"],
+      "source": "https://en.wikipedia.org/wiki/Smallpox"
+    },
+    {
+      "id": "compact-disc-released-1982",
+      "label": "Invention of the Compact Disc",
+      "year": 1982,
+      "subtitle": "Japan & Germany",
+      "description": "Sony and Philips release the compact disc (CD), launching the transition from analog to digital audio.",
+      "popularity": 85,
+      "tags": ["Technology", "Invention"],
+      "source": "https://en.wikipedia.org/wiki/Compact_disc"
+    },
+    {
+      "id": "chernobyl-disaster-1986",
+      "label": "Chernobyl Nuclear Disaster",
+      "year": 1986,
+      "subtitle": "Pripyat, Ukraine (USSR)",
+      "description": "A reactor at the Chernobyl Nuclear Power Plant explodes, causing the worst nuclear accident in history.",
+      "popularity": 95,
+      "tags": ["Disaster", "Science"],
+      "source": "https://en.wikipedia.org/wiki/Chernobyl_disaster"
+    },
+    {
+      "id": "fall-berlin-wall-1989",
+      "label": "Fall of the Berlin Wall",
+      "year": 1989,
+      "subtitle": "Berlin, Germany",
+      "description": "The wall separating East and West Berlin is opened, paving the way for the end of the Cold War.",
+      "popularity": 100,
+      "tags": ["Cold War", "Europe"],
+      "source": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall"
+    },
+    {
+      "id": "world-wide-web-1991",
+      "label": "Release of the World Wide Web",
+      "year": 1991,
+      "subtitle": "CERN, Switzerland",
+      "description": "Tim Berners-Lee introduces the World Wide Web to the public, revolutionizing global communications.",
+      "popularity": 95,
+      "tags": ["Technology", "Internet"],
+      "source": "https://en.wikipedia.org/wiki/World_Wide_Web"
+    },
+    {
+      "id": "mandela-president-1994",
+      "label": "Nelson Mandela Elected President",
+      "year": 1994,
+      "subtitle": "Pretoria, South Africa",
+      "description": "Mandela is inaugurated as South Africa's first Black president, ending the era of Apartheid.",
+      "popularity": 95,
+      "tags": ["Politics", "Africa"],
+      "source": "https://en.wikipedia.org/wiki/1994_South_African_general_election"
+    },
+    {
+      "id": "dolly-sheep-cloned-1996",
+      "label": "First Cloned Mammal (Dolly)",
+      "year": 1996,
+      "subtitle": "Midlothian, Scotland",
+      "description": "Scientists successfully clone Dolly the Sheep, the first mammal cloned from an adult somatic cell.",
+      "popularity": 95,
+      "tags": ["Science", "Biology"],
+      "source": "https://en.wikipedia.org/wiki/Dolly_(sheep)"
+    },
+    {
+      "id": "september-11-attacks-2001",
+      "label": "September 11 Attacks",
+      "year": 2001,
+      "subtitle": "New York & Washington D.C., USA",
+      "description": "Al-Qaeda terrorists hijack passenger planes, destroying the World Trade Center towers and damaging the Pentagon.",
+      "popularity": 100,
+      "tags": ["Disaster", "Conflict"],
+      "source": "https://en.wikipedia.org/wiki/September_11_attacks"
+    },
+    {
+      "id": "human-genome-project-2003",
+      "label": "Human Genome Project Completed",
+      "year": 2003,
+      "subtitle": "USA / International",
+      "description": "Scientists complete the mapping and sequencing of 99% of the human genome.",
+      "popularity": 90,
+      "tags": ["Science", "Biology"],
+      "source": "https://en.wikipedia.org/wiki/Human_Genome_Project"
+    },
+    {
+      "id": "launch-facebook-2004",
+      "label": "Launch of Facebook",
+      "year": 2004,
+      "subtitle": "Harvard University, USA",
+      "description": "Mark Zuckerberg launches TheFacebook, marking the beginning of the modern social media age.",
+      "popularity": 90,
+      "tags": ["Technology", "Social Media"],
+      "source": "https://en.wikipedia.org/wiki/Facebook"
+    },
+    {
+      "id": "first-iphone-released-2007",
+      "label": "First iPhone Released",
+      "year": 2007,
+      "subtitle": "San Francisco, California",
+      "description": "Steve Jobs unveils the first iPhone, ushering in the modern smartphone era.",
+      "popularity": 95,
+      "tags": ["Technology", "Invention"],
+      "source": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)"
+    },
+    {
+      "id": "election-obama-2008",
+      "label": "Election of Barack Obama",
+      "year": 2008,
+      "subtitle": "Washington D.C., USA",
+      "description": "Obama is elected as the first African American President of the United States.",
+      "popularity": 95,
+      "tags": ["Politics", "USA"],
+      "source": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election"
+    },
+    {
+      "id": "fukushima-disaster-2011",
+      "label": "Tohoku Earthquake and Fukushima",
+      "year": 2011,
+      "subtitle": "Tohoku, Japan",
+      "description": "A magnitude 9.0 earthquake and tsunami trigger a major nuclear accident at the Fukushima Daiichi power plant.",
+      "popularity": 90,
+      "tags": ["Disaster", "Japan"],
+      "source": "https://en.wikipedia.org/wiki/Fukushima_nuclear_disaster"
+    },
+    {
+      "id": "higgs-boson-discovery-2012",
+      "label": "Discovery of the Higgs Boson",
+      "year": 2012,
+      "subtitle": "CERN, Switzerland",
+      "description": "Physicists announce the discovery of the elusive subatomic particle, validating the Standard Model of physics.",
+      "popularity": 80,
+      "tags": ["Science", "Physics"],
+      "source": "https://en.wikipedia.org/wiki/Higgs_boson"
+    },
+    {
+      "id": "black-hole-image-2019",
+      "label": "First Image of a Black Hole",
+      "year": 2019,
+      "subtitle": "Event Horizon Telescope",
+      "description": "Scientists publish the first direct visual image of a black hole's shadow at the center of the Messier 87 galaxy.",
+      "popularity": 90,
+      "tags": ["Science", "Space"],
+      "source": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope"
+    },
+    {
+      "id": "covid19-pandemic-declared-2020",
+      "label": "COVID-19 Pandemic Declared",
+      "year": 2020,
+      "subtitle": "Geneva, Switzerland",
+      "description": "The World Health Organization officially declares the COVID-19 outbreak a global pandemic.",
+      "popularity": 100,
+      "tags": ["Health", "Global"],
+      "source": "https://en.wikipedia.org/wiki/COVID-19_pandemic"
+    },
+    {
+      "id": "james-webb-launch-2021",
+      "label": "James Webb Space Telescope Launches",
+      "year": 2021,
+      "subtitle": "French Guiana",
+      "description": "The most powerful space telescope ever built launches to study the early universe.",
+      "popularity": 85,
+      "tags": ["Science", "Space"],
+      "source": "https://en.wikipedia.org/wiki/James_Webb_Space_Space_Telescope"
+    },
+    {
+      "id": "death-queen-elizabeth-ii-2022",
+      "label": "Death of Queen Elizabeth II",
+      "year": 2022,
+      "subtitle": "Balmoral Castle, Scotland",
+      "description": "Queen Elizabeth II dies at age 96, ending the longest reign in British history (70 years).",
+      "popularity": 95,
+      "tags": ["Royal", "UK"],
+      "source": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Elizabeth_II"
+    },
+    {
+      "id": "chatgpt-launch-2022",
+      "label": "Rise of Generative AI (ChatGPT)",
+      "year": 2022,
+      "subtitle": "San Francisco, California",
+      "description": "OpenAI releases ChatGPT to the public, sparking a massive global boom in artificial intelligence development.",
+      "popularity": 95,
+      "tags": ["Technology", "AI"],
+      "source": "https://en.wikipedia.org/wiki/ChatGPT"
+    }
+  ]
+}

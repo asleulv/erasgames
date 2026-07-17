@@ -70,6 +70,10 @@ export function ResultOverlay({
 }: ResultOverlayProps) {
   const isVictory = !candidate;
   const rank = getRank(score);
+  const isMedia = game.category === "Movies" || game.category === "Movies & TV";
+  const isTV = game.subcategory === "TV Shows" || game.subcategory === "TV Series" || game.id.includes("tv");
+  const mediaNoun = isTV ? "show" : "movie";
+  const itemNoun = game.itemNoun || (isMedia ? mediaNoun : "player");
   const rankTitle = isVictory ? "TIMELINE CHAMPION 🏆" : rank.title;
   const [username, setUsername] = useState("");
   const [hasSubmitted, setHasSubmitted] = useState(false);
@@ -288,7 +292,7 @@ export function ResultOverlay({
             <div className="result-score" aria-label={`${score} correct answers`}>
               <span>{isVictory ? "Perfect run! 🎉" : "Final streak"}</span>
               <strong>{score}</strong>
-              <small>{score === 1 ? "correct player" : "correct players"}</small>
+              <small>{score === 1 ? `correct ${itemNoun}` : `correct ${itemNoun}s`}</small>
             </div>
             <div className="result-grid-visual" aria-label="Result grid">
               {Array.from({ length: score }).map((_, i) => (

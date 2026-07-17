@@ -49,6 +49,11 @@ function getSubcategoryDescription(subcategory: string): string {
     case "tv series":
     case "tv classics":
       return "Place iconic, universally acclaimed television series in their correct release order.";
+    case "history":
+    case "world history":
+    case "historic events":
+    case "historical events":
+      return "Place major historical events in their correct chronological order.";
     default:
       return "";
   }

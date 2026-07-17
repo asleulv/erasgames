@@ -40,6 +40,8 @@ export type TimelineGameData = {
     description: string;
     keywords: string[];
   };
+  itemNoun?: string;
+  verbNoun?: string;
   items: TimelineItem[];
 };
 
